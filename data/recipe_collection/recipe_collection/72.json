@@ -1,0 +1,159 @@
+{
+    "url": "https://www.hellofresh.co.uk/recipes/soy-and-honey-chicken-5fd75e703906db6b296b6823",
+    "title": "Soy and Honey Chicken with Green Beans and Rice",
+    "total_CO2": 248.00418499999998,
+    "servings": 2,
+    "CO2_per_portion": 124.00209249999999,
+    "E.Mission coefficient": 3.5785490527105606,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "260 Diced Chicken Breast",
+            "amount": "260.0",
+            "ingredient_name": "Diced Chicken Breast",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 40.3,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 245.50759999999997
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Chicken Stock Powder",
+            "amount": "1.0",
+            "ingredient_name": "Chicken Stock Powder",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 Echalion Shallot",
+            "amount": "1.0",
+            "ingredient_name": "Echalion",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "150 Green Beans",
+            "amount": "150.0",
+            "ingredient_name": "Green Beans",
+            "matched_ingredient": "Green bean",
+            "kg_equivalent": 0.9,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 1.449
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "150 Basmati Rice",
+            "amount": "150.0",
+            "ingredient_name": "Basmati Rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "25 Soy Sauce",
+            "amount": "25.0",
+            "ingredient_name": "Soy Sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.36560000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "30 Honey",
+            "amount": "30.0",
+            "ingredient_name": "Honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.582
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "30 Tomato Puree",
+            "amount": "30.0",
+            "ingredient_name": "Tomato Puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 Garlic Clove",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "Garlic Clove",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "10 Cornflour",
+            "amount": "10.0",
+            "ingredient_name": "Cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0988
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "150 Water for the Sauce",
+            "amount": "150.0",
+            "ingredient_name": "Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 27.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "a) Bring a large saucepan of water to the boil with 0.25 tsp of salt for the rice. b) When boiling, add the rice and cook for 12 mins. c) Once cooked, drain in a sieve."
+        },
+        {
+            "number": 2,
+            "instruction": "a) Meanwhile, eat a glug of oil in a frying pan on medium high heat. b) While the pan gets hot, put the cornflour in a large bowl and season with salt and pepper. c)"
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chicken pieces to the bowl and toss to coat completely in the cornflour. IMPORTANT: Wash your hands after handling raw chicken. d) Once the oil is hot, add the chicken to the pan and stir-fry until golden brown, 4-5 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "a) While the chicken cooks, halve, peel and thinly slice the shallot.b) Trim the green beans and chop into thirds.c) Peel and grate the garlic (or use a garlic press)."
+        },
+        {
+            "number": 5,
+            "instruction": "a) Once the chicken is browned, add a drizzle of oil if you need to, add the shallot, cook with the chicken until softened, 2-3 mins.b) Stir in the garlic and tomato puree, cook for 1 minute.c)"
+        },
+        {
+            "number": 6,
+            "instruction": "Pour in the water (see ingredient list for amount) and add the chicken stock powder, honey and soy sauce.d) Stir in the green beans, bring to a simmer.e) Cover with a lid or some foil, simmer until the beans are cooked and the sauce has thickened, 5-6 mins."
+        },
+        {
+            "number": 7,
+            "instruction": "a) Once the chicken and beans are cooked, taste and add salt and pepper if you feel it needs it. IMPORTANT: The chicken is cooked when no longer pink in the middle.b)"
+        },
+        {
+            "number": 8,
+            "instruction": "Add a splash more water if you feel it needs it."
+        },
+        {
+            "number": 9,
+            "instruction": "a) Fluff up the rice with a fork.b) Spoon into bowls and top with the soy honey chicken.c) Enjoy!"
+        }
+    ]
+}

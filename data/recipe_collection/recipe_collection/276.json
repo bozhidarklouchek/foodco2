@@ -1,0 +1,67 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/avocado-toast",
+    "title": "Avocado on toast",
+    "total_CO2": 0.039627499999999996,
+    "servings": 1,
+    "CO2_per_portion": 0.039627499999999996,
+    "E.Mission coefficient": 0.5113225806451612,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 ripe avocado",
+            "amount": "1.0",
+            "ingredient_name": "ripe avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 lemon",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "big pinch chilli flakes",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 slices sourdough bread",
+            "amount": "2.0",
+            "ingredient_name": "sourdough bread",
+            "matched_ingredient": "Sourdough",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "good drizzle extra virgin olive oil",
+            "amount": "1.0",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cut the avocado in half and carefully remove its stone, then scoop out the flesh into a bowl. Squeeze in the lemon juice then mash with a fork to your desired texture. Season to taste with sea salt, black pepper and chilli flakes. Toast your bread, drizzle over the oil then pile the avocado on top."
+        }
+    ]
+}

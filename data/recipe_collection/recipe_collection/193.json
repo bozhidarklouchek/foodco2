@@ -1,0 +1,375 @@
+{
+    "url": "https://www.thespruceeats.com/vegetarian-black-eyed-peas-1001609",
+    "title": "Vegan Black-Eyed Peas",
+    "total_CO2": 0.96041956577907,
+    "servings": 12,
+    "CO2_per_portion": 0.08003496381492249,
+    "E.Mission coefficient": 0.45176793309763796,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cups finely chopped onion",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "chopped onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.15614823608999998,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.061678553255549995
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 cloves garlic (minced)",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 (15-ounce) can low-sodium vegetable broth",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "low-sodium vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 cups dry black-eyed peas",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "dry black-eyed peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.68137412112,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.6105112125235199
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "5 cups water (more as needed)",
+            "amount": "5.0",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 1.1829411825,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 (15-ounce) cans whole tomatoes",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "whole tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tablespoons tomato paste",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tablespoons dark brown sugar",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "dark brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.021,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.05611200000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Kosher salt (to taste)",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Freshly ground black pepper (to taste)",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Steps to Make It"
+        },
+        {
+            "number": 2,
+            "instruction": "Gather the ingredients."
+        },
+        {
+            "number": 3,
+            "instruction": "The Spruce Eats / Victoria Heydt"
+        },
+        {
+            "number": 4,
+            "instruction": "In a large pot, heat the olive oil over high heat."
+        },
+        {
+            "number": 5,
+            "instruction": "The Spruce Eats / Victoria Heydt"
+        },
+        {
+            "number": 6,
+            "instruction": "Add the onion and garlic and cook, stirring constantly, until the onion is translucent and fragrant."
+        },
+        {
+            "number": 7,
+            "instruction": "The Spruce Eats / Victoria Heydt"
+        },
+        {
+            "number": 8,
+            "instruction": "Add the vegetable broth, black-eyed peas, water, tomatoes, tomato paste, and brown sugar, and bring to a boil."
+        },
+        {
+            "number": 9,
+            "instruction": "The Spruce Eats / Victoria Heydt"
+        },
+        {
+            "number": 10,
+            "instruction": "Turn down the heat to low, cover, and simmer for 2 hours, or until the peas are tender."
+        },
+        {
+            "number": 11,
+            "instruction": "Add more water as needed."
+        },
+        {
+            "number": 12,
+            "instruction": "The Spruce Eats / Victoria Heydt"
+        },
+        {
+            "number": 13,
+            "instruction": "Add salt and pepper to taste."
+        },
+        {
+            "number": 14,
+            "instruction": "The Spruce Eats / Victoria Heydt"
+        },
+        {
+            "number": 15,
+            "instruction": "Serve and enjoy."
+        },
+        {
+            "number": 16,
+            "instruction": "Tips"
+        },
+        {
+            "number": 17,
+            "instruction": "Canned vegetable broth is a good option, as are vegetable cubes or homemade vegetable stock."
+        },
+        {
+            "number": 18,
+            "instruction": "Make your own tomato paste; it's so simple and saves money."
+        },
+        {
+            "number": 19,
+            "instruction": "Recipe Variations"
+        },
+        {
+            "number": 20,
+            "instruction": "This black-eyed peas dish can be eaten like a stew or served with couscous, rice, grits, or polenta."
+        },
+        {
+            "number": 21,
+            "instruction": "While black-eyed peas are classic for this recipe, any legume can be substituted with slight variations in consistency and cooking time."
+        },
+        {
+            "number": 22,
+            "instruction": "How to Store and Freeze"
+        },
+        {
+            "number": 23,
+            "instruction": "Leftovers can be stored in the refrigerator for up to five days in an airtight container."
+        },
+        {
+            "number": 24,
+            "instruction": "Vegan black-eyed peas can be frozen for up to six months."
+        },
+        {
+            "number": 25,
+            "instruction": "Place leftovers in a freezer-safe bag or airtight plastic container and label."
+        },
+        {
+            "number": 26,
+            "instruction": "Moroccan Black-Eyed Peas (Cowpeas) - Ful Gnaoua"
+        },
+        {
+            "number": 27,
+            "instruction": "Nutrition Facts (per serving)"
+        },
+        {
+            "number": 28,
+            "instruction": "257"
+        },
+        {
+            "number": 29,
+            "instruction": "Calories"
+        },
+        {
+            "number": 30,
+            "instruction": "Fat"
+        },
+        {
+            "number": 31,
+            "instruction": "45g"
+        },
+        {
+            "number": 32,
+            "instruction": "Carbs"
+        },
+        {
+            "number": 33,
+            "instruction": "15g"
+        },
+        {
+            "number": 34,
+            "instruction": "Protein"
+        },
+        {
+            "number": 35,
+            "instruction": "Show Full Nutrition Label"
+        },
+        {
+            "number": 36,
+            "instruction": "Nutrition Facts"
+        },
+        {
+            "number": 37,
+            "instruction": "Servings: 8"
+        },
+        {
+            "number": 38,
+            "instruction": "to 12"
+        },
+        {
+            "number": 39,
+            "instruction": "Amount per serving"
+        },
+        {
+            "number": 40,
+            "instruction": "Calories"
+        },
+        {
+            "number": 41,
+            "instruction": "257"
+        },
+        {
+            "number": 42,
+            "instruction": "% Daily Value*"
+        },
+        {
+            "number": 43,
+            "instruction": "Total Fat 3g"
+        },
+        {
+            "number": 44,
+            "instruction": "Saturated Fat 1g"
+        },
+        {
+            "number": 45,
+            "instruction": "Cholesterol 0mg"
+        },
+        {
+            "number": 46,
+            "instruction": "Sodium 148mg"
+        },
+        {
+            "number": 47,
+            "instruction": "Total Carbohydrate 45g"
+        },
+        {
+            "number": 48,
+            "instruction": "16%"
+        },
+        {
+            "number": 49,
+            "instruction": "Dietary Fiber 8g"
+        },
+        {
+            "number": 50,
+            "instruction": "30%"
+        },
+        {
+            "number": 51,
+            "instruction": "Total Sugars 11g"
+        },
+        {
+            "number": 52,
+            "instruction": "Protein 15g"
+        },
+        {
+            "number": 53,
+            "instruction": "Vitamin C 14mg"
+        },
+        {
+            "number": 54,
+            "instruction": "72%"
+        },
+        {
+            "number": 55,
+            "instruction": "Calcium 107mg"
+        },
+        {
+            "number": 56,
+            "instruction": "Iron 5mg"
+        },
+        {
+            "number": 57,
+            "instruction": "30%"
+        },
+        {
+            "number": 58,
+            "instruction": "Potassium 913mg"
+        },
+        {
+            "number": 59,
+            "instruction": "19%"
+        },
+        {
+            "number": 60,
+            "instruction": "*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+        },
+        {
+            "number": 61,
+            "instruction": "(Nutrition information is calculated using an ingredient database and should be considered an estimate.)"
+        }
+    ]
+}

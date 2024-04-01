@@ -1,0 +1,179 @@
+{
+    "url": "https://www.sarahraven.com/articles/cauliflower-and-chickpea-curry.htm?gclid=9a1715eb916216ea1af1759b0de655d7&gclsrc=3p.ds&&msclkid=9a1715eb916216ea1af1759b0de655d7&utm_source=bing&utm_medium=cpc&utm_campaign=DSA+All+Products+-+Non-Brand&utm_term=sarahraven&utm_content=All+Products",
+    "title": "cauliflower and chickpea curry",
+    "total_CO2": 1.4971490000000003,
+    "servings": 3,
+    "CO2_per_portion": 0.4990496666666668,
+    "E.Mission coefficient": 1.4202428496893236,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 garlic cloves",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "5 cm piece of fresh ginger, peeled",
+            "amount": "5.0",
+            "unit": "cm",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 green chillies (optional)",
+            "amount": "3.0",
+            "ingredient_name": "green chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.020475
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons sunflower oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0288,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.1038816
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 medium onion, finely chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp ground black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/4 tsp ground turmeric",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 tsp ground coriander",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.015155000000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 tsp ground cardamom",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "cardamom",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon ground cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "400 g tin of tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 medium cauliflower, cut into even-sized florets",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.005680999999999999
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "400 g tin of chickpeas",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "large bunch of fresh coriander, to serve",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a food processor or liquidiser, combine the garlic, ginger, chillies (if using) and 150ml cold water. Blend to a smooth paste."
+        }
+    ]
+}

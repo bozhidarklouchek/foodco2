@@ -1,0 +1,320 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/southern-style_chicken_09457",
+    "title": "Southern \"fried\" chicken",
+    "total_CO2": 12.565572612499999,
+    "servings": 4,
+    "CO2_per_portion": 3.1413931531249997,
+    "E.Mission coefficient": 4.418216219898647,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "12 boneless chicken thighs (1kg/2lb 4oz in total), skin and visible fat removed",
+            "amount": "12.0",
+            "ingredient_name": "boneless chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.8599999999999999,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 11.331119999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "sunflower oil spray, for spraying",
+            "amount": "1.0",
+            "ingredient_name": "sunflower oil spray",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.050498
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "75 g/21/2 oz plain flour",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.108075
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp garlic salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "garlic salt",
+            "matched_ingredient": "Garlic salt",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002275
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 heaped tsp smoked paprika",
+            "amount": "1.0",
+            "unit": "heaped",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp dried thyme",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp flaky sea salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "flaky sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp freshly ground black pepper",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 ml/7 fl oz low-fat buttermilk",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "low-fat buttermilk",
+            "matched_ingredient": "Buttermilk",
+            "kg_equivalent": 0.182,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.506142
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp freshly ground black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tsp flaky sea salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "flaky sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 tsp onion powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "onion powder",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.00055,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00021725000000000002
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 tsp dried thyme",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 tsp dried oregano",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 tsp dried sage",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried sage",
+            "matched_ingredient": "Sage",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0010925
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/4 tsp white pepper",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "white pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0006374999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00029006249999999996
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "600 g/1 lb 5 oz new potatoes",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "new potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.222
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 tbsp fat-free Greek-style yoghurt",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fat-free Greek-style yoghurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": -0.0282,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": -0.0784242
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 heaped tsp low-fat mayonnaise",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "low-fat mayonnaise",
+            "matched_ingredient": "Mayonnaise",
+            "kg_equivalent": 0.0095,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.04281649999999999
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 tsp Dijon mustard",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1 tsp white wine vinegar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "white wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.007925
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "40 g/11/2 oz cornichon pickles, finely chopped",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "cornichon pickles",
+            "matched_ingredient": "Gherkin",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "2 tbsp each finely chopped fresh chives, flatleaf parsley and mint",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "For the marinade, mix the ingredients together in a large bowl, add the chicken and coat well. Refrigerate overnight, or for at least four hours."
+        },
+        {
+            "number": 2,
+            "instruction": "For the potato salad, place the potatoes into a saucepan of cold water, bring to the boil and cook for 20 minutes or until tender."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain and set aside to cool. In a small bowl, mix the yoghurt, mayonnaise, mustard and wine vinegar together and set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Preheat the oven to its hottest setting and line a large baking tray with baking paper."
+        },
+        {
+            "number": 5,
+            "instruction": "For the crispy coating, mix all the ingredients together in a shallow bowl. Dip the chicken into the mixture and turn to coat well on all sides."
+        },
+        {
+            "number": 6,
+            "instruction": "Place on the lined baking tray. Spray each thigh 4–5 times with the oil."
+        },
+        {
+            "number": 7,
+            "instruction": "Cook on the top shelf for 20–30 minutes, or until crispy, browned and cooked through. To test, poke the thickest part of the thigh with a skewer, the juices should run clear."
+        },
+        {
+            "number": 8,
+            "instruction": "Halve the cooled potatoes and place into a serving bowl. Toss with the yoghurt mixture, pickles and herbs and season to taste."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve alongside the Southern-style thighs."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "url": "https://www.knorr.com/ca/en/recipe-ideas/easy-weeknight-slow-cooker-pulled-pork.html",
+    "title": "Error 404",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 8,
+            "original_string": "Error 404 | Knorr CA",
+            "amount": "404.0",
+            "ingredient_name": "error | knorr ca",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Limited Time Offer: Receive $5 in coupons for Knorr! Sign Up Today",
+            "amount": "5.0",
+            "ingredient_name": "limited time offer: receive $ in coupons",
+            "matched_ingredient": "Arrowhead",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "View this site in French",
+            "amount": "1.0",
+            "ingredient_name": "view this site in",
+            "matched_ingredient": "Hilsa",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "Hello, what are you looking for?",
+            "amount": "1.0",
+            "ingredient_name": "hello",
+            "matched_ingredient": "Saveloy",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

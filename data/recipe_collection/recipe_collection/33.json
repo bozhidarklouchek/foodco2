@@ -1,0 +1,291 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/nut-loaf",
+    "title": "Nut roast",
+    "total_CO2": 4.2946729999999995,
+    "servings": 4,
+    "CO2_per_portion": 1.0736682499999999,
+    "E.Mission coefficient": 2.0636304883176164,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "15 g butter",
+            "amount": "15.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.041715
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large onion,finely chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 sticks celery,finely chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves,finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "200 g chestnut mushrooms,finely chopped",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 red pepper,halved, deseeded and finely diced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 red pepper,halved, deseeded and finely diced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 large carrot,grated",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp smoked paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "100 g red lentils",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.16100000000000003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "300 ml vegetable stock",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.006
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "100 g fresh breadcrumbs",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "fresh breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.1441
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "150 g mixed nutssuch as walnuts, pecans, hazelnuts and Brazil nuts, roughly chopped",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "walnuts",
+            "matched_ingredient": "Walnut",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0417
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "3 large eggs,lightly beaten",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.15000000000000002,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.67605
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "100 g mature cheddar,grated",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "mature cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "handful flat-leaf parsley,finely chopped",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 tbsp extra virgin olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "2 garlic cloves,finely sliced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1 sprig rosemary",
+            "amount": "1.0",
+            "unit": "sprig",
+            "ingredient_name": "rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "400 ml passata",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "STEP 1"
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the oven to 180C/ fan 160C/ gas 4 and line the base and sides of a 1.5 litre loaf tin with parchment paper.STEP 2"
+        },
+        {
+            "number": 3,
+            "instruction": "Heat 1 tbsp olive oil and 15g butter in a large frying pan and cook 1 finely chopped large onion and 2 finely chopped celery sticks for about 5 mins until beginning to soften.STEP 3Stir in 2 finely chopped garlic cloves and 200g finely chopped chestnut mushrooms and cook for a further 10 mins.STEP 4Stir in 1 finely diced red pepper and 1 grated carrot and cook for about 3 mins then add 1 tsp dried oregano and 1 tsp smoked paprika and cook for just a minute.STEP 5"
+        },
+        {
+            "number": 4,
+            "instruction": "Add 100g red lentils and 2 tbsp tomato purée and cook for about 1 min, then add 300ml vegetable stock and simmer over a very gentle heat until all the liquid has been absorbed and the mixture is fairly dry. This should take about 25 minutes. Set aside to cool.STEP 6Finally, stir in 100g fresh breadcrumbs, 150g chopped mixed nuts, 3 lightly beaten large eggs, 100g grated mature cheddar, a handful of finely chopped flat-leaf parsley and a pinch of salt and some ground black pepper.STEP 7Stir to mix well then spoon the mixture into the prepared tin and press down the surface.STEP 8Cover with foil and bake for 30 mins, then remove the foil and bake for a further 20 mins until firm when pressed gently.STEP 9Meanwhile, to make the sauce, heat 2 tbsp extra virgin olive oil very gently then add 2 finely sliced garlic cloves and 1 rosemary sprig and heat without colouring.STEP 10"
+        },
+        {
+            "number": 5,
+            "instruction": "Pour in 400ml passata and add a pinch of salt and some ground black pepper. Simmer gently for just 15 mins.STEP 11Allow the loaf to cool in the tin for about 10 mins then turn out onto a serving board or plate."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the baking paper and cut into slices and serve with a little of the tomato sauce.STEP 12To make a vegan nut roast, use an extra tbsp of oil in place of butter, no cheese and 3 tbsp egg replacer."
+        },
+        {
+            "number": 7,
+            "instruction": "Bake your nut roast for 1 hour. The loaf will still be soft in the middle after cooking.STEP 13It can be cooked in advance and then chilled, sliced and reheated to make it easier to serve."
+        }
+    ]
+}

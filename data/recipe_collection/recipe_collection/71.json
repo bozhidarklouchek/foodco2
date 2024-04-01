@@ -1,0 +1,140 @@
+{
+    "url": "https://www.deliciousmagazine.co.uk/recipes/satay-noodles/",
+    "title": "Satay noodles",
+    "total_CO2": 0.6716479,
+    "servings": 2,
+    "CO2_per_portion": 0.33582395,
+    "E.Mission coefficient": 1.9598713160198422,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 tbsp smooth peanut butter",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "smooth peanut butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.0378,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.0943866
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tsp dark soy sauce",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00914
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp chilli flakes",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Juice 1 lime",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp sunflower oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0144,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.0519408
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Small handful sugar snap peas, halved",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "sugar snap peas",
+            "matched_ingredient": "Sugar snap peas",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0026880000000000003
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 small carrot, finely sliced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 spring onions, sliced on the diagonal",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 x 150g packs soft egg-free ready-to-wok noodles",
+            "amount": "2.0",
+            "unit": "x 150g",
+            "ingredient_name": "soft egg-free",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tsp sesame seeds, small handful fresh coriander, 1 red chilli, deseeded and finely sliced, and roughly chopped peanuts to garnish",
+            "amount": "2.0",
+            "unit": "handful",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the sauce, whisk together the peanut butter, soy sauce and chilli flakes along with 200ml cold water in a bowl."
+        },
+        {
+            "number": 2,
+            "instruction": "Whisk in the lime juice to form a smooth paste, adding an extra splash of water to loosen the mixture if needed."
+        },
+        {
+            "number": 3,
+            "instruction": "For the noodles, heat the oil in a wok over a high heat. When the oil is hot, throw in the vegetables and stir-fry for 1-2 minutes. Separate the soft noodles and add them to the wok."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour in the peanut sauce and stir-fry for another minute."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve sprinkled with sesame seeds, coriander, chilli and peanuts. Recipe from Katy Beskow&#8217;s book 15 Minute Vegan (£8, https://www.amazon.co.uk/15-Minute-Vegan-Katy-Beskow/dp/1849499632 >Amazon)."
+        }
+    ]
+}

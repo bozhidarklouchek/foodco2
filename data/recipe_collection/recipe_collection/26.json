@@ -1,0 +1,175 @@
+{
+    "url": "https://www.easycheesyvegetarian.com/very-veggie-lentil-bake/",
+    "title": "Very Veggie Lentil Bake",
+    "total_CO2": 2.73705565,
+    "servings": 4,
+    "CO2_per_portion": 0.6842639125,
+    "E.Mission coefficient": 1.712640021274599,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "110 g red lentils ((~ 1/2 cup))",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.1771
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "75 g white rice ((~ 1/4 cup))",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "white rice",
+            "matched_ingredient": "White rice",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.287925
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "650 ml vegetable stock ((~ 2 1/2 cups), or 2 stock cubes made up in 650ml water)",
+            "amount": "650.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.65,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.013000000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tbsp oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 small leek (or 1/2 large leek, sliced)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "leek",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.03555
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 bell pepper, diced fairly small ((I used orange))",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "5 medium mushrooms, (diced fairly small)",
+            "amount": "5.0",
+            "unit": "medium",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.056875
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 small courgette (zucchini), (or 1/2 large courgette, diced fairly small)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp smoked paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 tsp cayenne pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Black pepper",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "90 g grated cheddar cheese ((~ 1 cup))",
+            "amount": "90.0",
+            "unit": "g",
+            "ingredient_name": "grated cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.9115999999999997
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Boil the lentils and rice for 15-20 minutes in the vegetable stock, stirring occasionally. You'll need to stir constantly during the last 5 minutes or so, to ensure they don't stick to the bottom of the pan. Once they're cooked, don't drain the water, but instead continue stirring over the heat until enough water has boiled off for the mixture to resemble porridge."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, heat the oil in a frying pan, and add the chopped leek, pepper, mushrooms and courgette. Cook over a medium heat for 5-10 minutes, stirring occasionally, until the vegetables are soft."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the oven to 190°C (Gas Mark 5 / 375°F)."
+        },
+        {
+            "number": 4,
+            "instruction": "Combine the cooked lentils and vegetables in a large mixing bowl, and add the paprika, cayenne pepper, and plenty of black pepper."
+        },
+        {
+            "number": 5,
+            "instruction": "Mix well."
+        },
+        {
+            "number": 6,
+            "instruction": "Transfer half of the mixture to a baking dish, and sprinkle over half of the grated cheese."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the remaining lentil mixture, smooth out the top, and finish with the remaining cheese."
+        },
+        {
+            "number": 8,
+            "instruction": "Bake for around 25-30 minutes, until the cheese topping is golden brown and crispy."
+        }
+    ]
+}

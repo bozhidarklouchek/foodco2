@@ -1,0 +1,132 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/easiest-ever-paella",
+    "title": "Easiest ever seafood rice",
+    "total_CO2": 3.576466,
+    "servings": 4,
+    "CO2_per_portion": 0.8941165,
+    "E.Mission coefficient": 2.173317736422332,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 leek or onion, sliced",
+            "amount": "0.5",
+            "ingredient_name": "leek",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.017775
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 leek or onion, sliced",
+            "amount": "0.5",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "110 g pack chorizo sausage, chopped",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "chorizo sausage",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.80102
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "300 g long grain rice",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.1517
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 l hot fish or chicken stock",
+            "amount": "0.5",
+            "unit": "l",
+            "ingredient_name": "hot fish",
+            "matched_ingredient": "Fish",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 l hot fish or chicken stock",
+            "amount": "0.5",
+            "unit": "l",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.15
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 g frozen peas",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.17920000000000003
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g frozen seafood mix, defrosted",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "frozen seafood mix",
+            "matched_ingredient": "Seafood",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 1.1308
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a deep frying pan, then soften the leek for 5 mins without browning."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the chorizo and fry until it releases its oils. Stir in the turmeric and rice until coated by the oils, then pour in the stock. Bring to the boil, then simmer for 15 mins, stirring occasionally."
+        },
+        {
+            "number": 3,
+            "instruction": "Tip in the peas and cook for 5 mins, then stir in the seafood to heat through for a final 1-2 mins cooking or until rice is cooked. Check for seasoning and serve immediately with lemon wedges."
+        }
+    ]
+}

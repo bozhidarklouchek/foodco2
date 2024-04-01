@@ -1,0 +1,194 @@
+{
+    "url": "https://jessicainthekitchen.com/easy-sweet-potato-curry-one-pot/",
+    "title": "Easy Sweet Potato Curry",
+    "total_CO2": 1.7782064236484953,
+    "servings": 4,
+    "CO2_per_portion": 0.44455160591212384,
+    "E.Mission coefficient": 1.0693860685123415,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons coconut oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.02772,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.15944544
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 large red onion (finely diced)",
+            "amount": "0.5",
+            "unit": "large",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "14 ounces/400g fresh tomatoes (diced (if using canned, drain the tomatoes))",
+            "amount": "14.0",
+            "unit": "ounces",
+            "ingredient_name": "fresh tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.39689332375,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.56636677299125
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "sea salt (I use about ¾ teaspoon &amp; ground black pepper (I use about ¼ teaspoon), to taste)",
+            "amount": "0.0",
+            "unit": "about ¾ teaspoon",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 garlic cloves (minced)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 1/2 tablespoons garam masala",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.013049999999999999,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1582182
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon curry powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3/4 tablespoon paprika",
+            "amount": "0.75",
+            "unit": "tablespoon",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0065249999999999996,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0029688749999999997
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 teaspoon cumin",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0008,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.009699200000000002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 cup cooked chickpeas",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "cooked chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.177441177375,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.28568029557375
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 lb 450g sweet potatoes or 3 cups, peeled and cubed into 1 inch pieces",
+            "amount": "450.0",
+            "unit": "g",
+            "ingredient_name": "sweet potatoes",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1665
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "13.5 ounces/383g can coconut milk*",
+            "amount": "13.5",
+            "unit": "ounces",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.3827185621875,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.34980476583937503
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "juice of 1 small lime",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "3 cups spinach",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.05678117676,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.02481337424412
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a deep pot over medium-high heat, add the coconut oil."
+        },
+        {
+            "number": 2,
+            "instruction": "Add in the onions and tomatoes. Grind some sea salt and ground black pepper over the mixture and stir together. Lower heat to medium and allow to cook down until juices of the tomatoes are naturally released and onions are soft, for about 10 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add in the chickpeas and the sweet potatoes, stirring to combine."
+        },
+        {
+            "number": 4,
+            "instruction": "Add in the garlic, garam masala, curry powder, paprika and cumin. Stir for about 30 seconds in the heat, until the spices become fragrant."
+        },
+        {
+            "number": 5,
+            "instruction": "Add in the coconut milk and stir again. Bring the curry to a boil, and then reduce to medium-low so that the mixture continues to simmer for about 20 to 30 more minutes until the sweet potatoes are fully cooked through and are fork-tender."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in the spinach and squeeze a lime lightly over the top of the curry (don't skip the lime!), stirring to combine."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove the curry from the heat. Taste the curry and season with more salt and pepper if you desire. Allow to cool slightly and for the spinach to wilt in the heat until wilted (about 3 minutes), then serve. Enjoy!"
+        }
+    ]
+}

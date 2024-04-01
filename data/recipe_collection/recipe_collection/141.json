@@ -1,0 +1,41 @@
+{
+    "url": "https://ameliafreer.com/portfolio/lazy-dahl/",
+    "title": "404 page",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 2,
+            "original_string": "We use cookies to ensure that you have the best experience here. If you continue to use this site, we will assume that you are happy to do so.OkCookie Policy",
+            "amount": "1.0",
+            "ingredient_name": "cookies",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "404 page",
+            "amount": "404.0",
+            "ingredient_name": "page",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Or head over to the FAQs page where you’ll find lots of guidance & advice",
+            "amount": "1.0",
+            "ingredient_name": "over to the faqs page where you'll find lots of guidance & advice",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

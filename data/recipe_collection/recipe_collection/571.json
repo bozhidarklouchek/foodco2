@@ -1,0 +1,147 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/stir-fried-quorn-broccoli-brown-rice",
+    "title": "Stir-fry with broccoli & brown rice",
+    "total_CO2": 1.7296810999999999,
+    "servings": 2,
+    "CO2_per_portion": 0.8648405499999999,
+    "E.Mission coefficient": 2.001366618455308,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g trimmed broccoli florets (about 6) halved",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "trimmed broccoli florets",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0874
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 x 300g pack Quorn chicken-style pieces (or similar vegetarian product), diced",
+            "amount": "0.5",
+            "unit": "x 300g",
+            "ingredient_name": "chicken-style pieces",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.0775,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.47213
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "15 g ginger, cut into shreds",
+            "amount": "15.0",
+            "unit": "g",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves, cut into shreds",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 red onion, sliced",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 roasted red pepper, from a jar, cut into cubes",
+            "amount": "1.0",
+            "ingredient_name": "roasted red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp mild chilli powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "mild chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp reduced-salt soy sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "reduced-salt soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp honey",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0207,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.020079
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "250 g pack cooked brown rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "cooked brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a medium pan, pour boiling water over the broccoli then boil for 4 mins."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the olive oil in a non-stick wok and stir-fry the ginger, garlic and onion for 2 mins, add the mild chilli powder and stir briefly."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the vegetarian, chicken-style pieces and stir-fry for 2 mins more."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain the broccoli and reserve the water. Tip the broccoli into the wok with the soy, honey, red pepper and 4 tbsp broccoli water then cook until heated through. Meanwhile, heat the rice following the pack instructions and serve with the stir-fry."
+        }
+    ]
+}

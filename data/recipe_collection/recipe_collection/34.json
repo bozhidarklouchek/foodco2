@@ -1,0 +1,256 @@
+{
+    "url": "https://www.delish.com/cooking/recipe-ideas/recipes/a54465/easy-chicken-quesadilla-recipe/",
+    "title": "Chicken Quesadillas",
+    "total_CO2": 4.29005191804,
+    "servings": 4,
+    "CO2_per_portion": 1.07251297951,
+    "E.Mission coefficient": 4.774191347785425,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp. extra-virgin olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 bell peppers, thinly sliced",
+            "amount": "2.0",
+            "ingredient_name": "bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 onion, thinly sliced",
+            "amount": "0.5",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Kosher salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 lb. boneless skinless&nbsp;chicken breasts, sliced into strips",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.76328471804
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp. chili powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp. ground cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tsp. dried oregano",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 medium flour tortillas",
+            "amount": "4.0",
+            "unit": "medium",
+            "ingredient_name": "flour tortillas",
+            "matched_ingredient": "Flour tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 c. shredded Monterey jack",
+            "amount": "2.0",
+            "ingredient_name": "shredded Monterey jack",
+            "matched_ingredient": "Monterey Jack",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 c. shredded cheddar",
+            "amount": "2.0",
+            "unit": "c.",
+            "ingredient_name": "shredded cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.0567,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.204308
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 ripe avocado, sliced",
+            "amount": "1.0",
+            "ingredient_name": "ripe avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tbsp. vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 scallions, thinly sliced",
+            "amount": "2.0",
+            "ingredient_name": "scallions",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Sour cream, for serving",
+            "amount": "1.0",
+            "ingredient_name": "Sour cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.011,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.030591
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Step 1In a large skillet over medium-high heat, heat olive oil."
+        },
+        {
+            "number": 2,
+            "instruction": "Add"
+        },
+        {
+            "number": 3,
+            "instruction": "peppers and onion and season with"
+        },
+        {
+            "number": 4,
+            "instruction": "salt and pepper. Cook until soft, 5"
+        },
+        {
+            "number": 5,
+            "instruction": "minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Transfer to a plate. "
+        },
+        {
+            "number": 7,
+            "instruction": "Step 2"
+        },
+        {
+            "number": 8,
+            "instruction": "Heat remaining tablespoon vegetable oil over medium-high heat. Season chicken"
+        },
+        {
+            "number": 9,
+            "instruction": "with spices, salt, and pepper and"
+        },
+        {
+            "number": 10,
+            "instruction": "cook, stirring occasionally, until"
+        },
+        {
+            "number": 11,
+            "instruction": "golden and cooked through, 8"
+        },
+        {
+            "number": 12,
+            "instruction": "minutes."
+        },
+        {
+            "number": 13,
+            "instruction": "Transfer to a plate. "
+        },
+        {
+            "number": 14,
+            "instruction": "Step 3"
+        },
+        {
+            "number": 15,
+            "instruction": "Add 1 flour tortilla to skillet and top half of the tortilla with a heavy sprinkling of both cheeses, cooked chicken mixture, pepper-onion mixture, a few slices of avocado, and green"
+        },
+        {
+            "number": 16,
+            "instruction": "onions. Fold the other half of the tortilla over and cook, flipping once, until"
+        },
+        {
+            "number": 17,
+            "instruction": "golden, 3 minutes per side. Repeat"
+        },
+        {
+            "number": 18,
+            "instruction": "to make 4 quesadillas. "
+        },
+        {
+            "number": 19,
+            "instruction": "Step 4Slice into wedges and serve with sour cream. "
+        }
+    ]
+}

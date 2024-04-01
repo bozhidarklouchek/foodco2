@@ -1,0 +1,196 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/spanish-chicken-traybake-chorizo-peppers",
+    "title": "Spanish chicken traybake with chorizo & peppers",
+    "total_CO2": 17.710792500000004,
+    "servings": 4,
+    "CO2_per_portion": 4.427698125000001,
+    "E.Mission coefficient": 5.330000601892954,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 fat garlic cloves",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "fat garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp fresh thyme leaves, plus 3 sprigs",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 tsp rapeseed or olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "rapeseed",
+            "matched_ingredient": "Rape leaves",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00437
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 tsp rapeseed or olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "8 chicken thighs on the bone, excess skin trimmed",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "8 chicken thighs on the bone, excess skin trimmed",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "economy bag mixed peppers (about 700g), halved and deseeded",
+            "amount": "0.0",
+            "unit": "about 700g",
+            "ingredient_name": "mixed peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "140 g piece of chorizo, roughly chopped (we used a spicy one)",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.0194800000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "140 g piece of chorizo, roughly chopped (we used a spicy one)",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.0194800000000002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "20 pitted black olives",
+            "amount": "20.0",
+            "ingredient_name": "pitted black olives",
+            "matched_ingredient": "Olive",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0364
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "200 g cherry tomatoes",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.28540000000000004
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 tbsp sherry vinegar or red wine vinegar",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "sherry vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.0356625
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 tbsp sherry vinegar or red wine vinegar",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "red wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.0356625
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "crusty bread, pasta or potatoes, to serve",
+            "amount": "1.0",
+            "ingredient_name": "crusty bread",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.040348
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "crusty bread, pasta or potatoes, to serve",
+            "amount": "1",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Using a pestle and mortar, crush the garlic and thyme leaves with a little seasoning and 2 tsp oil to make a paste. If you dont have a pestle and mortar, finely grate the garlic, then stir everything together."
+        },
+        {
+            "number": 3,
+            "instruction": "Rub the herb and garlic paste on the underside of the chicken to flavour it."
+        },
+        {
+            "number": 4,
+            "instruction": "Cut each of the pepper halves into 2 or 3 chunky strips, depending on their size. Pile into a large roasting tin with the chorizo and olives, toss with the remaining oil, then sit the chicken on top, skin-side up. Scatter over the tomatoes, spoon over the vinegar, season and tuck in the thyme sprigs."
+        },
+        {
+            "number": 5,
+            "instruction": "Roast for 1 hr until the chicken skin is crispy and the vegetables have softened."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve with crusty bread, pasta or potatoes."
+        }
+    ]
+}

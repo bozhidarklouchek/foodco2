@@ -1,0 +1,255 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/sausage-bean-casserole",
+    "title": "Easy sausage casserole",
+    "total_CO2": 3.9385299499999995,
+    "servings": 6,
+    "CO2_per_portion": 0.6564216583333332,
+    "E.Mission coefficient": 3.3707304120843857,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp olive or rapeseed oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive",
+            "matched_ingredient": "Olive",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp olive or rapeseed oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 medium sticks celery, finely chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 yellow pepper, chopped",
+            "amount": "1.0",
+            "ingredient_name": "yellow pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 red pepper, chopped",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "6 cooking chorizo sausages (about 400g)",
+            "amount": "6.0",
+            "ingredient_name": "cooking chorizo sausages",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.44999999999999996,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 3.2768999999999995
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "6 pork sausages (about 400g)",
+            "amount": "6.0",
+            "ingredient_name": "pork sausages",
+            "matched_ingredient": "Quorn sausage",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.555,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 fat garlic cloves, chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "fat garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 1/2 tsp sweet smoked paprika",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "sweet smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp ground cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp dried thyme",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "125 ml white wine",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.198125
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 x 400g cans cherry tomatoes or chopped tomatoes",
+            "amount": "1.0",
+            "unit": "x 400g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.017,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.024259000000000003
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 x 400g cans cherry tomatoes or chopped tomatoes",
+            "amount": "1.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 sprigs fresh thyme",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 chicken stock cube",
+            "amount": "1.0",
+            "ingredient_name": "chicken stock cube",
+            "matched_ingredient": "Chicken stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 x 400g can aduki beans, drained and rinsed",
+            "amount": "1.0",
+            "unit": "x 400g",
+            "ingredient_name": "aduki beans",
+            "matched_ingredient": "Aduki bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 bunch chives, snipped (optional)",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 2 tbsp olive or rapeseed oil in a large heavy-based pan."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 1 finely chopped onion and cook gently for 5 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 2 finely chopped medium celery sticks, 1 chopped yellow pepper and 1 chopped red pepper and cook for a further 5 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "Add 6 chorizo sausages and 6 pork sausages and fry for 5 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Stir in 3 chopped garlic cloves, 1 ½ tsp sweet smoked paprika, ½ tsp ground cumin and 1 tbsp dried thyme and continue cooking for 1 – 2 mins or until the aromas are released."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour in 125ml white wine and use a wooden spoon to remove any residue stuck to the pan."
+        },
+        {
+            "number": 7,
+            "instruction": "Add two 400g cans of tomatoes, and 2 sprigs of fresh thyme and bring to a simmer. Crumble in the chicken stock cube and stir."
+        },
+        {
+            "number": 8,
+            "instruction": "Cook for 40 minutes. Stir in a 400g drained and rinsed can of aduki beans and cook for a further five minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Remove the thyme sprigs, season with black pepper and stir through some snipped chives, if using."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve."
+        }
+    ]
+}

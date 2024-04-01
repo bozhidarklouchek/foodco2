@@ -1,0 +1,239 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/roasted-aloo-gobi",
+    "title": "Roasted aloo gobi",
+    "total_CO2": 0.9874256,
+    "servings": 4,
+    "CO2_per_portion": 0.2468564,
+    "E.Mission coefficient": 1.158950234741784,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "400 g floury potatoes (such as Maris Piper or King Edward), cut into medium chunks",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "floury potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.148
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large cauliflower, cut into florets",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.005680999999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp cumin seeds",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.11639039999999999
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tsp coriander seeds",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "coriander seeds",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.12124000000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tsp nigella seeds",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "nigella seeds",
+            "matched_ingredient": "Seed",
+            "kg_equivalent": 0.0063,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0017514000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp ground cinnamon",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp chilli powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 tbsp vegetable oil or sunflower oil or rapeseed oil",
+            "amount": "1.3333333333333333",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.07656
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "4 tbsp vegetable oil or sunflower oil or rapeseed oil",
+            "amount": "1.3333333333333333",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.018400000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0704352
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "8 curry leaves",
+            "amount": "8.0",
+            "unit": "leaves",
+            "ingredient_name": "curry",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "4 garlic cloves, crushed",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 x 400g cans chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 small green chillies, pierced 3 times",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "green chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tsp golden caster sugar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.006912000000000001
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tsp golden caster sugar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.006912000000000001
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 lime, juiced",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "small pack coriander, chopped",
+            "amount": "1.0",
+            "unit": "pack",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "basmati rice, naan and natural yogurt, to serve",
+            "amount": "1.0",
+            "ingredient_name": "basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 180C/160C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Tip the potatoes into a large pan, fill with cold water and bring to the boil. Simmer for 5-6 mins until starting to soften but still holding their shape."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain well.On a large baking tray, toss the potatoes and cauliflower with the spices and 2 tbsp oil. Season well and roast for 45 mins, stirring halfway through cooking, until the veg is soft and starting to brown.Meanwhile, heat the remaining oil in a large pan. Fry the curry leaves and garlic for 1 min, making sure the garlic doesn’t brown."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the tomatoes, chillies, sugar, lime juice and some seasoning. Cover with a lid and simmer for 15 mins until the tomatoes have broken down."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the roasted veg to the tomatoes. Simmer for 5 mins, adding a splash of water if the curry gets too thick. Stir through the coriander and serve with rice, warm naan and yogurt."
+        }
+    ]
+}

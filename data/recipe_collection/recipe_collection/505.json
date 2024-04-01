@@ -1,0 +1,196 @@
+{
+    "url": "https://minimalistbaker.com/tofu-that-tastes-good-stir-fry/",
+    "title": "Tofu That Tastes Good: Stir-Fry",
+    "total_CO2": 1.3360521540347372,
+    "servings": 2,
+    "CO2_per_portion": 0.6680260770173686,
+    "E.Mission coefficient": 1.6666730170403963,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 14-ounce package firm or extra-firm tofu",
+            "amount": "1.0",
+            "ingredient_name": "tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.34452
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 cups roughly chopped green beans",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "chopped green beans",
+            "matched_ingredient": "Bean",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.5713605911475
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 cup diced carrots or red pepper",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "diced carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.063878823855,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.023315770707075
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup diced carrots or red pepper",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0603300003075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0274501501399125
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 Tbsp toasted sesame oil for sautéing ((or sub peanut or coconut))",
+            "amount": "2.0",
+            "unit": "Tbsp",
+            "ingredient_name": "toasted sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.027690000000000003,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.09987783000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 Tbsp fresh grated ginger",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "fresh grated ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 Tbsp organic brown sugar (reduce slightly for less sweet sauce)",
+            "amount": "2.0",
+            "unit": "Tbsp",
+            "ingredient_name": "organic brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.021,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.05611200000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Tbsp agave or maple syrup ((or honey if not vegan // reduce slightly for less sweet sauce))",
+            "amount": "0.5",
+            "unit": "Tbsp",
+            "ingredient_name": "agave",
+            "matched_ingredient": "Agave",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.007274999999999999
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 Tbsp agave or maple syrup ((or honey if not vegan // reduce slightly for less sweet sauce))",
+            "amount": "0.5",
+            "unit": "Tbsp",
+            "ingredient_name": "maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.0099,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.009603
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 Tbsp cornstarch",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "cornstarch",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.012299999999999998,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.012152399999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Brown rice",
+            "amount": "1.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Peanut sauce",
+            "amount": "1.0",
+            "ingredient_name": "Peanut sauce",
+            "matched_ingredient": "Peanut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12485
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup low-sodium soy sauce ((ensure gluten-free for GF eaters))",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.05406041204025
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 400 degrees F (204 C) and begin drying your tofu."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain, remove it from the package and place between two thick towels folded into the shape of the tofu. Then place a plate or bowl on top and top it with something heavy like a book or skillet. Alternatively, use a tofu press."
+        },
+        {
+            "number": 3,
+            "instruction": "Let it dry for about 15 minutes, changing your towels if they get too wet. Once dry, unwrap, chop tofu into roughly 1-inch cubes or rectangles (see photo)."
+        },
+        {
+            "number": 4,
+            "instruction": "Arrange tofu on a lightly greased or parchment-lined baking sheet to prevent sticking and bake for a total of 25-35 minutes, flipping once halfway through to ensure even cooking. This will dry out the tofu and help give it a more meat-like texture. If you want a tougher texture, cook it for 30-3"
+        },
+        {
+            "number": 5,
+            "instruction": "For a slightly more tender texture, pull it out at 20-25 minutes to check."
+        },
+        {
+            "number": 6,
+            "instruction": "Once it’s golden brown and a bit tough and firm, remove from the oven set it out to dry a bit more while you prep your vegetables. Ideally, it would set out another 45 minutes or even longer. I haven’t tried letting it set out for much longer, but I don’t think it would hurt either way."
+        },
+        {
+            "number": 7,
+            "instruction": "If serving over rice, start the rice at this point."
+        },
+        {
+            "number": 8,
+            "instruction": "In a small mixing bowl, whisk together all of the sauce ingredients – set aside."
+        },
+        {
+            "number": 9,
+            "instruction": "To a large skillet over medium-high heat, add sesame oil and swirl to coat. Then add veggies and toss to coat. Cook for 5-7 minutes, stirring often. When the vegetables have some color and have softened a bit, add the sauce and stir. It should bubble and thicken. Then add the tofu and stir to coat."
+        },
+        {
+            "number": 10,
+            "instruction": "Cook the mixture for 3-5 minutes, stirring often. When veggies are cooked to your preferred doneness, remove from heat."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve as is or over rice for a more filling meal. Best when eaten fresh, though will keep in the refrigerator for a couple days."
+        }
+    ]
+}

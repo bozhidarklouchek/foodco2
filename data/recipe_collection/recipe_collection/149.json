@@ -1,0 +1,240 @@
+{
+    "url": "https://www.foodandwine.com/recipes/vegetable-and-chicken-stir-fry",
+    "title": "Vegetable and Chicken Stir-Fry",
+    "total_CO2": 1.993886532549685,
+    "servings": 4,
+    "CO2_per_portion": 0.49847163313742127,
+    "E.Mission coefficient": 2.141544415396274,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon Asian fish sauce",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "Asian fish sauce",
+            "matched_ingredient": "Fish sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.042405
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tablespoons shredded basil leaves",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "shredded basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tablespoons shredded basil leaves",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "shredded basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 small head of broccoli, cut into 1-inch florets",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01748
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 cup canola oil",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "canola oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.05441529439500001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.20830174694406003
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 celery rib, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "celery rib",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon sambal oelek or Chinese chile-garlic sauce",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "sambal oelek",
+            "matched_ingredient": "Gochujang",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon sambal oelek or Chinese chile-garlic sauce",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "Chinese chile-garlic sauce",
+            "matched_ingredient": "Chili garlic sauce",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Steamed jasmine rice, for serving",
+            "amount": "1.0",
+            "ingredient_name": "Steamed jasmine rice",
+            "matched_ingredient": "Jasmine rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tablespoon minced fresh ginger",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "minced fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 garlic clove, thinly sliced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tablespoon hoisin sauce",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "hoisin sauce",
+            "matched_ingredient": "Hoisin",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.002742
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tablespoon fresh lime juice",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "fresh lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 cup mung bean sprouts",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "mung bean sprouts",
+            "matched_ingredient": "Beansprouts",
+            "kg_equivalent": 0.177441177375,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.080735735705625
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 medium onion, halved and thinly sliced",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tablespoon oyster sauce",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "oyster sauce",
+            "matched_ingredient": "Oyster sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.042405
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/2 pound skinless, boneless chicken thighs, cut into thin strips",
+            "amount": "0.5",
+            "unit": "pound",
+            "ingredient_name": "boneless chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.38164235902
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "4 ounces snow peas (1 1/2 cups)",
+            "amount": "4.0",
+            "unit": "ounces",
+            "ingredient_name": "snow peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.10160469088
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat a wok until very hot."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 2 tablespoons of the canola oil and when it is nearly smoking, add the sliced onion and chicken strips. Stir-fry over high heat until the chicken is lightly browned in spots but not cooked through, about 3 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the fish sauce and stir-fry for 10 seconds. Scrape the chicken onto a medium plate and wipe out the wok."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat the remaining 2 tablespoons of oil in the wok."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the broccoli, celery, snow peas, garlic and ginger and stir-fry over high heat until crisp-tender, 3 to 4 minutes. Return the chicken to the wok along with any accumulated juices."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the sambal and hoisin and oyster sauces and stir-fry just until the chicken is cooked through, 3 to 4 minutes longer."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the bean sprouts, basil and lime juice and toss well."
+        },
+        {
+            "number": 8,
+            "instruction": "Transfer to a bowl and serve right away, with steamed jasmine rice."
+        }
+    ]
+}

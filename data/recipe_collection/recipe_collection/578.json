@@ -1,0 +1,162 @@
+{
+    "url": "http://www.naturalgirlmodernworld.com/home/mushroom-stroganoff",
+    "title": "Vegetarian Mushroom Stroganoff",
+    "total_CO2": 3.4568141506979795,
+    "servings": 4,
+    "CO2_per_portion": 0.8642035376744949,
+    "E.Mission coefficient": 1.2353493876663404,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tablespoons extra virgin olive oil, divided",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large yellow onion, diced ((about 2 cups))",
+            "amount": "1.0",
+            "unit": "cups",
+            "ingredient_name": "large yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.05204941203,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.020559517751850002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 lb cremini mushrooms, sliced",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "cremini mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.20638452835
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tablespoon fresh thyme leaves ((see note 1))",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 tablespoons all purpose flour",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "all purpose flour",
+            "matched_ingredient": "Wheat flour",
+            "kg_equivalent": 0.030150000000000003,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.04344615000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "31/2 cups vegetable broth ((see note 2))",
+            "amount": "15.5",
+            "unit": "cups",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 1.833558832875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.834269268958125
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 teaspoon fine sea salt",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 teaspoon freshly ground black pepper",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "7 oz dried broad egg noodles ((see note 3 and 4))",
+            "amount": "7.0",
+            "unit": "oz",
+            "ingredient_name": "dried broad egg noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.198446661875,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.894399105070625
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Parmesan cheese ((for garnish, see note 4 and 5))",
+            "amount": "4.0",
+            "ingredient_name": "Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0412,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.875088
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Chopped flat-leaf parsley ((for garnish, optional))",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "flat-  parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 cup milk ((see note 4))",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.12302588298000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.34213498056738006
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 1 tablespoon of the oil in large skillet (or pot) over medium-high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add onion, sauté until golden at the edges, about 5 minutes."
+        }
+    ]
+}

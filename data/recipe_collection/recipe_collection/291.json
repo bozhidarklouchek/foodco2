@@ -1,0 +1,71 @@
+{
+    "url": "https://thehappyfoodie.co.uk/recipes/sweet-potato-red-lentil-and-coconut-curry",
+    "title": "Sweet Potato, Red Lentil and Coconut Curry",
+    "total_CO2": 19.222448,
+    "servings": 4,
+    "CO2_per_portion": 4.805612,
+    "E.Mission coefficient": 13.799316582914571,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Chicken",
+            "amount": "1.0",
+            "ingredient_name": "whole chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Beef",
+            "amount": "1.0",
+            "ingredient_name": "Beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Salmon",
+            "amount": "1.0",
+            "ingredient_name": "Salmon",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 0.34,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 1.7622200000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Aubergine",
+            "amount": "1.0",
+            "ingredient_name": "Aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Banana",
+            "amount": "1.0",
+            "ingredient_name": "Banana",
+            "matched_ingredient": "Banana",
+            "kg_equivalent": 0.126,
+            "carbon_per_kg": 0.678,
+            "ingredient_carbon": 0.085428
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Chocolate",
+            "amount": "1.0",
+            "ingredient_name": "Chocolate",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

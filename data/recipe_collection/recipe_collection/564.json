@@ -1,0 +1,300 @@
+{
+    "url": "https://pinchofnom.com/recipes/beef-ragu-fettuccine/",
+    "title": "Beef Ragu Fettuccine",
+    "total_CO2": 19.104334199999997,
+    "servings": 4,
+    "CO2_per_portion": 4.776083549999999,
+    "E.Mission coefficient": 11.504476815608815,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g dried fettuccine",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "dried fettuccine",
+            "matched_ingredient": "Dried apricot",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.15000000000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "300 g stewing beef (all visible fat removed)",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "stewing beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 17.871
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "500 g tomato passata",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "tomato passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 cloves garlic (crushed)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 beef stock cubes (made up with 300ml boiling water)",
+            "amount": "2.0",
+            "ingredient_name": "beef stock cubes",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tsp dried oregano",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp dried basil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dried basil",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "50 g pearl barley",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "pearl barley",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.07205
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 onion (finely diced)",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 carrot (finely diced)",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 courgette (finely diced)",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "150 g mushrooms (thinly sliced)",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.06825
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tsp Worcester sauce",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Worcester sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.007925
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp tomato puree",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "low calorie cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "calorie cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "200 g dried fettuccine"
+        },
+        {
+            "number": 3,
+            "instruction": "300 g stewing beef all visible fat removed"
+        },
+        {
+            "number": 4,
+            "instruction": "500 g tomato passata"
+        },
+        {
+            "number": 5,
+            "instruction": "2 cloves garlic crushed"
+        },
+        {
+            "number": 6,
+            "instruction": "2 beef stock cubes made up with 300ml boiling water"
+        },
+        {
+            "number": 7,
+            "instruction": "2 tsp dried oregano"
+        },
+        {
+            "number": 8,
+            "instruction": "2 tsp dried basil"
+        },
+        {
+            "number": 9,
+            "instruction": "50 g pearl barley"
+        },
+        {
+            "number": 10,
+            "instruction": "1 onion finely diced"
+        },
+        {
+            "number": 11,
+            "instruction": "1 carrot finely diced"
+        },
+        {
+            "number": 12,
+            "instruction": "1 courgette finely diced"
+        },
+        {
+            "number": 13,
+            "instruction": "150 g mushrooms thinly sliced"
+        },
+        {
+            "number": 14,
+            "instruction": "1 tsp Worcester sauce"
+        },
+        {
+            "number": 15,
+            "instruction": "2 tbsp tomato puree"
+        },
+        {
+            "number": 16,
+            "instruction": "low calorie cooking spray"
+        },
+        {
+            "number": 17,
+            "instruction": "Metric - US Customary"
+        },
+        {
+            "number": 18,
+            "instruction": "We use a fan assisted oven for all of our recipes. Check out our oven temperature conversion guide."
+        },
+        {
+            "number": 19,
+            "instruction": "Please do not screenshot this. Recipes are updated often"
+        },
+        {
+            "number": 20,
+            "instruction": "In the Instant Pot"
+        },
+        {
+            "number": 21,
+            "instruction": "Place a large pan of water onto the hob to boil for the pasta"
+        },
+        {
+            "number": 22,
+            "instruction": "Spray the Instant Pot with a little low calorie cooking spray, then add the beef, press the Sauté button and brown the meat - this will take a few minutes. Once browned, add the veg and sauté for a further 2 minutes"
+        },
+        {
+            "number": 23,
+            "instruction": "Press the Off button and add the remaining ingredients into the Instant Pot. Click the Manual button and adjust the time to 30 minutes, ensuring the venting valve is closed"
+        },
+        {
+            "number": 24,
+            "instruction": "Cook the pasta according to the instructions on the packet. When the Instant Pot has finished cooking, use the Quick Pressure Release method, drain the pasta (when cooked) and stir into the ragu"
+        },
+        {
+            "number": 25,
+            "instruction": "Serve immediately with a sprinkle of parmesan (remember to add extra calories or points it if using it!)"
+        },
+        {
+            "number": 26,
+            "instruction": "In the Slow Cooker"
+        },
+        {
+            "number": 27,
+            "instruction": "Spray a frying pan with a little low calorie cooking spray, then sauté the meat until browned - this will take a few minutes. Once browned, add the veg and saute for a further 2 minutes"
+        },
+        {
+            "number": 28,
+            "instruction": "Tip the contents of the pan into the slow cooker then add all the remaining ingredients (apart from the pasta)"
+        },
+        {
+            "number": 29,
+            "instruction": "Set to medium-high and allow to cook for 5 to 6 hours or until the meat starts to break up"
+        },
+        {
+            "number": 30,
+            "instruction": "Place a large pan of water onto the hob to boil for the pasta"
+        },
+        {
+            "number": 31,
+            "instruction": "Cook the pasta according to the instructions on the packet, then drain the pasta (when cooked) and stir into the ragu"
+        },
+        {
+            "number": 32,
+            "instruction": "Print this recipe"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://www.schwartz.co.uk/recipes/pork/classic-sausage-casserole",
+    "title": "403 ERROR",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "The request could not be satisfied.",
+            "amount": "1.0",
+            "ingredient_name": "the request could not be satisfied",
+            "matched_ingredient": "Ortaniques",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Request blocked.",
+            "amount": "1.0",
+            "ingredient_name": "request blocked",
+            "matched_ingredient": "Fromage frais",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "we  't connect to the server",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "403 ERROR",
+            "amount": "403.0",
+            "ingredient_name": "error",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

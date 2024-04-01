@@ -1,0 +1,169 @@
+{
+    "url": "https://www.easypeasyfoodie.com/easy-pork-stroganoff/#wprm-recipe-container-8484",
+    "title": "Easy Pork Stroganoff",
+    "total_CO2": 5.8322299000000015,
+    "servings": 4,
+    "CO2_per_portion": 1.4580574750000004,
+    "E.Mission coefficient": 4.430354862601365,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g easy cook brown rice ((I used Tesco - see Note 1))",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.7678
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tablespoon olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "600 g pork loin steaks (cubed (or pork fillet or medallions))",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "pork loin steaks",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 4.3692
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Small knob of butter",
+            "amount": "1.0",
+            "unit": "knob",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.05562
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 onion (diced)",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "100 g chestnut mushrooms (sliced)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves garlic (grated or crushed)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 teaspoons smoked paprika",
+            "amount": "3.0",
+            "unit": "teaspoons",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Salt and black pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "150 ml sour cream ((or crème fraiche if you prefer))",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "sour cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.41715
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tablespoons parsley (chopped (plus extra for garnish))",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Tenderstem broccoli to serve ((or another green vegetable such as spinach, cabbage or kale))",
+            "amount": "1.0",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01748
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put the rice in a pan with 400ml boiling water and a pinch of salt. Bring to the boil and then cover with a lid and turn the heat down low. Simmer for 15 minutes or until cooked to your liking."
+        },
+        {
+            "number": 2,
+            "instruction": "Put a tablespoon of olive oil in a large frying pan and heat for 1 minute, add the cubed pork and cook over a high heat for 5 minutes, stirring frequently to ensure it is nicely browned all over. Tip the pork and all the juices onto a plate."
+        },
+        {
+            "number": 3,
+            "instruction": "Turn the heat down then add the butter to the same pan and allow to melt. When the butter has just melted, add the onions and mushrooms and cook for about 3 minutes until lightly browned."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile cook the green veg that you will be serving with the stroganoff – I chose to lightly steam tenderstem broccoli over the brown rice for 5 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "When the onions and mushrooms are cooked, add the garlic, paprika, salt and pepper, plus the pork and all the juices and cook over a low heat for a further 3 minutes, or until the pork is cooked."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the sour cream and heat gently until it just starts to bubble (don’t boil!). Turn the heat off and sprinkle in the chopped parsley."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve with the brown rice and broccoli."
+        }
+    ]
+}

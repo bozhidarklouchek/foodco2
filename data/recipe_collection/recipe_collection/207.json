@@ -1,0 +1,183 @@
+{
+    "url": "https://cooking.nytimes.com/recipes/1021142-roasted-salmon-with-miso-rice-and-ginger-scallion-vinaigrette?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=54",
+    "title": "Roasted Salmon With Miso Rice and Ginger-Scallion Vinaigrette",
+    "total_CO2": 2.47735929464351,
+    "servings": 4,
+    "CO2_per_portion": 0.6193398236608775,
+    "E.Mission coefficient": 1.8982860187575676,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/4 cup white or sweet miso",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "sweet miso",
+            "matched_ingredient": "Miso",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.169811206747875
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 1/2 cups basmati or other long-grain rice",
+            "amount": "0.75",
+            "unit": "cups",
+            "ingredient_name": "basmati",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.11356235352,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.43596587516328
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 1/2 cups basmati or other long-grain rice",
+            "amount": "0.75",
+            "unit": "cups",
+            "ingredient_name": "long-grain rice",
+            "matched_ingredient": "Long-grain rice",
+            "kg_equivalent": 0.11356235352,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.43596587516328
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 (6-ounce) skin-on salmon fillets",
+            "amount": "4.0",
+            "ingredient_name": "skin",
+            "matched_ingredient": "Soya mince",
+            "kg_equivalent": 0.28,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.80388
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tablespoons extra-virgin olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Kosher salt and black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/4 cup low-sodium soy sauce",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "low-sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.05406041204025
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 cup chopped scallions, plus more for garnish",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped scallions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.026024706015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.010279758875925001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tablespoon distilled white vinegar or unseasoned rice vinegar",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "distilled white vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tablespoon distilled white vinegar or unseasoned rice vinegar",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "unseasoned rice vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tablespoon minced fresh ginger",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "minced fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "4 cups finely shredded cabbage, such as green, Napa or savoy (about 8 ounces)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "shredded cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "4 cups finely shredded cabbage, such as green, Napa or savoy (about 8 ounces)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "savoy",
+            "matched_ingredient": "Alfalfa sprout",
+            "kg_equivalent": 0.10883058879000002,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.17521724795190002
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Roasted sesame oil, for serving",
+            "amount": "1.0",
+            "ingredient_name": "Roasted sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.050498
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 425 degrees. In a medium saucepan, whisk miso with 2 1/4 cups water until dissolved. Stir in rice and bring to a boil. Cover, reduce heat to low and cook until all of the liquid is absorbed and rice is tender, about 15 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove from heat and let stand for 5 minutes. Fluff rice with a fork (it will be a little sticky)."
+        },
+        {
+            "number": 3,
+            "instruction": "On a rimmed baking sheet, rub salmon all over with olive oil, season with salt and pepper and arrange skin-side up. Roast until fish is just opaque and cooked to medium, 8 to 10 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "In a small bowl, combine soy sauce, scallions, vinegar and ginger, and season with salt and pepper."
+        },
+        {
+            "number": 5,
+            "instruction": "Divide miso rice and cabbage among bowls. Top with salmon, ginger-scallion vinaigrette and sesame oil."
+        }
+    ]
+}

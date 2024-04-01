@@ -1,0 +1,209 @@
+{
+    "url": "https://greatcurryrecipes.net/2012/01/20/chana-dahl/",
+    "title": "Chana Dhal - Yellow Split Lentils - A Popular Curry House Side Dish",
+    "total_CO2": 0.8644881475,
+    "servings": 4,
+    "CO2_per_portion": 0.216122036875,
+    "E.Mission coefficient": 0.9540258594765202,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "300 g dry chana dhal - soaked in water for two hours",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tbsp ghee or vegetable oil",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "ghee",
+            "matched_ingredient": "Ghee",
+            "kg_equivalent": 0.020497500000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.05700354750000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tbsp ghee or vegetable oil",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.08613
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp cumin seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 pinch asafetida",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "asafetida",
+            "matched_ingredient": "Asafoetida",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 - 5 green or red finger chillies - finely chopped",
+            "amount": "3.0",
+            "ingredient_name": "chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.020475
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "5 cloves garlic - finely chopped",
+            "amount": "5.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tomatoes roughly chopped",
+            "amount": "3.0",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5351250000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 onion - finely chopped",
+            "amount": "0.5",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp coriander powder",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "coriander powder",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 tsp cumin powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin powder",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 teaspoon garam masala",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "salt to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tbsp fresh coriander (cilantro), finely chopped",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Rinse the lentils in several changes of water and then place in a saucepan with 750ml (3 cups) water."
+        },
+        {
+            "number": 2,
+            "instruction": "Bring the water to the boil and be sure to skim off any of the foam that rises to the top."
+        },
+        {
+            "number": 3,
+            "instruction": "Reduce the heat and simmer until the lentils are soft - about 45 - 60 minutes. Do not strain. Allow the water to reduce down."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, in a separate pan, melt the ghee over medium high heat. Toss in the cumin seeds and fry for about 30 seconds and then add the chopped onions and sprinkle with a little salt to assist cooking. Fry the onion until soft and translucent, about 5 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Now stir in the garlic and chillies and fry for a further 30 seconds."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the chopped tomatoes, turmeric, coriander powder, asafoetida and cumin powder and stir well to combine."
+        },
+        {
+            "number": 7,
+            "instruction": "Your lentils are ready when they are nice and soft. You can serve it like this or do as many chefs and blend the lentils until creamy."
+        },
+        {
+            "number": 8,
+            "instruction": "Whisk the onion and ghee mixture into the lentils and sprinkle in the garam masala."
+        },
+        {
+            "number": 9,
+            "instruction": "To serve, top with a little chopped coriander and a little more garam masala if you like."
+        }
+    ]
+}

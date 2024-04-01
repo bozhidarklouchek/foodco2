@@ -1,0 +1,242 @@
+{
+    "url": "http://www.slimmingeats.com/blog/teriyaki-chicken-and-rice",
+    "title": "Teriyaki Chicken and Rice Bowl",
+    "total_CO2": 2.308261555,
+    "servings": 2,
+    "CO2_per_portion": 1.1541307775,
+    "E.Mission coefficient": 2.517704181599652,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 red pepper, diced",
+            "amount": "0.5",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 green pepper diced",
+            "amount": "0.5",
+            "ingredient_name": "green pepper diced",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 small carrot, diced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 courgette, diced",
+            "amount": "0.5",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "180 g (6 oz) of uncooked boneless skinless chicken thigh",
+            "amount": "180.0",
+            "unit": "g",
+            "ingredient_name": "uncooked boneless skinless chicken thigh",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.09656
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1.5 tablespoon of light soy sauce",
+            "amount": "1.5",
+            "unit": "tablespoon",
+            "ingredient_name": "light soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.020565
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 teaspoons of dark soy sauce",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00914
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tablespoons of maple syrup",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.0396,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.038412
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tablespoon of rice vinegar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "rice vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon ground ginger",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground ginger",
+            "matched_ingredient": "Ground ginger",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0010585
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 teaspoon of garlic powder",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0009875
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 teaspoon of onion powder",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "onion powder",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.00055,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00021725000000000002
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup (60ml) of water",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 spring onions roughly chopped",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "250 g (9 oz) of cooked and chilled long grain rice (day old is best)",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "chilled long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 teaspoon of sesame oil",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.004615,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.016646305
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "cooking oil spray",
+            "amount": "1.0",
+            "ingredient_name": "cooking oil spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Slice the chicken thighs into small bite size pieces."
+        },
+        {
+            "number": 2,
+            "instruction": "Place in a bowl and cover with the ginger, garlic powder and onion powder, soy sauce, water, rice vinegar, and maple syrup and stir to coat."
+        },
+        {
+            "number": 3,
+            "instruction": "Spray a frying pan over a medium high heat with some cooking oil spray"
+        },
+        {
+            "number": 4,
+            "instruction": "Add the chicken with the marinade and simmer until sauce reduces and thickens and chicken is cooked through, remove from pan and set aside"
+        },
+        {
+            "number": 5,
+            "instruction": "Wipe pan clean."
+        },
+        {
+            "number": 6,
+            "instruction": "Spray with more cooking oil spray."
+        },
+        {
+            "number": 7,
+            "instruction": "Add all the vegetables and stir fry for 2 mins."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the rice and mix to combine."
+        },
+        {
+            "number": 9,
+            "instruction": "Make a space in the centre and add the chicken with the sauce back to the pan and start stirring to evenly mix everything together."
+        },
+        {
+            "number": 10,
+            "instruction": "Add in the sesame oil and toss to coat."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve in bowls and top with chopped spring onion."
+        },
+        {
+            "number": 12,
+            "instruction": "Enjoy!!"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "url": "https://www.slimmingeats.com/blog/bang-bang-chicken-pasta",
+    "title": "Bang Bang Chicken Pasta",
+    "total_CO2": 3.681654114628525,
+    "servings": 4,
+    "CO2_per_portion": 0.9204135286571312,
+    "E.Mission coefficient": 2.328153815655188,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 g (17.5 oz) of chicken breast (raw), sliced thinly",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "chicken breast",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.046
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 teaspoon  of paprika",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 teaspoon of garlic powder",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0009875
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 teaspoon of onion powder",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "onion powder",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.00055,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00021725000000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "salt and black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "spray oil",
+            "amount": "1.0",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 small onion, halved and sliced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 cloves of garlic, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 small zucchini (courgette), diced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "zucchini",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 red pepper, diced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 cup (240ml) of low sodium chicken stock",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "low sodium chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.07097647095
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 teaspoons of sriracha sauce",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "sriracha sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00914
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup (4 tablespoons) of Sweet Chilli Sauce",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "Sweet Chilli Sauce",
+            "matched_ingredient": "Chilli sauce",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.026911911901875
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 cup (4 tablespoons) of low-fat cream cheese",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "low-fat cream cheese",
+            "matched_ingredient": "Cream cheese",
+            "kg_equivalent": -0.00532323532125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": -0.11306551822334998
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "300 g (10.5 oz) of uncooked spaghetti",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "uncooked spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.4323
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "fresh chopped parsley or cilantro (optional)",
+            "amount": "1.0",
+            "ingredient_name": "chopped parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "fresh chopped parsley or cilantro (optional)",
+            "amount": "1",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Spray a deep frying pan over a medium-high heat with spray oil."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the chicken, paprika, onion powder, garlic powder, salt and black pepper"
+        },
+        {
+            "number": 3,
+            "instruction": "Fry until lightly browned, remove and set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Spray the frying pan with some more spray oil"
+        },
+        {
+            "number": 5,
+            "instruction": "Add the onion and a little bit of the stock to deglaze the pan."
+        },
+        {
+            "number": 6,
+            "instruction": "Fry the onion until translucent and softened."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the garlic and continue to fry for a further 1 min."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the zucchini and red pepper. Stir to combine"
+        },
+        {
+            "number": 9,
+            "instruction": "Add back in the chicken and stock and simmer to reduce down a little."
+        },
+        {
+            "number": 10,
+            "instruction": "In the meantime cook the pasta according to package instructions until al dente and drain."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the sriracha sauce to the chicken and vegetables, stir to combine."
+        },
+        {
+            "number": 12,
+            "instruction": "Add the pasta, cream cheese and sweet chilli sauce."
+        },
+        {
+            "number": 13,
+            "instruction": "Toss till combined and the sauce is lovely and creamy and velvety (couple of minutes)."
+        },
+        {
+            "number": 14,
+            "instruction": "Season with salt and black pepper to taste if needed, stir through some chopped parsley or cilantro (optional)."
+        },
+        {
+            "number": 15,
+            "instruction": "Serve and enjoy!!"
+        }
+    ]
+}

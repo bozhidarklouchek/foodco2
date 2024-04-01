@@ -1,0 +1,137 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/pasta-recipes/mixed-veg-pasta/",
+    "title": "Mixed-veg pasta",
+    "total_CO2": 6.907885199999999,
+    "servings": 10,
+    "CO2_per_portion": 0.6907885199999999,
+    "E.Mission coefficient": 2.4997775204458277,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 kg Mediterranean veg (aubergine, courgette, peppers, mushrooms)",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "Mediterranean veg",
+            "matched_ingredient": "Cluster bean",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 1.61
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "40 ml olive or rapeseed oil",
+            "amount": "20.0",
+            "unit": "ml",
+            "ingredient_name": "olive",
+            "matched_ingredient": "Olive",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0091
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "40 ml olive or rapeseed oil",
+            "amount": "20.0",
+            "unit": "ml",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.018400000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0704352
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "850 g dried pasta",
+            "amount": "850.0",
+            "unit": "g",
+            "ingredient_name": "dried pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.85,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 1.22485
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 litres tomato base sauce",
+            "amount": "2.0",
+            "unit": "litres",
+            "ingredient_name": "tomato base sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "175 g hard cheese",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "hard cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.7169999999999996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "700 g alliums (onion, leeks or a mixture of both)",
+            "amount": "700.0",
+            "unit": "g",
+            "ingredient_name": "alliums",
+            "matched_ingredient": "Allium",
+            "kg_equivalent": 0.7,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.27649999999999997
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Recipe kindly shared by the Tesco Community Cookery School with Jamie Oliver. The recipe has been written to be flexible and scalable up to 50 portions. Note: all veg weights are for trimmed, prepped vegetables."
+        },
+        {
+            "number": 3,
+            "instruction": "Peel (or trim) and finely chop the alliums. Roughly dice the Mediterranean veg."
+        },
+        {
+            "number": 4,
+            "instruction": "Place a large pan on a medium heat with the oil."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the alliums, then cover and cook gently for 15 minutes or until softened, stirring occasionally."
+        },
+        {
+            "number": 6,
+            "instruction": "Tip in the remaining veg and continue cooking for 15 minutes or until softened."
+        },
+        {
+            "number": 7,
+            "instruction": "Meanwhile, if baking, preheat the oven to 190°C/375°F/gas"
+        },
+        {
+            "number": 8,
+            "instruction": "Cook the pasta in a pan of boiling salted water according to the packet instructions, then drain."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the tomato base sauce to the veg pan and bring to the boil."
+        },
+        {
+            "number": 10,
+            "instruction": "Tip in the cooked pasta and toss through the sauce and veg. Season to taste."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve just as it is with a sprinkling of cheese, or spoon into a large baking tray (40cm x 60cm), grate over the cheese and bake for 30 minutes or until golden and bubbling."
+        },
+        {
+            "number": 12,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

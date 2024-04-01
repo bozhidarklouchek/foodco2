@@ -1,0 +1,319 @@
+{
+    "url": "https://www.simplyrecipes.com/recipes/mediterranean_mezze_platter/",
+    "title": "Mediterranean Mezze Platter",
+    "total_CO2": 5.522260317883401,
+    "servings": 4,
+    "CO2_per_portion": 1.3805650794708502,
+    "E.Mission coefficient": 4.280322421872511,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 cup Kalamata or other flavorful olives",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "Kalamata",
+            "matched_ingredient": "Sapodilla",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.044360294343749995
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 cup Kalamata or other flavorful olives",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "flavorful olives",
+            "matched_ingredient": "Golden syrup",
+            "kg_equivalent": 0.07748264745375001,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.11901334648896002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 cup plain Greek yogurt, stirred with a pinch of salt and drizzle of olive oil",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "plain Greek yogurt",
+            "matched_ingredient": "Greek Yogurt",
+            "kg_equivalent": 0.125391765345,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.348714499424445
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup hummus (homemade or store-bought)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "hummus",
+            "matched_ingredient": "Hummus",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.380907060765
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2/3 English cucumber, sliced",
+            "amount": "0.6666666666666666",
+            "ingredient_name": "English cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.13333333333333333,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.06066666666666667
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 cup cherry tomatoes",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.3376114134855
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 large carrot, cut on the diagonal into slices",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Small bunch grapes",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "grapes",
+            "matched_ingredient": "Grape",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.008498
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 ounces feta cheese, broken into pieces, lightly drizzled with olive oil and a pinch of herbs",
+            "amount": "4.0",
+            "unit": "ounces",
+            "ingredient_name": "feta cheese",
+            "matched_ingredient": "Feta",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.4085754847
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 pita breads, quartered, brushed lightly with olive oil, and warmed in the oven",
+            "amount": "3.0",
+            "ingredient_name": "pita breads",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.084,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.12104400000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 cup Easy Muhammara",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "Easy Muhammara",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.13722117716999999,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 1.6636695520090798
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Set out a large platter or generous cutting board."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the olives, yogurt, hummus, and muhammara in small dishes and add to the platter. Arrange the cucumber, tomatoes, carrots, grapes, and feta on the platter. Fill in with the warm pita just before serving."
+        },
+        {
+            "number": 3,
+            "instruction": "Alison Bickel"
+        },
+        {
+            "number": 4,
+            "instruction": "Quick Vegetarian"
+        },
+        {
+            "number": 5,
+            "instruction": "Easy Snacks and Appetizers"
+        },
+        {
+            "number": 6,
+            "instruction": "Ramadan"
+        },
+        {
+            "number": 7,
+            "instruction": "Ramadan Iftar Recipes"
+        },
+        {
+            "number": 8,
+            "instruction": "Nutrition Facts (per serving)"
+        },
+        {
+            "number": 9,
+            "instruction": "611"
+        },
+        {
+            "number": 10,
+            "instruction": "Calories"
+        },
+        {
+            "number": 11,
+            "instruction": "35g"
+        },
+        {
+            "number": 12,
+            "instruction": "Fat"
+        },
+        {
+            "number": 13,
+            "instruction": "58g"
+        },
+        {
+            "number": 14,
+            "instruction": "Carbs"
+        },
+        {
+            "number": 15,
+            "instruction": "23g"
+        },
+        {
+            "number": 16,
+            "instruction": "Protein"
+        },
+        {
+            "number": 17,
+            "instruction": "Show Full Nutrition Label"
+        },
+        {
+            "number": 18,
+            "instruction": "Nutrition Facts"
+        },
+        {
+            "number": 19,
+            "instruction": "Servings: 4"
+        },
+        {
+            "number": 20,
+            "instruction": "Amount per serving"
+        },
+        {
+            "number": 21,
+            "instruction": "Calories"
+        },
+        {
+            "number": 22,
+            "instruction": "611"
+        },
+        {
+            "number": 23,
+            "instruction": "% Daily Value*"
+        },
+        {
+            "number": 24,
+            "instruction": "Total Fat 35g"
+        },
+        {
+            "number": 25,
+            "instruction": "44%"
+        },
+        {
+            "number": 26,
+            "instruction": "Saturated Fat 8g"
+        },
+        {
+            "number": 27,
+            "instruction": "38%"
+        },
+        {
+            "number": 28,
+            "instruction": "Cholesterol 27mg"
+        },
+        {
+            "number": 29,
+            "instruction": "Sodium 1013mg"
+        },
+        {
+            "number": 30,
+            "instruction": "44%"
+        },
+        {
+            "number": 31,
+            "instruction": "Total Carbohydrate 58g"
+        },
+        {
+            "number": 32,
+            "instruction": "21%"
+        },
+        {
+            "number": 33,
+            "instruction": "Dietary Fiber 10g"
+        },
+        {
+            "number": 34,
+            "instruction": "34%"
+        },
+        {
+            "number": 35,
+            "instruction": "Total Sugars 12g"
+        },
+        {
+            "number": 36,
+            "instruction": "Protein 23g"
+        },
+        {
+            "number": 37,
+            "instruction": "Vitamin C 55mg"
+        },
+        {
+            "number": 38,
+            "instruction": "275%"
+        },
+        {
+            "number": 39,
+            "instruction": "Calcium 335mg"
+        },
+        {
+            "number": 40,
+            "instruction": "26%"
+        },
+        {
+            "number": 41,
+            "instruction": "Iron 5mg"
+        },
+        {
+            "number": 42,
+            "instruction": "27%"
+        },
+        {
+            "number": 43,
+            "instruction": "Potassium 720mg"
+        },
+        {
+            "number": 44,
+            "instruction": "15%"
+        },
+        {
+            "number": 45,
+            "instruction": "*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+        },
+        {
+            "number": 46,
+            "instruction": "Nutrition information is calculated using an ingredient database and should be considered an estimate. In cases where multiple ingredient alternatives are given, the first listed is calculated for nutrition."
+        },
+        {
+            "number": 47,
+            "instruction": "Garnishes and optional ingredients are not included."
+        }
+    ]
+}

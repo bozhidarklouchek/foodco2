@@ -1,0 +1,251 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/cottage-pie",
+    "title": "Cottage pie",
+    "total_CO2": 171.222779,
+    "servings": 10,
+    "CO2_per_portion": 17.1222779,
+    "E.Mission coefficient": 25.639925127003323,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "11/4kg beef mince",
+            "amount": "2.75",
+            "unit": "kg",
+            "ingredient_name": "beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 2.75,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 163.8175
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 onions, finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 carrots, chopped",
+            "amount": "3.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0657
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 celery sticks, chopped",
+            "amount": "3.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0054600000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tbsp plain flour",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.028800000000000003,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.041500800000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp tomato purée",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "850 ml beef stock",
+            "amount": "850.0",
+            "unit": "ml",
+            "ingredient_name": "beef stock",
+            "matched_ingredient": "Beef stock",
+            "kg_equivalent": 0.85,
+            "carbon_per_kg": 1.05,
+            "ingredient_carbon": 0.8925
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 tbsp Worcestershire sauce",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.09509999999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "a few thyme sprigs",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1.8 kg potatoes, chopped",
+            "amount": "1.8",
+            "unit": "kg",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.8,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.666
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "225 ml milk",
+            "amount": "225.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.234,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.650754
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "200 g strong cheddar, grated",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "strong cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 4.248
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "freshly grated nutmeg",
+            "amount": "1.0",
+            "ingredient_name": "freshly grated nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "large glass of red wine (optional)",
+            "amount": "1.0",
+            "unit": "glass",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 1 tbsp olive oil in a large saucepan and fry 1¼kg beef mince until browned – you may need to do this in batches. Set aside as it browns."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the other 2 tbsp olive oil into the pan, add 2 finely chopped onions, 3 chopped carrots and 3 chopped celery sticks and cook on a gentle heat until soft, about 20 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 2 finely chopped garlic cloves, 3 tbsp plain flour and 1 tbsp tomato purée, increase the heat and cook for a few mins, then return the beef to the pan."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour over a large glass of red wine, if using, and boil to reduce it slightly before adding the 850ml beef stock, 4 tbsp Worcestershire sauce, a few thyme sprigs and 2 bay leaves."
+        },
+        {
+            "number": 5,
+            "instruction": "Bring to a simmer and cook, uncovered, for 45 mins. By this time the gravy should be thick and coating the meat. Check after about 30 mins – if a lot of liquid remains, increase the heat slightly to reduce the gravy a little. Season well, then discard the bay leaves and thyme stalks."
+        },
+        {
+            "number": 6,
+            "instruction": "Meanwhile, make the mash. In a large saucepan, cover the 1.8kg potatoes which you've peeled and chopped, in salted cold water, bring to the boil and simmer until tender."
+        },
+        {
+            "number": 7,
+            "instruction": "Drain well, then allow to steam-dry for a few mins. Mash well with the 225ml milk, 25g butter, and three-quarters of the 200g strong cheddar cheese, then season with freshly grated nutmeg and some salt and pepper."
+        },
+        {
+            "number": 8,
+            "instruction": "Spoon the meat into 2 ovenproof dishes. Pipe or spoon on the mash to cover."
+        },
+        {
+            "number": 9,
+            "instruction": "Sprinkle on the remaining cheese."
+        },
+        {
+            "number": 10,
+            "instruction": "If eating straight away, heat oven to 220C/200C fan/gas 7 and cook for 25-30 mins, or until the topping is golden."
+        },
+        {
+            "number": 11,
+            "instruction": "If you want to use a slow cooker, brown your mince in batches then tip into your slow cooker and stir in the vegetables, flour, purée, wine, stock, Worcestershire sauce and herbs with some seasoning. Cover and cook on High for 4-5 hours. Make the mash following the previous steps, and then oven cook in the same way to finish."
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "url": "https://www.easycheesyvegetarian.com/slow-cooker-tagine/",
+    "title": "Sweet potato and chickpea slow cooker tagine",
+    "total_CO2": 1.7410657750000003,
+    "servings": 4,
+    "CO2_per_portion": 0.43526644375000006,
+    "E.Mission coefficient": 0.9422753791825084,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 onion",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 medium sweet potato",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0555
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 red bell pepper",
+            "amount": "1.0",
+            "ingredient_name": "bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 medium aubergine ((eggplant))",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "400 g tin chickpeas, (drained (240g, or ~ 1 1/4 cups, when drained))",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "tin chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 g tinned tomatoes ((~ 1 1/3 cups))",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "tinned tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp ground turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp smoked paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 tsp ground cinnamon",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "ground cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000329875
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Black pepper",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "To serve: couscous, yogurt (soy yogurt if vegan), fresh mint",
+            "amount": "1.0",
+            "ingredient_name": "couscous",
+            "matched_ingredient": "Couscous",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Peel the onion and sweet potato, then cut all the vegetables into 1 inch chunks."
+        },
+        {
+            "number": 2,
+            "instruction": "Add them to your slow cooker, along with the chickpeas, tomatoes, spices, and a good pinch of salt and pepper."
+        },
+        {
+            "number": 3,
+            "instruction": "Cook on high for 4 hours, stirring once halfway."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve with couscous, with a dollop of yogurt and some fresh mint."
+        }
+    ]
+}

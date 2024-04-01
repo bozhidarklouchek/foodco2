@@ -1,0 +1,171 @@
+{
+    "url": "https://www.internationalcuisine.com/iraqi-turnip-soup/",
+    "title": "Iraqi Turnip Soup (Kubba)",
+    "total_CO2": 0.5980519687793749,
+    "servings": 8,
+    "CO2_per_portion": 0.07475649609742187,
+    "E.Mission coefficient": 0.1861771184087133,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8 cups boiling water",
+            "amount": "8.0",
+            "unit": "cups",
+            "ingredient_name": "boiling water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 1.892705892,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 Tbsp ground rice",
+            "amount": "3.0",
+            "unit": "Tbsp",
+            "ingredient_name": "ground rice",
+            "matched_ingredient": "Ground ginger",
+            "kg_equivalent": 0.026099999999999998,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.009526499999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 stock cubes",
+            "amount": "4.0",
+            "ingredient_name": "stock cubes",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 Tbsp tomato paste",
+            "amount": "3.0",
+            "unit": "Tbsp",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 tsp chili",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "chili",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.000625,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000284375
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 tsp pepper",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0006374999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00029006249999999996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 medium-large turnips",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "turnips",
+            "matched_ingredient": "Turnip",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.15732
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3/4 cup lemon juice",
+            "amount": "0.75",
+            "unit": "cup",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.177441177375,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.056248853227875005
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "10 pieces semolina kubba (or Potato Chap)",
+            "amount": "10.0",
+            "ingredient_name": "semolina kubba",
+            "matched_ingredient": "Semolina",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 cups shredded fresh chard",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "shredded fresh chard",
+            "matched_ingredient": "Chard",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 cup chopped coriander",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "chopped coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.1033890593505
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Peel and cut the turnips in into chunks . There should be about 2 to 3 cups of turnip."
+        },
+        {
+            "number": 2,
+            "instruction": "Over medium-high heat, add 4 cups of boiled water to the ground rice and stock cubes."
+        },
+        {
+            "number": 3,
+            "instruction": "Stir non-stop for 5 minutes so the rice will not clump."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the tomato paste, chili, pepper, and another 4 cups of boiled water."
+        },
+        {
+            "number": 5,
+            "instruction": "Continue to stir for another 5 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the turnip, and let simmer uncovered over medium to medium-low heat for 45 minutes, stirring once in a while."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the lemon juice, then drop in the kubba or kubbi one by one, making sure not to overlap."
+        },
+        {
+            "number": 8,
+            "instruction": "Do not stir at this point and let simmer covered this time for another 15 minutes, until the kubba float."
+        },
+        {
+            "number": 9,
+            "instruction": "Stir in the chard, and coriander, simmer an additional 5 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve the soup hot off the stove, perfect for a cold winter day."
+        }
+    ]
+}

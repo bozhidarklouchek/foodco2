@@ -1,0 +1,256 @@
+{
+    "url": "https://lovingitvegan.com/vegan-sweet-potato-curry/#tasty-recipes-8985-jump-target",
+    "title": "Vegan Sweet Potato Curry",
+    "total_CO2": 2.69739525744225,
+    "servings": 6,
+    "CO2_per_portion": 0.449565876240375,
+    "E.Mission coefficient": 0.8751932445920503,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 Tablespoon Olive Oil",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "Olive Oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Medium Onion (White, Yellow or Brown, Chopped)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 teaspoon Crushed Garlic",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "Crushed Garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 teaspoon Minced Ginger",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "Minced Ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.001825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 Tablespoon Red Curry Paste",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "Red Curry Paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 teaspoon Cayenne Pepper",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "Cayenne Pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000329875
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon Paprika",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "Paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon Turmeric",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "Turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 Large Sweet Potatoes ((2.6 pounds / 1200g) Peeled and Chopped)",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "Sweet Potatoes",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.94,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.3478
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "15 ounce Can Lentils ((1 can) Drained, or 1 and 1/2 cups Cooked Lentils)",
+            "amount": "15.0",
+            "unit": "ounce",
+            "ingredient_name": "lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.425242846875,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6846409834687501
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "14 ounces Canned Chopped Tomato ((400g))",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "Canned Chopped Tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 cup Vegetable Stock ((120ml))",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "Vegetable Stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.002365882365
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "14 ounces Canned Coconut Milk ((400ml) Full Fat, Unsweetened)",
+            "amount": "14.0",
+            "unit": "ounces",
+            "ingredient_name": "Canned Coconut Milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.39689332375,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.36276049790750003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 cup Peanut Butter ((63g))",
+            "amount": "63.0",
+            "unit": "g",
+            "ingredient_name": "Peanut Butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.063,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.157311
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 cups Fresh Basil ((40g))",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "Fresh Basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 Tablespoons Coconut Sugar (or Light Brown Sugar)",
+            "amount": "2.0",
+            "unit": "Tablespoons",
+            "ingredient_name": "Coconut Sugar",
+            "matched_ingredient": "Palm sugar",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.0513024
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Sea Salt and Black Pepper (To Taste)",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Basmati Rice",
+            "amount": "1.0",
+            "ingredient_name": "Basmati Rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "Fresh Basil",
+            "amount": "1.0",
+            "ingredient_name": "Fresh Basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Crushed Peanuts",
+            "amount": "1.0",
+            "ingredient_name": "Crushed Peanuts",
+            "matched_ingredient": "Peanut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12485
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add the olive oil to a pot along with the chopped onion, garlic, ginger, red curry paste, cayenne pepper, paprika and turmeric and sauté until the onions are softened."
+        },
+        {
+            "number": 2,
+            "instruction": "Add in the chopped sweet potatoes and lentils and toss to mix in with the spices."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chopped tomatoes, vegetable stock and coconut milk and bring to the boil. Cover the pot and let it simmer until the sweet potatoes are fork tender (around 10-12 minutes)."
+        },
+        {
+            "number": 4,
+            "instruction": "Add in the peanut butter and stir in until melted."
+        },
+        {
+            "number": 5,
+            "instruction": "Add in the fresh basil and stir in until wilted."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the coconut sugar and salt and pepper to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve over basmati rice and top with crushed peanuts and fresh basil."
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/swedish-meatballs",
+    "title": "Healthy Swedish meatballs",
+    "total_CO2": 3.66637575,
+    "servings": 4,
+    "CO2_per_portion": 0.9165939375,
+    "E.Mission coefficient": 2.6619056521581297,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp rapeseed oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion , finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 small garlic clove , finely grated",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "small garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "375 g lean pork mince",
+            "amount": "375.0",
+            "unit": "g",
+            "ingredient_name": "lean pork mince",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 2.73075
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 medium egg yolk",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "egg yolk",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "grating of nutmeg",
+            "amount": "1.0",
+            "ingredient_name": "nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "50 g fine fresh breadcrumbs",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "fine fresh breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.07205
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "300 ml hot low-salt beef stock",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "hot low-salt beef stock",
+            "matched_ingredient": "Beef stock",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.05,
+            "ingredient_carbon": 0.315
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tbsp Dijon mustard",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0019500000000000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0008521500000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tbsp fat-free natural yogurt",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fat-free natural yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": -0.0282,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": -0.0784242
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "400 g spring greens , shredded",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "spring greens",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.1748
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "lingonberry or cranberry sauce , to serve",
+            "amount": "1.0",
+            "ingredient_name": "lingonberry",
+            "matched_ingredient": "Ling",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "lingonberry or cranberry sauce , to serve",
+            "amount": "1",
+            "ingredient_name": "cranberry sauce",
+            "matched_ingredient": "Cranberry sauce",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.060700000000000004
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put 1 tbsp rapeseed oil in a frying pan over a medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion and fry for 10 mins or until soft and translucent."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic and cook for 1 min. Leave to cool."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix the cooled onions, pork mince, egg yolk, a good grating of nutmeg and the breadcrumbs in a bowl with your hands until well combined. Form into 12 balls and chill for 15 mins."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat the remaining oil in a frying pan and fry the meatballs for 5 mins over a medium heat, turning often until golden."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour over the stock and bubble for 8-10 mins or until it has reduced a little. Stir through the mustard and yogurt."
+        },
+        {
+            "number": 7,
+            "instruction": "Steam the greens for 5 mins or until tender."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve the meatballs with the greens and a dollop of the sauce."
+        }
+    ]
+}

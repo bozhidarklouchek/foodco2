@@ -1,0 +1,237 @@
+{
+    "url": "https://woonheng.com/best-dumpling-wrapper-bun/",
+    "title": "Dumpling Wrapper Bun with juicy filling",
+    "total_CO2": 1.9352333105599997,
+    "servings": 2,
+    "CO2_per_portion": 0.9676166552799998,
+    "E.Mission coefficient": 0.3469169272167764,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "15-20 dumpling wrapper (used store-bought)",
+            "amount": "17.5",
+            "ingredient_name": "dumpling wrapper",
+            "matched_ingredient": "Red snapper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "11/2 lb zucchini",
+            "amount": "5.5",
+            "unit": "lb",
+            "ingredient_name": "zucchini",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 2.4947580350000003,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 1.135114905925
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 lb firm tofu",
+            "amount": "0.5",
+            "unit": "lb",
+            "ingredient_name": "firm tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.651131847135
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 small carrot (shredded)",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2-3 medium-sized wood ear mushrooms (rehydrated and sliced)",
+            "amount": "2.5",
+            "unit": "medium",
+            "ingredient_name": "wood ear mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.0625,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0284375
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "neutral oil",
+            "amount": "1.0",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "water (used ~1cup for 15 dumplings)",
+            "amount": "15.0",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 2.6999999999999997,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "garlic chile sauce",
+            "amount": "1.0",
+            "ingredient_name": "garlic chile sauce",
+            "matched_ingredient": "Chili garlic sauce",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 teaspoon salt (plus more to taste)",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "a dash of ground white pepper",
+            "amount": "1.0",
+            "ingredient_name": "ground white pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 teaspoon mushrooms seasoning",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "mushrooms seasoning",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.002,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00091
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 tablespoon toasted sesame oil",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "toasted sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.006922500000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.024969457500000004
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Prepare the zucchini and filling"
+        },
+        {
+            "number": 2,
+            "instruction": "Using a grater with smaller shredding holes, shred zucchini over a large mixing bowl."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 1 ¼ teaspoon of salt and massage the zucchini until well-combined. Cover with a lid and set it aside for 20-30 minutes. This step is to draw out the zucchini moisture."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, heat a small non-stick skillet over medium-low heat and add a teaspoon of oil."
+        },
+        {
+            "number": 5,
+            "instruction": "Sauté carrot for a minute."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the wood ear mushrooms and continue to sauté for another minute or so. Season with salt and pepper. Turn off the heat and set it aside."
+        },
+        {
+            "number": 7,
+            "instruction": "Now, place a nut milk bag over a bowl."
+        },
+        {
+            "number": 8,
+            "instruction": "Transfer the softened zucchini into the bag. Squeeze out all the liquid."
+        },
+        {
+            "number": 9,
+            "instruction": "Place them in a clean bowl. Continue until zucchini is used."
+        },
+        {
+            "number": 10,
+            "instruction": "Using the same bag, add the tofu and squeeze out as much moisture as you can (check the video)."
+        },
+        {
+            "number": 11,
+            "instruction": "Transfer them to the bowl with zucchini."
+        },
+        {
+            "number": 12,
+            "instruction": "Next, add the carrot and wood ear mushrooms along with the seasoning."
+        },
+        {
+            "number": 13,
+            "instruction": "Mix with a spoon or a pair of chopsticks until well combined. Tofu and zucchini may clump up from the squeezing, be sure to loosen them so they can absorb the flavors better. Taste and adjust seasoning if needed."
+        },
+        {
+            "number": 14,
+            "instruction": "Assemble the dumplings"
+        },
+        {
+            "number": 15,
+            "instruction": "To make the dumplings, place 3-4 wrappers on a work surface."
+        },
+        {
+            "number": 16,
+            "instruction": "Dust a rolling pin with some cornstarch and roll out the stack to a 5-inch diameter circular. Peel the wrapper and work with one at a time. Keep the rest in a bowl covered with a damp paper towel."
+        },
+        {
+            "number": 17,
+            "instruction": "Brush the edge with water and place a heaping spoonful of filling in the middle, then pleat to seal (check the video). Alternatively, place the rolled wrapper in a small bowl, add the filling in the middle, and bring all the edges together and give it a good pinch in the middle to seal."
+        },
+        {
+            "number": 18,
+            "instruction": "Cook the dumplings"
+        },
+        {
+            "number": 19,
+            "instruction": "To cook the dumplings, heat a non-stick skillet over medium heat and add a splash of oil."
+        },
+        {
+            "number": 20,
+            "instruction": "Arrange as many dumplings as you can in one layer, slightly apart. Pan-fry the dumplings until the bottom turns golden brown."
+        },
+        {
+            "number": 21,
+            "instruction": "Add enough water to cover 0.5cm of dumplings. Cover with a lid and cook until the water has evaporated and the dumpling has fully cooked through. Please check the FAQ section for other tips."
+        },
+        {
+            "number": 22,
+            "instruction": "Serve the dumplings warm with a side of garlic chile sauce and garnish with chopped onions and toasted sesame seeds."
+        }
+    ]
+}

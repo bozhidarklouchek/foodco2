@@ -1,0 +1,214 @@
+{
+    "url": "https://hurrythefoodup.com/easy-vegetable-stir-fry-with-creamy-peanut-sauce/",
+    "title": "Easy Vegetable Stir Fry with Creamy Peanut Sauce",
+    "total_CO2": 0.8868198269784378,
+    "servings": 2,
+    "CO2_per_portion": 0.4434099134892189,
+    "E.Mission coefficient": 1.1553064854960844,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp peanut oil ((sunflower oil will do too.))",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "peanut oil",
+            "matched_ingredient": "Peanut oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.0793776
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 clove garlic ((peeled and diced))",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 piece ginger, fresh ((thumb sized, peeled and grated))",
+            "amount": "1.0",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 onion ((peeled and diced))",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2-3 cups vegetables, fresh or frozen ((choose your favourite: broccoli, carrots, cauliflower, etc.))",
+            "amount": "2.5",
+            "unit": "cups",
+            "ingredient_name": "vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.295735295625,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.134559559509375
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 big handful snow peas ((or sugar snap peas))",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "snow peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "6-8 baby corns",
+            "amount": "6.0",
+            "ingredient_name": "baby corns",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3.5 oz noodles ((I love glass noodles as they’re really quick to cook and taste great!))",
+            "amount": "3.5",
+            "unit": "oz",
+            "ingredient_name": "noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.0992233309375,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.38091836746906255
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 handful peanuts",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "peanuts",
+            "matched_ingredient": "Peanut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12485
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tbsp peanut butter ((crunchy would be nice))",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "peanut butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.0189,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.0471933
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp sweet chili sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sweet chili sauce",
+            "matched_ingredient": "Chilli sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 cup water",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tbsp maple syrup",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.0198,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.019206
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 stick lemongrass",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "lemongrass",
+            "matched_ingredient": "Lemongrass",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tbsp soy sauce ((light or dark are both great))",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Get all ingredients ready and in one place. Thaw the frozen veggies (with a microwave or by taking them out of the freezer early enough)."
+        },
+        {
+            "number": 2,
+            "instruction": "2-3 cups vegetables, fresh or frozen"
+        },
+        {
+            "number": 3,
+            "instruction": "Chop the snow peas, baby corn and onion. Dice the garlic and ginger."
+        },
+        {
+            "number": 4,
+            "instruction": "1 clove garlic, 1 onion, 1 big handful snow peas, 6-8 baby corns, 1 piece ginger, fresh"
+        },
+        {
+            "number": 5,
+            "instruction": "Cook the noodles so you have them at hand when the stir-fry comes together. When ready, drain and rinse under cold water (they’ll stick together less)."
+        },
+        {
+            "number": 6,
+            "instruction": "5 oz noodles"
+        },
+        {
+            "number": 7,
+            "instruction": "For the sauce: "
+        },
+        {
+            "number": 8,
+            "instruction": "Grab a large bowl and chuck in the peanut butter, soy sauce, sweet chilli sauce, water, syrup."
+        },
+        {
+            "number": 9,
+            "instruction": "Mix well with a spoon ‘til it’s a nice and creamy sauce. Optionally, throw in the lemon grass."
+        },
+        {
+            "number": 10,
+            "instruction": "2 tbsp peanut butter, 2 tbsp soy sauce, 2 tbsp sweet chili sauce, ¼ cup water, 1 tbsp maple syrup, 1 stick lemongrass"
+        }
+    ]
+}

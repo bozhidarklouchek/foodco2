@@ -1,0 +1,176 @@
+{
+    "url": "https://www.greedygourmet.com/recipes-by-course/main-course/chinese-mixed-vegetable-stir-fry/",
+    "title": "Chinese Mixed Vegetable Stir Fry",
+    "total_CO2": 0.45298360000000004,
+    "servings": 6,
+    "CO2_per_portion": 0.07549726666666667,
+    "E.Mission coefficient": 0.7629839986525183,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "30 ml (2 tbsp) oil",
+            "amount": "30.0",
+            "unit": "ml",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 head broccoli, cut into florets",
+            "amount": "1.0",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01748
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 garlic cloves, peeled and crushed",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "5 cm (2 in) ginger, peeled and grated",
+            "amount": "5.0",
+            "unit": "cm",
+            "ingredient_name": "cm ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 carrots, peeled and sliced",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "90 g (3 oz) mushrooms, washed and chopped",
+            "amount": "90.0",
+            "unit": "g",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.04095
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "90 g (3 oz) baby sweetcorn, washed and trimmed",
+            "amount": "90.0",
+            "unit": "g",
+            "ingredient_name": "baby sweetcorn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.08892
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "90 g (3 oz) mangetout or sugar snap peas, washed and trimmed",
+            "amount": "45.0",
+            "unit": "g",
+            "ingredient_name": "mangetout",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.04032
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "90 g (3 oz) mangetout or sugar snap peas, washed and trimmed",
+            "amount": "45.0",
+            "unit": "g",
+            "ingredient_name": "sugar snap peas",
+            "matched_ingredient": "Sugar snap peas",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.04032
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "90 g (3 oz) asparagus, washed and cut into bite size pieces",
+            "amount": "90.0",
+            "unit": "g",
+            "ingredient_name": "asparagus",
+            "matched_ingredient": "Asparagus",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.03933
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "30 ml (2 tbsp) soy sauce",
+            "amount": "30.0",
+            "unit": "ml",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "5 ml (1 tsp) cornflour",
+            "amount": "5.0",
+            "unit": "ml",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.0040999999999999995,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.004050799999999999
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Salt and pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the 15ml (1 tbsp) oil in a large wok and fry the broccoli for 1 minute."
+        },
+        {
+            "number": 2,
+            "instruction": "Add a splash of water and cover with a lid to cook for 3 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the remainder of the oil to the wok and fry the garlic and ginger with broccoli for 1 minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Tip in the rest of the vegetables and fry for about 5 minutes or cooked until desired consistency. Use a splash of water if the vegetables get a bit dry and you want them to cook a bit more."
+        },
+        {
+            "number": 5,
+            "instruction": "Prepare a slurry in a cup by combining the soy sauce and cornflour then drizzle over the vegetables and stir to coat evenly."
+        },
+        {
+            "number": 6,
+            "instruction": "Season to taste, and serve immediate with steamed white rice or as a side dish to a Chinese meal."
+        }
+    ]
+}

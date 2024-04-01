@@ -1,0 +1,112 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/bread-recipes/neapolitan-pizza-base/",
+    "title": "Neapolitan pizza base",
+    "total_CO2": 1.5375240000000001,
+    "servings": 6,
+    "CO2_per_portion": 0.25625400000000004,
+    "E.Mission coefficient": 1.498561403508772,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 kg Tipo 00 flour , plus extra for dusting",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 1.441
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 x 7 g sachet of dried yeast",
+            "amount": "1.0",
+            "unit": "x 7 g",
+            "ingredient_name": "dried yeast",
+            "matched_ingredient": "Yeast",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.013308
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Pour 700ml of lukewarm water into a large bowl with 10g of sea salt. Gradually mix in a small handful of the flour to break the water and start to turn it into a batter."
+        },
+        {
+            "number": 3,
+            "instruction": "Mix in the yeast and leave for 2 minutes. Gradually mix in 90% of the remaining flour until you have a pliable, soft dough. Tip the remaining flour on to a clean surface and knead the dough for 20 minutes, or until smooth and elastic (or 10 minutes in a free-standing mixer with a dough hook)."
+        },
+        {
+            "number": 4,
+            "instruction": "Place in a floured bowl, cover with a clean damp tea towel and prove for 1 hour, or until doubled in size. Knock out the air with your fists, roll into a sausage shape, chop into 6 equal pieces and roll each one into a ball, stretching the edges underneath."
+        },
+        {
+            "number": 5,
+            "instruction": "Place on an oiled tray, drizzle with oil, cover with clingfilm and the tea towel and prove overnight in the fridge (for better flavour and a more relaxed dough)."
+        },
+        {
+            "number": 6,
+            "instruction": "Preheat the oven to full whack (240ºC/475ºF/gas"
+        },
+        {
+            "number": 7,
+            "instruction": "and place a pizza stone inside. Use a fish slice to move one ball of dough on to a flour-dusted surface. Press the ball out into a fat round disc, then pick it up and gently turn and stretch it to 30cm in diameter, using gravity to help you. Stretch it over the back of your fists, then place on a floured pizza paddle or board – the dough should be a little thicker around the edges. Pull it into shape and give it a jiggle so you know it’s free-moving. Working quickly and with restraint, add your chosen toppings. Quickly shunt on to your pizza stone and close the oven door to retain heat. Wait 7 or 8 minutes and it’ll be golden, crisp and ready to eat."
+        },
+        {
+            "number": 8,
+            "instruction": "Tips"
+        },
+        {
+            "number": 9,
+            "instruction": "The Neapolitans don't mess around when it comes to a classic Margherita – they keep their tomato sauce beautifully simple, raw and fresh, so buying quality tinned tomatoes is a must. Simply scrunch tinned San Marzano plum tomatoes in your clean hands until smooth, then spoon over your pizza base. Top with a few fresh basil leaves, some torn mozzarella cheese and finely grated Parmesan cheese."
+        },
+        {
+            "number": 10,
+            "instruction": "Drizzle with a little olive oil, bake, and finish with a few extra basil leaves."
+        },
+        {
+            "number": 11,
+            "instruction": "Alternatively, spoon over the tomato sauce, then top with ricotta cheese mashed with fresh marjoram leaves and finely grated Parmesan or pecorino cheese and lemon zest."
+        },
+        {
+            "number": 12,
+            "instruction": "Add baby courgettes tossed in olive oil and lemon juice, drizzle with a little more olive oil, and bake."
+        },
+        {
+            "number": 13,
+            "instruction": "Need more of a kick? Spoon the tomato sauce over your base, then scatter over some fresh rosemary leaves tossed with a little olive oil. Tear over some spicy 'nduja, finely grate over some Parmesan cheese, drizzle with a little more olive oil, and bake."
+        },
+        {
+            "number": 14,
+            "instruction": "Want some greens on there? Spoon over the tomato sauce, then top with small blanched broccoli florets fried with garlic, fresh chilli, black olives (destoned) and sausagemeat. Tear over some provolone cheese, drizzle with a little olive oil, and bake."
+        },
+        {
+            "number": 15,
+            "instruction": "Don't want a tomato sauce? Toss red and black grapes, fresh rosemary leaves and very finely sliced red onion in olive oil, then scatter over your pizza base with pine nuts, finely grated pecorino cheese, torn mozzarella cheese and a tiny drizzle of runny honey."
+        },
+        {
+            "number": 16,
+            "instruction": "Drizzle with a little olive oil and bake."
+        },
+        {
+            "number": 17,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

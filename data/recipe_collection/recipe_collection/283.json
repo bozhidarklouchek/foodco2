@@ -1,0 +1,153 @@
+{
+    "url": "https://www.eatingwell.com/recipe/280316/garlic-butter-roasted-salmon-with-potatoes-asparagus/",
+    "title": "Garlic Butter-Roasted Salmon with Potatoes & Asparagus",
+    "total_CO2": 3.5602093733049998,
+    "servings": 4,
+    "CO2_per_portion": 0.8900523433262499,
+    "E.Mission coefficient": 2.459970207577699,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 pound baby Yukon Gold potatoes, halved",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "baby Yukon Gold potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.16782917690000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tablespoons extra-virgin olive oil, divided",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3/4 teaspoon salt, divided",
+            "amount": "0.75",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.008100000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.09820440000000003
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 teaspoon ground pepper, divided",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "ground pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "12 ounces asparagus, trimmed",
+            "amount": "12.0",
+            "unit": "ounces",
+            "ingredient_name": "asparagus",
+            "matched_ingredient": "Asparagus",
+            "kg_equivalent": 0.3401942775,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.14866489926749998
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tablespoons melted butter",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "melted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.027330000000000004,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.07600473000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon lemon juice",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 cloves garlic, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 1/4 pounds salmon fillet, skinned and cut into 4 portions",
+            "amount": "1.25",
+            "unit": "pounds",
+            "ingredient_name": "salmon fillet",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 0.5669904625000001,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 2.9387115671375
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Chopped parsley for garnish",
+            "amount": "1.0",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 400°F. Toss potatoes, 1 tablespoon oil, 1/4 teaspoon salt and 1/8 teaspoon pepper together in a medium bowl."
+        },
+        {
+            "number": 2,
+            "instruction": "Spread in an even layer on a large rimmed baking sheet. Roast until starting to soften and brown, about 15 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Meanwhile, toss asparagus with the remaining 1 tablespoon oil, 1/8 teaspoon salt and 1/8 teaspoon pepper in the medium bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Combine butter, lemon juice, garlic, 1/4 teaspoon salt and the remaining 1/4 teaspoon pepper in a small bowl."
+        },
+        {
+            "number": 5,
+            "instruction": "Sprinkle salmon with the remaining 1/8 teaspoon salt. Move the potatoes to one side of the pan."
+        },
+        {
+            "number": 6,
+            "instruction": "Place the salmon in the center of the pan; drizzle with the butter mixture."
+        },
+        {
+            "number": 7,
+            "instruction": "Spread the asparagus on the empty side of the pan. Roast until the salmon is just cooked through and the vegetables are tender, 10 to 12 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Garnish with parsley."
+        }
+    ]
+}

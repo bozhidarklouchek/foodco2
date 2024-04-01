@@ -1,0 +1,426 @@
+{
+    "url": "https://rainbowplantlife.com/healthy-vegan-lentil-shepherds-pie/",
+    "title": "The Best Vegan Lentil Shepherd's Pie",
+    "total_CO2": 1.951902931125,
+    "servings": 8,
+    "CO2_per_portion": 0.243987866390625,
+    "E.Mission coefficient": 0.7891337353927763,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 large yellow onions, (diced)",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "yellow onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "8 cloves garlic (minced (use less if you’re not a huge fan of garlic))",
+            "amount": "8.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.024,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00948
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tablespoon fresh thyme leaves, (roughly chopped)",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 teaspoons fresh rosemary leaves, (roughly chopped)",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "fresh rosemary leaves",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00437
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 tablespoons tomato paste",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 cup (120 mL) dry red wine (such as Pinot Noir or Malbec)*",
+            "amount": "120.0",
+            "unit": "mL",
+            "ingredient_name": "dry red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.19019999999999998
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 1/2 cups (10 ounces / 285g) green lentils ((or brown lentils) )",
+            "amount": "10.0",
+            "unit": "ounces ",
+            "ingredient_name": "green lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 3/4 cups (900 mL) vegetable broth",
+            "amount": "900.0",
+            "unit": "mL",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.20475000000000002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 1/2 teaspoons sweet or hot paprika",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "hot paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 cup (56g) smooth tahini**",
+            "amount": "56.0",
+            "unit": "g",
+            "ingredient_name": "smooth tahini",
+            "matched_ingredient": "Tahini",
+            "kg_equivalent": 0.056,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.015568000000000002
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tablespoon tamari ((or soy sauce)***)",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "tamari",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.01125
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tablespoon good-quality balsamic vinegar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "quality balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 teaspoons vegan Worcestershire sauce ((optional)****)",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "vegan Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.01585
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Plenty of kosher salt or sea salt ((I used 1 1/2 - 2 teaspoons kosher salt))",
+            "amount": "1.0",
+            "unit": "teaspoons",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Plenty of kosher salt or sea salt ((I used 1 1/2 - 2 teaspoons kosher salt))",
+            "amount": "1.0",
+            "unit": "teaspoons",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Freshly cracked black pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "20 ounces (680g) Russet potatoes",
+            "amount": "20.0",
+            "unit": "ounces",
+            "ingredient_name": "Russet potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.5669904625000001,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.209786471125
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "16 ounces (454g) cauliflower, cut into large florets",
+            "amount": "454.0",
+            "unit": "g",
+            "ingredient_name": "cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.454,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.19839800000000002
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 1/2 teaspoons kosher salt, (plus more to taste)",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.016200000000000003,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.19640880000000005
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1 rosemary sprig ((optional))",
+            "amount": "1.0",
+            "unit": "sprig",
+            "ingredient_name": "rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "4 tablespoons vegan butter, (softened at room temperature (or olive oil) )",
+            "amount": "4.0",
+            "unit": "tablespoons",
+            "ingredient_name": "vegan butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05466000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.15200946000000004
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "1/2 cup (120 mL) “lite” coconut milk*****",
+            "amount": "120.0",
+            "unit": "mL",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.14400000000000002,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.131616
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "1 tablespoon nutritional yeast",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "nutritional yeast",
+            "matched_ingredient": "Nutritional yeast",
+            "kg_equivalent": -0.00075,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": -0.00083175
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "Freshly cracked black pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "Extra virgin oil for baking and finishing",
+            "amount": "1.0",
+            "ingredient_name": "virgin oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "Flaky sea salt and black pepper",
+            "amount": "1.0",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "Fresh thyme leaves",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "Fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 30,
+            "original_string": "Chopped flat-leaf parsley",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "flat-  parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Make the Lentil Filling."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the olive oil in an ovenproof 12-inch skillet over medium to medium-high heat until hot. If you don’t have an ovenproof skillet, you’ll need to transfer the cooked lentil filling to a baking dish when it’s time to bake."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the onions with a couple pinches of salt and sauté for 8-10 minutes, or until most of the onions are browned. Stir occasionally to prevent burning, but not too often so that they can brown."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the garlic, thyme and rosemary and cook for 2 minutes, stirring frequently to prevent burning."
+        },
+        {
+            "number": 5,
+            "instruction": "Push the onions to the edges of the pan so there’s an empty space in the middle of the pan."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the tomato paste into the empty space and stir for 2-3 minutes, or until it darkens in color. Reduce the heat to medium, as needed."
+        },
+        {
+            "number": 7,
+            "instruction": "Pour in the red wine and deglaze the pan, stirring up any browned bits, until the liquid has mostly evaporated and the smell of alcohol has dissipated, about 3-4 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the vegetable broth, along with the lentils, bay leaves, and paprika. Stir to combine and increase the heat to bring to a boil. Once boiling, reduce heat to maintain a rapid simmer, and simmer until the lentils are just tender and most of the liquid has been absorbed, 25-30 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Turn the heat to low."
+        },
+        {
+            "number": 10,
+            "instruction": "Add the tahini, tamari, balsamic vinegar, and vegan Worcestershire sauce (if using). Stir until well incorporated. Taste for seasonings, adding a generous amount of salt (I used about 1 teaspoon kosher salt) and black pepper. Set aside."
+        },
+        {
+            "number": 11,
+            "instruction": "Make the Mashed Potato Topping. Peel the Russet potatoes and then rinse them under cold water. Chop the potatoes into eighths."
+        },
+        {
+            "number": 12,
+            "instruction": "Place the potatoes and cauliflower florets in a large saucepan or Dutch oven and add just enough water to cover."
+        },
+        {
+            "number": 13,
+            "instruction": "Add 1 1/2 teaspoons kosher salt and stir to  combine."
+        },
+        {
+            "number": 14,
+            "instruction": "Place the rosemary sprig on top. Bring to a boil and cook until both potatoes and cauliflower are fork-tender and are very soft when poked, about 15 minutes."
+        },
+        {
+            "number": 15,
+            "instruction": "Thoroughly drain the potatoes and cauliflower in a colander and discard the rosemary sprig. For the potatoes, pat them dry with paper towels or a clean dish towel. For the cauliflower, you’ll need to squeeze out the excess water or it’ll be very watery.NOTE: See the “tips” section in the post for details on how to squeeze out the excess water."
+        },
+        {
+            "number": 16,
+            "instruction": "Return the vegetables to the saucepan or transfer them to a large bowl."
+        },
+        {
+            "number": 17,
+            "instruction": "Add in the softened vegan butter, lite coconut milk, nutritional yeast, along with salt and black pepper to taste. You can mash everything together using a handheld potato masher, but I use an immersion blender. Taste for seasonings, adding more salt as needed (I used about 1 teaspoon kosher salt)."
+        },
+        {
+            "number": 18,
+            "instruction": "Assemble the Shepherd’s Pie. Preheat the oven to 375°F/190°C. If your skillet is ovenproof and has enough space, leave the Lentil Filling in there. If not, transfer it to a large (3 quart/3 liter) baking dish. Smooth the Lentil Filling out. Then, spoon and carefully spread out the Mashed Potato Topping on top, covering the whole surface. For more flavor, drizzle the top with extra virgin olive oil and some extra pinches of salt, pepper, and fresh thyme leaves."
+        },
+        {
+            "number": 19,
+            "instruction": "Bake for 20 minutes, or until the lentil filling starts to bubble up."
+        },
+        {
+            "number": 20,
+            "instruction": "Remove from the oven and turn on your oven’s broiler."
+        },
+        {
+            "number": 21,
+            "instruction": "Place the pan under the broiler for a few minutes until the crust is golden brown. To finish, drizzle with more olive oil and garnish with fresh parsley, if desired."
+        },
+        {
+            "number": 22,
+            "instruction": "Note: if you want the pie to solidify more, allow it to rest for at least 20 minutes in the pan. Store any leftovers in an airtight container in the fridge for up to 4 days."
+        }
+    ]
+}

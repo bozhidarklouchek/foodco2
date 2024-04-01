@@ -1,0 +1,185 @@
+{
+    "url": "https://www.quorn.co.uk/recipes/meatballs-blue-cheese-sauce",
+    "title": "Quorn Swedish Style Balls in Blue Cheese Sauce",
+    "total_CO2": 3.114224300000001,
+    "servings": 4,
+    "CO2_per_portion": 0.7785560750000002,
+    "E.Mission coefficient": 2.5492995252128368,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "280 g Quorn Swedish Style Balls",
+            "amount": "280.0",
+            "unit": "g",
+            "ingredient_name": "Quorn Swedish Style Balls",
+            "matched_ingredient": "Quorn",
+            "kg_equivalent": 0.28,
+            "carbon_per_kg": 2.555,
+            "ingredient_carbon": 0.7154000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tablespoons oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "45 g butter or margarine",
+            "amount": "22.5",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0625725
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "45 g butter or margarine",
+            "amount": "22.5",
+            "unit": "g",
+            "ingredient_name": "margarine",
+            "matched_ingredient": "Margarine",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.08613
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "25 g plain flour",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.036025
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "350 ml vegetable stock",
+            "amount": "350.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.35000000000000003,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.007000000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "350 ml milk",
+            "amount": "350.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.364,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.012284
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "75 g crumbled Gorgonzola cheese - or other blue cheese - Roquefort or Stilton work well too.",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "crumbled Gorgonzola cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.531
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "75 g crumbled Gorgonzola cheese - or other blue cheese - Roquefort or Stilton work well too.",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "Stilton",
+            "matched_ingredient": "Stilton",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.531
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "pinch of nutmeg",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "zest of lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tablespoon chopped parsley",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "chopped parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil and gently cook the Quorn Swedish Style Balls in a shallow frying pan"
+        },
+        {
+            "number": 2,
+            "instruction": "Melt the butter or margarine in a small heavy based saucepan, add the flour, stir well and heat gently for 1 minute."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the vegetable stock and milk and continue stirring over the heat until the sauce has thickened"
+        },
+        {
+            "number": 4,
+            "instruction": "Reduce the heat and add the crumbled blue cheese, nutmeg, lemon zest, salt and pepper"
+        },
+        {
+            "number": 5,
+            "instruction": "Continue to simmer gently for 4 minutes stirring regularly"
+        },
+        {
+            "number": 6,
+            "instruction": "Place the meatballs in an ovenproof dish and pour over the blue cheese sauce."
+        },
+        {
+            "number": 7,
+            "instruction": "Bake in a preheated oven at 180°C, Gas Mark 4 for 15 minutes or until browned and bubbling."
+        },
+        {
+            "number": 8,
+            "instruction": "Sprinkle with parsley and serve with pasta or rice or simply a fresh green salad"
+        }
+    ]
+}

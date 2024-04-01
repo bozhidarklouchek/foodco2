@@ -1,0 +1,231 @@
+{
+    "url": "https://veganuary.com/recipes/best-vegan-burgers/",
+    "title": "The Best Vegan Burgers",
+    "total_CO2": 0.6811669296111875,
+    "servings": 4,
+    "CO2_per_portion": 0.17029173240279688,
+    "E.Mission coefficient": 1.36262882794124,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 can black beans rinsed and drained.",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/4 large beetroot, grated",
+            "amount": "0.25",
+            "unit": "large",
+            "ingredient_name": "beetroot",
+            "matched_ingredient": "Beetroot",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00874
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 clove garlic, minced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "salt and pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 teaspoon coriander",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0010925
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 teaspoon cumin",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 teaspoon cayenne pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon chilli flakes",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 T coconut oil",
+            "amount": "1.0",
+            "unit": "T",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.080528
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 chia egg",
+            "amount": "1.0",
+            "ingredient_name": "chia egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 red onion diced finely",
+            "amount": "0.25",
+            "ingredient_name": "red onion diced",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.037,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.014615
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 cup oat flour",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "oat flour",
+            "matched_ingredient": "Oat",
+            "kg_equivalent": 0.0248417648325,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.039125779611187496
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "4 wholemeal buns",
+            "amount": "4.0",
+            "ingredient_name": "wholemeal buns",
+            "matched_ingredient": "Arrowhead",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Sliced tomato",
+            "amount": "1.0",
+            "ingredient_name": "tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Baby spinach",
+            "amount": "1.0",
+            "ingredient_name": "Baby spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Red onion sliced into rings",
+            "amount": "1.0",
+            "ingredient_name": "Red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Guacamole",
+            "amount": "1.0",
+            "ingredient_name": "Guacamole",
+            "matched_ingredient": "Guacamole",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.052500000000000005
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 180c bake"
+        },
+        {
+            "number": 2,
+            "instruction": "Saute garlic, onion, herbs and spices with the coconut oil until onion becomes translucent"
+        },
+        {
+            "number": 3,
+            "instruction": "Stir in half of your black beans and sauté for another minute or so"
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from the heat and transfer mixture to a food processor with the beetroot, salt and pepper, chia egg and oat flour"
+        },
+        {
+            "number": 5,
+            "instruction": "Process until mixture is well combined, you want it smooth but still relatively chunky"
+        },
+        {
+            "number": 6,
+            "instruction": "Add in the remaining black beans and pulse until combined, still leaving it quite chunky so you can partially see the black beans"
+        },
+        {
+            "number": 7,
+            "instruction": "With wet hands form into 4 medium sized patties around 2 cm thick"
+        },
+        {
+            "number": 8,
+            "instruction": "Pop onto a tray and place in the fridge for around 30 minutes to firm up"
+        },
+        {
+            "number": 9,
+            "instruction": "Bake for 30 minutes, carefully turning over after 15 minutes"
+        },
+        {
+            "number": 10,
+            "instruction": "Once cooked, serve on a toasted wholemeal bun with your burger staples (spinach, red onion, tomato, guacamole, ketchup)"
+        }
+    ]
+}

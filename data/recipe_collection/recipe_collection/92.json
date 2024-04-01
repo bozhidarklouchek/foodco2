@@ -1,0 +1,246 @@
+{
+    "url": "https://thewanderlustkitchen.com/arabic-chicken-shawarma/",
+    "title": "Arabic Chicken Shawarma",
+    "total_CO2": 6.01100343608,
+    "servings": 8,
+    "CO2_per_portion": 0.75137542951,
+    "E.Mission coefficient": 5.915339151638309,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/4 c. extra virgin olive oil",
+            "amount": "0.25",
+            "unit": "c.",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tsp. cumin",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tsp. paprika",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp. allspice",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "allspice",
+            "matched_ingredient": "Allspice",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp. turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 tsp. garlic powder",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00049375
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/4 tsp. cinnamon",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000329875
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Pinch of cayenne",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "cayenne",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/8 tsp. salt",
+            "amount": "0.125",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.00135,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0163674
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/8 tsp. black pepper",
+            "amount": "0.125",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0003625,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.00439495
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Nonstick cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "6 Tbsp. extra virgin olive oil (divided)",
+            "amount": "6.0",
+            "unit": "Tbsp",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0828,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.3169584
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 tsp. cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 tsp. paprika",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/4 tsp. allspice",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "allspice",
+            "matched_ingredient": "Allspice",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000329875
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4 tsp. turmeric",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "2 lb. boneless (skinless chicken breasts (about 4 large breasts))",
+            "amount": "2.0",
+            "unit": "lb",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.90718474,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 5.52656943608
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pour the 1/4 cup of olive oil into a large plastic zipper bag."
+        },
+        {
+            "number": 2,
+            "instruction": "Add in the marinade spices, then seal the bag and shake to combine."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut the chicken breasts into sixths, then place the pieces into large plastic zipper bag. Seal the bag and use your hands to work the marinade into the chicken."
+        },
+        {
+            "number": 4,
+            "instruction": "Place the bag of chicken into the fridge to marinate 8 hours or overnight."
+        },
+        {
+            "number": 5,
+            "instruction": "Preheat your oven to 400 degrees Fahrenheit, then prepare a baking sheet by lining it with foil and spraying it with nonstick cooking spray. Arrange the chicken pieces evenly on the baking sheet in a single layer."
+        },
+        {
+            "number": 6,
+            "instruction": "Bake for 8 minutes, flip the chicken pieces over, then bake for another 8 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove the chicken from the oven and let sit until cool enough to touch. Slice the chickeninto thin pieces using a sharp knife."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat 2 Tbsp. of the olive oil in a large skillet over medium-high heat."
+        },
+        {
+            "number": 9,
+            "instruction": "While it is heating, mix the remaining spices together in a small bowl and set it near the stove."
+        },
+        {
+            "number": 10,
+            "instruction": "Once the oil is hot, add one third of the cooked chicken into the pan along with one third of the spices next to the stove. Cook, stirring, until the spices are spread amongst the meat and the chicken is heated through (just a minute or two)."
+        },
+        {
+            "number": 11,
+            "instruction": "Repeat this process with the remaining oil, chicken, and spices so that it is cooked in three batches (or, if you have a really, really big pan you could do it all at once)."
+        },
+        {
+            "number": 12,
+            "instruction": "Serve warm with Tabbouleh salad and pita bread."
+        }
+    ]
+}

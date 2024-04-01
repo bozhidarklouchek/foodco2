@@ -1,0 +1,114 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/easy-thai-prawn-curry",
+    "title": "Easy Thai prawn curry",
+    "total_CO2": 5.4710175,
+    "servings": 4,
+    "CO2_per_portion": 1.367754375,
+    "E.Mission coefficient": 5.334975621647977,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp fresh root ginger",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.001825
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1-2 tsp Thai red curry paste (we used Sharwood's)",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "Thai red curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "50 g sachet coconut cream",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "coconut cream",
+            "matched_ingredient": "Coconut cream",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.037500000000000006
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g raw frozen prawns",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "raw frozen prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 4.7416
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "coriander, chopped, to serve (optional)",
+            "amount": "1.0",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a medium saucepan. Tip in the onion and ginger, then cook for a few mins until softened. Stir in the curry paste, then cook for 1 min more."
+        },
+        {
+            "number": 2,
+            "instruction": "Pour over the chopped tomatoes and coconut cream. Bring to the boil, then leave to simmer for 5 mins, adding a little boiling water if the mixture gets too thick."
+        },
+        {
+            "number": 3,
+            "instruction": "Tip in the prawns, then cook for 5-10 mins more, depending on how large they are."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve alongside some plain rice and sprinkle with a little chopped coriander, if you like."
+        }
+    ]
+}

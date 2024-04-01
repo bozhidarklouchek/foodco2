@@ -1,0 +1,363 @@
+{
+    "url": "https://seonkyounglongest.com/dan-dan-noodles/",
+    "title": "Dan Dan Mian",
+    "total_CO2": 2.7948520969481745,
+    "servings": 4,
+    "CO2_per_portion": 0.6987130242370436,
+    "E.Mission coefficient": 2.5844625635823797,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 lb ground pork, beef, chicken or crumbled tofu",
+            "amount": "0.25",
+            "unit": "lb",
+            "ingredient_name": "ground pork",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.825764909585
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 lb ground pork, beef, chicken or crumbled tofu",
+            "amount": "0.25",
+            "unit": "lb",
+            "ingredient_name": "crumbled tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.3255659235675
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp chopped garlic (approximately 3 cloves garlic)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp chopped ginger",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chopped ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.001825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp soy sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp shaoxing wine, dry sherry or rice wine  ",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "shaoxing wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp shaoxing wine, dry sherry or rice wine  ",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "rice wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "pinch of black pepper",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp cooking oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "cooking oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 oz Chinese preserved mustard green, chopped (You can omit this or substitute with any pickled mustard green or kimchi &#8211; after washing)",
+            "amount": "2.0",
+            "unit": "oz",
+            "ingredient_name": "Chinese preserved mustard green",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.05669904625,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.02477748321125
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp chopped garlic (approximately 2 cloves garlic)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chopped garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tbsp tahini (preferred made with toasted sesame seeds) or peanut butter  https://amzn.to/332nJVk",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tahini",
+            "matched_ingredient": "Tahini",
+            "kg_equivalent": 0.0135,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0037530000000000003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp tahini (preferred made with toasted sesame seeds) or peanut butter  https://amzn.to/332nJVk",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "peanut butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.00945,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.02359665
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 1/2 tbsp soy sauce",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.020565
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tsp dark soy sauce",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00457
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "3 tbsp chili oil with chili flakes ",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "chili oil",
+            "matched_ingredient": "Chili oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1-3 tsp toasted and grinned Sichuan peppercorns ",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Sichuan peppercorns",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0050999999999999995,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0023204999999999996
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 tbsp sugar",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0048,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0073728
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 portions fresh egg noodles or spaghetti",
+            "amount": "1.0",
+            "ingredient_name": "fresh egg noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.76619
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 portions fresh egg noodles or spaghetti",
+            "amount": "1.0",
+            "ingredient_name": "spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "handful of yu choy, bok choy, napa cabbage or any green leafy vegetables",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "yu choy",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "handful of yu choy, bok choy, napa cabbage or any green leafy vegetables",
+            "amount": "1",
+            "unit": "handful",
+            "ingredient_name": "green leafy vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.07735
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "3 Tbsp sauce (approximately half of the sauce)",
+            "amount": "3.0",
+            "unit": "Tbsp",
+            "ingredient_name": "sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.04113
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "1/4 cup hot chicken or veggie broth",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "hot chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.02661617660625,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.162145747885275
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "1/4 cup hot chicken or veggie broth",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "veggie broth",
+            "matched_ingredient": "Vegetable Suet",
+            "kg_equivalent": 0.0177441177375,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.06792448269915
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "green onion chopped",
+            "amount": "1.0",
+            "ingredient_name": "green onion chopped",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "crushed peanuts or sesame seeds for garnish",
+            "amount": "1.0",
+            "ingredient_name": "peanuts",
+            "matched_ingredient": "Peanut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12485
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "crushed peanuts or sesame seeds for garnish",
+            "amount": "1",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Mix all the ingredients for the pork except 1 tbsp cooking oil and preserved mustard green."
+        },
+        {
+            "number": 2,
+            "instruction": "Let it marinate while preparing other ingredients, about 10 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Combine all ingredients for the sauce in a mixing bowl and set aside. This sauce can be stored in a refrigerator unto 5 days. "
+        },
+        {
+            "number": 4,
+            "instruction": "Heat a wok over high heat, add 1 tbsp cooking oil and swirl to coat."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the pork mixture and stir fry until pork is fully cooked, no more moisture on the bottom and slightly have brown edges, about  3 to 4 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add preserved mustard green and stir fry 1 to 2 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove from heat and keep it warm."
+        },
+        {
+            "number": 8,
+            "instruction": "Cook noodles by following the directions of the package you’re using. At the last minute of cooking noodles, add yu choy or your choice of green vegetables into boiling water with noodles. Cook all together for 1 minute, drain"
+        },
+        {
+            "number": 9,
+            "instruction": "Place half of the sauce (approximately 3 tbsp) on a bottom of serving bowl and lay the noodles on top of the sauce. Arrange the blanched green vegetable on top of the noodles then cooked pork mixture."
+        },
+        {
+            "number": 10,
+            "instruction": "Pour hot chicken broth around the edge of the bowl."
+        },
+        {
+            "number": 11,
+            "instruction": "Garnish with chopped green onions and crushed peanuts or sesame seeds. "
+        },
+        {
+            "number": 12,
+            "instruction": "Mix everything throughly, enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "url": "https://www.bhf.org.uk/informationsupport/support/healthy-living/healthy-eating/recipe-finder/ribollita",
+    "title": "Ribollita",
+    "total_CO2": 1.4284451000000005,
+    "servings": 2,
+    "CO2_per_portion": 0.7142225500000002,
+    "E.Mission coefficient": 0.8347866054992261,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tsp olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 small red onion finely chopped",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 sticks celery chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery chopped",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 carrots sliced",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 cloves garlic crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 courgette thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g (14 oz) can chopped tomatoes in rich natural juice",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "450 ml (16 fl oz) homemade or reduced-salt vegetable stock",
+            "amount": "450.0",
+            "unit": "ml",
+            "ingredient_name": "reduced-salt vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.009000000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "215 g (7 1/2 oz) can borlotti butter or haricot beans drained and rinsed",
+            "amount": "107.5",
+            "unit": "g",
+            "ingredient_name": "borlotti butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.1075,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.2989575
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "215 g (7 1/2 oz) can borlotti butter or haricot beans drained and rinsed",
+            "amount": "107.5",
+            "unit": "g",
+            "ingredient_name": "haricot beans",
+            "matched_ingredient": "Haricot bean",
+            "kg_equivalent": 0.1075,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.173075
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "85 g (3 oz) cavolo nero (also known as black kale or Tuscan kale) leaves shredded",
+            "amount": "85.0",
+            "unit": "g",
+            "ingredient_name": "cavolo nero",
+            "matched_ingredient": "Kale",
+            "kg_equivalent": 0.085,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.037145000000000004
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "55 g (2 oz) crusty white bread crusts removed and bread torn into pieces",
+            "amount": "55.0",
+            "unit": "g",
+            "ingredient_name": "crusty white bread crusts",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.055,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.079255
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tbsp chopped fresh flat-leaf parsley",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped fresh flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Freshly ground black pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat olive oil in a non-stick saucepan; add onion, celery, carrots and garlic and cook gently for about 10 minutes or until softened, stirring occasionally."
+        },
+        {
+            "number": 2,
+            "instruction": "Add courgette; cook for a further 3 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Stir in tomatoes, stock, beans and bay leaf; bring to the boil. Reduce heat, cover and simmer gently for about 25 minutes or until vegetables are tender, stirring occasionally."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove and discard bay leaf. stir in cavolo nero; cover and cook gently for a further 10 minutes or until tender. Stir in bread and parsley; season to taste with black pepper. If soup is too thick, stir in a little extra hot stock; if soup is too thin, stir in a little extra bread."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve in warmed soup bowls."
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/kedgeree",
+    "title": "Kedgeree",
+    "total_CO2": 4.0410276,
+    "servings": 4,
+    "CO2_per_portion": 1.0102569,
+    "E.Mission coefficient": 3.097284893078868,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "300 g undyed smoked haddock fillet, skin on",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "undyed smoked haddock fillet",
+            "matched_ingredient": "Haddock",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.8481
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "300 ml milk",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.312,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.867672
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 eggs",
+            "amount": "4.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "handful chopped parsley",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "handful chopped coriander",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 large onion, finely chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp ground turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tsp curry powder",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "300 g easy-cook long grain rice, rinsed under running water",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.1517
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "For the rice, heat 2 tbsp vegetable oil in a large, lidded pan, add 1 finely chopped large onion, then gently fry for 5 mins until softened but not coloured."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 1 tsp ground coriander, 1 tsp ground turmeric and 2 tsp curry powder, season with salt, then continue to fry until the mix starts to go brown and fragrant; about 3 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 300g rinsed easy-cook long grain rice and stir in well."
+        },
+        {
+            "number": 4,
+            "instruction": "Add 600ml water, stir, then bring to the boil. Reduce to a simmer, then cover for 10 mins."
+        },
+        {
+            "number": 5,
+            "instruction": "Take off the heat and leave to stand, covered, for 10-15 mins more. The rice will be perfectly cooked if you do not lift the lid before the end of the cooking."
+        },
+        {
+            "number": 6,
+            "instruction": "Meanwhile, put 300g skin-on undyed smoked haddock fillet and 2 bay leaves in a frying pan, cover with 300ml milk, then poach for 10 mins until the flesh flakes."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove from the milk, peel away the skin, then flake the flesh into thumb-sized pieces."
+        },
+        {
+            "number": 8,
+            "instruction": "Place 4 eggs in a pan, cover with water, bring to the boil, then reduce to a simmer. Leave for 4½-5 mins, plunge into cold water, then peel and cut the eggs into quarters."
+        },
+        {
+            "number": 9,
+            "instruction": "Gently mix the fish, eggs, a handful each of chopped parsley and coriander, and rice together in the pan."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve hot, sprinkled with a few extra herbs."
+        }
+    ]
+}

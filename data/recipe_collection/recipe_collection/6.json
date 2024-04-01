@@ -1,0 +1,31 @@
+{
+    "url": "https://www.gousto.co.uk/cookbook/vegan-recipes/crispy-mushroom-dal-with-coriander-chutney",
+    "title": "",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Recipes | Quick and Easy Dinner Ideas | Gousto",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "You need to enable JavaScript to run this app.",
+            "amount": "1.0",
+            "ingredient_name": "you need to enable javascri to run this app",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

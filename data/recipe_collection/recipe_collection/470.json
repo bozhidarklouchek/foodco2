@@ -1,0 +1,123 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/green-beans-mushrooms-tangy-soy-dressing",
+    "title": "Green beans & mushrooms with tangy soy dressing",
+    "total_CO2": 0.905331,
+    "servings": 6,
+    "CO2_per_portion": 0.1508885,
+    "E.Mission coefficient": 1.430900900900901,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "300 g French green beans , trimmed",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "French green beans",
+            "matched_ingredient": "Bean",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.483
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "100 g small white mushroom , halved",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "small white mushroom",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "20 g pack chives , chopped",
+            "amount": "20.0",
+            "unit": "g",
+            "ingredient_name": "chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0079
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "5 tbsp soy sauce",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.06855
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp grated fresh root ginger",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "grated fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp honey",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0207,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.020079
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 garlic clove , crushed with a knife",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp lemon juice",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.00951
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "5 tbsp extra-virgin olive oil",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.069,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.26413200000000003
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Boil the beans in salted water for 5-7 mins, then drain and submerge in a bowl of iced water. Pat dry with a tea towel and tip into a bowl with the mushrooms and chives."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the rest of the ingredients into a small jar and shake well."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour over the beans and toss gently. Pack in a covered container and refrigerate."
+        }
+    ]
+}

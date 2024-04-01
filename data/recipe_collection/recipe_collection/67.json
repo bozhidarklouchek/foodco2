@@ -1,0 +1,165 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/stir_fried_pork_with_85173",
+    "title": "Stir-fried pork with ginger and soy",
+    "total_CO2": 2.1269808,
+    "servings": 2,
+    "CO2_per_portion": 1.0634904,
+    "E.Mission coefficient": 2.5716126224156697,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g/9 oz pork tenderloin, all visible fat removed, cut into chunks",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "pork tenderloin",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.8205
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp cornflour",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.0040999999999999995,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.004050799999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp dark soy sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "low-calorie cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "calorie cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "150 g/51/2 oz button mushrooms, sliced",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "button mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.06825
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 red peppers, deseeded and sliced",
+            "amount": "2.0",
+            "ingredient_name": "red peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "75 g/21/2 oz mangetout, trimmed",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "mangetout",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0672
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "15 g/1/2 oz fresh root ginger, cut into thin matchsticks",
+            "amount": "15.0",
+            "unit": "g",
+            "ingredient_name": "fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 garlic clove, thinly sliced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 spring onions, cut into short lengths",
+            "amount": "4.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0237
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Season the pork with pepper."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix the cornflour with two tablespoons of cold water until smooth, then stir in the soy sauce."
+        },
+        {
+            "number": 3,
+            "instruction": "Spray a large wok, or deep frying pan, with cooking spray and place over a high heat. Stir-fry the pork for 1-2 minutes, or until lightly browned but not cooked through."
+        },
+        {
+            "number": 4,
+            "instruction": "Transfer to a plate."
+        },
+        {
+            "number": 5,
+            "instruction": "Return the pan to the heat, reduce the heat a little and spray with more oil. Stir-fry the mushrooms and pepper for 2 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the mangetout and cook for a minute."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the ginger, garlic and spring onions and stir-fry for a few seconds."
+        },
+        {
+            "number": 8,
+            "instruction": "Return the pork to the pan and pour over the soy sauce mixture. Cook for 1-2 minutes, or until the sauce has thickened and the pork is cooked through."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/simple-stir-fry",
+    "title": "Simple stir-fry",
+    "total_CO2": 3.6382664,
+    "servings": 4,
+    "CO2_per_portion": 0.9095666,
+    "E.Mission coefficient": 3.5346996988244435,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 g vegetables such as carrots, baby corn, broccoli, courgettes, red peppers and cabbage or pak choi",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.11375
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "500 g vegetables such as carrots, baby corn, broccoli, courgettes, red peppers and cabbage or pak choi",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "pak choi",
+            "matched_ingredient": "Pak choi",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.10925
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp rapeseed oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 garlic clove, sliced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 cm fresh ginger, grated",
+            "amount": "1.0",
+            "unit": "cm",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "11/2 tbsp reduced salt soy sauce",
+            "amount": "5.5",
+            "unit": "tbsp",
+            "ingredient_name": "reduced salt soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.0825,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.075405
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp sweet chilli sauce (optional)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sweet chilli sauce",
+            "matched_ingredient": "Chilli sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "200 g cooked prawns, salmon (flaked) or chicken breast (shredded)",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "cooked prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 2.3708
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 g egg noodles, cooked",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "egg noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Finely chop or slice the vegetables into pieces roughly the same size. Slice the carrots diagonally, slice the baby corn, cut the broccoli into small florets, then slice the stem, and finely slice the peppers, cabbage or pak choi."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the oil in a large frying pan or wok, then fry the garlic and ginger for 1 min."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the veg and toss to coat. Fry for 2-3 mins, then add the soy sauce and chilli sauce, if using, and mix well. Cook for 2-3 mins more until the veg is tender. Stir in the prawns, salmon or chicken and heat through."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve over the noodles."
+        }
+    ]
+}

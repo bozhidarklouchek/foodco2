@@ -1,0 +1,172 @@
+{
+    "url": "https://www.asda.com/good-living/recipe/mushroom-pea-risotto",
+    "title": "Mushroom & pea risotto",
+    "total_CO2": 2.1720828,
+    "servings": 4,
+    "CO2_per_portion": 0.5430207,
+    "E.Mission coefficient": 0.8788698132675151,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Third of a jar dried porcini mushrooms",
+            "amount": "1.0",
+            "ingredient_name": "dried porcini mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 medium onion, chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 garlic clove, finely chopped",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "350 g Asda Arborio Rice",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "Asda Arborio Rice",
+            "matched_ingredient": "Arborio rice",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.34365
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "125 ml white wine (optional)",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.198125
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1.3 litres hot vegetable stock",
+            "amount": "1.3",
+            "unit": "litres",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 1.3,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.026000000000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "250 g mushrooms, sliced",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.11375
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "200 g frozen peas",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.17920000000000003
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp chopped flat-leaf parsley",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put the dried mushrooms in a bowl and pour over 100ml hot water. Leave to soak for 30 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain, reserving the liquid, and chop."
+        },
+        {
+            "number": 3,
+            "instruction": "Cook the onion in 1 tbsp oil and half the butter, until soft."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the garlic and cook for another minute, then add the soaked mushrooms and cook for 2 minutes, stirring."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the rice and stir over a low heat for 1 minute, then add the white wine, if using, and simmer until it has almost evaporated."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the reserved mushroom liquid and the hot stock, a ladleful at a time and stir. Make sure the hot stock has been almost absorbed before you add the next ladleful. Stir frequently and continue cooking for 12 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "While the risotto is cooking, heat the rest of the oil and butter in a frying pan and cook the sliced fresh mushrooms until they shrink."
+        },
+        {
+            "number": 8,
+            "instruction": "Add to the risotto with the pan juices and the peas and continue cooking, adding the stock, a ladleful at a time until the rice is tender and creamy."
+        },
+        {
+            "number": 9,
+            "instruction": "Stir in half of the chopped parsley."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve the rest sprinkled on top.Please drink responsibly. For the facts, visit drinkaware.co.uk."
+        }
+    ]
+}

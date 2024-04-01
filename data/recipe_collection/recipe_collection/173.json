@@ -1,0 +1,136 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/spiced-carrot-lentil-soup",
+    "title": "Spiced carrot & lentil soup (238)",
+    "total_CO2": 1.5666294000000003,
+    "servings": 4,
+    "CO2_per_portion": 0.39165735000000007,
+    "E.Mission coefficient": 1.4027214039486058,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tsp cumin seeds",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "pinch chilli flakes",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "600 g carrots, washed and coarsely grated",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "140 g split red lentils",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.22540000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 l hot vegetable stock",
+            "amount": "1.0",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "125 ml milk",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.36153
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "plain yogurt",
+            "amount": "1.0",
+            "ingredient_name": "yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.4727700000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "naan bread",
+            "amount": "1.0",
+            "ingredient_name": "bread",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.040348
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat a large saucepan and dry-fry 2 tsp cumin seeds and a pinch of chilli flakes for 1 min, or until they start to jump around the pan and release their aromas."
+        },
+        {
+            "number": 2,
+            "instruction": "Scoop out about half with a spoon and set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 2 tbsp olive oil, 600g coarsely grated carrots, 140g split red lentils, 1l hot vegetable stock and 125ml milk to the pan and bring to the boil. "
+        },
+        {
+            "number": 4,
+            "instruction": "Simmer for 15 mins until the lentils have swollen and softened."
+        },
+        {
+            "number": 5,
+            "instruction": "Whizz the soup with a stick blender or in a food processor until smooth (or leave it chunky if you prefer)."
+        },
+        {
+            "number": 6,
+            "instruction": "Season to taste and finish with a dollop of plain yogurt and a sprinkling of the reserved toasted spices. "
+        },
+        {
+            "number": 7,
+            "instruction": "Serve with warmed naan breads."
+        }
+    ]
+}

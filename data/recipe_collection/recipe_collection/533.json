@@ -1,0 +1,174 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/chicken-madras",
+    "title": "Chicken madras",
+    "total_CO2": 4.58847835,
+    "servings": 4,
+    "CO2_per_portion": 1.1471195875,
+    "E.Mission coefficient": 3.7905645187938863,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 onion, peeled and quartered",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 garlic cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "thumb-sized chunk of ginger, peeled",
+            "amount": "1.0",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 red chilli",
+            "amount": "0.5",
+            "ingredient_name": "red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp turmeric",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1-2 tsp hot chilli powder (depending on how spicy you like your curry)",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "hot chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 chicken breasts, cut into chunks",
+            "amount": "4.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "small pack coriander, chopped",
+            "amount": "1.0",
+            "unit": "pack",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "rice, naan and mango chutney, to serve",
+            "amount": "1.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Blitz 1 quartered onion, 2 garlic cloves, a thumb-sized chunk of ginger and ½ red chilli together in a food processor until it becomes a coarse paste."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat 1 tbsp vegetable oil in a large saucepan and add the paste, fry for 5 mins, until softened. If it starts to stick to the pan at all, add a splash of water."
+        },
+        {
+            "number": 3,
+            "instruction": "Tip in ½ tsp turmeric, 1 tsp ground cumin, 1 tsp ground coriander and 1-2 tsp hot chilli powder and stir well, cook for a couple of mins to toast them a bit, then add 4 chicken breasts, cut into chunks. Stir and make sure everything is covered in the spice mix."
+        },
+        {
+            "number": 4,
+            "instruction": "Cook until the chicken begins to turn pale, adding a small splash of water if it sticks to the base of the pan at all."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour in 400g can chopped tomatoes, along with a big pinch of salt, cover and cook on a low heat for 30 mins, until the chicken is tender."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir through small pack of coriander and serve with rice, naan and a big dollop of mango chutney."
+        }
+    ]
+}

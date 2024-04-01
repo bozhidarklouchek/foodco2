@@ -1,0 +1,166 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/beef-vegetable-casserole",
+    "title": "Beef stew",
+    "total_CO2": 50.96844956499999,
+    "servings": 5,
+    "CO2_per_portion": 10.193689912999998,
+    "E.Mission coefficient": 40.010872082206504,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 celery sticks, thickly sliced",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 really big carrots, halved lengthways then very chunkily sliced",
+            "amount": "2.0",
+            "unit": "big",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0584
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "5 bay leaves",
+            "amount": "5.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 thyme sprigs, 1 whole and 1 leaves picked",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp butter",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp plain flour",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0276672
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tbsp Worcestershire sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 beef stock cubes, crumbled",
+            "amount": "2.0",
+            "ingredient_name": "beef stock cubes",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "850 g stewing beef (featherblade or brisket works nicely), cut into nice large chunks",
+            "amount": "850.0",
+            "unit": "g",
+            "ingredient_name": "stewing beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.85,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 50.634499999999996
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 160C/140C fan/gas 3 and put the kettle on."
+        },
+        {
+            "number": 2,
+            "instruction": "Put 2 thickly sliced celery sticks, 1 chopped onion, 2 chunkily sliced carrots, 5 bay leaves and 1 whole thyme sprig in a flameproof casserole dish with 1 tbsp vegetable oil and 1 tbsp butter."
+        },
+        {
+            "number": 3,
+            "instruction": "Soften for 10 mins, then stir in 2 tbsp plain flour until it doesn’t look dusty anymore, followed by 2 tbsp tomato purée, 2 tbsp Worcestershire sauce and 2 crumbled beef stock cubes."
+        },
+        {
+            "number": 4,
+            "instruction": "Gradually stir in 600ml hot water, then tip in 850g stewing beef and bring to a gentle simmer."
+        },
+        {
+            "number": 5,
+            "instruction": "Cover and put in the oven for 2hrs 30 mins, then uncover and cook for 30mins – 1hr more until the meat is really tender and the sauce is thickened."
+        },
+        {
+            "number": 6,
+            "instruction": "Garnish with the picked leaves of the remaining thyme sprig."
+        }
+    ]
+}

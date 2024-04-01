@@ -1,0 +1,273 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/chicken-recipes/chicken-fajitas-with-homemade-guacamole-and-salsa/",
+    "title": "Chicken fajitas",
+    "total_CO2": 3.2592960000000004,
+    "servings": 2,
+    "CO2_per_portion": 1.6296480000000002,
+    "E.Mission coefficient": 2.994575523704521,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 red pepper",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 medium red onion",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 skinless free-range chicken breasts",
+            "amount": "2.0",
+            "ingredient_name": "free-range chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.31,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.88852
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 teaspoon smoked paprika",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 small pinch of ground cumin",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 limes",
+            "amount": "2.0",
+            "ingredient_name": "limes",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.041210000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 small flour tortillas or 2 large",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "small flour tortillas",
+            "matched_ingredient": "Flour tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "150 ml fat-free natural yoghurt",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "fat-free natural yoghurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": -0.14100000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": -0.39212100000000005
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "50 g Cheddar cheese",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "Cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2-1 fresh red chilli to your taste",
+            "amount": "0.75",
+            "ingredient_name": "fresh red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.01125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00511875
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "15 ripe cherry tomatoes",
+            "amount": "15.0",
+            "ingredient_name": "ripe cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.255,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.363885
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 bunch fresh coriander (30g)",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 lime",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "extra virgin olive oil",
+            "amount": "1.0",
+            "ingredient_name": "virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 small handful of mixed-colour rip cherry tomatoes",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.017,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.024259000000000003
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/2-1 fresh red chilli",
+            "amount": "0.75",
+            "ingredient_name": "fresh red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.01125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00511875
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "a few sprigs of fresh coriander",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 ripe avocado",
+            "amount": "1.0",
+            "ingredient_name": "ripe avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 lime",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Put a griddle pan on a high heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Halve, deseed and slice the pepper into thin strips, then peel, halve, and finely slice the onion. Slice the chicken lengthways into long strips, roughly the same size as the pepper strips."
+        },
+        {
+            "number": 4,
+            "instruction": "Put the peppers, onion, and chicken into a bowl with the paprika and cumin. Squeeze over the juice of half a lime, drizzle over 1 tablespoon of oil, season with a good pinch of black pepper and mix well. Put aside to marinate for 5 minutes or so while you make your salsa."
+        },
+        {
+            "number": 5,
+            "instruction": "For the salsa, finely chop the chilli, roughly chop the tomatoes and the coriander (stalks and all), then place in a clean bowl with a pinch of sea salt and black pepper. Squeeze over the juice of 1 lime, and stir in the coriander."
+        },
+        {
+            "number": 6,
+            "instruction": "Using tongs, place the pepper, onion, and chicken onto the griddle and cook for 6 to 8 minutes, or until the chicken is golden and cooked through."
+        },
+        {
+            "number": 7,
+            "instruction": "As the pan will be really hot, keep turning the pieces of chicken and vegetables over so they don’t burn – you just want them to lightly chargrill to give you a lovely flavour."
+        },
+        {
+            "number": 8,
+            "instruction": "To make the guacamole, squeeze the cherry tomatoes onto a board, then finely chop with ½ -1 red chilli and a handful of coriander leaves, including the top part of the stalks."
+        },
+        {
+            "number": 9,
+            "instruction": "Halve and destone the avocado, then squeeze it over a board so the flesh comes out of the skin. Discard the skin. Squeeze over the lime juice and chop everything together until fine. Taste and adjust the flavours, if needed."
+        },
+        {
+            "number": 10,
+            "instruction": "Warm the tortillas in a microwave or warm, dry frying pan, then divide between serving plates. Squeeze the remaining lime juice over the sizzling pan."
+        },
+        {
+            "number": 11,
+            "instruction": "At the table, carefully help yourselves to the chicken and vegetables straight from the hot grill pan. Just be sure to put it down on top of something that won’t burn, like a chopping board."
+        },
+        {
+            "number": 12,
+            "instruction": "Serve with bowls of natural yoghurt and guacamole, alongside the Cheddar, a grater, and the lovely fresh salsa."
+        },
+        {
+            "number": 13,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

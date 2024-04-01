@@ -1,0 +1,302 @@
+{
+    "url": "https://www.sacla.co.uk/blogs/recipes/chickpea-jacket-potatoes-with-vegan-salad-cream-by-whatluceeats",
+    "title": "Italian Food",
+    "total_CO2": 1.1196710000000003,
+    "servings": 2,
+    "CO2_per_portion": 0.5598355000000002,
+    "E.Mission coefficient": 1.5486459197787001,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Italian Food Recipes | New 2023 Recipes | Sacla' UK",
+            "amount": "2023.0",
+            "ingredient_name": "Italian Food Recipes",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "15% Off When You Spend £60 With XMAS15",
+            "amount": "15.0",
+            "ingredient_name": "off when you spend £",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Free UK Delivery Over £30",
+            "amount": "30.0",
+            "ingredient_name": "free uk delivery over £",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Christmas Food",
+            "amount": "1.0",
+            "ingredient_name": "Food",
+            "matched_ingredient": "Soya mince",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.20097
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Pesto",
+            "amount": "1.0",
+            "ingredient_name": "Pesto",
+            "matched_ingredient": "Pesto",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006992
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Pasta & Sauces",
+            "amount": "1.0",
+            "ingredient_name": "Pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.425,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.612425
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Italian Wine",
+            "amount": "1.0",
+            "ingredient_name": "Italian Wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "15% Off When You Spend £60 With XMAS15",
+            "amount": "15.0",
+            "ingredient_name": "off when you spend £",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Free UK Delivery Over £30",
+            "amount": "30.0",
+            "ingredient_name": "free uk delivery over £",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Tomato Pesto Rigatoni",
+            "amount": "1.0",
+            "ingredient_name": "Tomato Pesto Rigatoni",
+            "matched_ingredient": "Pesto",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006992
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Pesto Veggie Shawarma",
+            "amount": "1.0",
+            "ingredient_name": "Pesto Veggie",
+            "matched_ingredient": "Pesto",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006992
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "When it’s chilly outside, our mouth-watering recipes will bring a big burst of Italian sunshine to your table.",
+            "amount": "1.0",
+            "unit": "big",
+            "ingredient_name": "Italian sunshine",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Nothing matches your selection today. We'll get cracking on some new recipes pronto!",
+            "amount": "1.0",
+            "ingredient_name": "nothing matches your selection today. we'll get cracking on some new recipes pronto",
+            "matched_ingredient": "Tannia",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "Our Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "Our Sacla' Story",
+            "amount": "1.0",
+            "ingredient_name": "Sacla",
+            "matched_ingredient": "Amla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "4.9/5 Excellent Reviews",
+            "amount": "0.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "Sweet Treats",
+            "amount": "1.0",
+            "ingredient_name": "treats",
+            "matched_ingredient": "Hilsa",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "Italian Hampers",
+            "amount": "1.0",
+            "ingredient_name": "hampers",
+            "matched_ingredient": "Kippers",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 30,
+            "original_string": "Italian Gifts",
+            "amount": "1.0",
+            "ingredient_name": "gifts",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 33,
+            "original_string": "Our Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 34,
+            "original_string": "Our Sacla' Story",
+            "amount": "1.0",
+            "ingredient_name": "Sacla",
+            "matched_ingredient": "Amla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 38,
+            "original_string": "4.9/5 Excellent Reviews",
+            "amount": "0.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 39,
+            "original_string": "GIVE IT A GO",
+            "amount": "1.0",
+            "ingredient_name": "give i a go",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 42,
+            "original_string": "Filters (${ props.activeFilters.length })",
+            "amount": "1.0",
+            "ingredient_name": "filters",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 44,
+            "original_string": "${ category.title }",
+            "amount": "1.0",
+            "ingredient_name": "$",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 47,
+            "original_string": "${ filter.name.slice(0, 1).toUpperCase() + filter.name.slice(1) }",
+            "amount": "0.0",
+            "ingredient_name": "$",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 49,
+            "original_string": "Loading Articles...",
+            "amount": "1.0",
+            "ingredient_name": "loading articles",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 53,
+            "original_string": "${ article.tags.find(elem => elem.includes('time:')).replace('time:', '') }",
+            "amount": "1.0",
+            "ingredient_name": "$",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 54,
+            "original_string": "${ article.title }",
+            "amount": "1.0",
+            "ingredient_name": "$",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

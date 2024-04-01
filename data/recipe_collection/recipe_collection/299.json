@@ -1,0 +1,248 @@
+{
+    "url": "https://damndelicious.net/2019/10/12/thai-coconut-curry-soup/",
+    "title": "Thai Coconut Curry Soup",
+    "total_CO2": 8.74110075615107,
+    "servings": 6,
+    "CO2_per_portion": 1.4568501260251783,
+    "E.Mission coefficient": 4.70613437119027,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons coconut oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.02772,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.15944544
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large red bell pepper, thinly sliced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large yellow bell pepper, thinly sliced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "yellow bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 medium red onion, thinly sliced",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 tablespoons red curry paste",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "red curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.020475
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tablespoon freshly grated ginger",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "freshly grated ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 cups chicken stock",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.1419529419
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 (8-ounce) can tomato sauce",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 1/2 tablespoons fish sauce",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "fish sauce",
+            "matched_ingredient": "Fish sauce",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0636075
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 teaspoons brown sugar",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.018704000000000002
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 teaspoons brown sugar",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.018704000000000002
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 (13.5-ounce) can coconut milk",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 1/2 pounds medium shrimp, peeled and deveined",
+            "amount": "1.5",
+            "unit": "pounds",
+            "ingredient_name": "medium shrimp",
+            "matched_ingredient": "Shrimp",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 8.06532593097
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/4 cup chopped fresh Thai basil leaves",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped fresh Thai basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4 cup chopped fresh Thai basil leaves",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped fresh Thai basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/4 cup chopped fresh cilantro leaves",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped fresh cilantro leaves",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.034305294292499997,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.014991413605822498
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "2 tablespoons freshly squeezed lime juice",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "freshly squeezed lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.00951
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "Kosher salt and freshly ground black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat coconut oil in a large stockpot or Dutch oven over medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add bell peppers and onion, and cook, stirring occasionally, until just tender, about 3-4 minutes. Stir in red curry paste, ginger and garlic until fragrant, about 1 minute."
+        },
+        {
+            "number": 3,
+            "instruction": "Gradually whisk in chicken stock, tomato sauce, fish sauce and brown sugar. Bring to a boil; reduce heat and simmer until flavors have blended, about 10-15 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Stir in coconut milk and simmer until reduced and slightly thickened, about 10 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Stir in shrimp, and cook, stirring occasionally, until pink and cooked through, about 3-4 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove from heat; stir in basil, cilantro and lime juice; season with salt and pepper, to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

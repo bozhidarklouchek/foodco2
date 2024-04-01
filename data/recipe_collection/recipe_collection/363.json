@@ -1,0 +1,205 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/thai-green-chicken-curry",
+    "title": "Thai green chicken curry",
+    "total_CO2": 3.5309346500000003,
+    "servings": 6,
+    "CO2_per_portion": 0.5884891083333333,
+    "E.Mission coefficient": 2.4928057114617537,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "225 g new potatoes, cut into chunks",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "new potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08325
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "100 g green beans, trimmed and halved",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "green beans",
+            "matched_ingredient": "Green bean",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.16100000000000003
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp vegetable or sunflower oil",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.00375,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00170625
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tbsp vegetable or sunflower oil",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0072,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.0259704
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 garlic clove, chopped",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 rounded tbsp or 4 tsp Thai green curry paste (you can't fit the tablespoon into some of the jars)",
+            "amount": "1.0",
+            "unit": "rounded tbsp",
+            "ingredient_name": "Thai green curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 ml can coconut milk",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.48,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.43872
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tsp Thai fish sauce",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Thai fish sauce",
+            "matched_ingredient": "Fish sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.02827
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp caster sugar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.006912000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "450 g boneless skinless chicken (breasts or thighs), cut into bite-size pieces",
+            "amount": "450.0",
+            "unit": "g",
+            "ingredient_name": "boneless skinless chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.7414
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 lime leaves finely shredded, or 3 wide strips lime zest, plus extra to garnish",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 lime leaves finely shredded, or 3 wide strips lime zest, plus extra to garnish",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "lime zest",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "good handful of basil leaves",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "boiled rice, to serve",
+            "amount": "1.0",
+            "ingredient_name": "boiled rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put 225g new potatoes, cut into chunks, in a pan of boiling water and cook for 5 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 100g trimmed and halved green beans and cook for a further 3 minutes, by which time both should be just tender but not too soft."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain and put to one side."
+        },
+        {
+            "number": 4,
+            "instruction": "In a wok or large frying pan, heat 1 tbsp vegetable or sunflower oil until very hot, then drop in 1 chopped garlic clove and cook until golden, this should take only a few seconds. Don’t let it go very dark or it will spoil the taste."
+        },
+        {
+            "number": 5,
+            "instruction": "Spoon in 1 rounded tbsp Thai green curry paste and stir it around for a few seconds to begin to cook the spices and release all the flavours."
+        },
+        {
+            "number": 6,
+            "instruction": "Next, pour in a 400ml can of coconut milk and let it come to a bubble."
+        },
+        {
+            "number": 7,
+            "instruction": "Stir in 2 tsp Thai fish sauce and 1 tsp caster sugar, then 450g bite-size chicken pieces. Turn the heat down to a simmer and cook, covered, for about 8 minutes until the chicken is cooked."
+        },
+        {
+            "number": 8,
+            "instruction": "Tip in the potatoes and beans and let them warm through in the hot coconut milk, then add 2 finely shredded lime leaves (or 3 wide strips lime zest)."
+        },
+        {
+            "number": 9,
+            "instruction": "Add a good handful basil leaves, but only leave them briefly on the heat or they will quickly lose their brightness."
+        },
+        {
+            "number": 10,
+            "instruction": "Scatter with lime to garnish and serve immediately with boiled rice."
+        }
+    ]
+}

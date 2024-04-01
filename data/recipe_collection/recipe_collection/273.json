@@ -1,0 +1,281 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/you-it-katsu-curry",
+    "title": "Healthy chicken katsu curry",
+    "total_CO2": 2.5280602333333335,
+    "servings": 2,
+    "CO2_per_portion": 1.2640301166666668,
+    "E.Mission coefficient": 2.7793353061355375,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "25 g flaked almonds",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "flaked almonds",
+            "matched_ingredient": "Almond",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.006950000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp cold-pressed rapeseed oil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cold-pressed rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.004600000000000001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0176088
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 boneless, skinless chicken breasts (about 300g total)",
+            "amount": "2.0",
+            "ingredient_name": "skinless chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.31,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.88852
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "lime wedges, for squeezing over",
+            "amount": "1.0",
+            "ingredient_name": "lime wedges",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tsp cold-pressed rapeseed oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "cold-pressed rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.009200000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0352176
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 medium onion, roughly chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "thumb-sized piece ginger, peeled and finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tsp medium curry powder",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 star anise",
+            "amount": "1.0",
+            "ingredient_name": "star anise",
+            "matched_ingredient": "Star anise",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 tsp ground turmeric",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp plain wholemeal flour",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "wholemeal flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0138336
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "100 g long-grain brown rice",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "grain brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.3839
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 spring onions, finely sliced (include the green part)",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 medium carrot, peeled into long strips with a vegetable peeler",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/3 cucumber, peeled into long strips with a vegetable peeler",
+            "amount": "0.3333333333333333",
+            "ingredient_name": "cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.06666666666666667,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.030333333333333334
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 small red chilli, finely chopped (deseeded if you don't like it too hot)",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "juice 1/2 lime",
+            "amount": "0.5",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "small handful mint leaves",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "mint leaves",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.0015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006555
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "small handful coriander leaves",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "coriander leaves",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 220C/200C fan/gas 7, or if using an air-fryer, heat to 180C for 4 mins. Cook the brown rice in plenty of boiling water for 35 mins or until tender."
+        },
+        {
+            "number": 2,
+            "instruction": "Crush the almonds using a pestle and mortar, or blitz in a food processor until finely chopped, then sprinkle over a plate. Grease a small baking tray with a little of the oil if baking in the oven."
+        },
+        {
+            "number": 3,
+            "instruction": "Brush the chicken on both sides with the remaining oil and season well. Coat the chicken with the nuts and place on the tray. Press any remaining nuts from the plate onto each breast."
+        },
+        {
+            "number": 4,
+            "instruction": "Bake for 20 mins in the oven, or 18-20 mins in the air-fryer until browned and cooked through. Rest for 4-5 mins on the tray, then slice thickly."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, make the sauce."
+        },
+        {
+            "number": 6,
+            "instruction": "Heat the oil in a medium non-stick saucepan and add the onion, garlic and ginger. Loosely cover the pan and fry gently for 8 mins or until softened and lightly browned, stirring occasionally."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove the lid for the final 2 mins, and don’t let the garlic burn."
+        },
+        {
+            "number": 8,
+            "instruction": "Stir in the curry powder, star anise, turmeric and a good grinding of black pepper. Cook for a few secs more, stirring. "
+        },
+        {
+            "number": 9,
+            "instruction": "Sprinkle over the flour and stir well. Gradually add 400ml water to the pan, stirring constantly."
+        },
+        {
+            "number": 10,
+            "instruction": "Bring the sauce to a simmer and cook for 10 mins, stirring occasionally. If it begins to splutter, cover loosely with a lid."
+        },
+        {
+            "number": 11,
+            "instruction": "Remove the pan from the heat and blitz the sauce with a stick blender until smooth. Adjust the seasoning to taste. Keep warm."
+        },
+        {
+            "number": 12,
+            "instruction": "Once the rice is tender, add the spring onions and cook for 1 min more."
+        },
+        {
+            "number": 13,
+            "instruction": "Drain well, then leave to stand for a few mins while you make the salad. Toss the carrot and cucumber with the chilli, lime juice and herbs."
+        },
+        {
+            "number": 14,
+            "instruction": "Divide the sliced chicken between two plates, pour over the sauce and serve with the rice, salad and lime wedges for squeezing over."
+        }
+    ]
+}

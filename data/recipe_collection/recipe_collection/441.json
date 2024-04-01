@@ -1,0 +1,183 @@
+{
+    "url": "https://www.forksoverknives.com/recipes/vegan-burgers-wraps/vegetable-brown-rice-sushi/",
+    "title": "Vegetable Brown Rice Sushi",
+    "total_CO2": 9.23035722004112,
+    "servings": 4,
+    "CO2_per_portion": 2.30758930501028,
+    "E.Mission coefficient": 3.469726081908449,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "31/2 cups cooked short-grain brown rice",
+            "amount": "15.5",
+            "unit": "cups",
+            "ingredient_name": "grain brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 2.34695530608,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 9.009961420041119
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tablespoons pure maple syrup",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "pure maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.0396,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.038412
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tablespoon brown rice vinegar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "brown rice vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 medium Persian cucumber, cut into ¼-inch sticks",
+            "amount": "1.0",
+            "unit": "sticks",
+            "ingredient_name": "Persian cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00455
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 medium red bell pepper, cut into ¼-inch strips",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 medium carrot, cut into ¼-inch sticks",
+            "amount": "1.0",
+            "unit": "sticks",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 avocado, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 nori sheets",
+            "amount": "4.0",
+            "ingredient_name": "nori",
+            "matched_ingredient": "Nori",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Low-sodium tamari or soy sauce for serving",
+            "amount": "1.0",
+            "ingredient_name": "sodium tamari",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Low-sodium tamari or soy sauce for serving",
+            "amount": "1",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.014624000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Wasabi paste, for serving",
+            "amount": "1.0",
+            "ingredient_name": "Wasabi paste",
+            "matched_ingredient": "Wasabi",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 teaspoon sea salt (optional)",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Combine the cooked rice, maple syrup, vinegar, and salt (if using) in a saucepan."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix well and warm over the stove for 3 to 5 minutes until the liquid has been absorbed and the rice gets a bit sticky."
+        },
+        {
+            "number": 3,
+            "instruction": "Assemble your sushi station: Include a cutting board, a sharp knife, a bamboo mat (or cloth towel), a bowl with water, rice, nori sheets, and the vegetables."
+        },
+        {
+            "number": 4,
+            "instruction": "Place a nori sheet on the mat."
+        },
+        {
+            "number": 5,
+            "instruction": "Spread ¾ cup of the rice in a thin layer over most of the sheet. Keep your hands damp by dipping them in the bowl of water; this will prevent the rice from sticking to your fingers. Keep the rice ½ inch away from the top and bottom ends, the ends closest to and farthest from you. You can spread them right to the edges on the other two sides."
+        },
+        {
+            "number": 6,
+            "instruction": "Place the cucumber, bell pepper, carrot, and avocado on top."
+        },
+        {
+            "number": 7,
+            "instruction": "With the help of the mat, lift the bottom end of the nori sheet over the vegetables and tuck under."
+        },
+        {
+            "number": 8,
+            "instruction": "Roll the nori toward the top end. Using your fingers, apply water to the edge of the sheet and roll to seal it. Press the open ends to pack in any rice and vegetables trying to escape."
+        },
+        {
+            "number": 9,
+            "instruction": "Using a sharp knife dipped in the bowl of water, cut the rolled sheet in half. Continue to cut each segment into halves until you get 8 pieces."
+        },
+        {
+            "number": 10,
+            "instruction": "Repeat with the remaining sheets."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve with the tamari and wasabi paste."
+        }
+    ]
+}

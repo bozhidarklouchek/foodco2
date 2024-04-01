@@ -1,0 +1,362 @@
+{
+    "url": "https://www.happypearcourses.com/roasted-veg-pasta-bake",
+    "title": "The Happy Pear - Plant Based and Vegan Lifestyle Online Courses",
+    "total_CO2": 1300.204859,
+    "servings": 2,
+    "CO2_per_portion": 650.1024295,
+    "E.Mission coefficient": 7.036806761847033,
+    "ingredients": [
+        {
+            "ingredient_number": 2,
+            "original_string": "Ultimate Vegan Cooking",
+            "amount": "1.0",
+            "ingredient_name": "Vegan Cooking",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Ultimate Vegan Baking",
+            "amount": "1.0",
+            "ingredient_name": "Vegan Baking",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "All of our recipes are completely plant-based and include mostly whole foods",
+            "amount": "1.0",
+            "ingredient_name": "whole foods",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Simple Sauerkraut",
+            "amount": "1.0",
+            "ingredient_name": "Sauerkraut",
+            "matched_ingredient": "Sauerkraut",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Epic Christmas sandwich",
+            "amount": "1.0",
+            "ingredient_name": "sandwich",
+            "matched_ingredient": "Plant-based burger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Oil-Free Creamy Pasta",
+            "amount": "1.0",
+            "ingredient_name": "Oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "View All Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Join our mailing list and get a FREE E-BOOK with our 10 most popular 5 minute recipes & the 5 secrets to quick, tasty dinners!",
+            "amount": "10.0",
+            "ingredient_name": "tasty",
+            "matched_ingredient": "Golden syrup",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Our Food Products",
+            "amount": "1.0",
+            "ingredient_name": "Food Products",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Chocoluv Brownie",
+            "amount": "1.0",
+            "ingredient_name": "Brownie",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Dave’s Cocoa Crunch Granola",
+            "amount": "1.0",
+            "ingredient_name": "Cocoa Crunch Granola",
+            "matched_ingredient": "Cocoa",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.093405
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "Lentil & Sweet Potato Dahl Meal Pot",
+            "amount": "1.0",
+            "ingredient_name": "Sweet Potato Dahl Meal",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08695
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "View All Food Products",
+            "amount": "1.0",
+            "ingredient_name": "Food Products",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "Hundreds of delicious plant-based recipes and meal plans from Dave & Steve",
+            "amount": "0.0",
+            "ingredient_name": "based recipes",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "Practical tips and lessons from expert doctors, dieticians, and performance psychologists",
+            "amount": "1.0",
+            "ingredient_name": "practical tips and lessons from expert doctors",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "Access to all 11 Happy Pear health courses. More courses coming soon!",
+            "amount": "11.0",
+            "ingredient_name": "Happy Pear health courses",
+            "matched_ingredient": "Pear",
+            "kg_equivalent": 1.98,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.7068599999999999
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "Hundreds of delicious plant-based recipes and meal plans from Dave & Steve",
+            "amount": "0.0",
+            "ingredient_name": "based recipes",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "Practical tips and lessons from expert doctors, dieticians, and performance psychologists",
+            "amount": "1.0",
+            "ingredient_name": "practical tips and lessons from expert doctors",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 32,
+            "original_string": "Episode 136 - Breaking Stereotypes: How Rugby Player Anthony Mullally Addresses Mental Health and Redefining Masculinity",
+            "amount": "136.0",
+            "ingredient_name": "Stereotypes",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 33,
+            "original_string": "Episode 106 - Technology and our stolen focus with Johann Hari",
+            "amount": "106.0",
+            "ingredient_name": "episode - technology and our stolen focus",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 35,
+            "original_string": "Some kind words from friends of The Happy Pear made through the years",
+            "amount": "1.0",
+            "ingredient_name": "Pear",
+            "matched_ingredient": "Pear",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.06426
+        },
+        {
+            "ingredient_number": 36,
+            "original_string": "''These lovely boys always create incredible tasty food!''",
+            "amount": "1.0",
+            "ingredient_name": "tasty food",
+            "matched_ingredient": "Soya mince",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.20097
+        },
+        {
+            "ingredient_number": 37,
+            "original_string": "''They are great people, who make unbelievable food.''",
+            "amount": "1.0",
+            "ingredient_name": "unbelievable food",
+            "matched_ingredient": "Double Gloucester",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 38,
+            "original_string": "A Little About Us",
+            "amount": "1.0",
+            "ingredient_name": "little us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 39,
+            "original_string": "The Happy Pear started out back in 2004 with Steve, Dave, a tiny shop and a dream of helping people to eat more veg!",
+            "amount": "2004.0",
+            "unit": "tiny",
+            "ingredient_name": "veg",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 176.352,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1284.195264
+        },
+        {
+            "ingredient_number": 41,
+            "original_string": "Join our mailing list and get a FREE E-BOOK with our 10 most popular 5 minute recipes & the 5 secrets to quick, tasty dinners!",
+            "amount": "10.0",
+            "ingredient_name": "tasty",
+            "matched_ingredient": "Golden syrup",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 49,
+            "original_string": "Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 50,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 57,
+            "original_string": "Our Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 62,
+            "original_string": "Tasty wholesome products available in Supervalu, Centra and independent food stores across Ireland",
+            "amount": "1.0",
+            "ingredient_name": "tasty wholesome products available in supervalu",
+            "matched_ingredient": "Nutritional yeast",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 68,
+            "original_string": "We love having conversations with all sorts of interesting people so we decided to share them",
+            "amount": "1.0",
+            "ingredient_name": "we love having conversations",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 69,
+            "original_string": "Episode 119 - Suncream, Natural vs Unnatural Cosmetic Ingredients, and Myths debunked with Cosmetic Chemist Michelle Wong Episode 119 -",
+            "amount": "119.0",
+            "ingredient_name": "Suncream",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 5.95,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 14.857149999999999
+        },
+        {
+            "ingredient_number": 70,
+            "original_string": "Episode 52 - Behind the Smiling Facade with Fearne Cotton",
+            "amount": "52.0",
+            "ingredient_name": "episode - behind the smiling facade",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 71,
+            "original_string": "Episode 48 - Fertility, The Pill & Period Pains",
+            "amount": "48.0",
+            "ingredient_name": "Pains",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 74,
+            "original_string": "''These two guys really are the happiest guys on the planet.''",
+            "amount": "2.0",
+            "ingredient_name": "these two guys really are the happiest guys on the planet",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

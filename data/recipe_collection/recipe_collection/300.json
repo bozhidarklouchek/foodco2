@@ -1,0 +1,213 @@
+{
+    "url": "https://damndelicious.net/2019/03/21/kimchi-fried-rice/",
+    "title": "Kimchi Fried Rice",
+    "total_CO2": 1.9924061443884797,
+    "servings": 4,
+    "CO2_per_portion": 0.49810153609711993,
+    "E.Mission coefficient": 1.6088753394345283,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cup jasmine rice",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "jasmine rice",
+            "matched_ingredient": "Jasmine rice",
+            "kg_equivalent": 0.15141647136,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.58128783355104
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 cup kimchi, coarsely chopped and 2 tablespoons juices reserved*",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "kimchi",
+            "matched_ingredient": "Kimchi",
+            "kg_equivalent": 0.13722117716999999,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.059965654423289994
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons soy sauce",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.04113
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tablespoon gochujang (Korean red pepper paste)",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "gochujang",
+            "matched_ingredient": "Gochujang",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tablespoon sesame oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.013845000000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.04993891500000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tablespoons canola oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "canola oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves garlic, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 small onion, diced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 teaspoons freshly grated ginger",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "freshly grated ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.00365
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 (3.5-ounce) package shiitake mushrooms, sliced",
+            "amount": "1.0",
+            "ingredient_name": "shiitake mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 cup matchstick carrots",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "matchstick carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12775764771,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.04663154141415
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 bunch kale, stems removed and leaves chopped",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "kale",
+            "matched_ingredient": "Kale",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.010925
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "4 fried eggs",
+            "amount": "4.0",
+            "ingredient_name": "fried eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 cup nori strips",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "nori strips",
+            "matched_ingredient": "Nori",
+            "kg_equivalent": 0.0177441177375,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 green onions, thinly sliced",
+            "amount": "2.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tablespoon black sesame seeds",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "black sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0048,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0013344
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large saucepan of 2 cups water, cook rice according to package instructions; set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "In a small bowl, whisk together kimchi juice, soy sauce, gochujang and sesame oil."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat canola oil in a large skillet over medium high heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Add garlic, onion and ginger, and cook, stirring frequently, until onions have become translucent, about 2-3 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Stir in kimchi, mushrooms and carrots. Cook, stirring constantly, until mushrooms are tender, about 3-4 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in rice, kale and kimchi juice mixture until the kale has wilted, about 2-3 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve immediately with eggs, nori strips, green onions and sesame seeds, if desired."
+        }
+    ]
+}

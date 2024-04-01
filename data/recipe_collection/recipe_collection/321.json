@@ -1,0 +1,152 @@
+{
+    "url": "https://www.delish.com/cooking/recipe-ideas/a27009310/creamy-coconut-lime-salmon-recipe/",
+    "title": "Creamy Coconut-Lime Salmon",
+    "total_CO2": 7.395554640000001,
+    "servings": 4,
+    "CO2_per_portion": 1.8488886600000003,
+    "E.Mission coefficient": 4.806927852741597,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp. coconut oil, divided",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.02772,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.15944544
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 (6-oz.) skinless salmon fillets, patted dry",
+            "amount": "4.0",
+            "ingredient_name": "skinless salmon fillets",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 1.36,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 7.0488800000000005
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp. kosher salt, divided",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 small onion, minced",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 cloves garlic, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 1/2 inch piece ginger, grated",
+            "amount": "1.5",
+            "unit": "inch",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 (13.66-oz.) can Thai Kitchen coconut milk",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "Thai Kitchen coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp. fresh lime juice, plus lime wedges for serving",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp. chopped fresh basil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 Fresno chili, seeded and chopped&nbsp;",
+            "amount": "1.0",
+            "ingredient_name": "Fresno chili",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large cast-iron skillet, heat 1 tablespoon oil over medium-high heat. Season the salmon with ½ teaspoon salt. When oil is hot but not smoking, add salmon skin side up."
+        },
+        {
+            "number": 2,
+            "instruction": "Let sit undisturbed until golden and salmon easily releases from pan, about 4 minutes. Use a thin metal spatula,&nbsp; flip salmon and&nbsp;cook until golden on the other side, about 2 minutes more."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove to a plate."
+        },
+        {
+            "number": 4,
+            "instruction": "Reduce heat to medium and add remaining tablespoon oil and onion to skillet. Cook, stirring occasionally, until softened, 2 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Add garlic and ginger and cook, stirring, until fragrant, 1 minute.&nbsp;"
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in coconut milk and bring to a simmer. Cook, stirring occasionally, until thickened, 5 minutes. Stir in lime juice and remaining&nbsp;½ teaspoon salt."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove from heat and return salmon to pan."
+        },
+        {
+            "number": 8,
+            "instruction": "Garnish with basil and Fresno&nbsp;chili, and serve with lime wedges."
+        }
+    ]
+}

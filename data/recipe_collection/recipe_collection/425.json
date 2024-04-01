@@ -1,0 +1,279 @@
+{
+    "url": "https://cookieandkate.com/vegetarian-chili-recipe/",
+    "title": "Homemade Vegetarian Chili",
+    "total_CO2": 0.71703717380375,
+    "servings": 4,
+    "CO2_per_portion": 0.1792592934509375,
+    "E.Mission coefficient": 0.660053224658639,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons extra-virgin olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 medium red onion, chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large red bell pepper, chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 medium carrots, chopped",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0584
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 ribs celery, chopped",
+            "amount": "2.0",
+            "ingredient_name": "ribs celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0364
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 teaspoon salt, divided",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 cloves garlic, pressed or minced",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tablespoons chili powder*",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.007917
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 teaspoons ground cumin",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 1/2 teaspoons smoked paprika*",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 teaspoon dried oregano",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 large can (28 ounces) or 2 small cans (15 ounces each) diced tomatoes**, with their juices",
+            "amount": "1.0",
+            "unit": "large can",
+            "ingredient_name": "diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 cans (15 ounces each) black beans, rinsed and drained",
+            "amount": "2.0",
+            "unit": "cans",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 can (15 ounces) pinto beans, rinsed and drained",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "pinto beans",
+            "matched_ingredient": "Pinto bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 cups vegetable broth or water",
+            "amount": "1.0",
+            "unit": "cups",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.05382382380375
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 cups vegetable broth or water",
+            "amount": "1.0",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "2 tablespoons chopped fresh cilantro, plus more for garnishing",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chopped fresh cilantro",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.007603799999999999
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1-2 teaspoons sherry vinegar or red wine vinegar or lime juice, to taste",
+            "amount": "0.5",
+            "unit": "teaspoons",
+            "ingredient_name": "sherry vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.0039625
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1-2 teaspoons sherry vinegar or red wine vinegar or lime juice, to taste",
+            "amount": "0.5",
+            "unit": "teaspoons",
+            "ingredient_name": "lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0007925
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "Garnishes: chopped cilantro, sliced avocado, tortilla chips, sour cream or crème fraîche, grated cheddar cheese, etc.",
+            "amount": "1.0",
+            "ingredient_name": "chopped cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "Garnishes: chopped cilantro, sliced avocado, tortilla chips, sour cream or crème fraîche, grated cheddar cheese, etc.",
+            "amount": "1",
+            "ingredient_name": "crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large Dutch oven or heavy-bottomed pot over medium heat, warm the olive oil until shimmering."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the chopped onion, bell pepper, carrot, celery and 1/4 teaspoon of the salt. Stir to combine and cook, stirring occasionally, until the vegetables are tender and the onion is translucent, about 7 to 10 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic, chili powder, cumin, smoked paprika and oregano. Cook until fragrant while stirring constantly, about 1 minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the diced tomatoes and their juices, the drained black beans and pinto beans, vegetable broth and bay leaf. Stir to combine and let the mixture come to a simmer. Continue cooking, stirring occasionally and reducing heat as necessary to maintain a gentle simmer, for 30 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove the chili from the heat and discard the bay leaf. For the best texture and flavor, transfer 1 1/2 cups of the chili to a blender, making sure to get some of the liquid portion. Securely fasten the lid and blend until smooth (watch out for hot steam), then pour the blended mixture back into the pot. (Or, you can blend the chili briefly with an immersion blender, or mash the chili with a potato masher until it reaches a thicker, more chili-like consistency.)"
+        },
+        {
+            "number": 6,
+            "instruction": "Add the chopped cilantro, stir to combine, and then mix in the vinegar, to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "Add salt to taste, too—I added 1/4 teaspoon more at this point. Divide the mixture into individual bowls and serve with garnishes of your choice. This chili will keep well in the refrigerator for about 4 days or you can freeze it for longer-term storage."
+        }
+    ]
+}

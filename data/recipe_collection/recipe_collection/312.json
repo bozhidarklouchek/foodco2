@@ -1,0 +1,71 @@
+{
+    "url": "http://allrecipes.co.uk/recipe/6422/mushroom-risotto.aspx",
+    "title": "All",
+    "total_CO2": 17.882307,
+    "servings": 2,
+    "CO2_per_portion": 8.9411535,
+    "E.Mission coefficient": 17.227656069364162,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Chicken",
+            "amount": "1.0",
+            "ingredient_name": "whole chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Beef",
+            "amount": "1.0",
+            "ingredient_name": "Beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Seafood",
+            "amount": "1.0",
+            "ingredient_name": "Seafood",
+            "matched_ingredient": "Seafood",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.045232
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Pasta",
+            "amount": "1.0",
+            "ingredient_name": "Pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.425,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.612425
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Fruits",
+            "amount": "1.0",
+            "ingredient_name": "Fruits",
+            "matched_ingredient": "Star fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Vegetables",
+            "amount": "1.0",
+            "ingredient_name": "Vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.07735
+        }
+    ],
+    "instructions": []
+}

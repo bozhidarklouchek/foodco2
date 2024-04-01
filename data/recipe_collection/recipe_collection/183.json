@@ -1,0 +1,171 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/fennel-lemon-risotto",
+    "title": "Fennel & lemon risotto",
+    "total_CO2": 1.705882365,
+    "servings": 2,
+    "CO2_per_portion": 0.8529411825,
+    "E.Mission coefficient": 1.231982006478101,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 large fennel bulb , base trimmed",
+            "amount": "1.0",
+            "unit": "bulb",
+            "ingredient_name": "large fennel",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.092825
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp butter , plus a knob",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion , finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 garlic clove , finely chopped",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "140 g risotto rice",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "risotto rice",
+            "matched_ingredient": "Risotto rice",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.53746
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "175 ml white wine",
+            "amount": "175.0",
+            "unit": "ml",
+            "ingredient_name": "white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.17500000000000002,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.27737500000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "550 ml hot vegetable stock",
+            "amount": "550.0",
+            "unit": "ml",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.55,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.011000000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "zest 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "25 g parmesan or vegetarian alternative, grated",
+            "amount": "12.5",
+            "unit": "g",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.2655
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "25 g parmesan or vegetarian alternative, grated",
+            "amount": "12.5",
+            "unit": "g",
+            "ingredient_name": "vegetarian",
+            "matched_ingredient": "Vegetable Suet",
+            "kg_equivalent": 0.0125,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.047850000000000004
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "small handful cooked, peeled prawns per portion",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "peeled prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 0.35561999999999994
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Chop any green leafy fennel fronds and set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "Cut off the stalk-like fennel top, remove the outer layers and finely chop both."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat 1 tbsp butter in a frying pan and cook the onion, garlic and chopped fennel until soft but not coloured."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the rice and stir for 1 min."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour over most of the wine and simmer until evaporated."
+        },
+        {
+            "number": 6,
+            "instruction": "Add 500ml of the hot stock, a ladleful at a time, stirring between each addition until it is absorbed."
+        },
+        {
+            "number": 7,
+            "instruction": "Meanwhile, slice remaining fennel and fry in knob of butter until browned."
+        },
+        {
+            "number": 8,
+            "instruction": "Add remaining stock and wine and cook until tender."
+        },
+        {
+            "number": 9,
+            "instruction": "When the rice is cooked, stir in the zest, Parmesan and some seasoning. Take off the heat and set aside, covered, for 2 mins."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve in bowls, topped with the fennel fronds and cooked fennel, stirring the prawns through if using."
+        }
+    ]
+}

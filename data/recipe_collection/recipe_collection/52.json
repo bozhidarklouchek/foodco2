@@ -1,0 +1,97 @@
+{
+    "url": "https://learntocook.com/shrimp/how-to-make-coconut-shrimp/",
+    "title": "How To Make Coconut Shrimp",
+    "total_CO2": 4.925288166386013,
+    "servings": 2,
+    "CO2_per_portion": 2.4626440831930063,
+    "E.Mission coefficient": 3.1252378516041013,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 egg",
+            "amount": "1.0",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 cup all-purpose flour",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "all-purpose flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.07570823568,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.10909556761488
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2/3 cup beer",
+            "amount": "0.6666666666666666",
+            "unit": "cup",
+            "ingredient_name": "beer",
+            "matched_ingredient": "Beer",
+            "kg_equivalent": 0.15772549099999997,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.17491756951899995
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 1/2 teaspoons baking powder",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.00675,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.08183700000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 cup all purpose flour",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "all purpose flour",
+            "matched_ingredient": "Wheat flour",
+            "kg_equivalent": 0.039628529613750005,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.05710471117341376
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 Cups Flaked coconut",
+            "amount": "2.0",
+            "unit": "Cups",
+            "ingredient_name": "Flaked coconut",
+            "matched_ingredient": "Coconut",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.35488235474999996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "24 Shrimp",
+            "amount": "24.0",
+            "ingredient_name": "Shrimp",
+            "matched_ingredient": "Shrimp",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 1.4224799999999997
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 cups oil for frying",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.65298353274,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 2.4996209633287196
+        }
+    ],
+    "instructions": []
+}

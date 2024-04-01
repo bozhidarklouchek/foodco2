@@ -1,0 +1,189 @@
+{
+    "url": "https://tasty.co/recipe/chicken-veggie-stir-fry",
+    "title": "Chicken & Veggie Stir-Fry by Tasty",
+    "total_CO2": 4.77194897418164,
+    "servings": 6,
+    "CO2_per_portion": 0.7953248290302734,
+    "E.Mission coefficient": 2.85958255088202,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 lb chicken breast, cubed",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "chicken breast",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.76328471804
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "salt, to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 lb broccoli florets",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "broccoli florets",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.19821986569
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "8 oz mushroom, sliced",
+            "amount": "8.0",
+            "unit": "oz",
+            "ingredient_name": "mushroom",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.103192264175
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 tablespoons oil, for frying",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon ginger, minced",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 teaspoons sesame oil",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.00923,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.03329261
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/3 cup reduced sodium soy sauce",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "reduced sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.07886274549999998,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.07208054938699998
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tablespoon brown sugar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0105,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.028056000000000005
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup chicken broth",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.21292941285,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.2971659830822
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup flour",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.03785411784,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.05454778380744
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large pan on medium-high heat, add 1 tablespoon of oil.  Once the oil is hot, add chicken, season with salt and pepper, and sauté until cooked through and browned."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove cooked chicken from pan and set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "In the same pan, heat 1 tablespoon of oil and add mushrooms. When the mushrooms start to soften, add broccoli florets and stir-fry until the broccoli is tender."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove cooked mushrooms and broccoli from the pan and set aside."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 1 tablespoon of oil to the pan and sauté garlic and ginger until fragrant."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the remaining sauce ingredients and stir until smooth."
+        },
+        {
+            "number": 7,
+            "instruction": "Return the chicken and vegetables to the saucy pan, stir until heated through."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve with hot rice or noodles."
+        },
+        {
+            "number": 9,
+            "instruction": "Enjoy!"
+        }
+    ]
+}

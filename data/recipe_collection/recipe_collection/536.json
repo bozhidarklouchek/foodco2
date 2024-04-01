@@ -1,0 +1,153 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/fish-recipes/soy-baked-salmon-with-zingy-salsa/",
+    "title": "Soy-baked salmon with zingy salsa",
+    "total_CO2": 5.54163375,
+    "servings": 8,
+    "CO2_per_portion": 0.69270421875,
+    "E.Mission coefficient": 3.658447763657369,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 limes",
+            "amount": "2.0",
+            "ingredient_name": "limes",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.041210000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 x 5cm pieces ginger",
+            "amount": "2.0",
+            "unit": "x 5cm",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "150 ml reduced-salt soy sauce",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "reduced-salt soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.1371
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon mirin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "mirin",
+            "matched_ingredient": "Mirin",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.007925
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 kg salmon fillet from sustainable sources, ask your fishmonger, scaled and pin-boned",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "salmon fillet",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 5.183
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 red pepper",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 green chillies",
+            "amount": "2.0",
+            "ingredient_name": "green chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 a bunch fresh mint (15g)",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "fresh mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.00075,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00032775
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Finely zest the lemon and limes, peel and finely grate the ginger."
+        },
+        {
+            "number": 3,
+            "instruction": "In a deep tray, large enough to fit the salmon, place the zest, ginger, soy sauce and mirin. Gently place the salmon fillet in the tray, spoon over the marinade and then pop it in the fridge at least 90 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "To make the salsa, squeeze the juice from half the lemon and one of the limes into a bowl, and add twice as much oil. Deseed and very finely chop the pepper and chillies, then add to the bowl. Pick in the mint leaves and season well with sea salt and black pepper."
+        },
+        {
+            "number": 5,
+            "instruction": "Preheat your oven to 200°C/400°F/gas"
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the salmon from the tray and discard the marinade."
+        },
+        {
+            "number": 7,
+            "instruction": "Drizzle with oil, then place it skin-side down on a large roasting tray."
+        },
+        {
+            "number": 8,
+            "instruction": "Bake for 12-15 minutes or until cooked to your liking. Flake the salmon and dollop over the the red pepper salsa. Delicious served with some steamed rice and a leafy salad."
+        },
+        {
+            "number": 9,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

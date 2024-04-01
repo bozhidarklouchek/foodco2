@@ -1,0 +1,90 @@
+{
+    "url": "https://www.allrecipes.com/recipe/280018/french-onion-breaded-baked-chicken/",
+    "title": "French Onion-Breaded Baked Chicken",
+    "total_CO2": 4.558058206691134,
+    "servings": 4,
+    "CO2_per_portion": 1.1395145516727836,
+    "E.Mission coefficient": 5.340745501141932,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cup bread crumbs",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "bread crumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.06861058858499999,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.09886785815098499
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 (1 ounce) package dry French onion soup mix",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "dry French onion soup mix",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/3 cup mayonnaise",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "mayonnaise",
+            "matched_ingredient": "Mayonnaise",
+            "kg_equivalent": 0.14983921644999998,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.6753253485401498
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tablespoon garlic paste (Optional)",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "garlic paste",
+            "matched_ingredient": "Garlic ginger paste",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 skinless, boneless chicken breasts",
+            "amount": "4.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix bread crumbs and dry soup mix together in a bowl."
+        },
+        {
+            "number": 3,
+            "instruction": "Mix mayonnaise and garlic paste together in a separate bowl. Microwave on high to thin out consistency, 20 to 30 seconds."
+        },
+        {
+            "number": 4,
+            "instruction": "Brush chicken breasts with the mayonnaise mixture. Cover with the crumb mixture."
+        },
+        {
+            "number": 5,
+            "instruction": "Place on a baking sheet."
+        },
+        {
+            "number": 6,
+            "instruction": "Bake on the middle rack of the preheated oven until chicken is no longer pink in the center and juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ]
+}

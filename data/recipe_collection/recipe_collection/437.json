@@ -1,0 +1,154 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/tomato-mascarpone-risotto",
+    "title": "Tomato & mascarpone risotto",
+    "total_CO2": 10.886418299999999,
+    "servings": 2,
+    "CO2_per_portion": 5.4432091499999995,
+    "E.Mission coefficient": 6.013931223069274,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, very finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large garlic clove, crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "large garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "175 g risotto rice",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "risotto rice",
+            "matched_ingredient": "Risotto rice",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.671825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "400 g can cherry tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "600 ml hot vegetable stock",
+            "amount": "600.0",
+            "unit": "ml",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.012
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "30 g parmesan or vegetarian alternative, grated",
+            "amount": "15.0",
+            "unit": "g",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.31859999999999994
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "30 g parmesan or vegetarian alternative, grated",
+            "amount": "15.0",
+            "unit": "g",
+            "ingredient_name": "vegetarian",
+            "matched_ingredient": "Vegetable Suet",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "30 g mascarpone, or cream cheese",
+            "amount": "15.0",
+            "ingredient_name": "mascarpone",
+            "matched_ingredient": "Mascarpone",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "30 g mascarpone, or cream cheese",
+            "amount": "15.0",
+            "ingredient_name": "cream cheese",
+            "matched_ingredient": "Cream cheese",
+            "kg_equivalent": 0.42525,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 9.032309999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 small bunch of basil, chopped",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.0015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006555
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large, heavy-based saucepan."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion along with a pinch of salt, and fry for 10 mins or until beginning to soften and turn translucent, then add the garlic and fry for 1 min. Stir in the rice and cook for 2 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Tip in the tomatoes and bring to a simmer."
+        },
+        {
+            "number": 4,
+            "instruction": "Add half the stock, cooking and stirring until absorbed."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the remaining stock, a ladleful at a time, and cook until the rice is al dente, stirring constantly for around 20 mins."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir through the parmesan, mascarpone or cream cheese, and basil, then season to taste. Spoon into bowls to serve."
+        }
+    ]
+}

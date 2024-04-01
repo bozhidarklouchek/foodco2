@@ -1,0 +1,203 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/really_good_kedgeree_75198",
+    "title": "Kedgeree",
+    "total_CO2": 3.4708695999999994,
+    "servings": 6,
+    "CO2_per_portion": 0.5784782666666666,
+    "E.Mission coefficient": 2.675662658032686,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "475 g/1 lb 1 oz undyed smoked haddock fillet, cut in half",
+            "amount": "475.0",
+            "unit": "g",
+            "ingredient_name": "undyed smoked haddock fillet",
+            "matched_ingredient": "Haddock",
+            "kg_equivalent": 0.475,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 1.342825
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "200 g/7 oz basmati rice, rinsed in cold water and drained",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.7678
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 free-range eggs",
+            "amount": "4.0",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "100 g/31/2 oz frozen peas (optional)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.08960000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "40 g/11/2 oz butter",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.11124
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp sunflower oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0144,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.0519408
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 heaped tbsp medium curry powder",
+            "amount": "1.0",
+            "unit": "heaped tbsp",
+            "ingredient_name": "medium curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp double cream",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.0423,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.1176363
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 tbsp chopped fresh flatleaf parsley",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh flatleaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.019665
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 lemon, juice only",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the haddock in a large frying pan, skin-side up."
+        },
+        {
+            "number": 2,
+            "instruction": "Pour over 500ml/18fl oz water, add the bay leaves and bring the water to a gentle simmer. Cook the fish for 8–10 minutes until it is just done and flakes easily."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain in a colander set over a bowl, reserving the cooking liquor, and discard the bay leaves."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour the cooking liquor into a saucepan and stir in the rice. Cover with a lid and bring to the boil. Reduce the heat and simmer the rice very gently for 10 minutes. Turn off the heat and leave the rice covered for 3–5 minutes more. By this time it should have absorbed all the fish liquor."
+        },
+        {
+            "number": 5,
+            "instruction": "While the rice is cooking, bring some water to the boil in a saucepan."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the eggs and cook for 8 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Drain them in a sieve under cold running water and when cool enough to handle, peel them carefully and set aside. Cook the peas, if using, in a small saucepan of boiling water and drain."
+        },
+        {
+            "number": 8,
+            "instruction": "Melt the butter with the oil in a large frying pan and cook the onion over a low heat for 5 minutes until well softened, stirring occasionally."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the curry powder and cook for another 3 minutes, stirring constantly."
+        },
+        {
+            "number": 10,
+            "instruction": "Place the cooked rice into the pan and stir into the onions."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the peas, cream, parsley and a few twists of ground black pepper."
+        },
+        {
+            "number": 12,
+            "instruction": "Flake the fish into chunky pieces and add these to the pan. Gently stir in the lemon juice and cook for 1–2 minutes."
+        },
+        {
+            "number": 13,
+            "instruction": "Cut the eggs into quarters and place them on top of the rice. Cover the pan with a lid and heat through for 2–3 minutes or until the eggs are warm, then serve."
+        }
+    ]
+}

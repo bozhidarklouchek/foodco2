@@ -1,0 +1,61 @@
+{
+    "url": "https://cookidoo.co.uk/search/en-GB?query=Risotto+with+Parmesan&countries=gb",
+    "title": "Search",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 4,
+            "original_string": "My Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "0",
+            "amount": "0.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "Total time, shortest",
+            "amount": "1.0",
+            "ingredient_name": "total time",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "Prep. time, shortest",
+            "amount": "1.0",
+            "ingredient_name": "prep. time",
+            "matched_ingredient": "Porridge oat",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

@@ -1,0 +1,173 @@
+{
+    "url": "https://beatthebudget.com/recipes/chicken-satay-ramen/",
+    "title": "Peanut Butter Ramen with Chicken",
+    "total_CO2": 5.467814150000001,
+    "servings": 5,
+    "CO2_per_portion": 1.0935628300000002,
+    "E.Mission coefficient": 1.2906594318356173,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "50 g spring onions, thinly sliced ((£0.50))",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.019750000000000004
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cloves of garlic, minced ((£0.69/3)=(£0.23))",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 frozen chicken breasts, defrosted and sliced into bite-sized pieces ((£4.10))",
+            "amount": "3.0",
+            "ingredient_name": "frozen chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.46499999999999997,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.8327799999999996
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tin of low fat coconut milk ((£0.82))",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "low fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 bulbs of pak choi, sliced into quarters length ways ((£1.00))",
+            "amount": "2.0",
+            "unit": "bulbs",
+            "ingredient_name": "pak choi",
+            "matched_ingredient": "Pak choi",
+            "kg_equivalent": 1.68,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.7341599999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "200 g mangetout ((£0.95))",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "mangetout",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.17920000000000003
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "250 g egg noodles ((£1.00))",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "egg noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.12675
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 lime, juiced ((£0.25))",
+            "amount": "0.5",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tbsp smooth peanut butter",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "smooth peanut butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.028350000000000004,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.07078995
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 tbsp rapeseed oil",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.006900000000000001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0264132
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp curry powder",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp soy sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1.5 litre chicken stock (2 stock cubes)",
+            "amount": "1.5",
+            "unit": "litre",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.44999999999999996
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Start by adding the spring onion (reserving some for garnish) into a large saucepan along with the rapeseed oil and a pinch of salt. Gently fry for around 5 minutes on a medium/low heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Then, add the curry powder, garlic and peanut butter into the pan."
+        },
+        {
+            "number": 3,
+            "instruction": "Add a splash of water to help combine the ingredients. Fry for a couple of minutes and then add the coconut milk, stock and chicken pieces. Reduce the heat to very low and simmer for 15 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Next, add the mangetout, pak choi, lime juice, soy sauce and noodles to cook for a further 5 minutes or until the noodles are cooked. Stir to combine."
+        },
+        {
+            "number": 5,
+            "instruction": "Taste to check if any salt is needed and serve with a sprinkle of the reserved spring onion and some optional chilli flakes if you like a little kick."
+        }
+    ]
+}

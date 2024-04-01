@@ -1,0 +1,160 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/seafood-tagine",
+    "title": "Seafood tagine",
+    "total_CO2": 2.2045989999999995,
+    "servings": 4,
+    "CO2_per_portion": 0.5511497499999999,
+    "E.Mission coefficient": 1.5713464005702067,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion , chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 red pepper , deseeded and chopped",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 garlic clove , finely chopped",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp harissa",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "harissa",
+            "matched_ingredient": "Harissa",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 x 400g cans chopped tomato",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g can chickpeas",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "350 g frozen seafood selection",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "frozen seafood selection",
+            "matched_ingredient": "Seafood",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.9894499999999999
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "300 g couscous",
+            "amount": "300.0",
+            "ingredient_name": "couscous",
+            "matched_ingredient": "Couscous",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "small pack coriander , leaves only, roughly chopped",
+            "amount": "1.0",
+            "unit": "pack",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "25 g toasted flaked almonds",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "toasted flaked almonds",
+            "matched_ingredient": "Almond",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.006950000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "zest and juice 1/2 lemon , reserving the other 1/2 to serve",
+            "amount": "0.5",
+            "ingredient_name": "juice",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.062,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.022133999999999997
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large pan and cook the onion and red pepper for about 5 mins until softened. Stir in the garlic, harissa and chopped tomatoes, and cook for about 10 mins until thickened."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the frozen seafood and cook through, about 10 mins more."
+        },
+        {
+            "number": 3,
+            "instruction": "Put the couscous in a serving bowl, pour over boiling water to cover, then cover with cling film. Leave to soak while the tagine cooks, then stir in most of the coriander, the almonds, lemon zest and juice, and seasoning."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve the tagine with the couscous and cut the remaining lemon half into wedges to squeeze over."
+        },
+        {
+            "number": 5,
+            "instruction": "Sprinkle over the remaining coriander and serve."
+        }
+    ]
+}

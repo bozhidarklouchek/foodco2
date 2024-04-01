@@ -1,0 +1,202 @@
+{
+    "url": "https://damndelicious.net/2019/04/01/honey-mustard-chicken-salad/",
+    "title": "Honey Mustard Chicken Salad",
+    "total_CO2": 4.24203878976685,
+    "servings": 4,
+    "CO2_per_portion": 1.0605096974417125,
+    "E.Mission coefficient": 2.8459122879278462,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/3 cup whole grain Dijon mustard",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "whole grain Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.02050431383,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00896038514371
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 green onions, thinly sliced",
+            "amount": "2.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons extra virgin olive oil",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 1/2 tablespoons honey",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.031049999999999998,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.030118499999999996
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tablespoon white balsamic vinegar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "white balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Kosher salt and freshly ground black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 pound boneless, skinless chicken thighs",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.76328471804
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon canola oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "canola oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 slices bacon, diced",
+            "amount": "4.0",
+            "ingredient_name": "bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.064,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.466048
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 head romaine, roughly chopped",
+            "amount": "1.0",
+            "ingredient_name": "romaine",
+            "matched_ingredient": "Mache",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 1/2 cups quartered strawberries",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "quartered strawberries",
+            "matched_ingredient": "Strawberries",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.4308271786665
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 avocado, halved, seeded, peeled and sliced",
+            "amount": "1.0",
+            "ingredient_name": "avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 cup corn kernels, canned or roasted",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "corn kernels",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.17034353028,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.16829940791664
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a medium bowl, whisk together Dijon, green onions, olive oil, honey and vinegar; season with salt and pepper, to taste; set aside 1/3 of the mixture."
+        },
+        {
+            "number": 2,
+            "instruction": "Place remaining 2/3 of the mixture in the refrigerator until ready to serve."
+        },
+        {
+            "number": 3,
+            "instruction": "In a gallon size Ziploc bag or large bowl, combine chicken and reserved Dijon mixture; marinate for at least 2 hours to 6 hours, turning the bag occasionally."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain the chicken from the marinade."
+        },
+        {
+            "number": 5,
+            "instruction": "Preheat grill to medium heat."
+        },
+        {
+            "number": 6,
+            "instruction": "Brush chicken with canola oil; season with salt and pepper, to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "Add chicken to grill, and cook, turning occasionally, until chicken is completely cooked through, reaching an internal temperature of 165 degrees F, about 10 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat a large skillet over medium high heat."
+        },
+        {
+            "number": 9,
+            "instruction": "Add bacon and cook until brown and crispy, about 6-8 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Drain excess fat; transfer bacon to a paper towel-lined plate."
+        },
+        {
+            "number": 11,
+            "instruction": "To assemble the salad, place romaine lettuce in a large bowl; top with chicken, bacon, strawberries, avocado and corn."
+        },
+        {
+            "number": 12,
+            "instruction": "Pour the Dijon dressing on top of the salad and gently toss to combine."
+        },
+        {
+            "number": 13,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

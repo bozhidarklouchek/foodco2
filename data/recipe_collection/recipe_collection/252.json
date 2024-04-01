@@ -1,0 +1,224 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/home-style-chicken-curry",
+    "title": "Home-style chicken curry",
+    "total_CO2": 8.693982299999998,
+    "servings": 4,
+    "CO2_per_portion": 2.1734955749999996,
+    "E.Mission coefficient": 3.879163974656434,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 large onion",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "6 garlic cloves, roughly chopped",
+            "amount": "6.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.018000000000000002,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.007110000000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 g ginger, roughly chopped",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.01825
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 tbsp vegetable oil",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.22968
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tsp cumin seeds",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp fennel seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fennel seeds",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "5 cm cinnamon stick",
+            "amount": "5.0",
+            "unit": "cm",
+            "ingredient_name": "cm cinnamon stick",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.021000000000000005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.009555000000000003
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp chilli flakes",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp garam masala",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp caster sugar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.006912000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "8 chicken thighs, skinned, boneless (about 800g)",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "250 ml hot chicken stock",
+            "amount": "250.0",
+            "unit": "ml",
+            "ingredient_name": "hot chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.075
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tbsp chopped coriander",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Roughly chop 1 large onion, transfer to a small food processor, and add 3 tbsp of water - process to a slack paste. You could use a stick blender for this or coarsely grate the onion into a bowl – there’s no need to add any water if you are grating the onion. Tip into a small bowl and leave on one side."
+        },
+        {
+            "number": 2,
+            "instruction": "Put 6 roughly chopped garlic cloves and 50g roughly chopped ginger into the same food processor and add 4 tbsp water – process until smooth and spoon into another small bowl. Alternatively, crush the garlic to a paste with a knife or garlic press and finely grate the ginger."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat 4 tbsp vegetable oil in a wok or sturdy pan set over a medium heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Combine 2 tsp cumin seeds and 1 tsp fennel seeds with a 5cm cinnamon stick and 1 tsp chilli flakes and add to the pan in one go. Swirl everything around for about 30 secs until the spices release a fragrant aroma."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the onion paste – it will splutter in the beginning. Fry until the water evaporates and the onions turn a lovely dark golden - this should take about 7-8 mins."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the garlic and ginger paste and cook for another 2 mins – stirring all the time."
+        },
+        {
+            "number": 7,
+            "instruction": "Stir in 1 tsp garam masala, 1 tsp turmeric, and 1 tsp caster sugar and continue cooking for 20 secs before tipping in a 400g can chopped tomatoes."
+        },
+        {
+            "number": 8,
+            "instruction": "Continue cooking on a medium heat for about 10 mins without a lid until the tomatoes reduce and darken."
+        },
+        {
+            "number": 9,
+            "instruction": "Cut 8 skinless, boneless chicken thighs into 3cm chunks and add to the pan once the tomatoes have thickened to a paste."
+        },
+        {
+            "number": 10,
+            "instruction": "Cook for 5 mins to coat the chicken in the masala and seal in the juices, and then pour over 250ml hot chicken stock."
+        },
+        {
+            "number": 11,
+            "instruction": "Simmer for 8-10 mins without a lid until the chicken is tender and the masala lightly thickened – you might need to add an extra ladleful of stock or water if the curry needs it."
+        },
+        {
+            "number": 12,
+            "instruction": "Sprinkle with 2 tbsp chopped coriander and serve with Indian flatbreads or fluffy basmati rice and a pot of yogurt on the side."
+        }
+    ]
+}

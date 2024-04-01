@@ -1,0 +1,836 @@
+{
+    "url": "https://thehappyfoodie.co.uk/recipes/three-mushroom-braise",
+    "title": "Three Mushroom Braise",
+    "total_CO2": 19.222448,
+    "servings": 4,
+    "CO2_per_portion": 4.805612,
+    "E.Mission coefficient": 13.799316582914571,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Chicken",
+            "amount": "1.0",
+            "ingredient_name": "whole chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Beef",
+            "amount": "1.0",
+            "ingredient_name": "Beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Salmon",
+            "amount": "1.0",
+            "ingredient_name": "Salmon",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 0.34,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 1.7622200000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Aubergine",
+            "amount": "1.0",
+            "ingredient_name": "Aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Banana",
+            "amount": "1.0",
+            "ingredient_name": "Banana",
+            "matched_ingredient": "Banana",
+            "kg_equivalent": 0.126,
+            "carbon_per_kg": 0.678,
+            "ingredient_carbon": 0.085428
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Chocolate",
+            "amount": "1.0",
+            "ingredient_name": "Chocolate",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Three Mushroom Braise"
+        },
+        {
+            "number": 2,
+            "instruction": "Skip to content"
+        },
+        {
+            "number": 3,
+            "instruction": "Recipes"
+        },
+        {
+            "number": 4,
+            "instruction": "Books"
+        },
+        {
+            "number": 5,
+            "instruction": "Features"
+        },
+        {
+            "number": 6,
+            "instruction": "Authors"
+        },
+        {
+            "number": 7,
+            "instruction": "eBook Deals"
+        },
+        {
+            "number": 8,
+            "instruction": "Christmas"
+        },
+        {
+            "number": 9,
+            "instruction": "Follow us"
+        },
+        {
+            "number": 10,
+            "instruction": "Explore our Christmas 2023 gift guide"
+        },
+        {
+            "number": 11,
+            "instruction": "Recipes"
+        },
+        {
+            "number": 12,
+            "instruction": "Books"
+        },
+        {
+            "number": 13,
+            "instruction": "Features"
+        },
+        {
+            "number": 14,
+            "instruction": "Authors"
+        },
+        {
+            "number": 15,
+            "instruction": "Christmas"
+        },
+        {
+            "number": 16,
+            "instruction": "Deals"
+        },
+        {
+            "number": 17,
+            "instruction": "Feed your appetite for cooking with Penguin’s expert authors"
+        },
+        {
+            "number": 18,
+            "instruction": "Authors"
+        },
+        {
+            "number": 19,
+            "instruction": "Jamie Oliver"
+        },
+        {
+            "number": 20,
+            "instruction": "Nigella Lawson"
+        },
+        {
+            "number": 21,
+            "instruction": "Mary Berry"
+        },
+        {
+            "number": 22,
+            "instruction": "Rick Stein"
+        },
+        {
+            "number": 23,
+            "instruction": "Yotam Ottolenghi"
+        },
+        {
+            "number": 24,
+            "instruction": "Rukmini Iyer"
+        },
+        {
+            "number": 25,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 26,
+            "instruction": "Chicken"
+        },
+        {
+            "number": 27,
+            "instruction": "Beef"
+        },
+        {
+            "number": 28,
+            "instruction": "Salmon"
+        },
+        {
+            "number": 29,
+            "instruction": "Courgette"
+        },
+        {
+            "number": 30,
+            "instruction": "Aubergine"
+        },
+        {
+            "number": 31,
+            "instruction": "Apple"
+        },
+        {
+            "number": 32,
+            "instruction": "Banana"
+        },
+        {
+            "number": 33,
+            "instruction": "Chocolate"
+        },
+        {
+            "number": 34,
+            "instruction": "Dishes"
+        },
+        {
+            "number": 35,
+            "instruction": "Curry"
+        },
+        {
+            "number": 36,
+            "instruction": "Pasta"
+        },
+        {
+            "number": 37,
+            "instruction": "Soup"
+        },
+        {
+            "number": 38,
+            "instruction": "Salad"
+        },
+        {
+            "number": 39,
+            "instruction": "Cake"
+        },
+        {
+            "number": 40,
+            "instruction": "Diet"
+        },
+        {
+            "number": 41,
+            "instruction": "Vegetarian"
+        },
+        {
+            "number": 42,
+            "instruction": "Vegan"
+        },
+        {
+            "number": 43,
+            "instruction": "Gluten-Free"
+        },
+        {
+            "number": 44,
+            "instruction": "More"
+        },
+        {
+            "number": 45,
+            "instruction": "Baking"
+        },
+        {
+            "number": 46,
+            "instruction": "Family Friendly"
+        },
+        {
+            "number": 47,
+            "instruction": "Quick"
+        },
+        {
+            "number": 48,
+            "instruction": "Easy"
+        },
+        {
+            "number": 49,
+            "instruction": "Freezer Friendly"
+        },
+        {
+            "number": 50,
+            "instruction": "One Pot"
+        },
+        {
+            "number": 51,
+            "instruction": "Get our weekly email"
+        },
+        {
+            "number": 52,
+            "instruction": "Recipes, book news, deals and more"
+        },
+        {
+            "number": 53,
+            "instruction": "Get our weekly email"
+        },
+        {
+            "number": 54,
+            "instruction": "Recipes"
+        },
+        {
+            "number": 55,
+            "instruction": "Books"
+        },
+        {
+            "number": 56,
+            "instruction": "Features"
+        },
+        {
+            "number": 57,
+            "instruction": "Authors"
+        },
+        {
+            "number": 58,
+            "instruction": "Christmas"
+        },
+        {
+            "number": 59,
+            "instruction": "Deals"
+        },
+        {
+            "number": 60,
+            "instruction": "Authors"
+        },
+        {
+            "number": 61,
+            "instruction": "Jamie Oliver"
+        },
+        {
+            "number": 62,
+            "instruction": "Nigella Lawson"
+        },
+        {
+            "number": 63,
+            "instruction": "Mary Berry"
+        },
+        {
+            "number": 64,
+            "instruction": "Rick Stein"
+        },
+        {
+            "number": 65,
+            "instruction": "Yotam Ottolenghi"
+        },
+        {
+            "number": 66,
+            "instruction": "Rukmini Iyer"
+        },
+        {
+            "number": 67,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 68,
+            "instruction": "Chicken"
+        },
+        {
+            "number": 69,
+            "instruction": "Beef"
+        },
+        {
+            "number": 70,
+            "instruction": "Salmon"
+        },
+        {
+            "number": 71,
+            "instruction": "Courgette"
+        },
+        {
+            "number": 72,
+            "instruction": "Aubergine"
+        },
+        {
+            "number": 73,
+            "instruction": "Apple"
+        },
+        {
+            "number": 74,
+            "instruction": "Banana"
+        },
+        {
+            "number": 75,
+            "instruction": "Chocolate"
+        },
+        {
+            "number": 76,
+            "instruction": "Dishes"
+        },
+        {
+            "number": 77,
+            "instruction": "Curry"
+        },
+        {
+            "number": 78,
+            "instruction": "Pasta"
+        },
+        {
+            "number": 79,
+            "instruction": "Soup"
+        },
+        {
+            "number": 80,
+            "instruction": "Salad"
+        },
+        {
+            "number": 81,
+            "instruction": "Cake"
+        },
+        {
+            "number": 82,
+            "instruction": "Diet"
+        },
+        {
+            "number": 83,
+            "instruction": "Vegetarian"
+        },
+        {
+            "number": 84,
+            "instruction": "Vegan"
+        },
+        {
+            "number": 85,
+            "instruction": "Gluten-Free"
+        },
+        {
+            "number": 86,
+            "instruction": "More"
+        },
+        {
+            "number": 87,
+            "instruction": "Baking"
+        },
+        {
+            "number": 88,
+            "instruction": "Family Friendly"
+        },
+        {
+            "number": 89,
+            "instruction": "Quick"
+        },
+        {
+            "number": 90,
+            "instruction": "Easy"
+        },
+        {
+            "number": 91,
+            "instruction": "Freezer Friendly"
+        },
+        {
+            "number": 92,
+            "instruction": "One Pot"
+        },
+        {
+            "number": 93,
+            "instruction": "Recipes>Mushroom Recipes"
+        },
+        {
+            "number": 94,
+            "instruction": "Three Mushroom Braise"
+        },
+        {
+            "number": 95,
+            "instruction": "by Ken Hom"
+        },
+        {
+            "number": 96,
+            "instruction": "from My Kitchen Table: 100 Easy Chinese Suppers"
+        },
+        {
+            "number": 97,
+            "instruction": "Easy"
+        },
+        {
+            "number": 98,
+            "instruction": "Serves 4"
+        },
+        {
+            "number": 99,
+            "instruction": "Print"
+        },
+        {
+            "number": 100,
+            "instruction": "This mushroom medley embraces texture and flavour. By Ken Hom, the delicious recipe brings together Chinese dried mushrooms, button and straw mushrooms."
+        },
+        {
+            "number": 101,
+            "instruction": "From the book"
+        },
+        {
+            "number": 102,
+            "instruction": "My Kitchen Table: 100 Easy Chinese Suppers"
+        },
+        {
+            "number": 103,
+            "instruction": "Ken Hom"
+        },
+        {
+            "number": 104,
+            "instruction": "Buy Book"
+        },
+        {
+            "number": 105,
+            "instruction": "amazon"
+        },
+        {
+            "number": 106,
+            "instruction": "Introduction"
+        },
+        {
+            "number": 107,
+            "instruction": "The three mushrooms in this dish have very different characteristics. Straw have a musky scent and meaty texture; Chinese dried are smoky-flavoured and densely textured, while button are mild."
+        },
+        {
+            "number": 108,
+            "instruction": "Read more"
+        },
+        {
+            "number": 109,
+            "instruction": "Read less"
+        },
+        {
+            "number": 110,
+            "instruction": "Tags"
+        },
+        {
+            "number": 111,
+            "instruction": "Vegetarian"
+        },
+        {
+            "number": 112,
+            "instruction": "Mushroom"
+        },
+        {
+            "number": 113,
+            "instruction": "Stir FryDinner"
+        },
+        {
+            "number": 114,
+            "instruction": "Chinese"
+        },
+        {
+            "number": 115,
+            "instruction": "EasyQuick"
+        },
+        {
+            "number": 116,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 117,
+            "instruction": "25g (1oz)"
+        },
+        {
+            "number": 118,
+            "instruction": "Chinese dried mushrooms (see tip)"
+        },
+        {
+            "number": 119,
+            "instruction": "1 tbsp"
+        },
+        {
+            "number": 120,
+            "instruction": "groundnut oil"
+        },
+        {
+            "number": 121,
+            "instruction": "garlic cloves, thinly sliced"
+        },
+        {
+            "number": 122,
+            "instruction": "225g (8oz)"
+        },
+        {
+            "number": 123,
+            "instruction": "tin Chinese straw mushrooms, drained, rinsed and left whole"
+        },
+        {
+            "number": 124,
+            "instruction": "85g (3oz)"
+        },
+        {
+            "number": 125,
+            "instruction": "button mushrooms, sliced"
+        },
+        {
+            "number": 126,
+            "instruction": "1 tbsp"
+        },
+        {
+            "number": 127,
+            "instruction": "light soy sauce"
+        },
+        {
+            "number": 128,
+            "instruction": "2 tbsp"
+        },
+        {
+            "number": 129,
+            "instruction": "Shaoxing rice wine or dry sherry"
+        },
+        {
+            "number": 130,
+            "instruction": "3 tbsp"
+        },
+        {
+            "number": 131,
+            "instruction": "oyster sauce"
+        },
+        {
+            "number": 132,
+            "instruction": "2 tsp"
+        },
+        {
+            "number": 133,
+            "instruction": "sugar"
+        },
+        {
+            "number": 134,
+            "instruction": "75ml (2½fl oz)"
+        },
+        {
+            "number": 135,
+            "instruction": "home-made chicken stock or good-quality bought stock"
+        },
+        {
+            "number": 136,
+            "instruction": "2 tbsp"
+        },
+        {
+            "number": 137,
+            "instruction": "finely chopped spring onions"
+        },
+        {
+            "number": 138,
+            "instruction": "Explore our Christmas 2023 gift guide"
+        },
+        {
+            "number": 139,
+            "instruction": "Explore now"
+        },
+        {
+            "number": 140,
+            "instruction": "Soak the dried mushrooms in warm water for 20 minutes, then drain. Rinse well and squeeze out any excess liquid. Discard the tough stems, shred the caps and set aside."
+        },
+        {
+            "number": 141,
+            "instruction": "Heat a wok or large frying pan over a high heat, add the oil and, when slightly smoking, add the garlic and stir-fry for 15 seconds."
+        },
+        {
+            "number": 142,
+            "instruction": "Add all the mushrooms and stir-fry, mixing together, for a few seconds."
+        },
+        {
+            "number": 143,
+            "instruction": "Add the soy sauce, rice wine or dry sherry, oyster sauce, sugar and chicken stock. Reduce the heat and cook, stirring, for 7 minutes until the fresh mushrooms are cooked."
+        },
+        {
+            "number": 144,
+            "instruction": "Increase the heat to high and continue to cook until most of the liquid has reduced."
+        },
+        {
+            "number": 145,
+            "instruction": "Mix in the spring onions and serve."
+        },
+        {
+            "number": 146,
+            "instruction": "Tip: You can use the soaking water from Chinese dried mushrooms for making soups or cooking rice. Strain the liquid through a fine sieve to discard any sand or residue before using"
+        },
+        {
+            "number": 147,
+            "instruction": "More Ken Hom recipes"
+        },
+        {
+            "number": 148,
+            "instruction": "View all"
+        },
+        {
+            "number": 149,
+            "instruction": "Beijing (Peking) Dumplings – Guotie and Jiaozi"
+        },
+        {
+            "number": 150,
+            "instruction": "by Ken Hom"
+        },
+        {
+            "number": 151,
+            "instruction": "from Complete Chinese Cookbook"
+        },
+        {
+            "number": 152,
+            "instruction": "Ching’s Longevity Noodles"
+        },
+        {
+            "number": 153,
+            "instruction": "by Ken Hom, Ching-He Huang"
+        },
+        {
+            "number": 154,
+            "instruction": "from Exploring China"
+        },
+        {
+            "number": 155,
+            "instruction": "Chicken Fried Rice"
+        },
+        {
+            "number": 156,
+            "instruction": "by Ken Hom"
+        },
+        {
+            "number": 157,
+            "instruction": "from Complete Chinese Cookbook"
+        },
+        {
+            "number": 158,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 159,
+            "instruction": "More Ken Hom recipes"
+        },
+        {
+            "number": 160,
+            "instruction": "View all"
+        },
+        {
+            "number": 161,
+            "instruction": "Beijing (Peking) Dumplings – Guotie and Jiaozi"
+        },
+        {
+            "number": 162,
+            "instruction": "by Ken Hom"
+        },
+        {
+            "number": 163,
+            "instruction": "from Complete Chinese Cookbook"
+        },
+        {
+            "number": 164,
+            "instruction": "Ching’s Longevity Noodles"
+        },
+        {
+            "number": 165,
+            "instruction": "by Ken Hom, Ching-He Huang"
+        },
+        {
+            "number": 166,
+            "instruction": "from Exploring China"
+        },
+        {
+            "number": 167,
+            "instruction": "More Chinese Recipes"
+        },
+        {
+            "number": 168,
+            "instruction": "View all"
+        },
+        {
+            "number": 169,
+            "instruction": "Five-Spice Aubergine Wedges with Pak Choi and Lime"
+        },
+        {
+            "number": 170,
+            "instruction": "by Rukmini Iyer"
+        },
+        {
+            "number": 171,
+            "instruction": "from The Green Barbecue"
+        },
+        {
+            "number": 172,
+            "instruction": "Black Pepper Tofu, Choi Sum and Cashews"
+        },
+        {
+            "number": 173,
+            "instruction": "by Rukmini Iyer"
+        },
+        {
+            "number": 174,
+            "instruction": "from The Roasting Tin Around The World"
+        },
+        {
+            "number": 175,
+            "instruction": "More Mushroom Recipes"
+        },
+        {
+            "number": 176,
+            "instruction": "View all"
+        },
+        {
+            "number": 177,
+            "instruction": "Mary Berry’s Bacon and Mushroom Cheese Soufflé"
+        },
+        {
+            "number": 178,
+            "instruction": "by Mary Berry"
+        },
+        {
+            "number": 179,
+            "instruction": "from Mary Makes it Easy"
+        },
+        {
+            "number": 180,
+            "instruction": "Tahini Tantanmen Ramen with Crispy Shiitakes"
+        },
+        {
+            "number": 181,
+            "instruction": "by Alexina Anatole"
+        },
+        {
+            "number": 182,
+            "instruction": "from Bitter"
+        },
+        {
+            "number": 183,
+            "instruction": "Explore our Christmas 2023 gift guide"
+        },
+        {
+            "number": 184,
+            "instruction": "Explore now"
+        },
+        {
+            "number": 185,
+            "instruction": "Subscribe to The Happy Foodie email newsletter"
+        },
+        {
+            "number": 186,
+            "instruction": "Get our latest recipes, features, book news and ebook deals straight to your inbox every week"
+        },
+        {
+            "number": 187,
+            "instruction": "We’d love to pop into your email inbox every Friday with inspiring recipes from Penguin’s world-leading cookery writers, the latest cookbook releases, ebook deals and more."
+        },
+        {
+            "number": 188,
+            "instruction": "Website Header and Popup"
+        },
+        {
+            "number": 189,
+            "instruction": "Your Email"
+        },
+        {
+            "number": 190,
+            "instruction": "By clicking Submit, I consent to you using my details to send me The Happy Foodie newsletters, and confirm I have read and understood Penguin Random House's Privacy Policy."
+        },
+        {
+            "number": 191,
+            "instruction": "CAPTCHA"
+        }
+    ]
+}

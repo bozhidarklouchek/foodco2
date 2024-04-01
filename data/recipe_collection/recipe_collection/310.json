@@ -1,0 +1,120 @@
+{
+    "url": "https://www.aldi.us/en/recipes/lunch-dinner/beef-lamb/lean-bean-meatloaf-with-fresh-pineapple-mango-salsa/",
+    "title": "Homepage",
+    "total_CO2": 1.2539669999999998,
+    "servings": 4,
+    "CO2_per_portion": 0.31349174999999996,
+    "E.Mission coefficient": 7.005402234636871,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Frozen Breakfast",
+            "amount": "1.0",
+            "ingredient_name": "breakfast",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.056,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.407792
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Frozen Pizza",
+            "amount": "1.0",
+            "ingredient_name": "Pizza",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Frozen Ice Cream & Desserts",
+            "amount": "1.0",
+            "ingredient_name": "Ice Cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.011,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.030591
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Frozen Meat, Poultry & Seafood",
+            "amount": "1.0",
+            "ingredient_name": "Frozen Meat",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.056,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.407792
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Frozen Fruit & Vegetables",
+            "amount": "1.0",
+            "ingredient_name": "Fruit",
+            "matched_ingredient": "Mixed fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Frozen Sandwiches",
+            "amount": "1.0",
+            "ingredient_name": "Sandwiches",
+            "matched_ingredient": "Plant-based burger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Frozen Meals & Sides",
+            "amount": "1.0",
+            "ingredient_name": "Meals",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.056,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.407792
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Frozen Appetizers & Snacks",
+            "amount": "1.0",
+            "ingredient_name": "Snacks",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 350º."
+        },
+        {
+            "number": 2,
+            "instruction": "Combine all meatloaf ingredients, mix until well incorporated."
+        },
+        {
+            "number": 3,
+            "instruction": "Coat a 9 x 5-inch loaf pan with cooking spray. Form meatloaf mixture into a loaf shape."
+        },
+        {
+            "number": 4,
+            "instruction": "Add to loaf pan, bake for 1 hour."
+        },
+        {
+            "number": 5,
+            "instruction": "For salsa: In a medium bowl, combine all salsa ingredients, cover and refrigerate."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove meatloaf from pan. Top with half of salsa, return meatloaf to oven for 15 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve with remaining salsa.            "
+        }
+    ]
+}

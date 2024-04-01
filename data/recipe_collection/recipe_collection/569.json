@@ -1,0 +1,155 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/sweet_potato_and_68565",
+    "title": "Sweet potato and chickpea curry",
+    "total_CO2": 2.8358435249999996,
+    "servings": 4,
+    "CO2_per_portion": 0.7089608812499999,
+    "E.Mission coefficient": 1.3005622742751004,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp cumin seeds",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.11639039999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, finely sliced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2-1 tsp chilli flakes (to taste)",
+            "amount": "0.75",
+            "unit": "tsp",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.001875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000853125
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "50 g fresh root ginger, peeled and grated",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.01825
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "600 g tinned chickpeas, drained and rinsed",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "tinned chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.966
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g tin chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "750 g sweet potato, peeled and cut into bite-sized cubes",
+            "amount": "750.0",
+            "unit": "g",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.27749999999999997
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "salt and black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "200 g rice, to serve",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.7678
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large saucepan over a medium heat. Once hot, add the cumin seeds and fry for a minute, or until aromatic."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion and a pinch of salt and cook for 5–6 minutes, or until the onion is soft and translucent."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic, chilli flakes and ginger and fry for a further 3 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the chickpeas, tomatoes and sweet potato to the pan."
+        },
+        {
+            "number": 5,
+            "instruction": "Add enough water (approximately 500ml/18fl oz) to cover the chickpeas and sweet potatoes and bring to a simmer, stirring to mix everything together. Cover with a lid and simmer over a medium–low heat, stirring now and again, for 25–30 minutes, or until the potatoes are soft and beginning to break apart and the sauce has thickened.  Top up with a little more water during cooking if needed. Meanwhile, cook the rice according to the packet instructions. Season the curry with salt and pepper."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve immediately with the rice."
+        }
+    ]
+}

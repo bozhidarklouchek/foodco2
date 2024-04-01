@@ -1,0 +1,265 @@
+{
+    "url": "https://www.justonecookbook.com/tan-men/",
+    "title": "Tan-Men",
+    "total_CO2": 1.3698476966725002,
+    "servings": 2,
+    "CO2_per_portion": 0.6849238483362501,
+    "E.Mission coefficient": 0.37195631192778306,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "6 pieces dried wood ear mushrooms ((0.14 oz, 4 g))",
+            "amount": "6.0",
+            "ingredient_name": "dried wood ear mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.078,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.03549
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 green onions/scallions",
+            "amount": "3.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4-5 leaves green cabbage",
+            "amount": "4.0",
+            "unit": "leaves",
+            "ingredient_name": "green cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 inches carrot",
+            "amount": "2.0",
+            "unit": "inches",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0584
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 oz bean sprouts",
+            "amount": "4.0",
+            "unit": "oz",
+            "ingredient_name": "bean sprouts",
+            "matched_ingredient": "Beansprouts",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0515961320875
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 Tbsp neutral oil ((for stir-frying))",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "neutral oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 oz sliced pork belly",
+            "amount": "4.0",
+            "unit": "oz",
+            "ingredient_name": "sliced pork belly",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.825764909585
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Tbsp sake",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sake",
+            "matched_ingredient": "Sake",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/8 tsp freshly ground black pepper",
+            "amount": "0.125",
+            "unit": "tsp",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0003625,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.00439495
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 tsp Diamond Crystal kosher salt",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "Crystal kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp toasted sesame oil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "toasted sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.004615,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.016646305
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "water ((for boiling the noodles))",
+            "amount": "1.0",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 servings fresh ramen noodles ((10-12 oz or 283-340 g fresh noodles))",
+            "amount": "2.0",
+            "ingredient_name": "fresh ramen noodles",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "4 tsp Chuka Dashi (Chinese seasoning)",
+            "amount": "4.0",
+            "unit": "tsp",
+            "ingredient_name": "Chuka Dashi",
+            "matched_ingredient": "Sushi rice",
+            "kg_equivalent": 0.0128,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0491392
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "31/3 cups water ((hot))",
+            "amount": "10.333333333333334",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 2.4447451105,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Gather all the ingredients."
+        },
+        {
+            "number": 2,
+            "instruction": "To Make the Soup"
+        },
+        {
+            "number": 3,
+            "instruction": "In a medium saucepan, dissolve 4 tsp Chuka Dashi (Chinese seasoning) in 3⅓ cups water (hot)."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix well and bring to a boil, then set aside. Alternatively, you can use my homemade chicken stock recipe."
+        },
+        {
+            "number": 5,
+            "instruction": "To Prepare the Ingredients"
+        },
+        {
+            "number": 6,
+            "instruction": "In a small bowl, add 6 pieces dried wood ear mushrooms and add just enough water to cover them. Rehydrate until soft and squeeze to remove the water."
+        },
+        {
+            "number": 7,
+            "instruction": "Cut 3 green onions/scallions into 2-inch (5-cm) pieces."
+        },
+        {
+            "number": 8,
+            "instruction": "Cut 4–5 leaves green cabbage into bite-size pieces."
+        },
+        {
+            "number": 9,
+            "instruction": "Cut 2 inches carrot into thin slabs and then cut them in half. Rinse 4 oz bean sprouts under running water."
+        },
+        {
+            "number": 10,
+            "instruction": "To Cook the Toppings"
+        },
+        {
+            "number": 11,
+            "instruction": "Start preparing a big pot of water to cook noodles. While waiting, heat the wok or large frying pan on medium-high heat. Once it’s hot, add 1 Tbsp neutral oil and swirl the oil around to coat the wok. Then, add 4 oz sliced pork belly and cook until no longer pink."
+        },
+        {
+            "number": 12,
+            "instruction": "Add 1 Tbsp sake to the meat and quickly stir. Then, add the wood ear mushrooms, green onion, and carrot."
+        },
+        {
+            "number": 13,
+            "instruction": "Add the cabbage and bean sprouts."
+        },
+        {
+            "number": 14,
+            "instruction": "Season with ⅛ tsp freshly ground black pepper and ¼ tsp Diamond Crystal kosher salt."
+        },
+        {
+            "number": 15,
+            "instruction": "Once the cabbage is tender, add the chicken stock and 1 tsp toasted sesame oil and bring to a simmer."
+        },
+        {
+            "number": 16,
+            "instruction": "To Cook the Noodles"
+        },
+        {
+            "number": 17,
+            "instruction": "When the water is boiling, add 2 servings fresh ramen noodles by loosening them up with your hands. Cook the noodles according to the package instructions and drain well."
+        },
+        {
+            "number": 18,
+            "instruction": "Serve"
+        },
+        {
+            "number": 19,
+            "instruction": "Divide the cooked noodles into two bowls."
+        },
+        {
+            "number": 20,
+            "instruction": "Add the toppings and soup over the noodles and serve immediately. "
+        },
+        {
+            "number": 21,
+            "instruction": "A dash of white pepper is great for enhancing the noodles‘ flavor."
+        },
+        {
+            "number": 22,
+            "instruction": "To Store"
+        },
+        {
+            "number": 23,
+            "instruction": "Keep the leftovers in separate airtight containers: the toppings, soup, and noodles (uncooked). Store them in the refrigerator for up to 3 days or in the freezer for a month. Cook the noodles right before you serve."
+        }
+    ]
+}

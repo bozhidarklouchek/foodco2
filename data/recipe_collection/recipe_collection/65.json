@@ -1,0 +1,222 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe",
+    "title": "Chilli con carne recipe",
+    "total_CO2": 31.27363665,
+    "servings": 4,
+    "CO2_per_portion": 7.8184091625,
+    "E.Mission coefficient": 19.05941228631502,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 large onion",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 red pepper",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 garlic cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tbsp oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 heaped tsp hot chilli powder (or 1 level tbsp if you only have mild)",
+            "amount": "1.0",
+            "unit": "heaped tsp",
+            "ingredient_name": "hot chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 g lean minced beef",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "lean minced beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 29.785
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 beef stock cube",
+            "amount": "1.0",
+            "ingredient_name": "beef stock cube",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp dried marjoram",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried marjoram",
+            "matched_ingredient": "Marjoram",
+            "kg_equivalent": 0.00375,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00163875
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tsp sugar(or add a thumbnail-sized piece of dark chocolate along with the beans instead, see tip)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.004915200000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "410 g can red kidney beans",
+            "amount": "410.0",
+            "unit": "g",
+            "ingredient_name": "red kidney beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.41,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6601
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "plain boiled long grain rice, to serve",
+            "amount": "1.0",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "plain boiled long grain rice, to serve",
+            "amount": "1.0",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "soured cream, to serve",
+            "amount": "1.0",
+            "ingredient_name": "soured cream",
+            "matched_ingredient": "Soured cream",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cut 1 red pepper in half lengthways, remove stalk and wash the seeds away, then chop. Peel and finely chop 2 garlic cloves.STEP 3Start cooking. Put your pan on the hob over a medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 1 tbsp oil and leave it for 1-2 minutes until hot (a little longer for an electric hob).STEP 4"
+        },
+        {
+            "number": 3,
+            "instruction": "Add the onion and cook, stirring fairly frequently, for about 5 minutes, or until the onion is soft, squidgy and slightly translucent.STEP 5Tip in the garlic, red pepper, 1 heaped tsp hot chilli powder or 1 level tbsp mild chilli powder, 1 tsp paprika and 1 tsp ground cumin.STEP 6Give it a good stir, then leave it to cook for another 5 minutes, stirring occasionally.STEP 7Brown 500g lean minced beef. Turn the heat up a bit, add the meat to the pan and break it up with your spoon or spatula. The mix should sizzle a bit when you add the mince.STEP 8Keep stirring and prodding for at least 5 minutes, until all the mince is in uniform, mince-sized lumps and there are no more pink bits. Make sure you keep the heat hot enough for the meat to fry and become brown, rather than just stew.STEP 9Make the sauce. Crumble 1 beef stock cube into 300ml hot water."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour this into the pan with the mince mixture.STEP 10"
+        },
+        {
+            "number": 5,
+            "instruction": "Add a 400g can of chopped tomatoes. Tip in ½ tsp dried marjoram, 1 tsp sugar and add a good shake of salt and pepper. Squirt in about 2 tbsp tomato purée and stir the sauce well.STEP 11Simmer it gently. Bring the whole thing to the boil, give it a good stir and put a lid on the pan. Turn down the heat until it is gently bubbling and leave it for 20 minutes.STEP 12Check on the pan occasionally to stir it and make sure the sauce doesn’t catch on the bottom of the pan or isn’t drying out. If it is, add a couple of tablespoons of water and make sure that the heat really is low enough. After simmering gently, the saucy mince mixture should look thick, moist and juicy.STEP 13"
+        },
+        {
+            "number": 6,
+            "instruction": "Drain and rinse a 410g can of red kidney beans in a sieve and stir them into the chilli pot. Bring to the boil again, and gently bubble without the lid for another 10 minutes, adding a little more water if it looks too dry.STEP 14Taste a bit of the chilli and season. It will probably take a lot more seasoning than you think.STEP 15Now replace the lid, turn off the heat and leave your chilli to stand for 10 minutes before serving. This is really important as it allows the flavours to mingle.STEP 16"
+        },
+        {
+            "number": 7,
+            "instruction": "Serve with soured cream and plain boiled long grain rice."
+        }
+    ]
+}

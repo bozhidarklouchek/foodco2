@@ -1,0 +1,325 @@
+{
+    "url": "https://thefeedfeed.com/rainbowplantlife/mushroom-leek-stroganoff",
+    "title": "Mushroom Leek Stroganoff",
+    "total_CO2": 1.5145213064158778,
+    "servings": 4,
+    "CO2_per_portion": 0.37863032660396945,
+    "E.Mission coefficient": 0.9548027272426929,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons olive oil, divided",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 large leeks, cleaned, trimmed, and diced",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0711
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "6 cloves garlic, minced",
+            "amount": "6.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.018000000000000002,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.007110000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "20 ounces mixed mushrooms, sliced",
+            "amount": "20.0",
+            "unit": "ounces",
+            "ingredient_name": "mixed mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.5669904625000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.25798066043750006
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon dried thyme, or 1 tablespoons fresh thyme leaves, minced",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 teaspoon dried thyme, or 1 tablespoons fresh thyme leaves, minced",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon kosher salt, divided and more to taste",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 1/2 cups low-sodium vegetable broth, or water",
+            "amount": "0.75",
+            "unit": "cups",
+            "ingredient_name": "low-sodium vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.0887205886875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0403678678528125
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 1/2 cups low-sodium vegetable broth, or water",
+            "amount": "0.75",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.177441177375,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tablespoons tamari, or soy sauce",
+            "amount": "1.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tamari",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.01125
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tablespoons tamari, or soy sauce",
+            "amount": "1.0",
+            "unit": "tablespoons",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tablespoon vegan Worcestershire sauce, optional, omit if gluten free",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "vegan Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup all-purpose flour, or gluten-free all-purpose flour (or 2 tablespoons cornstarch)",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "all-purpose flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.01892705892,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.02727389190372
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 cup all-purpose flour, or gluten-free all-purpose flour (or 2 tablespoons cornstarch)",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "gluten-free all-purpose flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.01892705892,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.02727389190372
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 cup vegetable stock, or dry white wine such as pinot grigio or sauvignon blanc",
+            "amount": "0.16666666666666666",
+            "unit": "cup",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.03943137274999999,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0007886274549999999
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/2 cup vegetable stock, or dry white wine such as pinot grigio or sauvignon blanc",
+            "amount": "0.16666666666666666",
+            "unit": "cup",
+            "ingredient_name": "sauvignon blanc",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.03943137274999999,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.06249872580874999
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 (13.5 ounce) can full fat coconut milk",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "full fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 tablespoons tahini",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tahini",
+            "matched_ingredient": "Tahini",
+            "kg_equivalent": 0.027,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0075060000000000005
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 tablespoons nutritional yeast",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "nutritional yeast",
+            "matched_ingredient": "Nutritional yeast",
+            "kg_equivalent": -0.0015,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": -0.0016635
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 teaspoon paprika",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1/2 teaspoon Dijon mustard, or coarse-grain mustard",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.00032500000000000004,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00014202500000000002
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1/2 teaspoon Dijon mustard, or coarse-grain mustard",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "coarse-grain mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.00032500000000000004,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00014202500000000002
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "10-12 ounces pasta, or your favorite grain",
+            "amount": "11.0",
+            "unit": "ounces",
+            "ingredient_name": "pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.31184475437500003,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.4493682910543751
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "Fresh parsley, chopped, for garnish, optional",
+            "amount": "1.0",
+            "ingredient_name": "Fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "Vegan Parmesan cheese, for garnish, optional",
+            "amount": "1.0",
+            "ingredient_name": "Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Bring a large saucepan of salted water to a boil. Cook the pasta according to the package instructions."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain and keep warm. If needed, toss your pasta with a bit of oil to prevent sticking."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat large sauté pan with deep sides (or a Dutch oven) over medium-high heat and add 1 tablespoon of the olive oil. Once the oil is shimmering, add leeks and sauté for 2-3 minutes, stirring occasionally, until lightly browned."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the remaining 1 tablespoon of olive oil, along with the garlic, mushrooms, and thyme, and stir to combine. Sauté for 4-5 minutes or until the mushrooms are lightly browned and tender."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 1/2 teaspoon of the kosher salt and cook for one more minute."
+        },
+        {
+            "number": 6,
+            "instruction": "While the mushrooms are cooking, mix together the vegetable broth, tamari or soy sauce, Worcestershire sauce (if using), and flour or cornstarch in a measuring cup or bowl, whisking to combine."
+        },
+        {
+            "number": 7,
+            "instruction": "Pour the white wine into the pan with the cooked mushrooms, and use a wooden spoon or flat-ended spatula to deglaze the pan by scraping up any brown bits on the bottom of the pan. Allow the sauce to simmer for 3 minutes, or until the smell of alcohol has dissipated and the wine has mostly evaporated."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour the vegetable broth-flour mixture into the pan and whisk to combine, ensuring there are no flour clumps. Bring to a simmer, then pour in the coconut milk, tahini, nutritional yeast, the remaining ½ teaspoon kosher salt, and paprika. Bring to a simmer over medium-low heat. Cook for 10 minutes, until the sauce is thickened and very creamy."
+        },
+        {
+            "number": 9,
+            "instruction": "Stir in the Dijon mustard and taste for seasonings, adding more salt as needed."
+        },
+        {
+            "number": 10,
+            "instruction": "Garnish with parsley and vegan Parmesan if desired."
+        }
+    ]
+}

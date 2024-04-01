@@ -1,0 +1,133 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/classic-roast-chicken-gravy",
+    "title": "Classic roast chicken & gravy",
+    "total_CO2": 1.2254835999999998,
+    "servings": 4,
+    "CO2_per_portion": 0.30637089999999995,
+    "E.Mission coefficient": 1.586181206316334,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 onion, roughly chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 carrots, roughly chopped",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 free range chicken, about 1½ kg/3lb 5oz",
+            "amount": "1.0",
+            "ingredient_name": "free range chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 lemon, halved",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "25 g butter, softened",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp plain flour",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0138336
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "250 ml chicken stock (a cube is fine)",
+            "amount": "250.0",
+            "unit": "ml",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.075
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 190C/fan 170C/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Have a shelf ready in the middle of the oven without any shelves above it."
+        },
+        {
+            "number": 3,
+            "instruction": "Scatter 1 roughly chopped onion and 2 roughly chopped carrots over the base of a roasting tin that fits the whole 1 ½ kg chicken, but doesn’t swamp it. "
+        },
+        {
+            "number": 4,
+            "instruction": "Season the cavity of the chicken liberally with salt and pepper, then stuff with 2 lemon halves and a small bunch of thyme, if using."
+        },
+        {
+            "number": 5,
+            "instruction": "Sit the chicken on the vegetables, smother the breast and legs all over with 25g softened butter, then season the outside with salt and pepper."
+        },
+        {
+            "number": 6,
+            "instruction": "Place in the oven and leave, undisturbed, for 1 hr 20 mins – this will give you a perfectly roasted chicken. To check, pierce the thigh with a skewer and the juices should run clear."
+        },
+        {
+            "number": 7,
+            "instruction": "Carefully remove the tin from the oven and, using a pair of tongs, lift the chicken to a dish or board to rest for 15-20 mins. As you lift the dish, let any juices from the chicken pour out of the cavity into the roasting tin."
+        },
+        {
+            "number": 8,
+            "instruction": "While the chicken is resting, make the gravy."
+        },
+        {
+            "number": 9,
+            "instruction": "Place the roasting tin over a low flame, then stir in 1 tbsp flour and sizzle until you have a light brown, sandy paste."
+        },
+        {
+            "number": 10,
+            "instruction": "Gradually pour in 250ml chicken stock, stirring all the time, until you have a thickened sauce."
+        },
+        {
+            "number": 11,
+            "instruction": "Simmer for 2 mins, using a wooden spoon to stir, scraping any sticky bits from the tin."
+        },
+        {
+            "number": 12,
+            "instruction": "Strain the gravy into a small saucepan, then simmer and season to taste. When you carve the bird, add any extra juices to the gravy."
+        }
+    ]
+}

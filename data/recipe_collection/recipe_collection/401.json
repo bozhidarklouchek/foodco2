@@ -1,0 +1,159 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/hearty-lentil-one-pot",
+    "title": "Vegan lentil stew",
+    "total_CO2": 5.0798317,
+    "servings": 4,
+    "CO2_per_portion": 1.269957925,
+    "E.Mission coefficient": 0.44195892603902937,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "40 g dried porcini mushrooms , roughly chopped",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "dried porcini mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "200 g dried brown lentils",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "dried brown lentils",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0874
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 1/2 tbsp chopped rosemary",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "chopped rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0098325
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 tbsp rapeseed oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 large onions , roughly chopped",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "150 g chestnut baby button mushrooms",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "chestnut baby button mushrooms",
+            "matched_ingredient": "Chestnut",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0417
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 garlic cloves , finely grated",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp vegetable bouillon powder",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable bouillon powder",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0237
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 large carrots (350g), cut into chunks",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0584
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 celery sticks (165g), chopped",
+            "amount": "3.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0054600000000000004
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "500 g potatoes , cut into chunks",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.185
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "200 g cavolo nero , shredded",
+            "amount": "200.0",
+            "ingredient_name": "cavolo nero",
+            "matched_ingredient": "Kale",
+            "kg_equivalent": 10.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 4.37
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cover the mushrooms in boiling water and leave to soak for 10 mins. Boil the lentils in a pan with plenty of water for 10 mins."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain and rinse, then tip into a pan with the dried mushrooms and soaking water (don’t add the last bit of the liquid as it can contain some grit), rosemary and 2 litres water. Season, cover and simmer for 20 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Meanwhile, heat the oil in a large pan and fry the onions for 5 mins. Stir in the fresh mushrooms and garlic and fry for 5 mins more. Stir in the lentil mixture and bouillon powder, then add the carrots, celery and potatoes. Cover and cook for 20 mins, stirring often, until the veg and lentils are tender, topping up the water level if needed."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove any tough stalks from the cavolo nero, then add to the pan and cover and cook for 5 mins more. If you're following our Healthy Diet Plan, serve half in bowls, then chill the rest to eat another day. Will keep in the fridge for two to three days. Reheat in a pan until hot."
+        }
+    ]
+}

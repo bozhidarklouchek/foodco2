@@ -1,0 +1,173 @@
+{
+    "url": "https://www.thebodycoach.com/blog/jerk-cod-with-avocado-and-corn-salsa",
+    "title": "Jerk Cod with Avocado and Corn Salsa",
+    "total_CO2": 0.8181958999999999,
+    "servings": 1,
+    "CO2_per_portion": 0.8181958999999999,
+    "E.Mission coefficient": 1.4481984158591086,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "160 g skinless cod fillet",
+            "amount": "160.0",
+            "unit": "g",
+            "ingredient_name": "skinless cod fillet",
+            "matched_ingredient": "Cod",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.45232
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp olive oil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.004575,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0271938
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp jerk seasoning",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "jerk seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "100 g tinned sweetcorn",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "tinned sweetcorn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0988
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "80 g avocado, peeled, pitted and diced",
+            "amount": "80.0",
+            "unit": "g",
+            "ingredient_name": "avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.06
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tomato, diced",
+            "amount": "0.5",
+            "ingredient_name": "tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0625,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0891875
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 lime, juice",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Small bunch coriander, chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "10 g pumpkin seeds",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "pumpkin seeds",
+            "matched_ingredient": "Pumpkin seed",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0075
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Pinch chilli flakes",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Pinch salt",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Lime wedges, to serve",
+            "amount": "1.0",
+            "ingredient_name": "Lime wedges",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 200°C and line a baking tray with a sheet of greaseproof paper."
+        },
+        {
+            "number": 2,
+            "instruction": "Brush the cod with the oil, rub with the jerk seasoning then lay on the tray."
+        },
+        {
+            "number": 3,
+            "instruction": "Bake for 12-15 minutes or until the fish is cooked through."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile combine the remaining ingredients in a bowl and season to taste."
+        },
+        {
+            "number": 5,
+            "instruction": "Gently break the cod into chunks and serve with the salsa and lime wedges."
+        },
+        {
+            "number": 6,
+            "instruction": "Family friendly"
+        },
+        {
+            "number": 7,
+            "instruction": "Quick and easy"
+        },
+        {
+            "number": 8,
+            "instruction": "A banging recipe from The Body Coach app!"
+        }
+    ]
+}

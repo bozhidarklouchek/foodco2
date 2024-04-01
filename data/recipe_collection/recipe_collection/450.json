@@ -1,0 +1,287 @@
+{
+    "url": "https://www.thevegspace.co.uk/recipe-the-ultimate-vegan-moussaka",
+    "title": "Vegan Moussaka",
+    "total_CO2": 4.5136426499999995,
+    "servings": 6,
+    "CO2_per_portion": 0.7522737749999999,
+    "E.Mission coefficient": 1.471080469322904,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 aubergines",
+            "amount": "2.0",
+            "ingredient_name": "aubergines",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.455
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 courgette",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 carrot",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves garlic (or garlic purée / ready-chopped garlic)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp cinnamon",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 x 400g tin lentils (or 250g cooked lentils from a pouch)",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "tin lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.4025
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "150 ml red wine (check it is vegan)",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.23775
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "150 ml water",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tsp vegetable stock powder (check it is vegan)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "vegetable stock powder",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0001
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 large potatoes",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.34,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1258
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "40 g dairy-free block margarine",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "dairy-free block margarine",
+            "matched_ingredient": "Margarine",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.15312
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "60 g plain flour",
+            "amount": "60.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.08646
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "500 ml dairy-free milk (unsweetened)",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "dairy-free milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.52,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.44612
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "50 g dairy-free cheese",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "dairy-free cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "grated nutmeg (to your taste)",
+            "amount": "1.0",
+            "ingredient_name": "grated nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 180ºC (fan) / 350ºF / Gas Mark 4. "
+        },
+        {
+            "number": 2,
+            "instruction": "Slice the aubergines into rounds about 1/2cm thick. "
+        },
+        {
+            "number": 3,
+            "instruction": "Brush with oil on both sides, season with salt and black pepper and lay on baking trays.  Roast for 20 minutes or so, turning half way through cooking, until golden brown all over and soft."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, finely chop the onion, carrot and courgette, and peel and crush the garlic cloves. "
+        },
+        {
+            "number": 5,
+            "instruction": "Heat the olive oil in a large lidded casserole or frying pan, and gently cook the onion and carrot for 3-4 minutes until starting to soften."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the courgette and garlic and continue to cook for a further 3-4 minutes.  "
+        },
+        {
+            "number": 7,
+            "instruction": "Add the cinnamon, oregano and tomato purée to the pan, stir well, then add the lentils and red wine.  Turn up the heat to bring to the boil, then reduce to a simmer. "
+        },
+        {
+            "number": 8,
+            "instruction": "After 2-3 minutes, add the water and stock powder and season well with salt and black pepper.  Cover and cook gently for 15 minutes until thick and glossy."
+        },
+        {
+            "number": 9,
+            "instruction": "Whilst the lentil mixture is cooking, bring a saucepan of water to the boil.  Peel and thickly slice the potatoes, then add these to the pan and cook for 5 minutes until almost cooked through but not falling apart. "
+        },
+        {
+            "number": 10,
+            "instruction": "Drain and set aside."
+        },
+        {
+            "number": 11,
+            "instruction": "Melt the margarine in the same saucepan, and add the flour.  Cook gently, stirring constantly for 2-3 minutes, then add the milk a little at a time until you have a thick and glossy sauce.  Season well with salt and black pepper."
+        },
+        {
+            "number": 12,
+            "instruction": "Remove from the heat and stir through the grated cheese and nutmeg. "
+        },
+        {
+            "number": 13,
+            "instruction": "To layer up the moussaka, place half the aubergine slices in the bottom of an ovenproof dish, followed by half the lentil mixture.  Top with the remaining aubergine slices, then the remaining lentil mixture, then the potato slices, and finally pour over the béchamel sauce.  "
+        },
+        {
+            "number": 14,
+            "instruction": "Bake in the oven for 30-35 minutes until the top is turning golden brown. "
+        },
+        {
+            "number": 15,
+            "instruction": "Serve immediately with crusty bread and a crisp green salad."
+        }
+    ]
+}

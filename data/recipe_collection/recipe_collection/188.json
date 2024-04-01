@@ -1,0 +1,152 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/salmon_broccoli_pasta_39926",
+    "title": "Salmon and broccoli pasta",
+    "total_CO2": 4.295032900000001,
+    "servings": 2,
+    "CO2_per_portion": 2.1475164500000004,
+    "E.Mission coefficient": 2.939337131516365,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "150 g/51/2 oz dried pasta, any kind",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "dried pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21615
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "150 g/51/2 oz broccoli, cut into small florets",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.06555
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 spring onions, trimmed and sliced or ½ small onion, very finely sliced",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 spring onions, trimmed and sliced or ½ small onion, very finely sliced",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 skinless salmon fillets (around 120g/4½oz each), cut into roughly 3cm/1¼in chunks",
+            "amount": "2.0",
+            "ingredient_name": "skinless salmon fillets",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 0.68,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 3.5244400000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "100 ml/31/2 fl oz double cream",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.094,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.26141400000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 small lemon, finely grated zest only",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "good pinch dried chilli flakes (optional)",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Half fill a large pan with salted water and bring to the boil."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the pasta and cook for 7–12 minutes, or according to the packet instructions until just tender, stirring occasionally. Three minutes before the end of the pasta cooking time, add the broccoli to the water and cook with the pasta for 3 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Meanwhile, heat the oil in a medium non-stick frying pan and cook the spring onions, or sliced onion, for 1–3 minutes, or until softened, stirring regularly."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the salmon pieces and chilli, if using, and cook for about a minute, turning the salmon 3–4 times."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the cream and a ladleful of the pasta cooking water (around 100ml/3½fl oz). Season generously with salt and pepper."
+        },
+        {
+            "number": 6,
+            "instruction": "Bring to a gentle simmer and cook the salmon for 3–4 minutes, turning occasionally (add an extra splash of water if the sauce thickens too much.)"
+        },
+        {
+            "number": 7,
+            "instruction": "Drain the pasta and broccoli and return to the pan."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the creamy salmon sauce and lemon zest and toss together lightly."
+        }
+    ]
+}

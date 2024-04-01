@@ -1,0 +1,141 @@
+{
+    "url": "https://www.amummytoo.co.uk/buttermilk-fried-chicken-gordon-ramsay/",
+    "title": "Gordon Ramsay's Buttermilk Fried Chicken",
+    "total_CO2": 13.08402125,
+    "servings": 8,
+    "CO2_per_portion": 1.63550265625,
+    "E.Mission coefficient": 4.354445877360845,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 free range chicken thighs",
+            "amount": "4.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 free range chicken drumsticks",
+            "amount": "4.0",
+            "ingredient_name": "chicken drumsticks",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "500 ml buttermilk",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "buttermilk",
+            "matched_ingredient": "Buttermilk",
+            "kg_equivalent": 0.455,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.265355
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 litre vegetable oil (canola oil) (or any flavourless oil e.g. sunflower, groundnut, canola)",
+            "amount": "1.0",
+            "unit": "litre",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 3.828
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "300 g plain white flour (all purpose flour)",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "plain white flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.4323
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1-2 tsp smoked paprika",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp garlic powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0009875
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1-2 tsp cayenne pepper",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 pinch salt and black pepper",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the chicken in a bowl, add the buttermilk and a good pinch of salt and pepper and mix well."
+        },
+        {
+            "number": 2,
+            "instruction": "Cover with cling film and chill for at least 30 minutes, or overnight. Bring back to room temperature before cooking."
+        },
+        {
+            "number": 3,
+            "instruction": "Once ready to cook, pour a 1.5cm depth of oil into a heavy-based sauté pan or hob-proof casserole dish.&nbsp;"
+        },
+        {
+            "number": 4,
+            "instruction": "Place over a medium heat until the oil reaches 170C (340F) or a cube of bread dropped into the oil sizzles and turns brown after 30 seconds."
+        },
+        {
+            "number": 5,
+            "instruction": "Put the flour on a plate and mix with the spices and a pinch of salt and pepper."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the chicken pieces from the buttermilk, then dip in the flour, making sure all the sides are coated. Leave in the flour for a couple of minutes to soak up any excess moisture."
+        },
+        {
+            "number": 7,
+            "instruction": "Fry the chicken in a single layer (you might need to do in batches), turning constantly for 25-30 minutes, until evenly golden.&nbsp;"
+        },
+        {
+            "number": 8,
+            "instruction": "Drain on kitchen paper and serve warm."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://www.vahrehvah.com/hyderabadi-chicken-biryani-recipe",
+    "title": "Hyderabadi Chicken Biryani",
+    "total_CO2": 0.0,
+    "servings": 4,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0.0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Soak rice in water for about 30 minutes.",
+            "amount": "30.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Now in a bowl boil water by seasoning with shah jeera, salt, oil and bring to boil.",
+            "amount": "1.0",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Then add rice to cook, once the rice is half cooked drain the water.",
+            "amount": "0.5",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a bowl take chicken, ginger garlic paste, mint, curd, green chilies, coriander leaves, peppercorns, 1/2 teaspoon black cumin, cumin, chili powder, turmeric powder, salt, cumin powder, coriander powder and whole garam masala dry( bay leaf, javitri, cinnamon stick,cloves, green cardamom, black cardamom), fried onion along with oil, mix all very nicely."
+        },
+        {
+            "number": 2,
+            "instruction": "Soak rice in water for about 30 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Now in a bowl boil water by seasoning with shah jeera, salt, oil and bring to boil."
+        },
+        {
+            "number": 4,
+            "instruction": "Then add rice to cook, once the rice is half cooked drain the water."
+        },
+        {
+            "number": 5,
+            "instruction": "In a deeper vessel pan, add marinated chicken spread at the bottom and then add half cooked rice, mint leaves, onion fried, saffron colour and cook for 30 minutes with a closed lid or by covering with a cloth before closing lid."
+        }
+    ]
+}

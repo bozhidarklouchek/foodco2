@@ -1,0 +1,223 @@
+{
+    "url": "https://sallysbakingaddiction.com/best-black-bean-burgers/",
+    "title": "The Best Black Bean Burgers I've Ever Had",
+    "total_CO2": 2.2621366750000003,
+    "servings": 6,
+    "CO2_per_portion": 0.3770227791666667,
+    "E.Mission coefficient": 4.224147658839456,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 (14-ounce) cans black beans, drained, rinsed, and patted dry",
+            "amount": "2.0",
+            "unit": "cans",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Tablespoon extra virgin olive oil",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3/4 cup (100g) finely chopped bell pepper (1/2 of a pepper)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "chopped bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup (130g) finely chopped yellow onion (1/2 of a large onion)",
+            "amount": "130.0",
+            "unit": "g",
+            "ingredient_name": "chopped yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05135000000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 garlic cloves, minced (about 1 Tablespoon)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 and 1/2 teaspoons ground cumin",
+            "amount": "0.5",
+            "unit": "teaspoons",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon chili powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 teaspoon garlic powder",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0009875
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 teaspoon smoked paprika",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000329875
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 cup (60g) bread crumbs or oat flour",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "bread crumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.04323
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 cup (60g) bread crumbs or oat flour",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "oat flour",
+            "matched_ingredient": "Oat",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.04725
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 cup (70g) feta cheese (skip if vegan)",
+            "amount": "70.0",
+            "unit": "g",
+            "ingredient_name": "feta cheese",
+            "matched_ingredient": "Feta",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.4868000000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 large eggs (see note for vegan substitution)",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 Tablespoon Worcestershire sauce (see note for vegan &amp; vegetarian version)",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 Tablespoons ketchup, mayo, or BBQ sauce",
+            "amount": "1.0",
+            "unit": "Tablespoons",
+            "ingredient_name": "ketchup",
+            "matched_ingredient": "Tomato ketchup",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 Tablespoons ketchup, mayo, or BBQ sauce",
+            "amount": "1.0",
+            "unit": "Tablespoons",
+            "ingredient_name": "BBQ sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "pinch salt + pepper",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 325°F (163°C)."
+        },
+        {
+            "number": 2,
+            "instruction": "Spread beans evenly onto a lined baking sheet and bake for 15 minutes until slightly dried out."
+        },
+        {
+            "number": 3,
+            "instruction": "Meanwhile, sauté olive oil, chopped pepper, onion, and garlic over medium heat until peppers and onions are soft, about 5-6 minutes. Gently blot some of the moisture out."
+        },
+        {
+            "number": 4,
+            "instruction": "Place in a large bowl or in a food processor with the remaining ingredients (cumin, chili powder, garlic powder, smoked paprika, bread crumbs, cheese, eggs, worcestershire, ketchup, salt, and pepper). Stir or pulse everything together, then add the black beans. Mash with a fork or pulse the mixture, leaving some larger chunks of beans."
+        },
+        {
+            "number": 5,
+            "instruction": "Form into patties, about 1/2 cup (130g) of mixture each, about 3/4-inch thick."
+        },
+        {
+            "number": 6,
+            "instruction": "To bake: "
+        }
+    ]
+}

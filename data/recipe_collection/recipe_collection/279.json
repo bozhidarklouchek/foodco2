@@ -1,0 +1,108 @@
+{
+    "url": "https://www.slimmingworld.co.uk/blog/fancy-a-vegan-curry/",
+    "title": "Fancy a vegan curry",
+    "total_CO2": 1.1354180000000003,
+    "servings": 41,
+    "CO2_per_portion": 0.027693121951219517,
+    "E.Mission coefficient": 0.6989768529918741,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 large onion, thinly sliced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "500 g sweet potato, cut into bite-size chunks",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.185
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "a handful of coriander leaves, chopped",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "coriander leaves",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "low-calorie cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "calorie cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp mild curry powder*",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "mild curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.007917
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "120 ml reduced-fat coconut milk",
+            "amount": "120.0",
+            "unit": "ml",
+            "ingredient_name": "reduced-fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.14400000000000002,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.131616
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g baby leaf spinach",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "baby leaf spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.1748
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 red chilli, deseeded and sliced, to serve",
+            "amount": "1.0",
+            "ingredient_name": "red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        }
+    ],
+    "instructions": []
+}

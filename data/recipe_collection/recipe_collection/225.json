@@ -1,0 +1,46 @@
+{
+    "url": "https://www.bosh.tv/recipes/easy-peasy-pasta-bake",
+    "title": "Easy Peasy Pasta Bake",
+    "total_CO2": 0.0081185,
+    "servings": 4,
+    "CO2_per_portion": 0.002029625,
+    "E.Mission coefficient": 0.39602439024390246,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "<item-todo-done>4 garlic cloves<item-todo-done><item-todo-done> large bunch of basil<item-todo-done><item-todo-done>3 beef tomatoes<item-todo-done>",
+            "amount": "4.0",
+            "unit": "bunch",
+            "ingredient_name": "garlic cloves",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0079
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "<item-todo-done> basil leaves<item-todo-done>",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.0005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0002185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cover the baking dish with foil and bake for 30 minutes"
+        },
+        {
+            "number": 2,
+            "instruction": "Remove the foil, turn down the heat to 160C, and bake for a further 15 minutes (this will get rid of any excess moisture)"
+        },
+        {
+            "number": 3,
+            "instruction": "Let the baking tray for 5-10 minutes, then portion into slices and serve with a garnish of reserved basil leaves"
+        }
+    ]
+}

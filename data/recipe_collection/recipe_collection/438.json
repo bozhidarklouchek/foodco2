@@ -1,0 +1,122 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/macaroni-cheese-veg",
+    "title": "Macaroni cheese with veg",
+    "total_CO2": 4.22211,
+    "servings": 4,
+    "CO2_per_portion": 1.0555275,
+    "E.Mission coefficient": 4.743943820224719,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 ml skimmed milk",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "skimmed milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.52,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.44612
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "25 g cornflour",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0247
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "220 g macaroni",
+            "amount": "220.0",
+            "ingredient_name": "macaroni",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "100 g extra mature cheddar , grated (check the label for vegetarian)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "mature cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "25 g Grana Padano or vegetarian altenative, grated",
+            "amount": "12.5",
+            "unit": "g",
+            "ingredient_name": "Grana Padano",
+            "matched_ingredient": "Grana Padano",
+            "kg_equivalent": 0.0125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.2655
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "25 g Grana Padano or vegetarian altenative, grated",
+            "amount": "12.5",
+            "unit": "g",
+            "ingredient_name": "vegetarian",
+            "matched_ingredient": "Vegetable Suet",
+            "kg_equivalent": 0.0125,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.047850000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "8 blocks frozen spinach , defrosted",
+            "amount": "8.0",
+            "ingredient_name": "frozen spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "220 g ripe cherry tomatoes , halved",
+            "amount": "220.0",
+            "unit": "g",
+            "ingredient_name": "ripe cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.22,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.31394
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Mix 3 tbsp of the milk with the cornflour and warm the remaining milk in a pan. Meanwhile, bring a pan of water to the boil, tip in the macaroni and cook for 6 mins, stirring occasionally."
+        },
+        {
+            "number": 3,
+            "instruction": "To make the sauce, stir the cornflour mix into the warm milk and keep stirring over a low heat until thick and smooth."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from the heat and stir in most of the cheddar (leaving a little to sprinkle over at the end) along with the Grana Padano and pepper to taste."
+        },
+        {
+            "number": 5,
+            "instruction": "Drain the macaroni well, then stir into the sauce. Squeeze the excess moisture from the spinach by pressing it into a fine sieve. Divide the spinach between four individual ovenproof dishes, followed by the tomatoes. Spoon the macaroni cheese over the veg, then finish with a sprinkle of the remaining cheddar."
+        },
+        {
+            "number": 6,
+            "instruction": "Bake for 15-20 mins or until the sauce bubbles and browns on top."
+        }
+    ]
+}

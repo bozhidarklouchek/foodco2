@@ -1,0 +1,149 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/easy_spaghetti_bolognese_93639",
+    "title": "Easy spaghetti bolognese",
+    "total_CO2": 25.3376428,
+    "servings": 4,
+    "CO2_per_portion": 6.3344107,
+    "E.Mission coefficient": 11.88751450890239,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "400 g/14 oz beef mince",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 23.828000000000003
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, diced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves, chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "100 g/31/2 oz carrot, grated",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0365
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 x 400g tins chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 ml/14 fl oz stock (made from stock cube. Ideally beef, but any will do)",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "stock cube",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.31600000000000006
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g/14 oz dried spaghetti",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "dried spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.5764
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "salt and pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat a large saucepan over a medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add a tablespoon of olive oil and once hot add the beef mince and a pinch of salt and pepper. Cook the mince until well browned over a medium-high heat (be careful not to burn the mince. It just needs to be a dark brown colour). Once browned, transfer the mince to a bowl and set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Add another tablespoon of oil to the saucepan you browned the mince in and turn the heat to medium."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the onions and a pinch of salt and fry gently for 5-6 minutes, or until softened and translucent."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the garlic and cook for another 2 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the grated carrot then pour the mince and any juices in the bowl back into the saucepan."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the tomatoes to the pan and stir well to mix."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour in the stock, bring to a simmer and then reduce the temperature to simmer gently for 45 minutes, or until the sauce is thick and rich. Taste and adjust the seasoning as necessary."
+        },
+        {
+            "number": 9,
+            "instruction": "When ready to cook the spaghetti, heat a large saucepan of water and add a pinch of salt. Cook according to the packet instructions. Once the spaghetti is cooked through, drain and add to the pan with the bolognese sauce."
+        },
+        {
+            "number": 10,
+            "instruction": "Mix well and serve."
+        }
+    ]
+}

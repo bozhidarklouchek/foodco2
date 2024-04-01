@@ -1,0 +1,225 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/vegetable-gyoza?utm_source=app",
+    "title": "Vegetable gyoza",
+    "total_CO2": 0.80109395,
+    "servings": 25,
+    "CO2_per_portion": 0.032043758000000006,
+    "E.Mission coefficient": 0.9808793206891062,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g plain flour",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.36025
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "200 g white cabbage",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "white cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0874
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 chestnut mushrooms",
+            "amount": "4.0",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.052,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.02366
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 carrot",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 water chestnuts (optional)",
+            "amount": "4.0",
+            "ingredient_name": "water chestnuts",
+            "matched_ingredient": "Water chestnut",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "thumb-sized piece of ginger, peeled and finely grated",
+            "amount": "1.0",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 garlic cloves, finely grated",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 spring onions, finely sliced",
+            "amount": "3.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.017775
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp sunflower oil, plus extra for frying",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0288,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.1038816
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp soy sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp saké, Shaohsing rice wine or dry sherry",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "saké",
+            "matched_ingredient": "Sake",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp saké, Shaohsing rice wine or dry sherry",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "dry sherry",
+            "matched_ingredient": "Sherry",
+            "kg_equivalent": 0.00741,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.01174485
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "6 tbsp soy sauce",
+            "amount": "6.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.08226
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp rice wine vinegar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "rice wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "cornflour, for dusting",
+            "amount": "1.0",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.00988
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "crispy chilli oil (optional)",
+            "amount": "1.0",
+            "ingredient_name": "chilli oil",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "If you’re making your own dough, tip the flour and 1 tsp salt into a bowl. Bring a kettle to the boil and measure 150ml boiling water. Slowly pour the water over the flour while mixing with a spoon to form a stiff dough. When the dough is cool enough to handle, tip onto a surface and knead for 10 mins until smooth. Wrap the dough and chill for at least 1 hr. Alternatively, you can use 25-30 shop-bought gyoza skins."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, coarsely grate the cabbage, mushrooms, carrot and water chestnuts, if using, then tip into a bowl."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the ginger, garlic and spring onions."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat the oil in a wok, then tip in all the veg and stir-fry over a high heat for 3 mins until softened."
+        },
+        {
+            "number": 5,
+            "instruction": "Drizzle over the soy sauce and sake, and cook for 2-3 mins. Season to taste. Tip back into the bowl to cool completely."
+        },
+        {
+            "number": 6,
+            "instruction": "Divide the dough in two. Scatter a surface generously with cornflour and roll one ball of dough out until paper-thin. Use a 10cm cutter to cut out rounds of dough and pile them up (they won’t stick because of the cornflour). Repeat with all the dough, re-rolling the trimmings until you have about 25 skins."
+        },
+        {
+            "number": 7,
+            "instruction": "To assemble, sprinkle cornflour on a tray and have a bowl of cold water ready. Hold a skin in the palm of one hand and put a teaspoon of the filling in the centre. Dip your finger in the water and wipe around the inside edge of the skin. Bring the edges of the skin together, pinching pleats along one side. Space them out on a baking tray and freeze, then tip into a bag and put back in the freezer. Will keep for three months. Can be cooked from frozen."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat a drizzle of oil in a non-stick frying pan with a lid. Fry, flat-side down, for 2 mins until golden."
+        },
+        {
+            "number": 9,
+            "instruction": "Add 100ml water to the pan and cover. Cook over a medium heat for 3-5 mins until the water has evaporated and the gyoza is cooked through."
+        },
+        {
+            "number": 10,
+            "instruction": "Remove the lid and leave the gyoza to sizzle on the bottom for a minute."
+        },
+        {
+            "number": 11,
+            "instruction": "Mix the dipping sauce ingredients together, then serve with the gyoza."
+        }
+    ]
+}

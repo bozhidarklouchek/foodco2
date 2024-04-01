@@ -1,0 +1,71 @@
+{
+    "url": "https://mistyricardo.com/chicken-tikka-jalfrezi-recipe/",
+    "title": "Jalfrezi Curry - Misty Ricardo's Curry Kitchen",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "* Animate.css - http://daneden.me/animate",
+            "amount": "1.0",
+            "ingredient_name": "animate.css",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "* Licensed under the MIT license - http://opensource.org/licenses/MIT",
+            "amount": "1.0",
+            "ingredient_name": "licensed under the mi license",
+            "matched_ingredient": "Danish blue",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "* Copyright (c) 2015 Daniel Eden",
+            "amount": "2015.0",
+            "ingredient_name": "copyright daniel eden",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": ".et_pb_code_inner{position:relative}",
+            "amount": "1.0",
+            "ingredient_name": "et_pb_code_inner",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": ".et_pb_text{word-wrap:break-word}.et_pb_text ol,.et_pb_text ul{padding-bottom:1em}.et_pb_text>:last-child{padding-bottom:0}.et_pb_text_inner{position:relative}",
+            "amount": "1.0",
+            "ingredient_name": "et_pb_text.et_pb_text ol",
+            "matched_ingredient": "Asafoetida",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": ".et_pb_video{position:relative}",
+            "amount": "1.0",
+            "ingredient_name": "et_pb_video",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

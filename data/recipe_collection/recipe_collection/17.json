@@ -1,0 +1,151 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe",
+    "title": "Ultimate spaghetti carbonara",
+    "total_CO2": 4.228619999999999,
+    "servings": 4,
+    "CO2_per_portion": 1.0571549999999998,
+    "E.Mission coefficient": 4.827191780821917,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "100 g pancetta",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "pancetta",
+            "matched_ingredient": "Pancetta",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.7282000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "50 g pecorino cheese",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "pecorino cheese",
+            "matched_ingredient": "Pecorino",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 g parmesan",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 large eggs",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.15000000000000002,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.67605
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "350 g spaghetti",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.50435
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 plump garlic cloves, peeled and left whole",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "plump garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "50 g unsalted butter",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "sea salt and freshly grated black pepper",
+            "amount": "1.0",
+            "ingredient_name": "freshly grated black pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put a large saucepan of water on to boil."
+        },
+        {
+            "number": 2,
+            "instruction": "Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together."
+        },
+        {
+            "number": 3,
+            "instruction": "Beat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Add 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked)."
+        },
+        {
+            "number": 5,
+            "instruction": "Squash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it."
+        },
+        {
+            "number": 6,
+            "instruction": "While the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic."
+        },
+        {
+            "number": 7,
+            "instruction": "Leave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavour, so take it out with a slotted spoon and discard."
+        },
+        {
+            "number": 8,
+            "instruction": "Keep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta. Don’t worry if a little water drops in the pan as well (you want this to happen) and don’t throw the pasta water away yet."
+        },
+        {
+            "number": 9,
+            "instruction": "Mix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later."
+        },
+        {
+            "number": 10,
+            "instruction": "Take the pan of spaghetti and pancetta off the heat. Now quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated."
+        },
+        {
+            "number": 11,
+            "instruction": "Add extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist. Season with a little salt, if needed."
+        },
+        {
+            "number": 12,
+            "instruction": "Use a long-pronged fork to twist the pasta on to the serving plate or bowl."
+        },
+        {
+            "number": 13,
+            "instruction": "Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper. If the dish does get a little dry before serving, splash in some more hot pasta water and the glossy sauciness will be revived."
+        }
+    ]
+}

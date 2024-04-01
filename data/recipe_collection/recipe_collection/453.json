@@ -1,0 +1,221 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/moroccan-tagine",
+    "title": "Moroccan tagine",
+    "total_CO2": 1.6439218999999998,
+    "servings": 6,
+    "CO2_per_portion": 0.2739869833333333,
+    "E.Mission coefficient": 0.6680368981947109,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 red onions , chopped",
+            "amount": "2.0",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 garlic cloves",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "small knob fresh root ginger , peeled",
+            "amount": "1.0",
+            "unit": "knob",
+            "ingredient_name": "fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "100 ml/31/2 fl oz lemon juice (about 3 lemons)",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0317
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "100 ml/31/2 fl oz olive oil",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.543876
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp each honey, cumin, paprika, turmeric",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0207,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.020079
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp hot chilli powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "hot chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "handful coriander , chopped",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 carrots , cut into chunks",
+            "amount": "3.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0657
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 large parsnips , cut into chunks",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "parsnips",
+            "matched_ingredient": "Parsnip",
+            "kg_equivalent": 0.30000000000000004,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.10950000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 red onions , cut into chunks",
+            "amount": "3.0",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 large potatoes , cut into chunks",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.34,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1258
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "4 leeks , ends trimmed and cut into chunks",
+            "amount": "4.0",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.1422
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "12 dried prunes , dates or figs",
+            "amount": "6.0",
+            "ingredient_name": "dried prunes",
+            "matched_ingredient": "Prune",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "12 dried prunes , dates or figs",
+            "amount": "6.0",
+            "ingredient_name": "figs",
+            "matched_ingredient": "Fig",
+            "kg_equivalent": 0.30000000000000004,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.22500000000000003
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "2 sprigs mint , leaves only, finely chopped",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the chermoula, whizz paste ingredients in a blender."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat oven to 220C/fan 200C/gas"
+        },
+        {
+            "number": 3,
+            "instruction": "Tip the oil and vegetables into a heatproof casserole and cook on the hob until lightly browned, about 7 mins. You may have to do this in two batches."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the chermoula paste to the casserole, along with the dried fruit."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour in 400ml water, cover with a lid and cook in the oven for 45 mins. Reduce heat to 180C/fan 160C/gas 4 and cook for another 45 mins."
+        },
+        {
+            "number": 6,
+            "instruction": "Sprinkle with the mint."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve on its own or with couscous or crusty bread."
+        }
+    ]
+}

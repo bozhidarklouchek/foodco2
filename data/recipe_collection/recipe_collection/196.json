@@ -1,0 +1,68 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/honey-roasted-carrots",
+    "title": "Honey-roasted carrots",
+    "total_CO2": 0.38348499999999996,
+    "servings": 6,
+    "CO2_per_portion": 0.06391416666666666,
+    "E.Mission coefficient": 0.5656120943952802,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "600 g carrots (I used a mixture of small whole ones and larger carrots, halved)",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.219
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "25 g clear honey",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "clear honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.02425
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 g butter, cut into pieces",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "small bunch chives, snipped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Tip the carrots, honey, butter and 150ml water into a deep roasting tin and season well."
+        },
+        {
+            "number": 3,
+            "instruction": "Bake in the oven for 1 hr-1 hr 10 mins or until tender and sticky. Scatter over the chives and serve."
+        }
+    ]
+}

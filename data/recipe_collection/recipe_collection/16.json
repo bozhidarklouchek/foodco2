@@ -1,0 +1,126 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/winter-vegetable-lentil-soup",
+    "title": "Winter vegetable & lentil soup",
+    "total_CO2": 0.3798469000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.18992345000000005,
+    "E.Mission coefficient": 0.7918426099645614,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "85 g dried red lentils",
+            "amount": "85.0",
+            "unit": "g",
+            "ingredient_name": "dried red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.085,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.13685000000000003
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 carrots, quartered lengthways then diced",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 sticks celery, sliced",
+            "amount": "3.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0054600000000000004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 small leeks, sliced",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0711
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp fresh thyme leaves",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 large garlic cloves, chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "large garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp vegetable bouillon powder",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable bouillon powder",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 heaped tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tip all the ingredients into a large pan."
+        },
+        {
+            "number": 2,
+            "instruction": "Pour over 1½ litres boiling water, then stir well."
+        },
+        {
+            "number": 3,
+            "instruction": "Cover and leave to simmer for 30 mins until the vegetables and lentils are tender."
+        },
+        {
+            "number": 4,
+            "instruction": "Ladle into bowls and eat straightaway, or if you like a really thick texture, blitz a third of the soup with a hand blender or in a food processor."
+        }
+    ]
+}

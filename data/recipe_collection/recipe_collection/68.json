@@ -1,0 +1,386 @@
+{
+    "url": "https://www.whiskaffair.com/shahi-mushroom-biryani/",
+    "title": "Mushroom Biryani",
+    "total_CO2": 3.755637888729855,
+    "servings": 8,
+    "CO2_per_portion": 0.4694547360912319,
+    "E.Mission coefficient": 0.6749764558081269,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cups Basmati rice",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "Basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.30283294272,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.16257566710208
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp Ghee",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Ghee",
+            "matched_ingredient": "Ghee",
+            "kg_equivalent": 0.027330000000000004,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.07600473000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 Black cardamom",
+            "amount": "1.0",
+            "ingredient_name": "Black cardamom",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3-4 Black pepper corn",
+            "amount": "3.5",
+            "ingredient_name": "Black pepper corn",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Salt to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp Lemon Juice",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Lemon Juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.001585
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp Oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp Ghee",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Ghee",
+            "matched_ingredient": "Ghee",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3-4 Black pepper corn",
+            "amount": "3.5",
+            "ingredient_name": "Black pepper corn",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 Black cardamom",
+            "amount": "2.0",
+            "ingredient_name": "Black cardamom",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 inch Cinnamon stick",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "cinnamon stick",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup Onion (sliced)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.05204941203,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.020559517751850002
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3-4 Green chili (slit into half)",
+            "amount": "3.5",
+            "ingredient_name": "Green chili",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0525,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0238875
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tsp Ginger garlic paste",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Ginger garlic paste",
+            "matched_ingredient": "Garlic ginger paste",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002275
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tsp Coriander powder",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Coriander powder",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00437
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 tsp Red chili powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Red chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Salt to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 tsp Turmeric powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Turmeric powder",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "200 gms Mushroom (sliced)",
+            "amount": "200.0",
+            "unit": "gms",
+            "ingredient_name": "Mushroom",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 5.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 2.275
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 tbsp Fresh coriander (chopped)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1/2 cup Fried Onion",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "Fried Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.026024706015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.010279758875925001
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "5-6 Cashew nuts (fried)",
+            "amount": "5.5",
+            "ingredient_name": "Cashew nuts",
+            "matched_ingredient": "Cashew nut",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1 pinch Saffron (soaked in 1 tbsp milk)",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "Saffron",
+            "matched_ingredient": "Saffron",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "1 tsp Coriander leaves (chopped)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Coriander leaves",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "3-4 Cloves",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "Cloves",
+            "matched_ingredient": "Cloves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "2 Cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "Cloves",
+            "matched_ingredient": "Cloves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "For the rice"
+        },
+        {
+            "number": 2,
+            "instruction": "Wash the rice and soak in water for 20 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add ghee in a pan."
+        },
+        {
+            "number": 4,
+            "instruction": "Add cloves, black cardamom and black pepper and fry for a minute."
+        },
+        {
+            "number": 5,
+            "instruction": "Drain the rice and add it in the pan along with 4 cups of water, lemon juice and salt."
+        },
+        {
+            "number": 6,
+            "instruction": "Cover the pan and cook the rice on low heat until it is ¾ th done."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove the pan from heat and keep aside."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove the pan from heat and keep aside."
+        },
+        {
+            "number": 9,
+            "instruction": "For the mushroom masala"
+        },
+        {
+            "number": 10,
+            "instruction": "Heat oil and ghee in a heavy bottom pan."
+        },
+        {
+            "number": 11,
+            "instruction": "Add cloves, black pepper, black pepper and cinnamon stick and fry them for a few seconds."
+        },
+        {
+            "number": 12,
+            "instruction": "Add onions and green chilli and fry until onions are browned."
+        },
+        {
+            "number": 13,
+            "instruction": "Now add ginger garlic paste and fry for 2-3 minutes till the raw smell is gone."
+        },
+        {
+            "number": 14,
+            "instruction": "Add coriander powder, red chilli powder, salt and turmeric powder and fry for 1-2 minutes."
+        },
+        {
+            "number": 15,
+            "instruction": "Add a tablespoon of water if required."
+        },
+        {
+            "number": 16,
+            "instruction": "Now add mushrooms and cover the pan and cook till they are done."
+        },
+        {
+            "number": 17,
+            "instruction": "Remove the cover and fry the mushroom till all the water has reduced."
+        },
+        {
+            "number": 18,
+            "instruction": "Add fresh coriander and mix well"
+        },
+        {
+            "number": 19,
+            "instruction": "Assembly"
+        },
+        {
+            "number": 20,
+            "instruction": "Transfer the partially cooked rice over the mushroom and spread evenly."
+        },
+        {
+            "number": 21,
+            "instruction": "Sprinkle fried onions, cashew nuts, saffron milk and coriander on top."
+        },
+        {
+            "number": 22,
+            "instruction": "Cover the lid of the pan and cook the biryani on very low heat for 30-35 minutes."
+        },
+        {
+            "number": 23,
+            "instruction": "Fluff the biryani gently using a fork."
+        },
+        {
+            "number": 24,
+            "instruction": "Serve hot."
+        }
+    ]
+}

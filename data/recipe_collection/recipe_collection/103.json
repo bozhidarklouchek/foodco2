@@ -1,0 +1,133 @@
+{
+    "url": "https://www.theguardian.com/food/2021/jan/25/20-best-curry-recipes-asma-khan-saag-paneer",
+    "title": "Asma Khan's saag paneer – spinach with Indian cheese",
+    "total_CO2": 1.206408,
+    "servings": 2,
+    "CO2_per_portion": 0.603204,
+    "E.Mission coefficient": 10.7715,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Asma Khan’s saag paneer - spinach with Indian cheese | Curry | The Guardian",
+            "amount": "1.0",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "View all Lifestyle",
+            "amount": "1.0",
+            "ingredient_name": "Lifestyle",
+            "matched_ingredient": "Monterey Jack",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Saag paneer - spinach with Indian cheese. Photograph: Jean Cazals/The Observer",
+            "amount": "1.0",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Saag paneer - spinach with Indian cheese. Photograph: Jean Cazals/The Observer",
+            "amount": "1.0",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Asma Khan’s saag paneer - spinach with Indian cheese",
+            "amount": "1.0",
+            "ingredient_name": "Indian cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "The 20 best curry recipes - in full",
+            "amount": "20.0",
+            "ingredient_name": "curry recipes",
+            "matched_ingredient": "Curry leaves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 72,
+            "original_string": "Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 73,
+            "original_string": "Love & sex",
+            "amount": "1.0",
+            "ingredient_name": "sex",
+            "matched_ingredient": "Cluster bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 94,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 110,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 111,
+            "original_string": "A rich, satisfying, meat-free midweek meal that can be eaten with bread or rice",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "meat-free",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.084,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.611688
+        },
+        {
+            "ingredient_number": 112,
+            "original_string": "A rich, satisfying, meat-free midweek meal that can be eaten with bread or rice",
+            "amount": "1",
+            "unit": "can",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

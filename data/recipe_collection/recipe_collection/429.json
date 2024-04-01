@@ -1,0 +1,124 @@
+{
+    "url": "https://www.easypeasyfoodie.com/super-simple-macaroni-cheese/",
+    "title": "Super Simple Macaroni Cheese",
+    "total_CO2": 7.166243100000001,
+    "servings": 4,
+    "CO2_per_portion": 1.7915607750000002,
+    "E.Mission coefficient": 6.6582208492056125,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "300 g macaroni (not the quick cook stuff, which really doesn’t work in this recipe)",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "macaroni",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.3520999999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "30 g butter",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08343
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "25 g flour",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.036025
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "500 ml milk",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.52,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.44612
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp Dijon mustard ((or to taste))",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "200 g mature cheddar ((or to taste), grated)",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "mature cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 4.248
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Salt and pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 220C / 200C Fan / Gas Mark"
+        },
+        {
+            "number": 2,
+            "instruction": "Cook the macaroni until it’s a bit less done than normal – a couple of minutes less than you would usually do. The brand I use takes 10 minutes normally, so I give it 8 minutes for macaroni cheese."
+        },
+        {
+            "number": 3,
+            "instruction": "While the macaroni is cooking, make the cheese sauce. Melt the butter in a medium sized pan on a low heat. When the butter is foaming, add the flour and stir until it’s mixed in. Then keep cooking for 2 minutes, stirring frequently. It takes guts to do this. It looks like something is going to go wrong but it doesn’t!"
+        },
+        {
+            "number": 4,
+            "instruction": "Very gradually add the milk, stirring constantly. Make sure each bit of milk is incorporated before adding the next bit. If you do this slowly on a very low heat, you should end up with a perfectly smooth cheese sauce with no lumps and no need to whisk. However, if it does go wrong for some reason, you can always use a whisk to beat out the lumps."
+        },
+        {
+            "number": 5,
+            "instruction": "When all the milk is incorporated, add the mustard, salt and pepper. (N.B. I use slightly salted butter, so I don’t add any extra salt here.) Then add half the cheese, stir to combine and turn off."
+        },
+        {
+            "number": 6,
+            "instruction": "When the pasta is done, drain it, retaining a little bit of the cooking water."
+        },
+        {
+            "number": 7,
+            "instruction": "Tip the pasta and a couple of tablespoonfuls of the cooking water into the cheese sauce and stir."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour the macaroni cheese into a shallow ovenproof dish and sprinkle over the remaining cheese."
+        },
+        {
+            "number": 9,
+            "instruction": "Bake in the oven for 10 minutes. The top should be brown but the bottom should still be saucy and the macaroni should be perfectly cooked."
+        }
+    ]
+}

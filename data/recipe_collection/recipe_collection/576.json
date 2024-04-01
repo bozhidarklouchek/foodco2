@@ -1,0 +1,136 @@
+{
+    "url": "https://www.redonline.co.uk/food/recipes/a502912/tomato-and-pesto-filo-pizza/",
+    "title": "Tomato and pesto filo pizza",
+    "total_CO2": 62.557233,
+    "servings": 1,
+    "CO2_per_portion": 62.557233,
+    "E.Mission coefficient": 17.180153244078273,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 red onions, cut into wedges",
+            "amount": "2.0",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 red pepper, deseeded and roughly chopped",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "8 cherry tomatoes, halved",
+            "amount": "8.0",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.136,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.19407200000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Olive oil, for drizzling and brushing",
+            "amount": "1.0",
+            "ingredient_name": "Olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 filo pastry sheets, about 30 x 20cm",
+            "amount": "4.0",
+            "ingredient_name": "filo pastry",
+            "matched_ingredient": "Pastry",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.605,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "23 tbsp sun-dried tomato paste",
+            "amount": "0.0",
+            "unit": "tbsp",
+            "ingredient_name": "sun-dried tomato paste",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "100 g rated soya mozzarella",
+            "amount": "100.0",
+            "ingredient_name": "soya mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 2.835,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 60.215399999999995
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "50 g pine nuts",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "pine nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.013900000000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Large handful fresh basil leaves",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "50 g Parmesan, rated",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "150 mL olive oil",
+            "amount": "150.0",
+            "unit": "mL",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.13725,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.815814
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

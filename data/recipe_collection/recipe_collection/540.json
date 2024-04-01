@@ -1,0 +1,191 @@
+{
+    "url": "https://pinchofnom.com/recipes/cheesy-fajita-orzotto/",
+    "title": "Cheesy Fajita Orzotto",
+    "total_CO2": 127.9070276,
+    "servings": 4,
+    "CO2_per_portion": 31.9767569,
+    "E.Mission coefficient": 1.476212558312386,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "400 g turkey mince",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "turkey mince",
+            "matched_ingredient": "Turkey",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.4368
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "200 g orzo",
+            "amount": "200.0",
+            "ingredient_name": "orzo",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 85.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 122.485
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion (diced)",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 peppers (diced)",
+            "amount": "2.0",
+            "ingredient_name": "peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp fajita seasoning",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fajita seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2109576
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tsp garlic granules",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "garlic granules",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00395
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp tomato puree",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 chicken stock cube",
+            "amount": "1.0",
+            "ingredient_name": "chicken stock cube",
+            "matched_ingredient": "Chicken stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "600 ml boiling water",
+            "amount": "600.0",
+            "unit": "ml",
+            "ingredient_name": "boiling water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "lemon (juiced)",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "handful of fresh coriander leaves (chopped)",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh coriander leaves",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "120 g reduced fat Cheddar cheese (grated)",
+            "amount": "120.0",
+            "unit": "g",
+            "ingredient_name": "reduced fat Cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.5487999999999995
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "low calorie cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "calorie cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 spring onions (finely sliced to garnish)",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Spray a casserole pan with low calorie cooking spray, and fry the turkey mince, onions and peppers over a medium to high heat for 5-6 minutes, until the mince is opaque and the onions soft."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the garlic granules and fajita seasoning and stir well."
+        },
+        {
+            "number": 3,
+            "instruction": "Stir in the tomato puree and allow to cook for a minute, then stir the stock into the water add to the pan and bring to the boil."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the orzo to the pan and stir well, ensuring the pasta is covered by the stock."
+        },
+        {
+            "number": 5,
+            "instruction": "Reduce the heat to a simmer, cover and allow to cook for 15-20 minutes stirring every few minutes to make sure it doesn&#039;t catch on the bottom of the pan."
+        },
+        {
+            "number": 6,
+            "instruction": "When the orzo is cooked and most of the liquid has been absorbed, uncover and stir in the lemon juice and coriander."
+        },
+        {
+            "number": 7,
+            "instruction": "If there is still excess liquid, cook for a few minutes without the lid on - you want a consistency similar to a risotto. Then stir in the cheese, until it&#039;s melted."
+        },
+        {
+            "number": 8,
+            "instruction": "Sprinkle the top with some sliced spring onions and serve!"
+        }
+    ]
+}

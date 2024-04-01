@@ -1,0 +1,200 @@
+{
+    "url": "https://www.forksoverknives.com/recipes/vegan-pasta-noodles/budget-friendly-lentil-bolognese/",
+    "title": "Budget-Friendly Lentil Bolognese",
+    "total_CO2": 0.9751528321506249,
+    "servings": 3,
+    "CO2_per_portion": 0.3250509440502083,
+    "E.Mission coefficient": 0.6147717942804864,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 (28-ounce) can salt-free diced tomatoes or tomato purée",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "salt-free diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 (28-ounce) can salt-free diced tomatoes or tomato purée",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 (6-ounce) can tomato paste",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 1/2 cup black beluga lentils, rinsed and drained",
+            "amount": "1.5",
+            "unit": "cup",
+            "ingredient_name": "black beluga lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.3016500015375,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.485656502475375
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 1/2 cups water",
+            "amount": "3.5",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.82805882775,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 onion, diced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 cloves garlic, minced",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 carrots, grated or finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tablespoons Italian seasoning",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "Italian seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2109576
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 teaspoons poultry seasoning",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "poultry seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0703192
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Pinch of crushed red pepper flakes",
+            "amount": "0.0",
+            "unit": "pinch",
+            "ingredient_name": "crushed red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 cup packed fresh basil, chopped",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.05169452967525
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Sea salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Garlic powder and onion powder",
+            "amount": "1.0",
+            "ingredient_name": "Garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Splash of balsamic vinegar or red wine vinegar",
+            "amount": "1.0",
+            "unit": "splash",
+            "ingredient_name": "balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Splash of balsamic vinegar or red wine vinegar",
+            "amount": "1",
+            "unit": "splash",
+            "ingredient_name": "red wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the tomatoes, tomato paste, lentils, water, onions, garlic, carrots, Italian and poultry seasonings, pepper flakes, and ¼ cup chopped basil into a pressure cooker. Cook at high pressure for 20 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "After releasing pressure, mix well, then season with salt, pepper, garlic powder, and onion powder to taste. Finish with the remaining fresh basil and a splash of balsamic vinegar or red wine vinegar."
+        },
+        {
+            "number": 3,
+            "instruction": "If you’d prefer a smoother consistency, transfer 2 to 3 cups of the sauce to a blender with a tight-fitting lid covered with a towel and puree until smooth."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve over whole-grain pasta, zucchini noodles, or roasted sweet potatoes."
+        }
+    ]
+}

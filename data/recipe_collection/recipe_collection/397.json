@@ -1,0 +1,114 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/chorizo-broad-bean-risotto?utm_source=app",
+    "title": "Chorizo & broad bean risotto",
+    "total_CO2": 4.995551399999999,
+    "servings": 4,
+    "CO2_per_portion": 1.2488878499999998,
+    "E.Mission coefficient": 4.66993984435252,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "100 g smoked bacon , diced",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "smoked bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.7282000000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 shallots , chopped",
+            "amount": "2.0",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves , crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "350 g small cooking chorizo",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "cooking chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 2.5486999999999997
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "300 g risotto rice",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "risotto rice",
+            "matched_ingredient": "Risotto rice",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.1517
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 l hot chicken stock",
+            "amount": "1.0",
+            "ingredient_name": "hot chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "300 g frozen broad beans",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "frozen broad beans",
+            "matched_ingredient": "Bean",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.483
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a medium-sized pan, then add the bacon, shallots, garlic and chorizo. Gently cook for 8 mins, stirring occasionally so everything cooks evenly."
+        },
+        {
+            "number": 2,
+            "instruction": "Stir in the rice, coating all over with the cooking juices in the pan."
+        },
+        {
+            "number": 3,
+            "instruction": "Add just enough stock to cover the rice, bring to a simmer and gently cook until all the liquid is absorbed. Continue adding the stock a ladleful at a time, and gently cook. Just before the final ladleful of stock, add the broad beans and stir through, cooking for 3-4 mins until tender."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove the chorizo, slice thinly, return to the pan and mix through before serving."
+        }
+    ]
+}

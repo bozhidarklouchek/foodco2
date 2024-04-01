@@ -1,0 +1,163 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/spicy-roasted-parsnip-soup",
+    "title": "Spicy roasted parsnip soup",
+    "total_CO2": 25.12002845,
+    "servings": 4,
+    "CO2_per_portion": 6.2800071125,
+    "E.Mission coefficient": 0.363759204567258,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp coriander seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "coriander seeds",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp cumin seeds, plus extra to garnish",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 tsp ground turmeric",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 tsp mustard seeds",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "mustard seeds",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0006500000000000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00028405000000000005
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large onion, cut into 8 chunks",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 garlic cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "675 g parsnips, diced",
+            "amount": "675.0",
+            "ingredient_name": "parsnips",
+            "matched_ingredient": "Parsnip",
+            "kg_equivalent": 67.5,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 24.6375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 plum tomatoes, quartered",
+            "amount": "2.0",
+            "ingredient_name": "plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.11249999999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1.2 l vegetable stock",
+            "amount": "1.2",
+            "unit": "l",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 1.2,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.024
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp lemon juice",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 220C/fan 200C/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "In a bowl, mix together 2 tbsp olive oil and 1 tsp coriander seeds, 1 tsp cumin seeds, ½ tsp ground turmeric and ½ tsp mustard seeds."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 1 large onion, cut into 8 chunks, 2 garlic cloves, 675g parsnips, diced, and 2 quartered plum tomatoes and mix well."
+        },
+        {
+            "number": 4,
+            "instruction": "Spread over a heavy baking sheet, then roast for 30 mins until tender."
+        },
+        {
+            "number": 5,
+            "instruction": "Spoon into a food processor or liquidiser with 600ml vegetable stock and process until smooth."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour into a pan with the remaining  600ml vegetable stock, season, then heat until barely simmering."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove from the heat and stir in 1 tbsp lemon juice."
+        },
+        {
+            "number": 8,
+            "instruction": "Garnish with cumin seeds."
+        }
+    ]
+}

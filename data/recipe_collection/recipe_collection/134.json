@@ -1,0 +1,112 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/pasta-recipes/easy-carbonara/",
+    "title": "Easy carbonara",
+    "total_CO2": 1.6202899999999998,
+    "servings": 2,
+    "CO2_per_portion": 0.8101449999999999,
+    "E.Mission coefficient": 4.970214723926379,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "150 g dried spaghetti",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "dried spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21615
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 rashers of higher-welfare smoked streaky bacon",
+            "amount": "2.0",
+            "ingredient_name": "smoked streaky bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.032,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.233024
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 free-range eggs",
+            "amount": "2.0",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "30 g Parmesan cheese plus extra for grating",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.6371999999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Cook the pasta in a pan of boiling salted water according to the packet instructions."
+        },
+        {
+            "number": 3,
+            "instruction": "Slice the bacon and place in a non-stick frying pan on a medium heat with half a tablespoon of olive oil and a really good pinch of black pepper. Leave it to get super-golden and crispy, tossing occasionally, then turn off the heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, beat the eggs in a bowl, then finely grate in the Parmesan and mix well."
+        },
+        {
+            "number": 5,
+            "instruction": "Use tongs to transfer your pasta straight into the pan and toss with the bacon."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour the Parmesan eggs into the pan, and keep everything moving, loosening with splashes of the pasta cooking water until you have a silky sauce. Make sure the pan isn’t too hot otherwise the eggs will scramble."
+        },
+        {
+            "number": 7,
+            "instruction": "Plate up the pasta, and finish with an extra grating of Parmesan."
+        },
+        {
+            "number": 8,
+            "instruction": "Tips"
+        },
+        {
+            "number": 9,
+            "instruction": "EASY SWAPS"
+        },
+        {
+            "number": 10,
+            "instruction": "Use Cheddar cheese instead of Parmesan."
+        },
+        {
+            "number": 11,
+            "instruction": "If you haven’t got any eggs, don’t worry – the starchy pasta water will be enough."
+        },
+        {
+            "number": 12,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

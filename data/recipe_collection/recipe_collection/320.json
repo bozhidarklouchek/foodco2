@@ -1,0 +1,220 @@
+{
+    "url": "https://www.delish.com/cooking/recipe-ideas/a26103199/greek-salmon-recipe/",
+    "title": "Greek Salmon",
+    "total_CO2": 7.685059425,
+    "servings": 4,
+    "CO2_per_portion": 1.92126485625,
+    "E.Mission coefficient": 4.012719164045061,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/4 c. extra-virgin olive oil",
+            "amount": "0.25",
+            "unit": "c.",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Juice of 2 lemons",
+            "amount": "2.0",
+            "ingredient_name": "lemons",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.041210000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 clove garlic, minced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp. dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 tsp. red pepper flakes",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0012749999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0005801249999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 c. cubed feta",
+            "amount": "1.0",
+            "ingredient_name": "cubed feta",
+            "matched_ingredient": "Feta",
+            "kg_equivalent": 0.017,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.36108
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 c. quartered tomatoes or halved cherry tomatoes",
+            "amount": "0.5",
+            "ingredient_name": "quartered tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0625,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0891875
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 c. quartered tomatoes or halved cherry tomatoes",
+            "amount": "0.5",
+            "ingredient_name": "halved cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.0085,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.012129500000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 c. sliced kalamata olives",
+            "amount": "0.25",
+            "unit": "c.",
+            "ingredient_name": "sliced kalamata olives",
+            "matched_ingredient": "Sapodilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 c. chopped Persian cucumbers&nbsp;",
+            "amount": "0.25",
+            "unit": "c.",
+            "ingredient_name": "chopped Persian cucumbers",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.022750000000000003
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 chopped red onion&nbsp;",
+            "amount": "0.25",
+            "ingredient_name": "chopped red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.037,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.014615
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp. freshly chopped dill",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "freshly chopped dill",
+            "matched_ingredient": "Dill",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 lemon, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 small red onion, sliced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "4 salmon fillets (12-oz. total), patted dry with paper towels&nbsp;",
+            "amount": "4.0",
+            "ingredient_name": "salmon fillets",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 1.36,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 7.0488800000000005
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Kosher salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 375°. Marinate feta:&nbsp;In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, and red pepper flakes. Season with pepper and add feta, tossing to coat. Cover and refrigerate for about 10 minutes&nbsp;while preparing other ingredients."
+        },
+        {
+            "number": 2,
+            "instruction": "Roast fish:&nbsp;Scatter the sliced lemon and red onion at the bottom of a large baking dish."
+        },
+        {
+            "number": 3,
+            "instruction": "Add salmon fillets, skin side down, to baking dish. Season with salt and pepper and bake until opaque and flaky, 18 to 20 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, make topping: Into the bowl with feta, add tomatoes, olives, cucumbers, chopped red onion, and dill. Fold gently to combine."
+        },
+        {
+            "number": 5,
+            "instruction": "To serve: Plate salmon with lemon and red onion slices and top with feta mixture."
+        }
+    ]
+}

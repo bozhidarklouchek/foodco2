@@ -1,0 +1,75 @@
+{
+    "url": "https://www.olivemagazine.com/recipes/family/rosemary-salt-roast-chicken/",
+    "title": "Rosemary salt roast chicken",
+    "total_CO2": 10.0134062,
+    "servings": 4,
+    "CO2_per_portion": 2.50335155,
+    "E.Mission coefficient": 6.282724432174677,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1.5 kg whole chicken",
+            "amount": "1.5",
+            "unit": "kg",
+            "ingredient_name": "whole chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 9.138
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "leaves picked to make 1 tbsp rosemary",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp sea salt crystals",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sea salt crystals",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.06480000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.7856352000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put the chicken on a rack over a roasting tray. Clear a shelf at the bottom of the fridge that the chicken will fit onto in its tray."
+        },
+        {
+            "number": 2,
+            "instruction": "Use a pestle and mortar to crush together the rosemary and salt. Rub this mixture all over the chicken and chill, uncovered, overnight. Take the chicken out of the fridge 30 minutes before you want to cook it to come up to room temperature."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the oven to 190C/fan 170C/gas"
+        },
+        {
+            "number": 4,
+            "instruction": "Brush any excess salt off the chicken and drizzle over a little olive oil."
+        },
+        {
+            "number": 5,
+            "instruction": "Roast for 1 hour 20 minutes or until the skin is browned and crisp, and the chicken cooked through. Rest under loose foil for 20 minutes before carving."
+        }
+    ]
+}

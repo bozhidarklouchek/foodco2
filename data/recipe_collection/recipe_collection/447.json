@@ -1,0 +1,237 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/carrot-cake",
+    "title": "Easy carrot cake",
+    "total_CO2": 6.31597155,
+    "servings": 10,
+    "CO2_per_portion": 0.631597155,
+    "E.Mission coefficient": 2.8406816362327962,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "235 ml vegetable oil, plus extra for the tin",
+            "amount": "235.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.23500000000000001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.89958
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "100 g natural yogurt",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "natural yogurt",
+            "matched_ingredient": "Natural Yogurt",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.2781
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 large eggs",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "11/2 tsp vanilla extract",
+            "amount": "5.5",
+            "unit": "tsp",
+            "ingredient_name": "vanilla extract",
+            "matched_ingredient": "Vanilla",
+            "kg_equivalent": 0.01595,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1933778
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 an orange, zested",
+            "amount": "0.5",
+            "ingredient_name": "orange",
+            "matched_ingredient": "Orange",
+            "kg_equivalent": 0.077,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.024409
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "265 g self-raising flour",
+            "amount": "265.0",
+            "unit": "g",
+            "ingredient_name": "self-raising flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.265,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.381865
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "335 g light muscovado sugar",
+            "amount": "335.0",
+            "unit": "g",
+            "ingredient_name": "light muscovado sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.335,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.51456
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "21/2 tsp ground cinnamon",
+            "amount": "10.5",
+            "unit": "tsp",
+            "ingredient_name": "ground cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.03045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01385475
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 fresh nutmeg, finely grated",
+            "amount": "0.25",
+            "ingredient_name": "fresh nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "265 g carrots (about 3), grated",
+            "amount": "265.0",
+            "unit": "g",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.265,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.096725
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "100 g sultanas or raisins",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "sultanas",
+            "matched_ingredient": "Sultanas",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.060700000000000004
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "100 g sultanas or raisins",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "raisins",
+            "matched_ingredient": "Raisin",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.060700000000000004
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "100 g walnuts or pecans, roughly chopped (optional)",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "walnuts",
+            "matched_ingredient": "Walnut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.013900000000000003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "100 g walnuts or pecans, roughly chopped (optional)",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "pecans",
+            "matched_ingredient": "Pecan nut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.013900000000000003
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "100 g slightly salted butter, softened",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "salted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.2781
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "300 g icing sugar",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "icing sugar",
+            "matched_ingredient": "Icing sugar",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.4608
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "100 g full-fat cream cheese",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "full-fat cream cheese",
+            "matched_ingredient": "Cream cheese",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 180C/160C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Oil and line the base and sides of two 20cm cake tins with baking parchment."
+        },
+        {
+            "number": 3,
+            "instruction": "Whisk the oil, yogurt, eggs, vanilla and zest in a jug."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix the flour, sugar, cinnamon and nutmeg with a good pinch of salt in a bowl. Squeeze any lumps of sugar through your fingers, shaking the bowl a few times to bring the lumps to the surface."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the wet ingredients to the dry, along with the carrots, raisins and half the nuts, if using."
+        },
+        {
+            "number": 6,
+            "instruction": "Mix well to combine, then divide between the tins."
+        },
+        {
+            "number": 7,
+            "instruction": "Bake for 25-30 mins or until a skewer inserted into the centre of the cake comes out clean. If any wet mixture clings to the skewer, return to the oven for 5 mins, then check again. Leave to cool in the tins."
+        },
+        {
+            "number": 8,
+            "instruction": "To make the icing, beat the butter and sugar together until smooth."
+        },
+        {
+            "number": 9,
+            "instruction": "Add half the cream cheese and beat again, then add the rest (adding it bit by bit prevents the icing from splitting)."
+        },
+        {
+            "number": 10,
+            "instruction": "Remove the cakes from the tins and sandwich together with half the icing. Top with the remaining icing and scatter with the remaining walnuts. Will keep in the fridge for up to five days. Best eaten at room temperature."
+        }
+    ]
+}

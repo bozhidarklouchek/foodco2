@@ -1,0 +1,245 @@
+{
+    "url": "https://naturallyella.com/pinto-bean-sweet-potato-enchiladas/",
+    "title": "Pinto Bean Sweet Potato Enchiladas",
+    "total_CO2": 4.203187367761625,
+    "servings": 4,
+    "CO2_per_portion": 1.0507968419404063,
+    "E.Mission coefficient": 2.5886251947306755,
+    "ingredients": [
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large sweet potato (1-1 ½ pounds)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08695
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 ounces shredded sharp cheddar cheese",
+            "amount": "4.0",
+            "unit": "ounces",
+            "ingredient_name": "shredded sharp cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.4085754847
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "8, 6-8” corn/flour tortillas",
+            "amount": "8.0",
+            "ingredient_name": "corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1, 28 ounce can of whole tomatoes",
+            "amount": "28.0",
+            "unit": "ounce",
+            "ingredient_name": "whole tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.7937866475,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 1.1327335459825
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 teaspoons garlic powder",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00395
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon chili powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon ground cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 teaspoon ground coriander",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.030310000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 teaspoon dried oregano",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 teaspoon smoked paprika",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 teaspoon sea salt",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup fresh cilantro, minced",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "fresh cilantro",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tablespoons apple cider vinegar",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "apple cider vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 1/2 cups pinto beans with liquid (or 1 can of beans, with liquid)",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "liquid",
+            "matched_ingredient": "Liquid Aminos",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.32436247224150005
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 teaspoon garlic powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/2 teaspoon chili powder",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 teaspoon smoked paprika",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1/4 teaspoon sea salt",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 425F. Take a fork and pierce the sweet potato a few times."
+        },
+        {
+            "number": 2,
+            "instruction": "Place in a roasting pan and bake until tender; 40 to 50 minutes. Alternatively, you can also steam or boil peeled/cubed sweet potato pieces- just pick whichever method is easiest."
+        },
+        {
+            "number": 3,
+            "instruction": "While the sweet potato is roasting, combine the tomatoes and spices for the sauce in a pan. Bring to a boil, reduce to a simmer, and let cook until the tomatoes are hot enough to mash and the liquid begins to thicken, 30 to 40 minutes. Mash with a fork to break down tomatoes and stir in the cilantro and vinegar."
+        },
+        {
+            "number": 4,
+            "instruction": "For the beans, combine the beans, their liquid, and spices in a separate pan. Bring to a boil reduce to a simmer, and cook until the beans are hot and the liquid has thickened."
+        },
+        {
+            "number": 5,
+            "instruction": "Once the sweet potato is done, remove the skin and lightly mash."
+        },
+        {
+            "number": 6,
+            "instruction": "To assemble the enchiladas, pour about 1/3 of the enchilada sauce in the bottom of a 99 (or similar sized) pan. Take a tortilla, dip it in the tomato sauce to soften, then place in the pan. In the center of the tortilla, layer a scoop of the sweet potatoes followed by a couple spoonfuls of beans, and a small sprinkle of the cheese."
+        },
+        {
+            "number": 7,
+            "instruction": "Roll the tortilla so that it is seam-side down in the pan and repeat with the remaining tortilla/filling."
+        },
+        {
+            "number": 8,
+            "instruction": "Top the enchiladas with the remaining sauce and cheese. Return the pan to the oven, drop the oven temperature to 375F and bake until the cheese has melted and is starting to brown."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve the enchiladas with extra cilantro, hot sauce, and/or sour cream."
+        }
+    ]
+}

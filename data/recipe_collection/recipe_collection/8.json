@@ -1,0 +1,283 @@
+{
+    "url": "https://www.budgetbytes.com/balsamic-roasted-mushrooms-with-herby-kale-mashed-potatoes/",
+    "title": "Balsamic Roasted Mushrooms with Herby Kale Mashed Potatoes",
+    "total_CO2": 1.7945810835543798,
+    "servings": 4,
+    "CO2_per_portion": 0.44864527088859496,
+    "E.Mission coefficient": 0.7680106816534863,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 Tbsp balsamic vinegar ($0.33)",
+            "amount": "3.0",
+            "unit": "Tbsp",
+            "ingredient_name": "balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.071325
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 Tbsp brown sugar ($0.02)",
+            "amount": "0.5",
+            "unit": "Tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00525,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.014028000000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 Tbsp brown sugar ($0.02)",
+            "amount": "0.5",
+            "unit": "Tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00525,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.014028000000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 tsp dried basil ($0.05)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried basil",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp dried parsley ($0.10)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 tsp dried thyme ($0.02)",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves garlic, minced ($0.16)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 tsp garlic powder ($0.02)",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00049375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "6 oz. kale, chopped ($1.68)",
+            "amount": "6.0",
+            "unit": "oz",
+            "ingredient_name": "kale",
+            "matched_ingredient": "Kale",
+            "kg_equivalent": 0.17009713875,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.07433244963374999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 cup milk ($0.17)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.12302588298000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.34213498056738006
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 lb. mushrooms ($2.58)",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.20638452835
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 lb. mushrooms ($2.58)",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.20638452835
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 Tbsp olive oil ($0.16)",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 tsp onion powder ($0.02)",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "onion powder",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.000275,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00010862500000000001
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 tsp dried oregano ($0.05)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "freshly cracked pepper ($0.02)",
+            "amount": "0.02",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0024,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0010919999999999999
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "2 lbs. russet potatoes ($1.08)",
+            "amount": "2.0",
+            "unit": "lbs",
+            "ingredient_name": "russet potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.90718474,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.33565835380000003
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "3/4 tsp salt, divided ($0.04)",
+            "amount": "0.75",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.008100000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.09820440000000003
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1/2 cup sour cream ($0.45)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "sour cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.32897594285325
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 Tbsp soy sauce ($0.06)",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 400F. Wash the mushrooms and cut them in half if they are large."
+        },
+        {
+            "number": 2,
+            "instruction": "In a small dish, stir together the olive oil, balsamic vinegar, brown sugar, soy sauce, minced garlic, and thyme."
+        },
+        {
+            "number": 3,
+            "instruction": "Place the mushrooms in a casserole dish big enough to allow them to be in a single layer."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour the balsamic marinade over top and stir until the mushrooms are coated."
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer the the mushrooms to the preheated oven and roast for 45 minutes, giving them a stir every 15 minutes. After 45 minutes the mushrooms should be tender and there should be a nice sauce in the bottom of the dish."
+        },
+        {
+            "number": 6,
+            "instruction": "Meanwhile, prepare the mashed potatoes. Peel and dice the potatoes into one-inch cubes. Rinse the cubes well in a colander, then place them in a large pot, add 1/2 tsp salt, and cover with cool water."
+        },
+        {
+            "number": 7,
+            "instruction": "Place a lid on the pot, bring it up to a boil. Boil the potatoes until they are very tender (about 7-10 minutes)."
+        },
+        {
+            "number": 8,
+            "instruction": "Once the potatoes are very tender, drain them in the colander and rinse them briefly with hot water."
+        },
+        {
+            "number": 9,
+            "instruction": "Let the potatoes drain in the colander as you prepare the kale."
+        },
+        {
+            "number": 10,
+            "instruction": "To the pot used to boil the potatoes, add the chopped kale, 1 Tbsp olive oil, and 2 Tbsp water. Saut over medium heat just until wilted (3-5 minutes), then remove the kale from the pot."
+        },
+        {
+            "number": 11,
+            "instruction": "Return the drained potatoes to the pot along with the sour cream, milk, dried parsley, oregano, basil, garlic powder, onion powder, 1/4 tsp salt, and some freshly cracked pepper. Mash the potatoes until smooth, then taste and add more salt if needed. Stir in the sauted kale."
+        },
+        {
+            "number": 12,
+            "instruction": "To make the bowls, add 1/4 of the herby kale mashed potatoes to each bowl, then top with 1/4 of the balsamic roasted mushrooms."
+        },
+        {
+            "number": 13,
+            "instruction": "Drizzle a spoonful or two of the juices from the bottom of the casserole dish over the mushrooms and mashed potatoes."
+        }
+    ]
+}

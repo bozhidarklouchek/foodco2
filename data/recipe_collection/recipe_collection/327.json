@@ -1,0 +1,143 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/eggs-recipes/baked-eggs-lots-of-ways/",
+    "title": "Baked eggs – lots of ways",
+    "total_CO2": 1.894168,
+    "servings": 2,
+    "CO2_per_portion": 0.947084,
+    "E.Mission coefficient": 3.9055010309278355,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "vegetable oil",
+            "amount": "1.0",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.053592
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 large free-range eggs",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "20 g baby spinach",
+            "amount": "20.0",
+            "unit": "g",
+            "ingredient_name": "baby spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00874
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "75 g quality cooked ham",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "cooked ham",
+            "matched_ingredient": "Ham",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.54615
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "70 g ripe cherry tomatoes",
+            "amount": "70.0",
+            "unit": "g",
+            "ingredient_name": "ripe cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.09989
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 sprig of fresh basil",
+            "amount": "1.0",
+            "unit": "sprig",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "50 g smoked salmon",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "smoked salmon",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 0.25915
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "a few fresh chives",
+            "amount": "1.0",
+            "ingredient_name": "fresh chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "50 g chestnut mushrooms",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.022750000000000003
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "a few drops of truffle oil",
+            "amount": "1.0",
+            "ingredient_name": "truffle oil",
+            "matched_ingredient": "Truffle oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Preheat the oven to full whack. Lightly grease 2 ovenproof ramekins or small baking dishes with a little oil."
+        },
+        {
+            "number": 3,
+            "instruction": "Prepare your chosen filling – roughly chop the spinach, quarter the tomatoes, finely chop the chives or slice the mushrooms."
+        },
+        {
+            "number": 4,
+            "instruction": "Place your chosen filling into the prepared ramekins, crack a couple of eggs on top and season with salt and pepper."
+        },
+        {
+            "number": 5,
+            "instruction": "Place in the hot oven for 8 to 10 minutes, or until the whites are set but the yolks are still runny, then serve straight away."
+        },
+        {
+            "number": 6,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

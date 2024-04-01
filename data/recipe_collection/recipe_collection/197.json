@@ -1,0 +1,97 @@
+{
+    "url": "https://www.marthastewart.com/316032/chicken-with-tomatoes-and-mushrooms",
+    "title": "Chicken With Tomatoes And Mushrooms",
+    "total_CO2": 4.4524522817,
+    "servings": 4,
+    "CO2_per_portion": 1.113113070425,
+    "E.Mission coefficient": 2.6619393793650374,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 can (14.5 ozs) stewed tomatoes",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "stewed tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Coarse salt and ground pepper",
+            "amount": "1.0",
+            "ingredient_name": "Coarse salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 garlic cloves, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 lb mushrooms, trimmed and quartered",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.20638452835
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 lb mushrooms, trimmed and quartered",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.20638452835
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 Tbsp olive oil",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/4 tsp dried oregano",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 boneless, skinless chicken breast halves, about 1 1/2 lbs",
+            "amount": "4.0",
+            "ingredient_name": "skinless chicken breast halves",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        }
+    ],
+    "instructions": []
+}

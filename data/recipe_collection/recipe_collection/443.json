@@ -1,0 +1,96 @@
+{
+    "url": "https://www.forksoverknives.com/recipes/vegan-salads-sides/healthy-homemade-hummus/",
+    "title": "The Best Oil-Free Hummus",
+    "total_CO2": 0.12406157797546875,
+    "servings": 12,
+    "CO2_per_portion": 0.010338464831289062,
+    "E.Mission coefficient": 0.894071164681532,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cans chickpeas, rinsed and drained",
+            "amount": "2.0",
+            "unit": "cans",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.004,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00644
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cloves garlic",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Juice of 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 teaspoons ground cumin",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 teaspoons Bragg Liquid Aminos",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "Liquid Aminos",
+            "matched_ingredient": "Liquid Aminos",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00914
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 cup water or vegetable broth",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.0295735295625,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/4 cup water or vegetable broth",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.01478676478125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00672797797546875
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Blend all ingredients into a thick paste."
+        },
+        {
+            "number": 2,
+            "instruction": "You can also customize this recipe by adding one or more of the following: 2 tablespoons toasted sesame seeds; 1 fresh jalapeño, seeded and chopped; 1 roasted and chopped red bell pepper; 1 cup Kalamata olives; 1 bunch fresh mint; 1 cup fresh spinach; 1 cup cooked eggplant"
+        }
+    ]
+}

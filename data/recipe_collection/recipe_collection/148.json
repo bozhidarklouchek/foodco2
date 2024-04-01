@@ -1,0 +1,285 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/veggie-thai-red-curry",
+    "title": "Veggie Thai red curry",
+    "total_CO2": 1.9844816000000005,
+    "servings": 4,
+    "CO2_per_portion": 0.49612040000000013,
+    "E.Mission coefficient": 0.8820310236010495,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g firm tofu, cubed",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "firm tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.5742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4-5 tbsp soy sauce",
+            "amount": "4.5",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.0675,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.06169500000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "juice 3 limes",
+            "amount": "3.0",
+            "ingredient_name": "limes",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.195,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.061815
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 red chillies, 1 finely chopped, 1 sliced into rounds",
+            "amount": "2.0",
+            "ingredient_name": "red chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 ml can reduced-fat coconut milk",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "reduced-fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.48,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.43872
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 courgette, chopped into chunks",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 small aubergine, chopped into chunks",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 red pepper, deseeded and chopped into chunks",
+            "amount": "0.5",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "140 g mushrooms, halved",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0637
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "140 g sugar snap pea",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "sugar snap pea",
+            "matched_ingredient": "Sugar snap peas",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.12544000000000002
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "20 g pack basil, leaves picked",
+            "amount": "20.0",
+            "unit": "g",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00874
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tsp brown sugar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0035,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.009352000000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "jasmine rice, to serve",
+            "amount": "1.0",
+            "ingredient_name": "jasmine rice",
+            "matched_ingredient": "Jasmine rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "3 red chillies",
+            "amount": "3.0",
+            "ingredient_name": "red chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.020475
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 lemongrass, roughly chopped",
+            "amount": "1.0",
+            "ingredient_name": "lemongrass",
+            "matched_ingredient": "Lemongrass",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "3 shallots, roughly chopped",
+            "amount": "3.0",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 red pepper, deseeded and roughly chopped",
+            "amount": "0.5",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "zest 1 lime",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "stalks from 20 g pack coriander",
+            "amount": "20.0",
+            "unit": "pack",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "thumb-size piece ginger, grated",
+            "amount": "1.0",
+            "ingredient_name": "thumb-size ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "2 garlic cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1 tsp freshly ground pepper",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "freshly ground pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "1 tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Whizz the paste ingredients in a food processor. Marinate the tofu in 2 tbsp soy sauce, juice 1 lime and the chopped chilli."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat half the oil in a large pan."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 3-4 tbsp paste and fry for 2 mins. Stir in the coconut milk with 100ml water, the courgette, aubergine and pepper and cook for 10 mins until almost tender."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain the tofu, pat dry, then fry in the remaining oil in a small pan until golden."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the mushrooms, sugar snaps and most of the basil to the curry, then season with the sugar, remaining lime juice and soy sauce. Cook for 4 mins until the mushrooms are tender, then add the tofu and heat through. Scatter with sliced chilli and basil and serve with jasmine rice."
+        }
+    ]
+}

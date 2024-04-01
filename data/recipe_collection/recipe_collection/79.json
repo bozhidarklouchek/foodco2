@@ -1,0 +1,139 @@
+{
+    "url": "https://www.deliciousmagazine.co.uk/recipes/mackerel-blood-orange-chorizo-and-walnut-salad/",
+    "title": "Mackerel, blood orange, chorizo and walnut salad",
+    "total_CO2": 4.763987299999999,
+    "servings": 4,
+    "CO2_per_portion": 1.1909968249999998,
+    "E.Mission coefficient": 2.2275154533127597,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "190 g cooking chorizo, chopped",
+            "amount": "190.0",
+            "unit": "g",
+            "ingredient_name": "cooking chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.19,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.38358
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2-3 blood oranges (or regular oranges)",
+            "amount": "2.5",
+            "ingredient_name": "blood oranges",
+            "matched_ingredient": "Orange",
+            "kg_equivalent": 0.385,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.122045
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 red onions, sliced",
+            "amount": "2.0",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "140 g rocket",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "rocket",
+            "matched_ingredient": "Rocket",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.061180000000000005
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 mackerel fillets",
+            "amount": "3.0",
+            "ingredient_name": "mackerel fillets",
+            "matched_ingredient": "Mackerel",
+            "kg_equivalent": 1.02,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 2.88354
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp Dijon mustard",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Pinch of sugar",
+            "amount": "0.0",
+            "unit": "pinch",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp red wine vinegar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "red wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tbsp extra-virgin olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "50 g chopped walnuts",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "chopped walnuts",
+            "matched_ingredient": "Walnut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.013900000000000003
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put a frying pan over a medium-high heat and fry the chorizo for 6 minutes or until crisp."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove with a slotted spoon onto kitchen paper. Meanwhile, slice off the peel and pith from the oranges (or regular ones), then cut out the segments."
+        },
+        {
+            "number": 3,
+            "instruction": "Discard some fat from the pan, then fry the red onions for 7 minutes until soft."
+        },
+        {
+            "number": 4,
+            "instruction": "Add to the kitchen paper. In a bowl, toss the onions and chorizo with the rocket. Fry the mackerel fillets, skin-side down, for 3-4 minutes until crisp, then turn over and fry for 2 minutes more."
+        },
+        {
+            "number": 5,
+            "instruction": "Mix the Dijon mustard, a pinch of sugar and red wine vinegar, then whisk in the extra-virgin olive oil and chopped walnuts. Toss through the salad, then serve on 4 plates. Break the mackerel into large flakes and scatter on top."
+        }
+    ]
+}

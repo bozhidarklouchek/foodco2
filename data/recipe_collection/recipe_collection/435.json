@@ -1,0 +1,255 @@
+{
+    "url": "https://www.deliaonline.com/recipes/type-of-dish/pasta-recipes/roasted-mediterranean-vegetable-lasagne",
+    "title": "Roasted Mediterranean Vegetable Lasagne",
+    "total_CO2": 5.197967,
+    "servings": 2,
+    "CO2_per_portion": 2.5989835,
+    "E.Mission coefficient": 2.066621739821883,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "about 9 sheets spinach lasagne (the kind that needs no pre-cooking)",
+            "amount": "9.0",
+            "ingredient_name": "spinach lasagne",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 small aubergine",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 heaped tablespoon capers",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "capers",
+            "matched_ingredient": "Capers",
+            "kg_equivalent": 0.0066,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 oz (75 g) Mozzarella, grated",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "Mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.5929999999999997
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "salt and freshly milled black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 medium courgettes",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "courgettes",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.18200000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 lb (450 g) cherry tomatoes, skinned",
+            "amount": "450.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.64215
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 small yellow pepper, de-seeded and cut into 1 inch (2.5 cm) squares",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "small yellow pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 large onion, sliced and cut into 1 inch (2.5 cm) squares",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "large onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 fat cloves garlic, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "fat   garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tablespoons fresh basil, leaves torn so that they stay quite visible",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 tablespoons extra virgin olive oil",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 oz (50 g) pitted black olives, chopped",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "pitted black olives",
+            "matched_ingredient": "Olive",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.022750000000000003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "11/4 oz (35 g) plain flour",
+            "amount": "35.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.035,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.05043500000000001
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "11/2 oz (40 g) butter",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.11124
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 pint (570 ml) milk",
+            "amount": "570.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.5928000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.6485768000000003
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "grating of fresh nutmeg",
+            "amount": "1.0",
+            "ingredient_name": "fresh nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "3 level tablespoons freshly grated Parmesan (Parmigiano Reggiano); see recipe introduction",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "freshly grated Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.015300000000000001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.324972
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "salt and freshly milled black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 level tablespoon freshly grated Parmesan (Parmigiano Reggiano); see recipe introductio",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "freshly grated Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0051,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.108324
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Prepare the aubergine and courgettes ahead of time by cutting them into 1 inch (2.5 cm) dice, leaving the skins on."
+        },
+        {
+            "number": 2,
+            "instruction": "Then toss the dice in about a level dessertspoon of salt and pack them into a colander with a plate on top and a heavy weight on top of the plate. Leave them on one side for an hour so that some of the bitter juices drain out. After that, squeeze out any juices left, and dry the dice thoroughly in a clean cloth. Now arrange the tomatoes, aubergine, courgettes, peppers and onion in the roasting tin, sprinkle with the chopped garlic, basil and olive oil, toss everything around in the oil to get a good coating, and season with salt and pepper.  You can also watch how to prepare garlic, how to chop onions and how to skin tomatoes in our Cookery School Videos on this page."
+        },
+        {
+            "number": 3,
+            "instruction": "Now place the tin on the highest shelf of the oven for 30-40 minutes or until the vegetables are toasted brown at the edges. Meanwhile make the sauce by placing all the ingredients (except the cheese) in a small saucepan and whisking continuously over a medium heat until the sauce boils and thickens. Then turn the heat down to its lowest and let the sauce cook for 2 minutes. Now add the grated Parmesan."
+        },
+        {
+            "number": 4,
+            "instruction": "When the vegetables are done, remove them from the oven and stir in the chopped olives and the capers. Turn the oven down to gas mark 4, 350°F (180°C). Now, into the baking dish pour one quarter of the sauce, followed by one third of the vegetable mixture. Then sprinkle in a third of the Mozzarella and follow this with a single layer of lasagne sheets. Repeat this process, ending up with a final layer of sauce and a good sprinkling of grated Parmesan. Now place the dish in the oven and bake for 25-30 minutes or until the top is crusty and golden. All this needs is a plain lettuce salad with a lemony dressing as an accompaniment."
+        }
+    ]
+}

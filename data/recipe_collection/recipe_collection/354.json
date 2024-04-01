@@ -1,0 +1,214 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/chicken-recipes/jewish-penicillin/",
+    "title": "Jewish penicillin",
+    "total_CO2": 3.4452648,
+    "servings": 10,
+    "CO2_per_portion": 0.34452647999999997,
+    "E.Mission coefficient": 2.430607640481145,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 x 2.5 kg free-range chicken",
+            "amount": "1.0",
+            "unit": "x 2.5 kg",
+            "ingredient_name": "free-range chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 medium onions peeled and roughly chopped",
+            "amount": "3.0",
+            "unit": "medium",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 carrots peeled and roughly chopped",
+            "amount": "3.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0657
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 sticks of celery trimmed and roughly chopped",
+            "amount": "3.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0054600000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 cloves of garlic peeled",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "4 fresh bay leaves",
+            "amount": "4.0",
+            "unit": "leaves",
+            "ingredient_name": "fresh bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "a few sprigs of fresh thyme",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 handfuls of Jewish fine egg noodles or spaghetti broken into bits",
+            "amount": "1.0",
+            "ingredient_name": "Jewish fine egg noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.76619
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 handfuls of Jewish fine egg noodles or spaghetti broken into bits",
+            "amount": "1.0",
+            "ingredient_name": "spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 small bunch of fresh flat-leaf parsley",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 small bunch of fresh dill",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh dill",
+            "matched_ingredient": "Dill",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.030590000000000003
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "4 large free-range eggs",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "4 tablespoons chicken fat",
+            "amount": "4.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chicken fat",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.054,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.328968
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 teaspoon freshly ground black pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "130 g matzo meal (or matzo crackers, blitzed to a fine powder)",
+            "amount": "130.0",
+            "unit": "g",
+            "ingredient_name": "matzo meal",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.2093
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Rinse your chicken in cold water, pat it dry with kitchen paper and put it into your biggest pot. Cover with cold water to come about 8 to 10cm above the chicken. Bring to the boil, then turn the heat down and simmer for 30 minutes. Skim the froth off the top of the chicken."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chopped veg, garlic cloves, bay leaves and thyme sprigs, and season with a good pinch of sea salt. Bring everything back to the boil, then turn the heat down and leave it to simmer for 1 hour. Carry on skimming the broth, reserving 4 tablespoons of this fat for your matzo balls."
+        },
+        {
+            "number": 4,
+            "instruction": "To make your matzo balls, beat the eggs in a large bowl and add 70ml of cold water, your cooled chicken fat and 1 teaspoon of salt and ½ a teaspoon of freshly ground black pepper. Beat again, then slowly stir in your matzo meal until well blended. Leave, covered with clingfilm, in the fridge for 30 minutes, then wet your hands with cold water and roll the dough into about 20 small balls. Don’t roll them too big because they’ll double in size when you cook them."
+        },
+        {
+            "number": 5,
+            "instruction": "When the soup has had its hour and a half, use tongs to carefully transfer the chicken to a roasting pan. Leave to cool, uncovered, for a few minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the soup from the heat and strain it through your biggest sieve or colander. Pull out the decent-looking bits of veg and put these back into the soup, getting rid of anything else."
+        },
+        {
+            "number": 7,
+            "instruction": "Put the pan back on a medium heat and bring back to the boil, then add your matzo balls. Put a lid on the pan, turn the heat down a bit and simmer for 20 minutes, until the balls are light and puffy. Halfway through the 20 minutes, add your noodles or spaghetti to the pan and cook gently for the final 10 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "When your chicken has cooled enough to handle, either use two forks or pop on a pair of Marigolds and use your hands to shred the meat off the bone. Pile it on to a plate and get rid of the skin and bones. Pick the leaves from your parsley and roughly chop them with the dill."
+        },
+        {
+            "number": 9,
+            "instruction": "Add all your shredded chicken meat to the soup, along with the chopped herbs, and warm through for 3 minutes. Have a taste, and season with salt and pepper. I’d usually serve soup with a nice crusty roll, but to be honest, this is a meal in itself and perfectly delicious and nourishing on its own."
+        },
+        {
+            "number": 10,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

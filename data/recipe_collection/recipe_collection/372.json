@@ -1,0 +1,195 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/beef-recipes/beef-stew/",
+    "title": "Beef stew",
+    "total_CO2": 48.648603200000004,
+    "servings": 6,
+    "CO2_per_portion": 8.108100533333333,
+    "E.Mission coefficient": 27.748461784166096,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "800 g lean stewing beef",
+            "amount": "800.0",
+            "unit": "g",
+            "ingredient_name": "lean stewing beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 47.656000000000006
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tablespoons plain flour",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0276672
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 cloves of garlic",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 handful of shallots",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 sticks of celery",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 carrots",
+            "amount": "4.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0876
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 a bunch of fresh thyme (15g)",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 ripe vine tomatoes",
+            "amount": "4.0",
+            "ingredient_name": "ripe vine tomatoes",
+            "matched_ingredient": "Vine leaves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "150 ml red wine",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.23775
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "500 ml organic beef stock",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "organic beef stock",
+            "matched_ingredient": "Beef stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.05,
+            "ingredient_carbon": 0.525
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 fresh bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "fresh bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Worcestershire sauce",
+            "amount": "1.0",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.02536
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Preheat the oven to 160ºC/325ºF/gas"
+        },
+        {
+            "number": 3,
+            "instruction": "Dice the beef into 1cm pieces, then toss in a bowl with the flour, making sure the meat chunks are totally covered. Set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Add a splash of oil to a large casserole pan and place it over a medium heat. When it’s hot, add the beef and cook for 5 minutes, or until the meat is browned all over."
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer to a plate and leave to one side."
+        },
+        {
+            "number": 6,
+            "instruction": "While the beef cooks, peel and finely chop the garlic, then peel the shallots and halve most of them, keeping a few whole. Trim and roughly chop the celery, then peel, trim and chop the carrots into 2cm rounds."
+        },
+        {
+            "number": 7,
+            "instruction": "Splash a little more oil into the pan, then add the veg. Strip the leaves from the thyme and add to the pan, then cook for 10 to 15 minutes, or until the vegetables are softened."
+        },
+        {
+            "number": 8,
+            "instruction": "Return the beef to the pan, then stir through the tomatoes and wine. Once the liquid has been absorbed, add the stock, bay leaves and a splash of Worcestershire sauce."
+        },
+        {
+            "number": 9,
+            "instruction": "Season with sea salt and black pepper, then transfer the stew to the oven to cook for 3 to 4 hours, or until the meat is tender and pulls apart easily with forks."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve your beef stew with creamy mashed potato and, if you like, a glass of your favourite red wine."
+        },
+        {
+            "number": 11,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

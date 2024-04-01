@@ -1,0 +1,157 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya",
+    "title": "Chicken & chorizo jambalaya",
+    "total_CO2": 5.878610200000001,
+    "servings": 4,
+    "CO2_per_portion": 1.4696525500000002,
+    "E.Mission coefficient": 2.929892819317941,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 chicken breasts, chopped",
+            "amount": "2.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.31,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.88852
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, diced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 red pepper, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "75 g chorizo, sliced",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.54615
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "75 g chorizo, sliced",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.54615
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp Cajun seasoning",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Cajun seasoning",
+            "matched_ingredient": "Cajun seasoning",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "250 g long grain rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "250 g long grain rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "400 g can plum tomato",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "plum tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "350 ml chicken stock",
+            "amount": "350.0",
+            "unit": "ml",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.35000000000000003,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.10500000000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 1 tbsp olive oil in a large frying pan with a lid and brown 2 chopped chicken breasts for 5-8 mins until golden."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove and set aside. Tip in the 1 diced onion and cook for 3-4 mins until soft."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 1 thinly sliced red pepper, 2 crushed garlic cloves, 75g sliced chorizo and 1 tbsp Cajun seasoning, and cook for 5 mins more."
+        },
+        {
+            "number": 4,
+            "instruction": "Stir the chicken back in with 250g long grain rice, add the 400g can of tomatoes and 350ml chicken stock. Cover and simmer for 20-25 mins until the rice is tender. "
+        }
+    ]
+}

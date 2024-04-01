@@ -1,0 +1,39 @@
+{
+    "url": "https://www.bosh.tv/recipes/texan-bbq-pizza",
+    "title": "Texan BBQ Pizza",
+    "total_CO2": 0.1309392,
+    "servings": 4,
+    "CO2_per_portion": 0.0327348,
+    "E.Mission coefficient": 12.124,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tsp fine sea salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fine sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put one of the pizzas on a pizza stone or very large baking tray"
+        },
+        {
+            "number": 2,
+            "instruction": "Put it in the oven and bake for 8-10 minutes until the crusts have started to lightly brown"
+        },
+        {
+            "number": 3,
+            "instruction": "Take the pizza out of the oven, cut into slices and serve"
+        },
+        {
+            "number": 4,
+            "instruction": "Repeat the process with the second pizza"
+        }
+    ]
+}

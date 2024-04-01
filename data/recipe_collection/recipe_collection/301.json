@@ -1,0 +1,149 @@
+{
+    "url": "https://damndelicious.net/2018/10/30/pork-and-kimchi-potstickers/",
+    "title": "Pork and Kimchi Potstickers",
+    "total_CO2": 1.9020957630312527,
+    "servings": 32,
+    "CO2_per_portion": 0.05944049259472665,
+    "E.Mission coefficient": 4.0655258431678005,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons canola oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "canola oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tablespoon freshly grated ginger",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "freshly grated ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/4 cup thinly sliced green onions",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.0130123530075,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0051398794379625004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "8 ounces ground pork",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "ground pork",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.65152981917
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 cup kimchi, drained and finely chopped",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "kimchi",
+            "matched_ingredient": "Kimchi",
+            "kg_equivalent": 0.13722117716999999,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.059965654423289994
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon reduced sodium soy sauce",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "reduced sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon rice wine vinegar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "rice wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 teaspoons sesame oil",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.00923,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.03329261
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "32 (3-inch) round wonton wrappers",
+            "amount": "0.0",
+            "unit": "inch",
+            "ingredient_name": "round wonton wrappers",
+            "matched_ingredient": "Red snapper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "32 (3-inch) round wonton wrappers",
+            "amount": "0.0",
+            "unit": "inch",
+            "ingredient_name": "round wonton wrappers",
+            "matched_ingredient": "Red snapper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large bowl, combine ground pork, kimchi, green onions, garlic, ginger, soy sauce, rice wine vinegar and sesame oil."
+        },
+        {
+            "number": 2,
+            "instruction": "To assemble the potstickers, place wrappers on a work surface. Spoon 1 tablespoon of the pork-kimchi mixture into the center of each wrapper. Using your finger, rub the edges of the wrappers with water. Fold the dough over the filling to create a half-moon shape, pinching the edges to seal."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat canola oil in a large skillet over medium heat. Working in batches, add potstickers in a single layer and cook until beginning to crisp on the bottom, about 2-3 minutes. Working quickly, add 1/4 cup water; cover and cook until liquid has evaporated and bottoms of dumplings are crisp and golden, about 3-5 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

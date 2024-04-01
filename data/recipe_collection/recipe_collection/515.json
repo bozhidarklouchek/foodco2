@@ -1,0 +1,140 @@
+{
+    "url": "https://www.easycheesyvegetarian.com/tomato-mascarpone-pasta/",
+    "title": "15 Minute Tomato and Mascarpone Pasta",
+    "total_CO2": 2.3680341,
+    "servings": 3,
+    "CO2_per_portion": 0.7893447,
+    "E.Mission coefficient": 2.4661883982503645,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g (~ 9 oz) pasta (I used linguine)",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.36025
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "500 g (~ 1 lb) good quality tomatoes, diced",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "quality tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 cloves garlic, (minced)",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp dried Italian mixed herbs",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried Italian mixed herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Black pepper",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp sugar ((optional))",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.004915200000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Few sprigs fresh basil, (chopped)",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tbsp mascarpone cheese",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "mascarpone cheese",
+            "matched_ingredient": "Mascarpone",
+            "kg_equivalent": 0.0273,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.579852
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Vegetarian parmesan-style cheese, (finely grated, to serve (optional))",
+            "amount": "1.0",
+            "ingredient_name": "Vegetarian parmesan-style cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Boil the pasta in plenty of water until cooked al dente, then drain."
+        },
+        {
+            "number": 2,
+            "instruction": "While the pasta is cooking, heat a dash of oil in a large frying pan, and add the diced tomatoes and garlic. Cook over a medium heat for 5 minutes, until they've cooked right down to create a chunky tomato sauce."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the mixed herbs, salt and pepper, and sugar (if using). Finally add the chopped basil and mascarpone cheese, and stir until the cheese has melted. It will create a creamy, glossy sauce."
+        },
+        {
+            "number": 4,
+            "instruction": "Transfer the drained pasta to the pan with the sauce, and mix well."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve topped with parmesan-style cheese, if desired."
+        }
+    ]
+}

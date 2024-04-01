@@ -1,0 +1,217 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/vegetable_pasta_bake_15082",
+    "title": "Vegetable pasta bake",
+    "total_CO2": 5.277603000000001,
+    "servings": 4,
+    "CO2_per_portion": 1.3194007500000002,
+    "E.Mission coefficient": 2.387704523090497,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 red pepper, seeds removed, cut into bite-size chunks",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 yellow pepper, seeds removed, cut into bite-size chunks",
+            "amount": "1.0",
+            "ingredient_name": "yellow pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 aubergine, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 courgette, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 red onion, sliced",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "150 g/51/2 oz cherry tomatoes, halved",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.21405
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g tin chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp roughly chopped basil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.019665
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "300 g/101/2 oz pasta, such as gemelli or penne",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21615
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "300 g/101/2 oz pasta, such as gemelli or penne",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "penne",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05925
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "150 g/51/2 oz ball mozzarella, drained and finely chopped",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.1859999999999995
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp pesto",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "pesto",
+            "matched_ingredient": "Pesto",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.007603799999999999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2-3 tbsp finely grated Parmesan, or a vegetarian hard cheese alternative",
+            "amount": "1.25",
+            "unit": "tbsp",
+            "ingredient_name": "grated Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.006375000000000001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.13540500000000003
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2-3 tbsp finely grated Parmesan, or a vegetarian hard cheese alternative",
+            "amount": "1.25",
+            "unit": "tbsp",
+            "ingredient_name": "vegetarian hard cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.006375000000000001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.13540500000000003
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 190C/170C Fan/Gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Put the peppers, aubergine, courgette and onion into a roasting tin or deep baking dish and coat in the oil. Season with salt and pepper and cook for 45 minutes, turning twice, until the vegetables are tender and golden brown."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the cherry tomatoes, chopped tomatoes, garlic and basil and cook for 10–15 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, cook the pasta in boiling salted water according to pack instructions."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 4–6 tablespoons of the pasta cooking water to the vegetables to loosen the tomato sauce."
+        },
+        {
+            "number": 6,
+            "instruction": "Drain the pasta and stir into the roasted vegetables. Stir through the mozzarella and pesto, top with Parmesan and return to the oven for another 10 minutes, until the cheese has melted."
+        }
+    ]
+}

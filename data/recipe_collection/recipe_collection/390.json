@@ -1,0 +1,183 @@
+{
+    "url": "https://beatthebudget.com/recipes/lebanese-inspired-chicken-pilaf/",
+    "title": "Lebanese Inspired Chicken Pilaf",
+    "total_CO2": 7.830505544999999,
+    "servings": 5,
+    "CO2_per_portion": 1.5661011089999999,
+    "E.Mission coefficient": 2.5043112773081826,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 kg large chicken thighs (approx 5 with bone-in and skin-on ((£2.15))",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "large chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 6.092
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 lemon ((£0.76/4=(£0.19))",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 cauliflower, chopped into florets ((£0.95))",
+            "amount": "1.0",
+            "ingredient_name": "florets",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01748
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 large red onion, thinly sliced ((£0.50/3)=(£0.16))",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 cloves of garlic, finely chopped ((£0.69/3)=(£0.23))",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 courgettes, grated ((£0.80))",
+            "amount": "2.0",
+            "ingredient_name": "courgettes",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.18200000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "250 g long-grain white rice, grated ((£0.45))",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "long-grain white rice",
+            "matched_ingredient": "Long-grain rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Bunch of fresh parsley, finely chopped ((£0.50))",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.0005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0002185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Bunch of fresh mint, finely chopped ((£0.39))",
+            "amount": "0.39",
+            "unit": "bunch",
+            "ingredient_name": "fresh mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.000585,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000255645
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "80 g pomegranate seeds ((£1.00))",
+            "amount": "80.0",
+            "unit": "g",
+            "ingredient_name": "pomegranate seeds",
+            "matched_ingredient": "Pomegranate",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.06
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 litre chicken stock",
+            "amount": "1.0",
+            "unit": "litre",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.3
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Salt &amp; Pepper",
+            "amount": "1.0",
+            "ingredient_name": "Pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Remove the excess skin from the chicken thighs with scissors (the skin that hangs off the thigh/ isn’t directly attached)."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the olive oil into a large/deep saucepan on a medium/low heat. Then, place the chicken thighs skin side down. Season with salt and pepper and leave to fry for 8 minutes. When the skin has turned crispy and golden brown, remove the thighs from the pan and set aside"
+        },
+        {
+            "number": 3,
+            "instruction": "To the same pan, add the thinly sliced onion to fry on a medium heat for 5 minutes. Once the onions have softened, squeeze the grated courgette over a bowl to remove the excess moisture and then add to the pan to fry for a further couple of minutes. When the liquids from the courgette have reduced and the liquids have fully evaporated, add the garlic to fry for a minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Next, add the cauliflower florets, rinsed rice and stock into the pan. Stir to incorporate everything and then place the chicken thighs into the pan. The skin should stay above the stock/waterline to maintain the crispy skin we worked for in step one. Reduce to a lower simmer for 15 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "After this time, remove the chicken / move the chicken out of the way to stir the rice to ensure everything will cook evenly."
+        },
+        {
+            "number": 6,
+            "instruction": "Place the chicken back in the pan to cook for another 5-10 minutes. Before taking off the heat, slice into the chicken thigh to check it’s fully cooked."
+        },
+        {
+            "number": 7,
+            "instruction": "For the final time (bare with me here), remove the chicken thighs from the pan. Stir the chopped parsley & mint into the rice with the juice of half a lemon. Taste to see if any salt is needed, and then plate up with the crispy chicken thigh & pomegranate seeds."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve with an additional wedge of lemon."
+        }
+    ]
+}

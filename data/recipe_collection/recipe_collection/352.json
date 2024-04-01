@@ -1,0 +1,194 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/how_to_cook_a_ham_22897",
+    "title": "Roast ham",
+    "total_CO2": 0.8317965499999999,
+    "servings": 8,
+    "CO2_per_portion": 0.10397456874999998,
+    "E.Mission coefficient": 1.4566089659399346,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 raw smoked ham, about 5kg/11lb, bone in",
+            "amount": "1.0",
+            "ingredient_name": "raw smoked ham",
+            "matched_ingredient": "Ham",
+            "kg_equivalent": 0.063,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.458766
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 leeks, halved",
+            "amount": "2.0",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0711
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, halved",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 carrot, cut into big chunks",
+            "amount": "1.0",
+            "unit": "big",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "10 black peppercorns",
+            "amount": "10.0",
+            "ingredient_name": "black peppercorns",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp coriander seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "coriander seeds",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp grated orange zest",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "grated orange zest",
+            "matched_ingredient": "Orange",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.001585
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tbsp demerara sugar",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "demerara sugar",
+            "matched_ingredient": "Demerara sugar",
+            "kg_equivalent": 0.0315,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.084168
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp light muscovado sugar",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "light muscovado sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.028800000000000003,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.04423680000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2-3 tbsp English mustard powder",
+            "amount": "2.5",
+            "unit": "tbsp",
+            "ingredient_name": "English mustard powder",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.00975,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00426075
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "honey to drizzle",
+            "amount": "1.0",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.0194
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "handful whole cloves, for decoration",
+            "amount": "1.0",
+            "unit": "cloves",
+            "ingredient_name": "whole",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Test the saltiness of your ham by slicing a small piece off the end and frying it in a little oil. If the ham is very salty, you will need to soak it for 12 hours in cold water, changing the water once. If your ham is quite salty, place the joint in a very large pan, cover with cold water, bring to the boil."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain and discard the cooking water."
+        },
+        {
+            "number": 3,
+            "instruction": "Once the ham is ready to cook, put the joint into a large pan, cover with fresh cold water and add the leeks, onion, carrot, peppercorns, and bay leaves. Bring to the boil, cover with a lid then simmer the ham for about 20 minutes per 450g/1lb.  To test that the ham is cooked, stick a cold skewer down into the centre of the ham and leave it for 10 seconds. Take it out and test it carefully against your lip. It should be piping hot."
+        },
+        {
+            "number": 4,
+            "instruction": "Let the ham cool a little in its cooking liquid, then carefully lift it out and onto a board. (The liquid can be used as a delicious stock for split pea soup and other recipes.) Leave the ham to cool a little."
+        },
+        {
+            "number": 5,
+            "instruction": "Using a small sharp knife, carefully cut the skin from the ham, leaving behind a good even layer of fat."
+        },
+        {
+            "number": 6,
+            "instruction": "Score the fat into a diagonal criss-cross pattern with a sharp knife. The ham can now be chilled for up to two days, or you can bake it straight away."
+        },
+        {
+            "number": 7,
+            "instruction": "Preheat the oven to 220C/200C Fan/Gas"
+        },
+        {
+            "number": 8,
+            "instruction": "Grind the coriander seeds in a pestle and mortar. In a bowl, mix the grated orange zest and sugars, then add the ground coriander seeds. Sift the mustard powder evenly over the ham, then scatter the sugar mixture over the work surface and roll the ham in the mixture to coat the fat. Push a clove into the centre of each diamond in the fat of the ham."
+        },
+        {
+            "number": 9,
+            "instruction": "Drizzle over the honey."
+        },
+        {
+            "number": 10,
+            "instruction": "Cover the exposed end of the ham loosely with foil, securing with a few toothpicks."
+        },
+        {
+            "number": 11,
+            "instruction": "Place the ham on a rack inside a roasting tin and bake the ham for 15 minutes until the glaze is sticky and crisp, maybe even a little charred here and there. Eat hot or cold."
+        }
+    ]
+}

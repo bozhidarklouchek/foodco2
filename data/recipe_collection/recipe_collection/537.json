@@ -1,0 +1,203 @@
+{
+    "url": "https://www.allrecipes.com/recipe/257857/lagman-uzbek-noodle-soup/",
+    "title": "Lagman (Uzbek Noodle Soup)",
+    "total_CO2": 14.467209893929004,
+    "servings": 4,
+    "CO2_per_portion": 3.616802473482251,
+    "E.Mission coefficient": 4.401622407887447,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 pound beef chuck, cut into strips",
+            "amount": "0.5",
+            "unit": "pound",
+            "ingredient_name": "beef chuck",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 13.51024874045
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 teaspoon ground cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 teaspoon ground black pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tablespoons tomato paste",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 carrot, cut into thin strips",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 green bell pepper, cut into 1-inch strips",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "green bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 small potatoes, cubed",
+            "amount": "3.0",
+            "unit": "small",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.51,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1887
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 cup thinly sliced celery",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "sliced celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.05382382380375
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "8 cups water",
+            "amount": "8.0",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 1.892705892,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 teaspoons salt",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0216,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2618784
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 cup finely chopped parsley",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "chopped parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.05169452967525
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "3 large cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "large   garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 (8 ounce) packages thin Chinese noodles",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "Chinese noodles",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oil in a large pot over high heat. Reduce heat to medium-high; cook and stir onion in hot oil until golden, 3 to 5 minutes. Stir in beef strips, cumin, and black pepper; cook until beef is browned, about 5 minutes. Stir in tomato paste and cook for 2 to 3 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Stir carrot into the pot; cook until coated with tomato paste, 2 to 3 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add green bell pepper; cook for 1 minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Add potatoes and celery; cook for 5 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour in water; bring to a boil. Season water with salt. Reduce heat to low and simmer soup until potatoes are soft, about 40 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir parsley and garlic into the soup. Simmer until garlic is soft, 10 to 15 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Bring a large pot of lightly salted water to a boil. Cook noodles in boiling water, stirring occasionally, until tender yet firm to the bite, 3 to 5 minutes. Rinse and drain well. Divide among serving bowls. Ladle hot soup over noodles."
+        }
+    ]
+}

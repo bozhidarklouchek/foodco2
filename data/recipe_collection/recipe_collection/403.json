@@ -1,0 +1,224 @@
+{
+    "url": "https://simple-veganista.com/texas-three-bean-chili-sweet-chia/",
+    "title": "EASY THREE BEAN CHILI (VEGAN)",
+    "total_CO2": 0.6981848678528124,
+    "servings": 4,
+    "CO2_per_portion": 0.1745462169632031,
+    "E.Mission coefficient": 0.7452677019002762,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon olive oil or 1/4 cup water (for water saute)",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0068625000000000005,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.040790700000000006
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tablespoon olive oil or 1/4 cup water (for water saute)",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large onion, diced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 cloves garlic, minced (or 1 1/2 tsp garlic powder)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 jalapenos, seeds removed and diced (a few seeds ok for extra heat)",
+            "amount": "2.0",
+            "ingredient_name": "jalapenos",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 tablespoons chili powder",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.026099999999999998,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.011875499999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon chipotle powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "chipotle powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 can (15 oz) black beans, drained and rinsed",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 can (15 oz) kidney beans, drained and rinsed",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "kidney beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 can (15 oz) pinto beans, drained and rinsed",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "pinto beans",
+            "matched_ingredient": "Pinto bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 can (28oz) diced tomatoes, with juices",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tablespoon cocoa powder or small piece of dark chocolate (about 1/2 oz.), optional",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "cocoa powder",
+            "matched_ingredient": "Cocoa",
+            "kg_equivalent": 0.0048,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.08966879999999999
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tablespoon cocoa powder or small piece of dark chocolate (about 1/2 oz.), optional",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "dark chocolate",
+            "matched_ingredient": "Dark chocolate",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.1401075
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 1/2 cups water or vegetable broth, + more if needed",
+            "amount": "0.75",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.177441177375,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 1/2 cups water or vegetable broth, + more if needed",
+            "amount": "0.75",
+            "unit": "cups",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.0887205886875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0403678678528125
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "mineral salt &amp; pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "green onions, sliced",
+            "amount": "1.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "cashew sour cream",
+            "amount": "1.0",
+            "ingredient_name": "cashew sour cream",
+            "matched_ingredient": "Cashew cream",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.23,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "lime wedges",
+            "amount": "1.0",
+            "ingredient_name": "lime wedges",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Saute: In large pot heat olive oil over medium heat, saute onion for 7 minutes, or until tender and translucent."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the garlic, jalapeno, chili and chipotle powder, cook for 1 minute, or until fragrant."
+        }
+    ]
+}

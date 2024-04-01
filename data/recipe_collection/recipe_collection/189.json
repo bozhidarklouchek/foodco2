@@ -1,0 +1,104 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/oven-baked-fish-chips",
+    "title": "Oven-baked fish & chips",
+    "total_CO2": 6.5828578,
+    "servings": 4,
+    "CO2_per_portion": 1.64571445,
+    "E.Mission coefficient": 2.049170508490404,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "800 g/ 1 lb 12 oz floury potato , scrubbed and cut into chips",
+            "amount": "800.0",
+            "unit": "g",
+            "ingredient_name": "floury potato",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.296
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 g fresh breadcrumb",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "fresh breadcrumb",
+            "matched_ingredient": "Breadnut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.037500000000000006
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "zest 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp chopped flat-leaf parsley",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "4 x 140g/5oz thick sustainable white fish fillets",
+            "amount": "4.0",
+            "unit": "x 140g",
+            "ingredient_name": "white fish fillets",
+            "matched_ingredient": "Fish",
+            "kg_equivalent": 2.04,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 5.76708
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "200 g/ 7 oz cherry tomato",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomato",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.28540000000000004
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 220C/200C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Pat chips dry on kitchen paper, then lay in a single layer on a large baking tray."
+        },
+        {
+            "number": 3,
+            "instruction": "Drizzle with half the olive oil and season with salt. Cook for 40 mins, turning after 20 mins, so they cook evenly."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix the breadcrumbs with the lemon zest and parsley, then season well. Top the cod evenly with the breadcrumb mixture, then drizzle .0with the remaining oil. Put in a roasting tin with the cherry tomatoes, then bake in the oven for the final 10 mins of the chips’ cooking time."
+        }
+    ]
+}

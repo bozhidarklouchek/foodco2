@@ -1,0 +1,247 @@
+{
+    "url": "https://www.yellowkitebooks.co.uk/yellow-kite-books-posts/yellow-kite-books-healthy-eating/2018/09/05/deliciously-ellas-sri-lankan-curry-recipe/",
+    "title": "Deliciously Ella's Sri Lankan Curry",
+    "total_CO2": 0.66205206,
+    "servings": 4,
+    "CO2_per_portion": 0.165513015,
+    "E.Mission coefficient": 0.7464535645428613,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "large sweet potato, peeled and",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08695
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 butternut squash, peeled and",
+            "amount": "0.5",
+            "ingredient_name": "butternut squash",
+            "matched_ingredient": "Butternut squash",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons coconut oil",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.041580000000000006,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.23916816000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 teaspoon ground turmeric",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 teaspoon chilli powder",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 teaspoon ground cinnamon",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon curry powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 red peppers, deseeded",
+            "amount": "2.0",
+            "ingredient_name": "red peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 teaspoon cumin seeds",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon black mustard seeds",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "black mustard seeds",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 large red onion, peeled and",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 garlic cloves, peeled and",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 green chillies, deseeded and",
+            "amount": "2.0",
+            "ingredient_name": "green chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 × 400g tins of coconut milk",
+            "amount": "1.0",
+            "unit": "tins",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tablespoon of coconut sugar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "coconut sugar",
+            "matched_ingredient": "Palm sugar",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.0256512
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "or maple syrup",
+            "amount": "1.0",
+            "ingredient_name": "maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "juice of 1/2 lime",
+            "amount": "0.5",
+            "ingredient_name": "juice",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.062,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.022133999999999997
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "100 g baby spinach",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "baby spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "salt and pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "(no bigger than 2.5cm)",
+            "amount": "2.5",
+            "unit": "cm",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "(no bigger than 2.5cm)",
+            "amount": "2.5",
+            "unit": "cm",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "bigger than 5 mm)",
+            "amount": "5.0",
+            "unit": "mm",
+            "ingredient_name": "bigger than mm)",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

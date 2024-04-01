@@ -1,0 +1,269 @@
+{
+    "url": "https://rainbowplantlife.com/10-ingredient-vegan-red-lentil-bolognese/",
+    "title": "Lentil Bolognese",
+    "total_CO2": 1.69194900165025,
+    "servings": 6,
+    "CO2_per_portion": 0.28199150027504166,
+    "E.Mission coefficient": 1.2568449791444238,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 1/2 tablespoons olive oil",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0205875,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.12237210000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large onion, (diced)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 garlic cloves, (minced)",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 teaspoon dried oregano",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon dried thyme ((or use more oregano) )",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 1/2 teaspoons kosher salt, (plus more to taste)",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.016200000000000003,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.19640880000000005
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Freshly ground black pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 (5.3-ounce) (150g) tube of tomato paste ((see note 1))",
+            "amount": "1.0",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.017,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.024259000000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 cup (120 mL) dry red wine ((optional, see note 2))",
+            "amount": "120.0",
+            "unit": "mL",
+            "ingredient_name": "dry red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.19019999999999998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 cups (720 mL) vegetable broth",
+            "amount": "720.0",
+            "unit": "mL",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1638
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 cup (185g) red lentils, soaked (see step #1)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 cup (32g) walnuts (or pecans), crushed finely",
+            "amount": "32.0",
+            "unit": "g",
+            "ingredient_name": "walnuts",
+            "matched_ingredient": "Walnut",
+            "kg_equivalent": 0.032,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.008896000000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 (14.5-ounce/410g) can of crushed tomatoes or whole peeled tomatoes, crushed by hand ((see note 3))",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "crushed tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "12-16 ounces (340-454g) long, wide pasta",
+            "amount": "397.0",
+            "unit": "g",
+            "ingredient_name": "wide pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.397,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.5720770000000001
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tablespoon high-quality balsamic vinegar ((see note 5))",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "quality balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Flat-leaf Italian parsley or fresh basil, (chopped or slivered (optional))",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "Italian parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Flat-leaf Italian parsley or fresh basil, (chopped or slivered (optional))",
+            "amount": "1",
+            "unit": "leaf",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.0005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0002185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Soak the 1 cup of lentils in water for 30 minutes, or up to 60 minutes. Meanwhile, prep all the other ingredients (i.e., chop the onions and garlic, chop the walnuts, etc.)"
+        },
+        {
+            "number": 2,
+            "instruction": "Heat a 12-inch deep sauté pan or Dutch oven on medium-high heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the olive oil, and once it’s shimmering, add the onions and season with a pinch of salt. Stir occasionally and cook the onions until a light brown fond starts form on the surface of the pan, about 5 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add a few spoons of water to deglaze the pan, and stir. Continue cooking the onions, adding more water every few minutes and stirring frequently to prevent burning, until the onions are softened and golden brown, 9-10 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the garlic, thyme, oregano, 1 1/2 teaspoons kosher salt, and pepper to taste. Stir frequently and cook for 60-90 seconds."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in the tomato paste and cook for 2-3 minutes to caramelize, stirring very frequently, until it’s darker red in color."
+        },
+        {
+            "number": 7,
+            "instruction": "Optional: If using the red wine, pour the wine into the pan and deglaze, scraping up any browned bits. Cook for 1-2 minutes, until the smell of alcohol has burned off and the mixture is jammy."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour in the broth to deglaze the pan, stirring any browned bits on the bottom of the pot and stirring the broth into the tomato paste to combine."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the lentils and walnuts, and stir to incorporate."
+        },
+        {
+            "number": 10,
+            "instruction": "Heat until the mixture comes to a boil, then reduce the heat to medium-low to maintain a rapid simmer for 20 minutes, stirring occasionally."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the crushed tomatoes and simmer for another 15-20 minutes, or until the lentils are tender but still al dente, stirring occasionally to prevent burning and sticking. If using crushed tomatoes, you may need to add a little water or lower the heat as needed to prevent burning.I prefer to cook for 20 minutes for a more developed flavor."
+        },
+        {
+            "number": 12,
+            "instruction": "Meanwhile, bring a large pot of water to a boil and salt generously."
+        },
+        {
+            "number": 13,
+            "instruction": "Add the pasta and cook until just al dente. Reserve a ladle or so of pasta water (may not need it)."
+        },
+        {
+            "number": 14,
+            "instruction": "Drain the pasta but do not rinse it."
+        },
+        {
+            "number": 15,
+            "instruction": "Taste the bolognese for seasonings, adding more salt and pepper to taste. Finish with the balsamic vinegar (or sugar, see note 5), and stir to combine."
+        },
+        {
+            "number": 16,
+            "instruction": "Add the hot cooked pasta to the bolognese and toss until well coated in the sauce, adding a bit of pasta water as needed to ensure the sauce coats the noodles."
+        },
+        {
+            "number": 17,
+            "instruction": "Garnish with chopped parsley or basil, if using.Note: If you&#039;re not serving all of the bolognese at this time, transfer the amount of bolognese sauce you&#039;d like to eat to the pasta pot."
+        },
+        {
+            "number": 18,
+            "instruction": "Add the hot cooked pasta, turn the heat to medium, and toss to coat. Store the leftover bolognese sauce separately in the fridge."
+        }
+    ]
+}

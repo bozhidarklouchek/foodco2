@@ -1,0 +1,360 @@
+{
+    "url": "https://koshercamembert.wordpress.com/2012/01/15/to-the-wind/",
+    "title": "to the wind",
+    "total_CO2": 6.448499999999998,
+    "servings": 2,
+    "CO2_per_portion": 3.224249999999999,
+    "E.Mission coefficient": 5.089581689029201,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "I have a whole slew of recipes and pictures to share from a dinner I made several weeks ago. They are a bit overdue but too good to miss. So, here goes.",
+            "amount": "1.0",
+            "ingredient_name": "i have a slew of recipes and pictures to share from a dinner i made several weeks ago. they are a bit overdue but too to miss. so",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "The first is a classic roasted chicken.",
+            "amount": "1.0",
+            "ingredient_name": "roasted chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "I pulled the small chickens out of the fridge, rinsed and patted them down inside and out, and let them come to room temperature.",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "chickens",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.6701199999999999
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "I cranked the oven up real high — 450ºF to be exact.",
+            "amount": "450.0",
+            "ingredient_name": "i cranked the oven up real high — 450ºf to be exact",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "I cut one lemon per bird into quarters and slid them into the birds’ cavities with a few sprigs of thyme.",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "I loosened the skin around the breasts and slid a few more sprigs of thyme into each pocket.",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "I rubbed the birds with olive oil and sprinkled them with a lot of salt and pepper.",
+            "amount": "1.0",
+            "ingredient_name": "birds",
+            "matched_ingredient": "Rabbit",
+            "kg_equivalent": 0.105,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.6396599999999999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "I popped then in the oven for 45 minutes.",
+            "amount": "45.0",
+            "ingredient_name": "i popped then in the oven",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "No turning or flipping. No basting. Just a few temperature checks until 165°F in the breast and it’s done.",
+            "amount": "0.0",
+            "unit": "F",
+            "ingredient_name": "flipping. no basting. just temperature checks until 165°f in the breast and it's done",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "I scraped up the bits on the bottom of the pan, made a roux, added broth, and collected the gravy.",
+            "amount": "1.0",
+            "ingredient_name": "roux",
+            "matched_ingredient": "Asafoetida",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "At dinner, one of my friends carved half of the first chicken and then guided me through the other half.",
+            "amount": "1.0",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "The skin was crispy. The meat was moist. The dinner was a hit.",
+            "amount": "1.0",
+            "ingredient_name": "skin",
+            "matched_ingredient": "Soya mince",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.20097
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "The next day, I covered the leftover carcass with water and simmered with a few vegetables until a broth was born.",
+            "amount": "1.0",
+            "ingredient_name": "carcass",
+            "matched_ingredient": "Parrot fish",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Classic roast chicken with lemon and thyme",
+            "amount": "1.0",
+            "ingredient_name": "roast chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "- 1 small (~3.5 pounds) chicken",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.6701199999999999
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "- 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "- fresh thyme",
+            "amount": "1.0",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "- olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "- salt and pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "- 2 T flour",
+            "amount": "2.0",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "- 2 T margarine",
+            "amount": "2.0",
+            "unit": "T",
+            "ingredient_name": "margarine",
+            "matched_ingredient": "Margarine",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.107184
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "- 1 - 1.5 C chicken broth",
+            "amount": "1.0",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "- carrots, celery, onion",
+            "amount": "1.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "01/15/12 by Gayle",
+            "amount": "0.0",
+            "ingredient_name": "by gayle",
+            "matched_ingredient": "Bele",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "I trussed them up, tying the legs so they daintily crossed at the ankles.",
+            "amount": "1.0",
+            "ingredient_name": "i trussed them up",
+            "matched_ingredient": "Mussel",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 0.23707999999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Prep. Rinse chicken and pat dry inside and out."
+        },
+        {
+            "number": 2,
+            "instruction": "Let it come to room temperature – this takes about an hour. Preheat oven to 450°F."
+        },
+        {
+            "number": 3,
+            "instruction": "Season. Slice a lemon in quarters and stuff them into the cavity. Slip a few sprigs of thyme in the cavity around the lemons. With your fingers, loosen the skin from around the breast, and slide a few more sprigs of thyme underneath the skin. Slather the chicken with olive oil and sprinkle with a several large pinches of kosher salt and a few grinds of pepper."
+        },
+        {
+            "number": 4,
+            "instruction": "Tie. I can’t really describe how to truss a chicken because I never do it the same way twice, though I have found some helpful instructions. The gist of trussing a chicken is that you use kitchen twine to tuck the wings underneath the chicken and tie the legs together in front of the cavity. This helps the chicken cook evenly (and looks a little more polite when sitting at the table)."
+        },
+        {
+            "number": 5,
+            "instruction": "Roast."
+        },
+        {
+            "number": 6,
+            "instruction": "Put the chicken breast side up on a rack in a pan. Roast until the breast temperature reaches 165ºF . This took me about 45 minutes, but you should start checking after 25 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Rest."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove the chicken from the pan and let it rest for 15 minutes before slicing."
+        },
+        {
+            "number": 9,
+            "instruction": "Make gravy. Scrape up the browned bits on the bottom of the pan."
+        },
+        {
+            "number": 10,
+            "instruction": "Add margarine and flour, and whisk together until thick and smooth."
+        },
+        {
+            "number": 11,
+            "instruction": "Heat gently until the flour starts to brown – keep stirring. You know the roux (mix of flour and fat) is ready when it no longer tastes like flour. "
+        },
+        {
+            "number": 12,
+            "instruction": "Add chicken stock and keep stirring."
+        },
+        {
+            "number": 13,
+            "instruction": "Let the gravy reduce to the thickness you want. You can always add more stock (or water) if it gets too thick."
+        },
+        {
+            "number": 14,
+            "instruction": "Make stock. In a large stockput, cover the leftover chicken bones and carcass with cold water. Roughly chop the carrot, celery, and onion , and add them to the pot. Simmer for 3-4 hours until the bone start falling apart, skimming the scum off the top. Don’t boil or stir. Strain the stock, cool it on the counter, refrigerate, and skim the fat off the top. Fill ziploc bags with 2 cups of soup each and freeze them for the next time you want to make soup or gravy."
+        },
+        {
+            "number": 15,
+            "instruction": "Share"
+        },
+        {
+            "number": 16,
+            "instruction": "Share"
+        },
+        {
+            "number": 17,
+            "instruction": "Click to email a link to a friend (Opens in new window)"
+        },
+        {
+            "number": 18,
+            "instruction": "Click to share on Twitter (Opens in new window)"
+        },
+        {
+            "number": 19,
+            "instruction": "Click to share on Facebook (Opens in new window)"
+        },
+        {
+            "number": 20,
+            "instruction": "Click to share on Pinterest (Opens in new window)"
+        },
+        {
+            "number": 21,
+            "instruction": "Click to share on Tumblr (Opens in new window)"
+        },
+        {
+            "number": 22,
+            "instruction": "Like Loading..."
+        },
+        {
+            "number": 23,
+            "instruction": "Related"
+        }
+    ]
+}

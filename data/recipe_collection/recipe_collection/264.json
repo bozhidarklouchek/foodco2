@@ -1,0 +1,93 @@
+{
+    "url": "https://www.knorr.com/ca/en/recipe-ideas/slow-cooker-chicken-fajitas.html",
+    "title": "Slow Cooker Chicken Fajitas",
+    "total_CO2": 6.3997706,
+    "servings": 8,
+    "CO2_per_portion": 0.799971325,
+    "E.Mission coefficient": 4.177941376158768,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 lbs. (1 kg) boneless, skinless chicken thighs, trimmed",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 6.092
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 pot Knorr® Homestyle Stock Chicken",
+            "amount": "1.0",
+            "ingredient_name": "Stock Chicken",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 Tbsp. (30 mL) chili powder",
+            "amount": "30.0",
+            "unit": "mL",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.007917
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tsp. (10 mL) ground cumin",
+            "amount": "10.0",
+            "unit": "mL",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large red onion, cut into 1-in. (2.5 cm) wide slices and kept intact",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 large red and/or green bell peppers, cut into 1-in. (2.5 cm) wide slices",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "green bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1638
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Combine chicken, Knorr® Homestyle Stock Chicken, chili powder and cumin in 4 to 5-quart slow cooker. Arrange onions in single layer over chicken, then layer peppers on top."
+        },
+        {
+            "number": 2,
+            "instruction": "Cover and cook at HIGH 4 to 6 hours or LOW 8 to 10 hours until chicken and vegetables are tender."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove chicken and cut into strips."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve in warmed tortillas and garnish, if desired, with your favourite fajitas toppings such as shredded cheddar cheese, sour cream and/or chopped cilantro."
+        }
+    ]
+}

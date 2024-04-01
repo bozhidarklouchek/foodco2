@@ -1,0 +1,123 @@
+{
+    "url": "http://www.eatingkent.co.uk/2016/02/wonderbag-pumpkin-curry.html",
+    "title": "Wonderbag Pumpkin Curry",
+    "total_CO2": 0.766918,
+    "servings": 8,
+    "CO2_per_portion": 0.09586475,
+    "E.Mission coefficient": 0.449278265963679,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Heat a large, short-handle pot with a little coconut oil over a low-medium heat.",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.080528
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "soften your onion, ginger & chillies.",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Add your spices and a splash of water to stop it from burning and stir to coat.",
+            "amount": "1.0",
+            "unit": "splash",
+            "ingredient_name": "spices",
+            "matched_ingredient": "Spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Throw in your sweet potato and the expertly hacked to bits pumpkin (I like to use at least 3 different sized knives and a rolling pin just to increase my chances of confused cackhanded catastrophy).",
+            "amount": "3.0",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.705,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.26084999999999997
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Add the veg stock and enough water to just cover the veg. Stir, season, add corn flour slurry and bring to the boil.",
+            "amount": "1.0",
+            "ingredient_name": "veg stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "When you're ready to eat, throw together a side of rice and serve your perfectly cooked, beautiful tasting, boil-in-a-bag curry of wonder!",
+            "amount": "1.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Once boiling, pop the whole pot, with lid onto a heatproof mat in your Wonderbag. Add the bag lid, pull the cord to tighten and then pop it out of the way for at least an hour.",
+            "amount": "1.0",
+            "ingredient_name": "once",
+            "matched_ingredient": "Pak choi",
+            "kg_equivalent": 0.84,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.36707999999999996
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Do not open the bag, remove the pot lid or put the Wonderbag in the freezer. Have faith, it is cooking.",
+            "amount": "1.0",
+            "ingredient_name": "put the wonderbag in the freezer. have faith",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Be convinced & totally converted.",
+            "amount": "1.0",
+            "ingredient_name": "be convinced & totally converted",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Tell everyone to buy a Wonderbag.",
+            "amount": "1.0",
+            "ingredient_name": "tell everyone to buy a wonderbag",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "BUY A WONDERBAG.",
+            "amount": "1.0",
+            "ingredient_name": "buy a wonderbag",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

@@ -1,0 +1,117 @@
+{
+    "url": "https://www.bbcgoodfood.com/user/831133/recipe/scottish-oat-cakes",
+    "title": "Scottish Oat Cakes",
+    "total_CO2": 0.8077738,
+    "servings": 2,
+    "CO2_per_portion": 0.4038869,
+    "E.Mission coefficient": 1.8659593439593438,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "225 g oats",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "oats",
+            "matched_ingredient": "Oat",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.354375
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "60 g wholewheat flour",
+            "amount": "60.0",
+            "unit": "g",
+            "ingredient_name": "wholewheat flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.08646
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 tsp bicarbonate of soda",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "bicarbonate",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0055,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.066682
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "60 g butter",
+            "amount": "60.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.16686
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp sugar",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0024576000000000003
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "60-80ml hot water",
+            "amount": "70.0",
+            "unit": "ml",
+            "ingredient_name": "hot water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pre-heat the oven to 190C."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix together the oats, flour, salt, sugar and bicarbonate of soda."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the butter and rub together until everything is mixed and has the consistency of large bread crumbs."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the water (from a recently boiled kettle) bit by bit and combine until you have a somewhat thick dough. The amount of water varies; depending on the oats."
+        },
+        {
+            "number": 5,
+            "instruction": "Sprinkle some extra flour and oats on a work surface and roll out the dough to approx. 1/2cm thickness. Use a cookie cutter to cut out shapes (the final number of oatcakes depends - of course - on the size of cutter you use."
+        },
+        {
+            "number": 6,
+            "instruction": "In a wonderfully Scottish twist/coincidence I found that using an upturned whisky glass makes the perfect size :-)"
+        },
+        {
+            "number": 7,
+            "instruction": "Place the oat cakes on a baking tray and bake for appprox. 20-30mins.  or until slightly golden brown."
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "url": "https://www.cellarmaison.com/magazine/cellar-maisons-coq-au-vin-recipe--a-dose-of-comfort?gclid=EAIaIQobChMIr8uG1Y3y7wIVWxwGAB1eWQYkEAAYASAAEgIBffD_BwE",
+    "title": "Coq Au Vin",
+    "total_CO2": 5.615435300000001,
+    "servings": 4,
+    "CO2_per_portion": 1.4038588250000001,
+    "E.Mission coefficient": 1.5109268811128604,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Cooking with wine is one of life’s great joys and one perfected over time and tradition by those who have loved and revered magical culinary combination for centuries.",
+            "amount": "1.0",
+            "ingredient_name": "wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "This recipe serves 4.",
+            "amount": "4.0",
+            "ingredient_name": "this recipe serves",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large chicken or coq, cut into 6 or 8 pieces (Save giblets and carcass for the stock)",
+            "amount": "0.5",
+            "unit": "large",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.0725,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.44166999999999995
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 large chicken or coq, cut into 6 or 8 pieces (Save giblets and carcass for the stock)",
+            "amount": "0.5",
+            "unit": "large",
+            "ingredient_name": "coq",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 brown onion, 1 carrot and a few peppercorns  - this is for the stock",
+            "amount": "1.0",
+            "ingredient_name": "brown onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "200 g bacon or pancetta cut into thick matchsticks",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.7282000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "200 g bacon or pancetta cut into thick matchsticks",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "pancetta cut",
+            "matched_ingredient": "Pancetta",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.7282000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "40 g butter",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.11124
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 brown onions chopped medium fine",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "brown onions",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.044,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.117568
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 large carrot chopped finely",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "carrot chopped",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 sticks of celery chopped finely",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery chopped",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 cloves of garlic sliced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 tablespoons of plain flour",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.028800000000000003,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.041500800000000004
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "3 tablespoons cognac",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "cognac",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.03825,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.061582500000000005
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1  x 750ml bottle of red wine - preferably Burgundy",
+            "amount": "1.0",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Bouquet Garni - 3 sprigs of thyme, 1 bay leaf - tie together with cotton string",
+            "amount": "3.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "50 g butter",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "12 small onions pickling onions",
+            "amount": "12.0",
+            "unit": "small",
+            "ingredient_name": "onions pickling onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 1.7759999999999998,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.7015199999999999
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "250 g button mushrooms",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "button mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.11375
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "To serve - Mashed potatoes and steamed green beans - or other vegetables",
+            "amount": "1.0",
+            "ingredient_name": "Mashed potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "To serve - Mashed potatoes and steamed green beans - or other vegetables",
+            "amount": "1",
+            "ingredient_name": "vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.07735
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "Place the chicken pieces in the hot fat in the casserole and season with salt and pepper.  Once they are a light golden brown, lift the chicken out and set aside with the pancetta.",
+            "amount": "1.0",
+            "ingredient_name": "chicken pieces",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "Meanwhile, as the chicken cooks, take a small saucepan and gently melt the butter, add the little peeled onions and then the button mushrooms.  Cook until they are golden. Add them to the chicken.",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.6701199999999999
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "Boil the sauce so that it reduces down to be glossy and thickened slightly, but not gluggy. Return the chicken pieces to the casserole and serve.",
+            "amount": "1.0",
+            "ingredient_name": "sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.014624000000000002
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "Cellar Maison’s Coq au Vin",
+            "amount": "1.0",
+            "ingredient_name": "Maison",
+            "matched_ingredient": "Damson",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "Bon appétit!",
+            "amount": "1.0",
+            "ingredient_name": "bon appétit",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

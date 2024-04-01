@@ -1,0 +1,227 @@
+{
+    "url": "https://www.ricardocuisine.com/en/recipes/7866-lemon-poppy-seed-loaf",
+    "title": "Lemon Poppy Seed Loaf (The Best)",
+    "total_CO2": 2.3822204,
+    "servings": 10,
+    "CO2_per_portion": 0.23822204,
+    "E.Mission coefficient": 1.7498313500807987,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 3/4 cups (265 g) unbleached all-purpose flour",
+            "amount": "265.0",
+            "unit": "g",
+            "ingredient_name": "unbleached all-purpose flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.265,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.381865
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp poppy seeds",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "poppy seeds",
+            "matched_ingredient": "Poppy seed",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.00417
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tsp baking powder",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.10911600000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 cup (115 g) unsalted butter, softened",
+            "amount": "115.0",
+            "unit": "g",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.115,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.319815
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 1/4 cups (265 g) sugar",
+            "amount": "265.0",
+            "unit": "g",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.265,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.40704
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 lemons, zest finely grated",
+            "amount": "3.0",
+            "ingredient_name": "lemons",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.195,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.061815
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 eggs",
+            "amount": "3.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.15000000000000002,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.67605
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 cup (125 ml) lemon juice",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.039625
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 cup (60 ml) milk",
+            "amount": "60.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.062400000000000004,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.17353440000000003
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 cup (130 g) icing sugar",
+            "amount": "130.0",
+            "unit": "g",
+            "ingredient_name": "icing sugar",
+            "matched_ingredient": "Icing sugar",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.19968000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp (30 ml) lemon juice",
+            "amount": "30.0",
+            "unit": "ml",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.00951
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Loaf"
+        },
+        {
+            "number": 3,
+            "instruction": "1 3/4 cups\t(265 g) unbleached all-purpose flour"
+        },
+        {
+            "number": 4,
+            "instruction": "1 tbsp\tpoppy seeds"
+        },
+        {
+            "number": 5,
+            "instruction": "2 tsp\tbaking powder"
+        },
+        {
+            "number": 6,
+            "instruction": "1/2 cup\t(115 g) unsalted butter, softened"
+        },
+        {
+            "number": 7,
+            "instruction": "1 1/4 cups\t(265 g) sugar"
+        },
+        {
+            "number": 8,
+            "instruction": "3\tlemons, zest finely grated"
+        },
+        {
+            "number": 9,
+            "instruction": "3\teggs"
+        },
+        {
+            "number": 10,
+            "instruction": "1/2 cup\t(125 ml) lemon juice"
+        },
+        {
+            "number": 11,
+            "instruction": "1/4 cup\t(60 ml) milk"
+        },
+        {
+            "number": 12,
+            "instruction": "Glaze"
+        },
+        {
+            "number": 13,
+            "instruction": "1 cup\t(130 g) icing sugar"
+        },
+        {
+            "number": 14,
+            "instruction": "2 tbsp\t(30 ml) lemon juice"
+        },
+        {
+            "number": 15,
+            "instruction": "Loaf"
+        },
+        {
+            "number": 16,
+            "instruction": "With the rack in the middle position, preheat the oven to 350°F (180°C). Butter a 4 x 10-inch (10 x 25 cm), 6-cup (1.5 litre) loaf pan. Line the pan with parchment paper, letting it hang over two sides."
+        },
+        {
+            "number": 17,
+            "instruction": "In a bowl, whisk together the flour, poppy seeds and baking powder."
+        },
+        {
+            "number": 18,
+            "instruction": "In another bowl, cream the butter, sugar and zest with an electric mixer."
+        },
+        {
+            "number": 19,
+            "instruction": "Add the eggs and beat until smooth. Stir in the dry ingredients alternately with the lemon juice and milk. Spoon the batter into the prepared pan."
+        },
+        {
+            "number": 20,
+            "instruction": "Bake for 1 hour or until a toothpick inserted into the centre of the cake comes out clean."
+        },
+        {
+            "number": 21,
+            "instruction": "Let cool completely on a wire rack before unmoulding."
+        },
+        {
+            "number": 22,
+            "instruction": "Glaze"
+        },
+        {
+            "number": 23,
+            "instruction": "In a bowl, whisk together the icing sugar and lemon juice until smooth."
+        },
+        {
+            "number": 24,
+            "instruction": "Place the lemon poppy seed loaf on a serving platter and drizzle with the glaze."
+        }
+    ]
+}

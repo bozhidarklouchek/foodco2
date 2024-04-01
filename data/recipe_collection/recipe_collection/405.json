@@ -1,0 +1,214 @@
+{
+    "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/sweet_and_sour_chicken_52908.html",
+    "title": "Sweet and sour chicken",
+    "total_CO2": 3.0490721499999998,
+    "servings": 4,
+    "CO2_per_portion": 0.7622680374999999,
+    "E.Mission coefficient": 1.6942584113577641,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 x 425g/15oz can pineapple chunks in natural juice",
+            "amount": "1.0",
+            "unit": "x 425g",
+            "ingredient_name": "pineapple chunks",
+            "matched_ingredient": "Pineapple",
+            "kg_equivalent": 0.905,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.67875
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp cornflour",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.024599999999999997,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.024304799999999998
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp dark soy sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tbsp white wine vinegar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "white wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp soft light brown sugar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.021,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.05611200000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tbsp tomato ketchup",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato ketchup",
+            "matched_ingredient": "Tomato ketchup",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp dried chilli flakes",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 boneless, skinless chicken breasts",
+            "amount": "2.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.31,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.88852
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp sunflower oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0288,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.1038816
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 medium onion, cut into 12 wedges",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 x 225g/8oz can water chestnuts",
+            "amount": "1.0",
+            "unit": "x 225g",
+            "ingredient_name": "water chestnuts",
+            "matched_ingredient": "Water chestnut",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 garlic cloves, peeled and crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "25 g/1 oz piece fresh root ginger, peeled and finely grated",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.009125
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 peppers, red, green, orange or yellow, deseeded and cut into chunks of about 3cm/1¼in",
+            "amount": "2.0",
+            "ingredient_name": "peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the sauce, drain the pineapple in a sieve over a bowl and keep all the juice – you should have about 150ml/5fl oz."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the cornflour in a large bowl and stir in three tablespoons of the pineapple juice to make a smooth paste."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the remaining juice and 150ml/5fl oz water, then stir in the soy sauce, vinegar, sugar, ketchup and chilli flakes until thoroughly combined. Set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Cut each chicken breast into eight or nine even pieces."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat a tablespoon of the oil in a large non-stick frying pan or wok and stir-fry the onion and peppers for two minutes over a high heat."
+        },
+        {
+            "number": 6,
+            "instruction": "Drain the water chestnuts and cut them in half horizontally."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the remaining oil and the chicken to the pan and stir-fry for two minutes until coloured on all sides."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the garlic, ginger, pineapple chunks and water chestnuts and stir-fry for 30–60 seconds."
+        },
+        {
+            "number": 9,
+            "instruction": "Give the cornflour and pineapple mixture a good stir and add it to the pan with the chicken and vegetables. Stir well, season with some ground black pepper and bring to a simmer. Cook for 4–6 minutes until the sauce is thickened and glossy and the chicken is tender and cooked throughout, turning the chicken and vegetables a few times."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with a small portion of rice."
+        }
+    ]
+}

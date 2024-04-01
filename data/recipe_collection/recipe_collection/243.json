@@ -1,0 +1,335 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/lasagne",
+    "title": "Lasagne",
+    "total_CO2": 37.52268779999999,
+    "servings": 8,
+    "CO2_per_portion": 4.690335974999999,
+    "E.Mission coefficient": 11.055675955185288,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 celery sticks, finely chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 carrot (about 100g), finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 garlic cloves, crushed",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "140 g cubetti di pancetta",
+            "amount": "140.0",
+            "ingredient_name": "cubetti di pancetta",
+            "matched_ingredient": "Pancetta",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "500 g beef mince (we used 10% fat)",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 29.785
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 g pork mince or British veal mince",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "pork mince",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.8205
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "500 g pork mince or British veal mince",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "British veal mince",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.71775
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "200 ml milk",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.20800000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.5784480000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 x 400g cans chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 rosemary sprig",
+            "amount": "1.0",
+            "unit": "sprig",
+            "ingredient_name": "rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 thyme sprigs",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tsp dried oregano",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 beef stock cubes",
+            "amount": "2.0",
+            "ingredient_name": "beef stock cubes",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "500 ml red wine",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.7925
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "about 400 g dried pasta sheets",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "dried pasta sheets",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.5764
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "50 g parmesan, finely grated",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1.5 l milk",
+            "amount": "1.5",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.366,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.017846
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 onion, thickly sliced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "3 bay leaves",
+            "amount": "3.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "3 cloves",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "100 g butter",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.2781
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "100 g plain flour",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.1441
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "good grating of nutmeg",
+            "amount": "1.0",
+            "ingredient_name": "nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "First, make the béchamel sauce."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the milk, onion, bay leaves and cloves into a large saucepan and bring very gently just up to the boil. Turn off the heat and set aside for 1 hr to infuse."
+        },
+        {
+            "number": 3,
+            "instruction": "For the meat sauce, put the oil, celery, onion, carrot, garlic and pancetta in another large saucepan. Gently cook together until the veg is soft but not coloured."
+        },
+        {
+            "number": 4,
+            "instruction": "Tip in the beef and pork mince, the milk and chopped tomatoes. Using a wooden spoon, stir together and break up and mash the lumps of mince against the sides of the pan. When the mince is mostly broken down, stir in all the herbs, the stock cubes and the red wine, and bring to a simmer. Cover and cook for 1 hr, stirring occasionally to stop the bottom catching."
+        },
+        {
+            "number": 5,
+            "instruction": "Uncover and gently simmer for another 30 mins-1 hr until the meat is tender and saucy. Taste and season."
+        },
+        {
+            "number": 6,
+            "instruction": "To finish the béchamel sauce, strain the milk through a fine sieve into one or two jugs. Melt the butter in the same pan then, using a wooden spoon, mix in the flour and cook for 2 mins."
+        },
+        {
+            "number": 7,
+            "instruction": "Stir in the strained milk, a little at a time – the mix will thicken at first to a doughy paste, but keep going, adding milk gradually to avoid lumps. Bring to a gentle simmer, stirring constantly (if you have lumps, give it a quick whisk). Gently bubble for a few minutes until thickened. Season with salt, pepper and a good grating of nutmeg."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat the oven to 180C/160C fan/gas"
+        },
+        {
+            "number": 9,
+            "instruction": "Spread a spoonful of the meat sauce over the base of a roughly 3.5-litre baking dish. Cover with a single layer of dried pasta sheets, snapping them to fit if needed, then top with a quarter of the béchamel. Spoon over a third of the meat sauce and scatter over a little of the parmesan."
+        },
+        {
+            "number": 10,
+            "instruction": "Repeat the layers – pasta, béchamel, meat and parmesan – two more times to use all the meat sauce."
+        },
+        {
+            "number": 11,
+            "instruction": "Add a final layer of pasta, the last of the béchamel and remaining parmesan. Sit the dish on a baking tray to catch spills and bake for 1 hr until bubbling, browned and crisp on top."
+        }
+    ]
+}

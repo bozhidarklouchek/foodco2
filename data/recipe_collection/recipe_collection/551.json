@@ -1,0 +1,202 @@
+{
+    "url": "https://realfood.tesco.com/recipes/pea-and-paneer-curry.html",
+    "title": "Pea and paneer curry",
+    "total_CO2": 6.114531600000001,
+    "servings": 4,
+    "CO2_per_portion": 1.5286329000000003,
+    "E.Mission coefficient": 4.240607254317221,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "200 g paneer, cut into 1.5-2 cm cubes",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "paneer",
+            "matched_ingredient": "Paneer",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 4.248
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves, sliced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 cm piece ginger, grated",
+            "amount": "3.0",
+            "unit": "cm",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tsp garam masala",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0703192
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp ground turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 x 400g tins chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g tin chickpeas, drained and rinsed",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "150 ml single cream",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "single cream",
+            "matched_ingredient": "Single cream",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.41715
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "200 g Grower’s Harvest frozen garden peas",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "Grower",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp roughly chopped fresh coriander",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "cooked rice, to serve (optional)",
+            "amount": "1.0",
+            "ingredient_name": "cooked rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "mango chutney, to serve (optional)",
+            "amount": "1.0",
+            "ingredient_name": "mango chutney",
+            "matched_ingredient": "Chutney",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.024576
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 1 tbsp oil in a large, deep frying pan over a high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the paneer and fry for 4-5 mins,&nbsp;flipping regularly, until lightly&nbsp;golden."
+        },
+        {
+            "number": 3,
+            "instruction": "Transfer to a plate lined with kitchen paper."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the remaining oil to the frying pan and fry the onion, garlic and ginger for 1 min or until fragrant. Stir in the spices; cook for 1 min."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the tomatoes and chickpeas, reduce the heat to low and simmer for 10-15 mins until the sauce has reduced and thickened, stirring occasionally."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the peas, bring to the boil, then stir in the cream and paneer and warm through."
+        },
+        {
+            "number": 7,
+            "instruction": "Sprinkle with the coriander and serve with rice and chutney, if you like."
+        }
+    ]
+}

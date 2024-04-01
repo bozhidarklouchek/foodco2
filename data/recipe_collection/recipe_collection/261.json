@@ -1,0 +1,131 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/broccoli-pesto-pasta",
+    "title": "Broccoli pesto pasta",
+    "total_CO2": 1.1004227500000001,
+    "servings": 4,
+    "CO2_per_portion": 0.27510568750000003,
+    "E.Mission coefficient": 1.296827234694479,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "400 g penne, farfalle or conchiglie pasta",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "penne",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.07900000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "400 g penne, farfalle or conchiglie pasta",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "conchiglie pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.2882
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "250 g broccoli, cut into florets",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.10925
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 garlic clove, peeled",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large lemon",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp dried chilli flakes",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tbsp pine nuts",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "pine nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.01251
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "5 tbsp extra-virgin olive oil",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.069,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.26413200000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tbsp parmesan (or vegetarian alternative), grated",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.015300000000000001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.324972
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tip the pasta into a large pan of boiling salted water and cook according to pack instructions. Meanwhile, bring a smaller pan of salted water to the boil, add the broccoli and boil for 4 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain the broccoli and return it to the pan. Lightly mash the broccoli with a potato masher or fork. Finely grate the garlic and zest the lemon, then mix into the broccoli with the chilli flakes and pine nuts."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut the lemon in half and keep for later."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain the pasta and return it to the pan. Stir in the broccoli pesto and squeeze over the juice of 1⁄2 lemon."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour in the olive oil and generously season with salt and pepper. Spoon in the grated Parmesan, toss the pasta well and serve."
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "url": "https://lovingitvegan.com/vegan-cream-of-mushroom-soup/",
+    "title": "Vegan Mushroom Soup",
+    "total_CO2": 0.8863924979075001,
+    "servings": 4,
+    "CO2_per_portion": 0.22159812447687502,
+    "E.Mission coefficient": 0.6458617482499931,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 Tbsp Olive Oil",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "Olive Oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Medium Onion (White, Yellow or Brown, Chopped)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp Crushed Garlic",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Crushed Garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp Dried Oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dried Oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp Dried Basil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dried Basil",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "5 cups White Button Mushrooms ((480g) Sliced)",
+            "amount": "480.0",
+            "unit": "g",
+            "ingredient_name": "Button Mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.48,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2184
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 1/2 cups Cremini Mushrooms ((240g) Sliced)",
+            "amount": "240.0",
+            "unit": "g",
+            "ingredient_name": "Cremini Mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 Large Portobello Mushrooms (Sliced)",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "Portobello Mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.022750000000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 Tbsp Soy Sauce (or Tamari if gluten-free)",
+            "amount": "2.0",
+            "unit": "Tbsp",
+            "ingredient_name": "Soy Sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "14 ounce Can Coconut Milk ((400ml) Unsweetened, Full Fat)",
+            "amount": "14.0",
+            "unit": "ounce",
+            "ingredient_name": "Coconut Milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.39689332375,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.36276049790750003
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Sea Salt (To taste)",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Black Pepper (To taste)",
+            "amount": "1.0",
+            "ingredient_name": "Black Pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Fresh Basil (Optional, for serving)",
+            "amount": "1.0",
+            "ingredient_name": "Fresh Basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add the olive oil to a pot with the onion and garlic, dried oregano and basil and sauté until softened."
+        },
+        {
+            "number": 2,
+            "instruction": "Then add the sliced mushrooms and the soy sauce, and cover the pot. Cook on medium high, covered, for around 10 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "This will allow the mushrooms to release their water."
+        },
+        {
+            "number": 4,
+            "instruction": "After 10 minutes, remove the lid, and cook for a further 10 minutes uncovered to allow some of the water to cook off."
+        },
+        {
+            "number": 5,
+            "instruction": "Then add the coconut milk and cook for a final 10 minutes, stirring occasionally, allowing the flavors to blend properly."
+        },
+        {
+            "number": 6,
+            "instruction": "Add sea salt and black pepper to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "Garnish with fresh herbs and serve."
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/vegan-lemon-cake",
+    "title": "Vegan lemon cake",
+    "total_CO2": 1.4021405000000002,
+    "servings": 12,
+    "CO2_per_portion": 0.11684504166666669,
+    "E.Mission coefficient": 1.695454050785974,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "100 ml vegetable oil, plus extra for the tin",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.38280000000000003
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "275 g self-raising flour",
+            "amount": "275.0",
+            "unit": "g",
+            "ingredient_name": "self-raising flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.275,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.39627500000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "200 g golden caster sugar",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.30720000000000003
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp baking powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.05455800000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 lemon, zested, 1/2 juiced",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "150 g icing sugar",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "icing sugar",
+            "matched_ingredient": "Icing sugar",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.2304
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 lemon, juiced",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Oil a 1lb loaf tin and line it with baking parchment."
+        },
+        {
+            "number": 3,
+            "instruction": "Mix the flour, sugar, baking powder and lemon zest in a bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the oil, lemon juice and 170ml cold water, then mix until smooth."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour the mixture into the tin."
+        },
+        {
+            "number": 6,
+            "instruction": "Bake for 30 mins or until a skewer comes out clean. Cool in the tin for 10 mins, then remove and transfer the cake to a wire rack to cool fully."
+        },
+        {
+            "number": 7,
+            "instruction": "For the icing, sieve the icing sugar into a bowl."
+        },
+        {
+            "number": 8,
+            "instruction": "Mix in just enough lemon juice to make an icing thick enough to pour over the loaf (if you make the icing too thin, it will just run off the cake)."
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "url": "https://realfood.tesco.com/recipes/vegetable-katsu-stir-fry.html",
+    "title": "Japanese-style vegetable stir-fry",
+    "total_CO2": 3.5225550000000005,
+    "servings": 4,
+    "CO2_per_portion": 0.8806387500000001,
+    "E.Mission coefficient": 2.365718603089322,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 nests medium egg noodles",
+            "amount": "4.0",
+            "unit": "medium",
+            "ingredient_name": "egg noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.68,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 3.06476
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, finely sliced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "320 g vegetable stir fry mix",
+            "amount": "320.0",
+            "unit": "g",
+            "ingredient_name": "vegetable stir fry mix",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.32,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1456
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, sliced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "180 g katsu curry sauce",
+            "amount": "180.0",
+            "unit": "g",
+            "ingredient_name": "katsu curry sauce",
+            "matched_ingredient": "Curry sauce",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0819
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "125 g spinach",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.054625
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "15 g coriander, leaves picked",
+            "amount": "15.0",
+            "unit": "leaves",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cook the noodles in boiling salted water for 1-2 mins until they&nbsp;are&nbsp;just&nbsp;tender."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain well.&nbsp;&nbsp;&nbsp;"
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the oil in a wok or&nbsp;deep frying&nbsp;pan over a high heat for 30 secs until very hot. Carefully tip in the onion and cook for 2-3 mins continually stirring, until lightly golden. Stir in the&nbsp;vegetable&nbsp;stir fry mix and sliced garlic and fry for another 3-4 mins until the veg have softened slightly but still retain a crunch.&nbsp;&nbsp;"
+        },
+        {
+            "number": 4,
+            "instruction": "Pour the sauce into the vegetables, rinse out the pack with 50ml&nbsp;water&nbsp;and add to the pan.&nbsp;"
+        },
+        {
+            "number": 5,
+            "instruction": "Mix&nbsp;well and cook for&nbsp;30 secs-1 min until&nbsp;the sauce is&nbsp;bubbling, then fold in the spinach and cooked noodles. Stir to&nbsp;coat in the sauce&nbsp;and wilt the spinach.&nbsp;"
+        },
+        {
+            "number": 6,
+            "instruction": "Serve with the coriander scattered over."
+        }
+    ]
+}

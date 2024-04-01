@@ -1,0 +1,43 @@
+{
+    "url": "https://www.bosh.tv/recipes/vegan-creamy-korma",
+    "title": "Plant-Based Korma Curry",
+    "total_CO2": 0.17226,
+    "servings": 4,
+    "CO2_per_portion": 0.043065,
+    "E.Mission coefficient": 3.828,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tbsp vegetable oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.17226
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 180°C"
+        },
+        {
+            "number": 2,
+            "instruction": "Peel the sweet potato, squash and carrots and cut into 2cm chunks and arrange on the lined baking tray"
+        },
+        {
+            "number": 3,
+            "instruction": "Drizzle with 1 tablespoon of the oil and season lightly with salt"
+        },
+        {
+            "number": 4,
+            "instruction": "Put the tray in the oven and roast for 30 minutes, turning the tray in the oven after 20 minutes if necessary"
+        },
+        {
+            "number": 5,
+            "instruction": "Remove when softened and a little brown"
+        }
+    ]
+}

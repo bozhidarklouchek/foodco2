@@ -1,0 +1,119 @@
+{
+    "url": "https://tasty.co/recipe/overnight-oats-smoothie-hack",
+    "title": "Overnight Oats Smoothie Hack by Tasty",
+    "total_CO2": 0.48969564882169503,
+    "servings": 1,
+    "CO2_per_portion": 0.48969564882169503,
+    "E.Mission coefficient": 1.4766465025829274,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/3 cup rolled oats",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "rolled oats",
+            "matched_ingredient": "Oat",
+            "kg_equivalent": 0.033122353109999995,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.05216770614824999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/3 cup unsweetened almond milk, + ½ cup (120ml), optional",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "unsweetened almond milk",
+            "matched_ingredient": "Almond milk",
+            "kg_equivalent": 0.07886274549999998,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.021923843248999996
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 cup plain greek yogurt",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "plain greek yogurt",
+            "matched_ingredient": "Greek Yogurt",
+            "kg_equivalent": 0.125391765345,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.348714499424445
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tablespoon almond butter",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "almond butter",
+            "matched_ingredient": "Almond butter",
+            "kg_equivalent": 0.00945,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0026271000000000003
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon honey",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0069,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.006692999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 teaspoon chia seed",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "chia seed",
+            "matched_ingredient": "Chia seed",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 teaspoon cinnamon",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 peach, diced",
+            "amount": "0.5",
+            "ingredient_name": "peach",
+            "matched_ingredient": "Peach",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.056249999999999994
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a mason jar or sealable container, add the oats, almond milk, yogurt, almond butter, honey, chia seeds, cinnamon, and peaches. Make sure the oats and almond milk are at the bottom of the container so that they properly soak."
+        },
+        {
+            "number": 2,
+            "instruction": "Seal and place in the refrigerator overnight."
+        },
+        {
+            "number": 3,
+            "instruction": "Enjoy as is, or pour the ingredients into a blender with the additional almond milk and blend until smooth."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour the mixture back into the mason jar and take your overnight oats on the go."
+        },
+        {
+            "number": 5,
+            "instruction": "Enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/feta-and-kale-loaded-sweet-potato",
+    "title": "Feta & kale loaded sweet potato",
+    "total_CO2": 1.3698114000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.6849057000000001,
+    "E.Mission coefficient": 1.3275939135491375,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 sweet potatoes",
+            "amount": "2.0",
+            "ingredient_name": "sweet potatoes",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.47,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1739
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "210 g can chickpeas, drained",
+            "amount": "210.0",
+            "unit": "g",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.21,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.3381
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 small red onion, thinly sliced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tbsp red wine vinegar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "red wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "30 g feta, cut into small cubes",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "feta",
+            "matched_ingredient": "Feta",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.6371999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp extra virgin olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "pinch chilli flakes",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "100 g kale",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "kale",
+            "matched_ingredient": "Kale",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp pumpkin seeds, toasted",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "pumpkin seeds",
+            "matched_ingredient": "Pumpkin seed",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.01125
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "80 g bag rocket",
+            "amount": "80.0",
+            "ingredient_name": "rocket",
+            "matched_ingredient": "Rocket",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Prick the sweet potatoes all over with a fork, then put them in a roasting tin and roast for 40 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chickpeas to the tray, then roast for 10 mins more, until the potatoes are completely tender and the chickpeas have crisped a little."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, mix the onion with the vinegar and a pinch of sugar and salt, and set aside to quick pickle. In another bowl, marinate the feta with the oil and chilli flakes."
+        },
+        {
+            "number": 5,
+            "instruction": "When the potatoes are nearly cooked, cook the kale in a pan with 50ml water for 3 mins until wilted, then season to taste. Halve the potatoes, divide between two plates and top each with the kale, chickpeas, red onion (reserving the vinegar), marinated feta and pumpkin seeds. Toss the rocket with the reserved vinegar, then serve on the side."
+        }
+    ]
+}

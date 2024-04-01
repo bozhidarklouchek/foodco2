@@ -1,0 +1,104 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/ravioli-artichokes-leek-lemon",
+    "title": "Ravioli with artichokes, leek & lemon",
+    "total_CO2": 0.6641349999999999,
+    "servings": 2,
+    "CO2_per_portion": 0.33206749999999996,
+    "E.Mission coefficient": 0.8697989653591774,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "280 g jar artichoke antipasto, drained reserving 1 tbsp oil, artichokes roughly chopped",
+            "amount": "280.0",
+            "unit": "g",
+            "ingredient_name": "artichoke antipasto",
+            "matched_ingredient": "Globe artichoke",
+            "kg_equivalent": 0.28,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.12236000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large leek, finely sliced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "leek",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.03555
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 garlic clove, crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 tbsp cream cheese",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "cream cheese",
+            "matched_ingredient": "Cream cheese",
+            "kg_equivalent": -0.00405,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": -0.08602199999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "zest and juice 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "juice",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.124,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.044267999999999995
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "250 g pack spinach & ricotta ravioli",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.10925
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 large handfuls rocket and grated Parmesan (or vegetarian alternative) to serve (optional)",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "grated Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0206,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.437544
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil from the artichokes in a large saucepan, then add the leek and garlic. Fry for 5 mins over a medium heat until the leek is soft. Stir in the artichokes, cream cheese and lemon zest, then heat through. Season to taste and add a squeeze of lemon juice."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, cook the ravioli following pack instructions."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain, add to the pan with the artichokes and cream cheese, and toss through."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve topped with the rocket and a grating of Parmesan, if you like."
+        }
+    ]
+}

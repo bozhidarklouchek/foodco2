@@ -1,0 +1,335 @@
+{
+    "url": "https://www.mygreekdish.com/recipe/mousakas/",
+    "title": "Traditional Moussaka with eggplants (aubergines) and potatoes",
+    "total_CO2": 38.8572282,
+    "servings": 8,
+    "CO2_per_portion": 4.857153525,
+    "E.Mission coefficient": 5.883387989118641,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "6 eggplants",
+            "amount": "6.0",
+            "ingredient_name": "eggplants",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 3.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 1.365
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "5 potatoes (optional)",
+            "amount": "5.0",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.8500000000000001,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.3145
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "vegetable oil (for frying the eggplants)",
+            "amount": "1.0",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.053592
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "750 g beef or lamb mince (26 oz)",
+            "amount": "375.0",
+            "unit": "g",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 22.33875
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "750 g beef or lamb mince (26 oz)",
+            "amount": "375.0",
+            "unit": "g",
+            "ingredient_name": "lamb mince",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 9.155625
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 red onions (chopped)",
+            "amount": "2.0",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves of garlic (chopped)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tin chopped tomatoes (400g / 14oz)",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp tomato paste",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon sugar",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.004915200000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 glass of red wine",
+            "amount": "1.0",
+            "unit": "glass",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Pinch of sea salt and freshly ground black pepper",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "A pinch of cinnamon or one cinnamon stick",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/4 of a cup olive oil",
+            "amount": "0.25",
+            "unit": "of a cup",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0035,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.020804
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "900 ml milk (31 fl.oz)",
+            "amount": "900.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.936,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 2.603016
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "120 g butter (4 oz)",
+            "amount": "120.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.33372
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "120 g flour (4 oz)",
+            "amount": "120.0",
+            "unit": "g",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.17292
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "a pinch of nutmeg",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 egg yolks",
+            "amount": "2.0",
+            "ingredient_name": "egg yolks",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "100 g Parmigiano-Reggiano or Kefalotyri or your favourite hard cheese (3.5 oz)",
+            "amount": "33.333333333333336",
+            "unit": "g",
+            "ingredient_name": "Parmigiano-Reggiano",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.03333333333333333,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.708
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "100 g Parmigiano-Reggiano or Kefalotyri or your favourite hard cheese (3.5 oz)",
+            "amount": "33.333333333333336",
+            "unit": "g",
+            "ingredient_name": "hard cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.03333333333333333,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.708
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "salt to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To prepare this Greek moussaka recipe, begin by preparing the eggplants."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove the stalks from the eggplants and cut them into slices, 1 cm thick. Season with salt and place in a colander for about half an hour."
+        },
+        {
+            "number": 3,
+            "instruction": "and squeeze with your hands, to get rid of the excessive water. Pat them dry and fry in plenty of oil, until nicely colored."
+        },
+        {
+            "number": 4,
+            "instruction": "Place the fried eggplants on some paper, in order to absorb the oil. (For a lighter version of the traditional Greek moussaka try drizzling the aubergines with some olive oil and bake them for 20 minutes instead of frying them). Set aside when done."
+        },
+        {
+            "number": 5,
+            "instruction": "If you are adding potatoes to your moussaka, now its time to slice them into 0.5cm, half a finger width slices. Fry them or bake them in the same way as the eggplants. Season with some salt and set them aside when done."
+        },
+        {
+            "number": 6,
+            "instruction": "for the moussaka."
+        },
+        {
+            "number": 7,
+            "instruction": "Heat a large pan to medium-high heat and add the olive oil. Stir in the chopped onions and sauté, until softened and slightly colored. Stir in the mince breaking it up with a wooden spoon and sauté. When it starts to brown, add the the garlic and tomato paste and sauté until the garlic starts to soften."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour in the red wine to deglaze the meat juices and wait to evaporate."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the tinned tomatoes, the sugar, a pinch of cinnamon, 1 bay leaf and a good pinch of salt and pepper. Bring to the boil then turn the heat down and simmer with the lid on for about 30 minutes or until most of the juices have evaporated. Set aside when done."
+        },
+        {
+            "number": 10,
+            "instruction": "for the moussaka. Use a large pan to melt the butter over low-medium heat."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the flour whisking continuously to make a paste."
+        },
+        {
+            "number": 12,
+            "instruction": "Add warmed milk in a steady stream; keep whisking in order to prevent your sauce from getting lumpy. If the sauce still needs to thicken, boil over low heat while continuing to stir. Its consistency should resemble a thick cream."
+        },
+        {
+            "number": 13,
+            "instruction": "Remove the béchamel pan from the stove and stir in the egg yolks, salt, pepper, a pinch of nutmeg and the most of the grated cheese. Reserve some cheese to sprinkle on top!"
+        },
+        {
+            "number": 14,
+            "instruction": "Whisk quickly, in order to prevent the eggs from turning an omelette!  Season with salt to taste. Take one spoon full of béchamel and stir it in the meat sauce. Set the béchamel sauce aside."
+        },
+        {
+            "number": 15,
+            "instruction": "Now its time to assemble the moussaka. For this moussaka recipe you will need a large baking dish, approx. 20x30cm / 8x12inch and 8cm/3 inch deep). Butter the bottom and sides of the pan and layer the potatoes first (if you&#8217;re using them), then half the eggplants."
+        },
+        {
+            "number": 16,
+            "instruction": "Pour in all of the meat sauce and spread it out evenly."
+        },
+        {
+            "number": 17,
+            "instruction": "Add a second layer of eggplants, top with all of the béchamel sauce and smooth out with a spatula."
+        },
+        {
+            "number": 18,
+            "instruction": ". Preheat you oven at 180C/350F and bake your musaka for about 60 minutes or until its crust turns light golden brown. Even though it will be really hard to do so, you should wait for the moussaka to cool down and be just warm to the touch before cutting into pieces. This will prevent the béchamel sauce from pouring out when you&#8217;re cutting your pieces."
+        },
+        {
+            "number": 19,
+            "instruction": "Serve the Moussaka with a refreshing Traditional Greek Salad  and enjoy over a glass of wine!"
+        }
+    ]
+}

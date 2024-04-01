@@ -1,0 +1,106 @@
+{
+    "url": "https://www.nigella.com/recipes/spanish-chicken-with-chorizo-and-potatoes",
+    "title": "Spanish Chicken With Chorizo and Potatoes",
+    "total_CO2": 17.4464224,
+    "servings": 6,
+    "CO2_per_portion": 2.9077370666666664,
+    "E.Mission coefficient": 4.425498738030313,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "12 chicken thighs with skin on and bone in",
+            "amount": "12.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.8599999999999999,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 11.331119999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "750 grams chorizo (whole if baby ones or cut into 4cm / 1½ inch chunks if regular sized)",
+            "amount": "750.0",
+            "unit": "grams",
+            "ingredient_name": "chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 5.4615
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 kilogram new potatoes (halved)",
+            "amount": "1.0",
+            "unit": "kilogram",
+            "ingredient_name": "new potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.37
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 red onions (peeled and roughly chopped)",
+            "amount": "2.0",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 teaspoons dried oregano",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "grated zest of 1 orange",
+            "amount": "1.0",
+            "ingredient_name": "zest",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 220°C/200°C Fan/gas mark 7/425ºF."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the oil in the bottom of 2 shallow roasting tins, 1 tablespoon in each. Rub the skin of the chicken in the oil, then turn skin-side up, 6 pieces in each tin."
+        },
+        {
+            "number": 3,
+            "instruction": "Divide the chorizo sausages and the new potatoes between the 2 tins."
+        },
+        {
+            "number": 4,
+            "instruction": "Sprinkle the onion and the oregano over, then grate the orange zest over the contents of the 2 tins."
+        },
+        {
+            "number": 5,
+            "instruction": "Cook for 1 hour, but after 30 minutes, swap the top tray with the bottom tray in the oven and baste the contents with the orange-coloured juices."
+        }
+    ]
+}

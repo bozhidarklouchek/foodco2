@@ -1,0 +1,216 @@
+{
+    "url": "https://learntocook.com/asian/cauliflower-fried-rice/",
+    "title": "Looking for Low-Carb (But Still Tasty) Meal Options? Try Cauli Fried Rice",
+    "total_CO2": 1.1694362141146148,
+    "servings": 2,
+    "CO2_per_portion": 0.5847181070573074,
+    "E.Mission coefficient": 0.8176614283049922,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 cups cauliflower rice, uncooked",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "cauliflower rice",
+            "matched_ingredient": "Cauliflower rice",
+            "kg_equivalent": 0.946352946,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.413556237402
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp olive or vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive",
+            "matched_ingredient": "Olive",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp olive or vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 large eggs, beaten",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 cup green onion, thinly sliced",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "green onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.05204941203,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.020559517751850002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 cup frozen peas, thawed",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.08517176514,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.07631390156543999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 cup carrots (fresh or frozen), julienned",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.0319394119275,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0116578853535375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 cup carrots (fresh or frozen), julienned",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "julienned",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.026911911901875
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 cup bell peppers, thinly sliced",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0603300003075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0274501501399125
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp peeled and minced fresh ginger",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "minced fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.001825
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 tbsp tamari or soy sauce",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "tamari",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.016875
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 tbsp tamari or soy sauce",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.020565
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp hoisin sauce, organic",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "hoisin sauce",
+            "matched_ingredient": "Hoisin",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.005484
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tsp sesame oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.00923,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.03329261
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Salt and pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Prepare the cauliflower rice. Chop up 1 head cauliflower into pieces; remove large pieces of the stem."
+        },
+        {
+            "number": 2,
+            "instruction": "Add to a food processor and pulse into it reaches a rice-like size. If large pieces are leftover, pull them out, remove raining cauliflower rice, add back in and pulse until the same consistency as the rest of the cauliflower rice. Set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat a large skillet or wok over medium high heat. When pan is hot, add the vegetable oil."
+        },
+        {
+            "number": 4,
+            "instruction": "Add in the carrots, green onion, peas and peppers."
+        },
+        {
+            "number": 5,
+            "instruction": "Let cook for 2-3 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add in cauliflower and combine vegetables."
+        },
+        {
+            "number": 7,
+            "instruction": "Let cook for 2-3 minutes, stirring frequently."
+        },
+        {
+            "number": 8,
+            "instruction": "Add tamari, hoison, ginger and sesame oil and stir until everything is coated."
+        },
+        {
+            "number": 9,
+            "instruction": "Add in the beaten egg and scramble using a spatula. Cook for 1-2 minutes until egg is done and cauliflower rice is cooked thoroughly. Taste and adjust seasonings as needed."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve as a main course or a side with chicken, shrimp, beef or tofu."
+        }
+    ]
+}

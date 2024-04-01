@@ -1,0 +1,181 @@
+{
+    "url": "https://www.loveandlemons.com/greek-salad/",
+    "title": "Greek Salad",
+    "total_CO2": 4.246327656282511,
+    "servings": 4,
+    "CO2_per_portion": 1.0615819140706277,
+    "E.Mission coefficient": 3.4894927066493096,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/4 cup extra-virgin olive oil",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.05441529439500001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.20830174694406003
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tablespoons red wine vinegar",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "red wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.071325
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 garlic clove, minced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 teaspoon dried oregano, more for sprinkling",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 teaspoon Dijon mustard",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.00032500000000000004,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00014202500000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 teaspoon sea salt",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 English cucumber, cut lengthwise, seeded, and sliced ¼-inch thick",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "English cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 green bell pepper, chopped into 1-inch pieces",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "green bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 cups halved cherry tomatoes",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "halved cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.675222826971
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "5 ounces feta cheese, cut into ½ inch cubes*",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "feta cheese",
+            "matched_ingredient": "Feta",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.010719355875
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/3 cup thinly sliced red onion",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.017349804009999997,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.006853172583949999
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/3 cup pitted Kalamata olives",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "pitted Kalamata olives",
+            "matched_ingredient": "Sapodilla",
+            "kg_equivalent": 0.07886274549999998,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.059147059124999984
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/3 cup fresh mint leaves",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "fresh mint leaves",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.07886274549999998,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.03446301978349999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Make the dressing: In a small bowl, whisk together the olive oil, vinegar, garlic, oregano, mustard, salt, and several grinds of pepper."
+        },
+        {
+            "number": 2,
+            "instruction": "On a large platter, arrange the cucumber, green pepper, cherry tomatoes, feta cheese, red onions, and olives."
+        },
+        {
+            "number": 3,
+            "instruction": "Drizzle with the dressing and very gently toss."
+        },
+        {
+            "number": 4,
+            "instruction": "Sprinkle with a few generous pinches of oregano and top with the mint leaves. Season to taste and serve."
+        }
+    ]
+}

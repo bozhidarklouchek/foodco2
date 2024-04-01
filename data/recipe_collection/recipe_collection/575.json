@@ -1,0 +1,161 @@
+{
+    "url": "https://www.happyveggiekitchen.com/halloumi-fajitas/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=560369852_20619104_209191",
+    "title": "Roasted Halloumi Fajitas",
+    "total_CO2": 5.9073891000000005,
+    "servings": 8,
+    "CO2_per_portion": 0.7384236375000001,
+    "E.Mission coefficient": 6.894108358862145,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g halloumi cheese (sliced into strips)",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "halloumi cheese",
+            "matched_ingredient": "Halloumi",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 5.31
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 bell peppers (sliced into strips)",
+            "amount": "3.0",
+            "ingredient_name": "bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1638
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large white onion (sliced into strips)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "white onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 Tbsp olive oil (divided)",
+            "amount": "3.0",
+            "unit": "Tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tsp oregano",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tsp smoked paprika",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp chili powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp of cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp garlic granules",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "garlic granules",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "8 flour tortillas",
+            "amount": "8.0",
+            "ingredient_name": "flour tortillas",
+            "matched_ingredient": "Flour tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Toppings of your choice: avocado, sour cream / yogurt, salsa",
+            "amount": "1.0",
+            "ingredient_name": "avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pre-heat the oven to 410F / 210C (190C fan) while you slice the halloumi, onion and peppers."
+        },
+        {
+            "number": 2,
+            "instruction": "Prepare the fajita seasoning by mixing everything together in a small bowl."
+        },
+        {
+            "number": 3,
+            "instruction": "Put the onions and peppers in a large bowl, then add 2 Tbsp of olive oil and most of the fajita seasoning. Toss to get everything coated nicely in the oil and seasonings. Scatter over the baking sheet. Then put the halloumi in the bowl with another 1 Tbsp of oil and the remaining seasoning, toss very gently to coat, and add it to the baking sheet too."
+        },
+        {
+            "number": 4,
+            "instruction": "(Alternatively you can just place the halloumi, onion and peppers directly onto the baking sheet,  sprinkle the fajita seasoning and oil over the top, and use a spatula to get everything coated in the oil and seasonings - this may not give a perfectly even result, but it works fine and saves a bowl.)"
+        },
+        {
+            "number": 5,
+            "instruction": "Place in the oven for 20-25 minutes, or until the halloumi is cooked to your liking. (You may need more or less time - every oven is different, so do check in often.)"
+        }
+    ]
+}

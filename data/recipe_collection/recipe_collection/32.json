@@ -1,0 +1,353 @@
+{
+    "url": "https://www.thespruceeats.com/bulgarian-salad-recipe-shopska-salata-1137345",
+    "title": "Shopska Salata Bulgarian Tomato Salad",
+    "total_CO2": 2.342910302213965,
+    "servings": 6,
+    "CO2_per_portion": 0.3904850503689941,
+    "E.Mission coefficient": 1.7603565445269926,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 medium tomatoes, chopped",
+            "amount": "4.0",
+            "unit": "medium",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large cucumber, unpeeled, chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 green or red bell peppers, roasted or raw, chopped",
+            "amount": "2.0",
+            "ingredient_name": "green",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 green or red bell peppers, roasted or raw, chopped",
+            "amount": "2.0",
+            "ingredient_name": "red bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large yellow onion, chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tablespoons chopped fresh parsley",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chopped fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 cup sunflower oil",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.11356235351999999,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.40961940914663997
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 cup red wine vinegar",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "red wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.093748088713125
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Salt, to taste",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Freshly ground black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 cup Bulgarian Sirene cheese, or feta cheese, crumbled",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "Bulgarian Sirene cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.04022000020500001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8542728043542002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Steps to Make It"
+        },
+        {
+            "number": 2,
+            "instruction": "Gather the ingredients."
+        },
+        {
+            "number": 3,
+            "instruction": "The Spruce / Elizabeth Briskin"
+        },
+        {
+            "number": 4,
+            "instruction": "In a large bowl, place the tomatoes, cucumbers, peppers, onions, and parsley. Toss well to mix."
+        },
+        {
+            "number": 5,
+            "instruction": "The Spruce / Elizabeth Briskin"
+        },
+        {
+            "number": 6,
+            "instruction": "Place the oil, vinegar, salt and pepper in a screw-top jar. Close and shake until well incorporated."
+        },
+        {
+            "number": 7,
+            "instruction": "The Spruce / Elizabeth Briskin"
+        },
+        {
+            "number": 8,
+            "instruction": "Pour the dressing on top of the vegetables, turn into a serving bowl, and refrigerate until ready to serve. Alternatively, refrigerate the salad and dressing separately and allow each guest to add the desired amount on top of their salads."
+        },
+        {
+            "number": 9,
+            "instruction": "The Spruce / Elizabeth Briskin"
+        },
+        {
+            "number": 10,
+            "instruction": "When ready to serve, top the salad with crumbled cheese. Enjoy!"
+        },
+        {
+            "number": 11,
+            "instruction": "The Spruce / Elizabeth Briskin"
+        },
+        {
+            "number": 12,
+            "instruction": "Recipe Variations"
+        },
+        {
+            "number": 13,
+            "instruction": "Replaced the yellow onion with six sliced green onions."
+        },
+        {
+            "number": 14,
+            "instruction": "What is Sirene Cheese?"
+        },
+        {
+            "number": 15,
+            "instruction": "Sirene cheese is a dairy product common in the Balkans, and not exclusive to Bulgaria. The cheese can be made of cow's, goat's, or sheep's milk, or a combination of these. Although other cheeses, like feta, are similar, sirene cheese's flavor depends on the region where it's made, even thought it's the same production process. What the animals eat influences the flavor of the milk, and ultimately the resulting cheese."
+        },
+        {
+            "number": 16,
+            "instruction": "Also known as \"white brine sirene,\" this is a type of brined cheese, which means it's matured in a salty brine. It has a sharp flavor, is widely used as a table cheese, and is incorporated into multiple savory and sweet recipes."
+        },
+        {
+            "number": 17,
+            "instruction": "How to"
+        },
+        {
+            "number": 18,
+            "instruction": "Serve Shopska"
+        },
+        {
+            "number": 19,
+            "instruction": "This salad makes a wonderful appetizer served with hearty bread and a glass of rakia. As a side dish, it is a wonderful accompaniment to all kinds of meats, although its refreshing flavor is particularly wonderful when served with steaks, grilled chicken, or any type of pork roast."
+        },
+        {
+            "number": 20,
+            "instruction": "Use the salad as a filling for vegetarian wraps, or combine it with any cold cuts of your liking to make sandwiches."
+        },
+        {
+            "number": 21,
+            "instruction": "Mix the salad with pasta, orzo, barley, or rice to make a refreshing summer salad, and add extra parsley on top to garnish the dishes."
+        },
+        {
+            "number": 22,
+            "instruction": "Without the dressing, the salad can keep for up to 2 days in the refrigerator. The tomatoes will become soggy, so eating it as soon as it's made is best."
+        },
+        {
+            "number": 23,
+            "instruction": "Bulgarian Fried Cheese (Kashkaval Pane)"
+        },
+        {
+            "number": 24,
+            "instruction": "Nutrition Facts (per serving)"
+        },
+        {
+            "number": 25,
+            "instruction": "240"
+        },
+        {
+            "number": 26,
+            "instruction": "Calories"
+        },
+        {
+            "number": 27,
+            "instruction": "21g"
+        },
+        {
+            "number": 28,
+            "instruction": "Fat"
+        },
+        {
+            "number": 29,
+            "instruction": "11g"
+        },
+        {
+            "number": 30,
+            "instruction": "Carbs"
+        },
+        {
+            "number": 31,
+            "instruction": "Protein"
+        },
+        {
+            "number": 32,
+            "instruction": "Show Full Nutrition Label"
+        },
+        {
+            "number": 33,
+            "instruction": "Nutrition Facts"
+        },
+        {
+            "number": 34,
+            "instruction": "Servings: 6"
+        },
+        {
+            "number": 35,
+            "instruction": "Amount per serving"
+        },
+        {
+            "number": 36,
+            "instruction": "Calories"
+        },
+        {
+            "number": 37,
+            "instruction": "240"
+        },
+        {
+            "number": 38,
+            "instruction": "% Daily Value*"
+        },
+        {
+            "number": 39,
+            "instruction": "Total Fat 21g"
+        },
+        {
+            "number": 40,
+            "instruction": "27%"
+        },
+        {
+            "number": 41,
+            "instruction": "Saturated Fat 4g"
+        },
+        {
+            "number": 42,
+            "instruction": "19%"
+        },
+        {
+            "number": 43,
+            "instruction": "Cholesterol 11mg"
+        },
+        {
+            "number": 44,
+            "instruction": "Sodium 220mg"
+        },
+        {
+            "number": 45,
+            "instruction": "10%"
+        },
+        {
+            "number": 46,
+            "instruction": "Total Carbohydrate 11g"
+        },
+        {
+            "number": 47,
+            "instruction": "Dietary Fiber 2g"
+        },
+        {
+            "number": 48,
+            "instruction": "Total Sugars 5g"
+        },
+        {
+            "number": 49,
+            "instruction": "Protein 4g"
+        },
+        {
+            "number": 50,
+            "instruction": "Vitamin C 45mg"
+        },
+        {
+            "number": 51,
+            "instruction": "227%"
+        },
+        {
+            "number": 52,
+            "instruction": "Calcium 95mg"
+        },
+        {
+            "number": 53,
+            "instruction": "Iron 1mg"
+        },
+        {
+            "number": 54,
+            "instruction": "Potassium 421mg"
+        },
+        {
+            "number": 55,
+            "instruction": "*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+        },
+        {
+            "number": 56,
+            "instruction": "(Nutrition information is calculated using an ingredient database and should be considered an estimate.)"
+        }
+    ]
+}

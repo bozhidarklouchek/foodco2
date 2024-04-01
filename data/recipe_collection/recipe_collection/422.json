@@ -1,0 +1,232 @@
+{
+    "url": "https://www.recipetineats.com/oven-baked-chicken-and-rice/",
+    "title": "Oven Baked Chicken and Rice",
+    "total_CO2": 3.5153773059024624,
+    "servings": 5,
+    "CO2_per_portion": 0.7030754611804925,
+    "E.Mission coefficient": 2.7547819933132085,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "5 bone in chicken thigh fillets, peel skin OFF (, (Note 1))",
+            "amount": "5.0",
+            "ingredient_name": "bone",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion (, chopped (brown, white or yellow))",
+            "amount": "1.0",
+            "ingredient_name": "onion (",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 cloves garlic (large) (, minced)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tbsp (30g) butter ((or olive oil))",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08343
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 1/2 cups (270g) uncooked white rice ((Note 3))",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "uncooked white rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.3016500015375,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.1580343559024624
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 1/2 cups (375 ml) chicken broth/stock (, hot (I microwave))",
+            "amount": "375.0",
+            "unit": "ml",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.3375,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.05605
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp paprika powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "paprika powder",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp dried thyme",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tsp garlic powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0009875
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 tsp onion powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "onion powder",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.00055,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00021725000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3/4 tsp salt",
+            "amount": "0.75",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.008100000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.09820440000000003
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Black pepper",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Oil spray",
+            "amount": "1.0",
+            "ingredient_name": "Oil spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Fresh thyme leaves or finely chopped parsley",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "Fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Fresh thyme leaves or finely chopped parsley",
+            "amount": "1",
+            "unit": "leaves",
+            "ingredient_name": "chopped parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 1/4 cups (315 ml) water (, hot (tap is fine))",
+            "amount": "315.0",
+            "unit": "ml",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.315,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 180°C/350°F."
+        },
+        {
+            "number": 2,
+            "instruction": "Scatter onion and garlic in a baking dish (about 10 x 15\" / 25 x 35 cm), then place butter in the centre."
+        },
+        {
+            "number": 3,
+            "instruction": "Bake for 15 minutes (check at 12 minutes, mix if some bits are browning too much)."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, mix together Chicken Rub."
+        },
+        {
+            "number": 5,
+            "instruction": "Sprinkle on both sides of the chicken."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove baking dish from the oven."
+        },
+        {
+            "number": 7,
+            "instruction": "Add rice then mix."
+        },
+        {
+            "number": 8,
+            "instruction": "Place chicken on rice. Then pour chicken broth and water around the chicken."
+        },
+        {
+            "number": 9,
+            "instruction": "Cover with foil, then bake for 30 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Remove foil, spray chicken with oil (optional, gives chicken nicer finish), then bake for a further 20 minutes until liquid is absorbed."
+        },
+        {
+            "number": 11,
+            "instruction": "Stand for 5 minutes, then remove chicken and fluff up rice."
+        },
+        {
+            "number": 12,
+            "instruction": "Garnish with parsley or thyme if desired, serve and enjoy!"
+        }
+    ]
+}

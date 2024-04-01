@@ -1,0 +1,143 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/jerk-chicken",
+    "title": "Jerk chicken",
+    "total_CO2": 15.4349056,
+    "servings": 4,
+    "CO2_per_portion": 3.8587264,
+    "E.Mission coefficient": 5.618004513358085,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp jerk seasoning",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "jerk seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2109576
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 tbsp coconut cream",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "coconut cream",
+            "matched_ingredient": "Coconut cream",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.045
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 green chilli, deseeded and chopped",
+            "amount": "1.0",
+            "ingredient_name": "green chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 spring onions, finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "8 thyme sprigs, leaves picked, plus extra to serve",
+            "amount": "8.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp grated ginger",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "grated ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "zest and juice 1 lime",
+            "amount": "1.0",
+            "ingredient_name": "juice",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.124,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.044267999999999995
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "8 chicken thighs, skin on and bone in",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "8 chicken thighs, skin on and bone in",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "rice & peas, to serve",
+            "amount": "1.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "With a stick blender or in the small bowl of a food processor, whizz together the jerk seasoning, coconut cream, chilli, spring onions, thyme, garlic and ginger. Stir in the lime zest and juice, and season to taste."
+        },
+        {
+            "number": 3,
+            "instruction": "Slash the chicken thighs down to the bone a couple of times, then smear over the jerk paste. Roast in the oven for 45-50 mins until golden brown and cooked through."
+        },
+        {
+            "number": 4,
+            "instruction": "Sprinkle over more thyme and serve with rice & peas."
+        }
+    ]
+}

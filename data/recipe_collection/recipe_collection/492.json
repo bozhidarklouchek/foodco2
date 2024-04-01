@@ -1,0 +1,185 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/quichelorraine_71987",
+    "title": "Quiche Lorraine",
+    "total_CO2": 9.879452,
+    "servings": 6,
+    "CO2_per_portion": 1.6465753333333335,
+    "E.Mission coefficient": 5.67132721010333,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "175 g/6 oz plain flour, plus extra for dusting",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.252175
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "75 g/23/4 oz butter, plus extra for greasing",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.208575
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "250 g/9 oz cheddar, grated",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 5.31
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 tomatoes, sliced (optional)",
+            "amount": "4.0",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "200 g/7 oz streaky bacon, chopped",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "streaky bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.4564000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "5 free-range eggs, beaten",
+            "amount": "5.0",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.12675
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "100 ml/31/2 fl oz milk",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.10400000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.28922400000000004
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 ml/7 fl oz double cream",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.188,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.5228280000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 sprigs fresh thyme",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the pastry, sift the flour together with a pinch of salt in a large bowl. Rub in the butter until you have a soft breadcrumb texture."
+        },
+        {
+            "number": 2,
+            "instruction": "Add enough cold water to make the crumb mixture come together to form a firm dough, and then rest it in the fridge for 30 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Roll out the pastry on a light floured surface and line a 22cm/8½in well-buttered flan dish. Don't cut off the edges of the pastry yet. Chill again."
+        },
+        {
+            "number": 4,
+            "instruction": "Preheat the oven to 190C/170C Fan/Gas"
+        },
+        {
+            "number": 5,
+            "instruction": "Remove the pastry case from the fridge and line the base of the pastry with baking parchment and then fill it with baking beans."
+        },
+        {
+            "number": 6,
+            "instruction": "Place on a baking tray and bake blind for 20 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove the beans and parchment and return to the oven for another five minutes to cook the base"
+        },
+        {
+            "number": 8,
+            "instruction": "Reduce the temperature of the oven to 160C/140C Fan/Gas"
+        },
+        {
+            "number": 9,
+            "instruction": "Sprinkle the cheese into the pastry base and add the sliced tomatoes if you are using them. Fry the bacon pieces until crisp and sprinkle over them over the top."
+        },
+        {
+            "number": 10,
+            "instruction": "Combine the eggs with the milk and cream in a bowl and season well."
+        },
+        {
+            "number": 11,
+            "instruction": "Pour over the bacon and cheese."
+        },
+        {
+            "number": 12,
+            "instruction": "Sprinkle the thyme over the top and trim the edges of the pastry."
+        },
+        {
+            "number": 13,
+            "instruction": "Bake for 30–40 minutes, or until set. Allow to cool and set further."
+        },
+        {
+            "number": 14,
+            "instruction": "Trim the pastry edges to get a perfect edge and then serve in wedges."
+        }
+    ]
+}

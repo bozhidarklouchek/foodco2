@@ -1,0 +1,168 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/veggie-shepherds-pie-sweet-potato-mash",
+    "title": "Veggie shepherd's pie with sweet potato mash",
+    "total_CO2": 3.9803702000000003,
+    "servings": 4,
+    "CO2_per_portion": 0.9950925500000001,
+    "E.Mission coefficient": 1.6522057593524622,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large onion, halved and sliced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 large carrots (500g/1lb 2oz in total), cut into sugar-cube size pieces",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0584
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tbsp thyme chopped",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "thyme chopped",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.007603799999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "200 ml red wine",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.317
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 vegetable stock cubes",
+            "amount": "2.0",
+            "ingredient_name": "vegetable stock cubes",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "410 g can green lentils",
+            "amount": "410.0",
+            "unit": "g",
+            "ingredient_name": "green lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.41,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6601
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "950 g sweet potatoes, peeled and cut into chunks",
+            "amount": "950.0",
+            "unit": "g",
+            "ingredient_name": "sweet potatoes",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.95,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.3515
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "85 g vegetarian mature cheddar, grated",
+            "amount": "85.0",
+            "unit": "g",
+            "ingredient_name": "vegetarian mature cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.085,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.8054
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 1 tbsp olive oil in a frying pan, then fry 1 halved and sliced large onion until golden."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 2 large carrots, cut into sugar-cube size pieces and most of the 2 tbsp chopped thyme, reserving a sprinkling for later."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour in 200ml red wine, 150ml water and a 400g chopped tomatoes, then crumble in 2 vegetable stock cubes and simmer for 10 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "Tip in a 410g can green lentils, including the juice, then cover and simmer for another 10 mins until the carrots still have a bit of bite and the lentils are pulpy."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, boil 950g sweet potatoes, cut into chunks, for 15 mins until tender, drain well, then mash with 25g butter and season to taste."
+        },
+        {
+            "number": 6,
+            "instruction": "Pile the lentil mixture into a pie dish, spoon the mash on top, then sprinkle over 85g grated vegetarian mature cheddar and the remaining thyme. The pie can now be covered and chilled for 2 days, or frozen for up to a month."
+        },
+        {
+            "number": 7,
+            "instruction": "Heat oven to 190C/170C fan/gas"
+        },
+        {
+            "number": 8,
+            "instruction": "Cook for 20 mins if cooking straightaway, or for 40 mins from chilled, until golden and hot all the way through."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve with broccoli."
+        }
+    ]
+}

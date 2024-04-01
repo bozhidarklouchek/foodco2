@@ -1,0 +1,130 @@
+{
+    "url": "https://damndelicious.net/2017/11/26/garlic-parmesan-cauliflower-steaks/",
+    "title": "Garlic Parmesan Cauliflower Steaks",
+    "total_CO2": 0.6920685521771002,
+    "servings": 4,
+    "CO2_per_portion": 0.17301713804427504,
+    "E.Mission coefficient": 6.370585460708936,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 heads cauliflower, cut into 1/2-inch slices",
+            "amount": "2.0",
+            "unit": "inch",
+            "ingredient_name": "cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.026,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.011361999999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 teaspoon dried parsley",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "dried parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0010925
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 teaspoon dried rosemary",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "dried rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0010925
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 teaspoon dried thyme",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 cloves garlic, minced",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Kosher salt and freshly ground black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tablespoons olive oil",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon dried oregano",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 cup freshly grated Parmesan",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "freshly grated Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.020110000102500004,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.4271364021771001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 400 degrees F. Lightly oil a baking sheet or coat with nonstick spray.In a small bowl, combine olive oil, garlic, oregano, thyme, rosemary and parsley."
+        },
+        {
+            "number": 2,
+            "instruction": "Place cauliflower slices in a single layer onto the prepared baking sheet."
+        },
+        {
+            "number": 3,
+            "instruction": "Brush each slice with the olive oil mixture on both sides; season with salt and pepper, to taste."
+        },
+        {
+            "number": 4,
+            "instruction": "Place into oven and bake until golden brown, about 20-25 minutes, flipping halfway."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve immediately, sprinkled with Parmesan."
+        }
+    ]
+}

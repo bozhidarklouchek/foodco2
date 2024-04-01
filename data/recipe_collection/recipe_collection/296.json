@@ -1,0 +1,277 @@
+{
+    "url": "https://www.budgetbytes.com/chili-cornbread-skillet/",
+    "title": "Chili Cornbread Skillet",
+    "total_CO2": 5.576116879371026,
+    "servings": 6,
+    "CO2_per_portion": 0.9293528132285043,
+    "E.Mission coefficient": 2.3371490034820908,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 Tbsp cooking oil ()",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "cooking oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 cloves garlic ()",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 yellow onion ()",
+            "amount": "1.0",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 jalapeño (optional) ()",
+            "amount": "1.0",
+            "ingredient_name": "jalapeño",
+            "matched_ingredient": "Hilsa",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 15oz. can fire roasted diced tomatoes ()",
+            "amount": "16.0",
+            "unit": "oz",
+            "ingredient_name": "roasted diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.64727631199
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 6oz. can tomato paste ()",
+            "amount": "7.0",
+            "unit": "oz",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.198446661875,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.283183386495625
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 15oz. cans beans (kidney, pinto, black) ()",
+            "amount": "18.0",
+            "unit": "oz",
+            "ingredient_name": "beans",
+            "matched_ingredient": "Bean",
+            "kg_equivalent": 0.51029141625,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.8215691801625
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Tbsp chili powder* ()",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp ground cumin ()",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 tsp dried oregano ()",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp salt ()",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup water ()",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 cup shredded cheddar ()",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "shredded cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.08044000041000002,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.7085456087084003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 cup yellow cornmeal ()",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "yellow cornmeal",
+            "matched_ingredient": "Cornmeal",
+            "kg_equivalent": 0.15141647136,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.14959947370367999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 cup all-purpose flour ()",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "all-purpose flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.15141647136,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21819113522976
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4 cup sugar ()",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.03785411784,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.05814392500224
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "4 tsp baking powder ()",
+            "amount": "4.0",
+            "unit": "tsp",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.018000000000000002,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.21823200000000004
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 tsp salt ()",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 cup milk ()",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.24605176596000003,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6842699611347601
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 large egg ()",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1/4 cup cooking oil ()",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "cooking oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.05441529439500001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.20830174694406003
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Dice the onion and mince the garlic. Slice the jalapeño lengthwise, scrape out the seeds, and then dice the pepper."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the cooking oil, onion, garlic, and jalapeño to a large 4-quart oven safe skillet. Sauté over medium heat  until the onions are soft and translucent (about 5 minutes)."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain the canned beans then add them to the skillet with the tomato paste, diced tomatoes, chili powder, cumin, oregano, salt, and water. Stir to combine."
+        },
+        {
+            "number": 4,
+            "instruction": "Allow the chili to come up to a simmer."
+        },
+        {
+            "number": 5,
+            "instruction": "Let the chili continue to simmer, stirring occasionally, as you prepare the cornbread topping."
+        },
+        {
+            "number": 6,
+            "instruction": "Begin to preheat the oven to 425ºF. In a large bowl, stir together the cornmeal, flour, sugar, baking powder, and salt until very well combined. In a separate bowl, whisk together the milk, egg, and oil."
+        },
+        {
+            "number": 7,
+            "instruction": "Pour the milk mixture into the bowl with the cornmeal mixture and stir just until everything is moistened."
+        },
+        {
+            "number": 8,
+            "instruction": "Sprinkle the cheddar cheese over top of the simmering chili. Carefully pour the cornbread batter over the chili and cheese, and spread it around until the surface is evenly covered."
+        },
+        {
+            "number": 9,
+            "instruction": "Transfer the skillet to the fully preheated oven and bake for 25 minutes, or until the cornbread is golden brown on the surface. To serve, simply scoop the cornbread and chili beneath onto a plate or bowl, and enjoy!"
+        }
+    ]
+}

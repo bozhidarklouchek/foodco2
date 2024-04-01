@@ -1,0 +1,124 @@
+{
+    "url": "https://tasty.co/recipe/german-bratkartoffeln",
+    "title": "German Bratkartoffeln by Tasty",
+    "total_CO2": 2.519274506729925,
+    "servings": 4,
+    "CO2_per_portion": 0.6298186266824812,
+    "E.Mission coefficient": 2.700238957075168,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cup bacon, diced",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.722835538193
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 cup yellow onion, diced",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.026024706015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.010279758875925001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 cup vegetable oil",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.452829884661
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 yukon gold potatoes, boiled whole until just tender and cut into quaters",
+            "amount": "3.0",
+            "ingredient_name": "gold potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.51,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1887
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 teaspoon pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0012749999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0005801249999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tablespoons fresh parsley, chopped",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Sauté the bacon in a large pan over medium heat until golden brown, about 10 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove the bacon from the pan with a slotted spoon, leaving as much grease as possible in the pan, and set aside to drain on paper towels."
+        },
+        {
+            "number": 3,
+            "instruction": "In the pan with the bacon fat, sauté the onions until translucent, for about 5 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove the onions from the pan, leaving behind any remaining bacon fat."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the vegetable oil to the bacon fat and heat over medium-high heat."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the potatoes to the pan. Season with salt and pepper and sauté the potatoes until they begin to get a golden crust, 15-20 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Return the bacon and cooked onions to the pan and toss gently with the potatoes. Sauté for another 5 minutes, until everything is heated through and golden brown."
+        },
+        {
+            "number": 8,
+            "instruction": "Transfer to a serving bowl and garnish with parsley."
+        },
+        {
+            "number": 9,
+            "instruction": "Enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "url": "https://www.ambitiouskitchen.com/slow-cooker-thai-peanut-chicken/",
+    "title": "Slow Cooker Thai-Inspired Peanut Chicken with Sticky Coconut Purple Rice",
+    "total_CO2": 4.09576335334168,
+    "servings": 4,
+    "CO2_per_portion": 1.02394083833542,
+    "E.Mission coefficient": 3.4589038112373904,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/3 cup creamy natural peanut butter",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "creamy natural peanut butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.049683529665,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12405977357350499
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tablespoon honey, coconut sugar or brown sugar",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.01035,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.0100395
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tablespoon honey, coconut sugar or brown sugar",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00525,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.014028000000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons reduced sodium soy sauce (gluten free, if desired)",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "reduced sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 cloves garlic, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tablespoon sriracha or chili paste",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "sriracha",
+            "matched_ingredient": "Mirin",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon sriracha or chili paste",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "chili paste",
+            "matched_ingredient": "Chilli paste",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 cup lite coconut milk (from the can)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "lite coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.2839058838,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.2594899777932
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 pound boneless skinless chicken breasts",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "skinless chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.76328471804
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 red bell pepper, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 cup thai sticky purple rice",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "thai sticky purple rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.7720229039349749
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 teaspoons coconut oil",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.00924,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.05314848
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Cilantro and chopped peanuts for garnish",
+            "amount": "1.0",
+            "ingredient_name": "Cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add peanut butter, honey, soy sauce, garlic, hot sauce and coconut milk to the slow cooker and whisk until sauce is well combined. "
+        },
+        {
+            "number": 2,
+            "instruction": "Add chicken and red pepper slices to slow cooker and spoon sauce over the chicken. Cover and cook on low for 6 hours or high for 2-3 hours.&nbsp;"
+        },
+        {
+            "number": 3,
+            "instruction": "Once done cooking, remove chicken with a slotted spoon, shred with two forks, then return to the slower cooker; stir to combine the shredded chicken with the sauce."
+        }
+    ]
+}

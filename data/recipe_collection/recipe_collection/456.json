@@ -1,0 +1,260 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/veggiemoussaka_90770",
+    "title": "Red lentil and aubergine moussaka",
+    "total_CO2": 6.046491,
+    "servings": 4,
+    "CO2_per_portion": 1.51162275,
+    "E.Mission coefficient": 3.4449014357338195,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "100 g/31/2 oz red lentils",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.16100000000000003
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "400 g/14 oz aubergines, sliced into thin rounds",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "aubergines",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.18200000000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 ml/2 oz vegetable oil",
+            "amount": "50.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.19140000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 red onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 red pepper, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 garlic clove, finely chopped",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "50 g/2 oz tomato purée",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.07135000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "400 g/14 oz canned chopped tomatoes, drained",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "canned chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 cinnamon stick",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp chopped fresh parsley",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "125 g/41/2 oz ricotta",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "ricotta",
+            "matched_ingredient": "Ricotta",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.655
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "125 g/41/2 oz Greek-style yoghurt",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "Greek-style yoghurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.347625
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "3 free-range eggs",
+            "amount": "3.0",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.15000000000000002,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.67605
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "freshly grated nutmeg",
+            "amount": "1.0",
+            "ingredient_name": "freshly grated nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "50 g/2 oz freshly grated pecorino or alternative vegetarian hard cheese",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "freshly grated pecorino",
+            "matched_ingredient": "Pecorino",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.531
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "50 g/2 oz freshly grated pecorino or alternative vegetarian hard cheese",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "vegetarian hard cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.531
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 180C/350F/Gas 4 and cook the lentils according to packet instructions."
+        },
+        {
+            "number": 2,
+            "instruction": "For the filling, toss the aubergine slices in the vegetable oil, then drain and season, to taste, with salt and freshly ground black pepper."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat a frying pan over a medium heat, add the aubergine slices in batches and fry for 2-3 minutes on each side, or until golden-brown on both sides."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from the pan with a slotted spoon and set aside to drain on kitchen paper."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the onion, pepper and garlic to the pan and fry for 2-3 minutes, or until softened."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the tomato purée, stir to coat the vegetables in it, then continue to fry for a further 4-5 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the canned chopped tomatoes and cinnamon stick and simmer for 4-5 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the lentils and return the fried aubergines to the mixture. Simmer for a further 2-3 minutes, or until warmed through."
+        },
+        {
+            "number": 9,
+            "instruction": "Transfer the mixture to an ovenproof dish and sprinkle over the chopped parsley."
+        },
+        {
+            "number": 10,
+            "instruction": "For the topping, in a bowl, beat together the ricotta, Greek-style yoghurt, eggs and grated nutmeg until well combined. Season, to taste, with salt and freshly ground black pepper."
+        },
+        {
+            "number": 11,
+            "instruction": "Pour the topping mixture into the ovenproof dish on top of the filling."
+        },
+        {
+            "number": 12,
+            "instruction": "Sprinkle over the grated parmesan."
+        },
+        {
+            "number": 13,
+            "instruction": "Transfer the veggie moussaka to the oven and bake for 25-30 minutes, or until the topping is golden-brown and has set and the filling is bubbling."
+        },
+        {
+            "number": 14,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

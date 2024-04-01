@@ -1,0 +1,195 @@
+{
+    "url": "https://www.ihearteating.com/lentil-bolognese-recipe/",
+    "title": "Lentil Bolognese",
+    "total_CO2": 2.208773911157219,
+    "servings": 10,
+    "CO2_per_portion": 0.22087739111572188,
+    "E.Mission coefficient": 1.0021205411028844,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion (finely diced)",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 rib celery (finely chopped)",
+            "amount": "1.0",
+            "ingredient_name": "rib celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 large carrots (peeled and chopped)",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0876
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "7 cloves garlic (minced)",
+            "amount": "7.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.021,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.008295
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "6 ounce can tomato paste",
+            "amount": "6.0",
+            "unit": "ounce",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.17009713875,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.24272861699624998
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "15 ounce can tomato sauce",
+            "amount": "15.0",
+            "unit": "ounce",
+            "ingredient_name": "tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.425242846875,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.606821542490625
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2-14.5 ounce cans diced Italian tomatoes",
+            "amount": "8.25",
+            "unit": "ounce",
+            "ingredient_name": "diced Italian tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.23388356578125002,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.3337518483698438
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tablespoons dried sweet basil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "dried sweet basil",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.007603799999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon dried oregano",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 teaspoon baking soda",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "baking soda",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.00275,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.033341
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Salt and pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 cups red lentils (rinsed and picked over)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.40220000204999995,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6475420033004999
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 cups water",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat olive oil in a large skillet."
+        },
+        {
+            "number": 2,
+            "instruction": "Add onion, celery, and carrot."
+        },
+        {
+            "number": 3,
+            "instruction": "Cook, stirring as needed, until softened, about 5-10 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add garlic, and cook, stirring frequently, for 30 seconds."
+        },
+        {
+            "number": 5,
+            "instruction": "Stir in tomato paste, and cook, stirring it in, for 1 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add tomato sauce, diced tomatoes with juice, basil, oregano, baking soda, and salt and pepper to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "Stir in lentils and water."
+        },
+        {
+            "number": 8,
+            "instruction": "Simmer, stirring regularly, until lentils have softened, about 20-30 minutes."
+        }
+    ]
+}

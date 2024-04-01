@@ -1,0 +1,328 @@
+{
+    "url": "https://cafedelites.com/best-lasagna/",
+    "title": "Best Lasagna",
+    "total_CO2": 84.54661969472807,
+    "servings": 12,
+    "CO2_per_portion": 7.0455516412273385,
+    "E.Mission coefficient": 18.231142191347097,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 teaspoon each dried oregano and basil",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 teaspoon each dried oregano and basil",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 tablespoons butter",
+            "amount": "4.0",
+            "unit": "tablespoons",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05466000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.15200946000000004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 carrot, finely diced",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "13 ounces (375 grams) fresh lasagna sheets*",
+            "amount": "13.0",
+            "unit": "ounces",
+            "ingredient_name": "lasagna",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.36854380062500003,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.661026909416875
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tablespoons finely chopped fresh parsley",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 cloves garlic cloves, minced",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic cloves",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 cups milk, (I use low fat)",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.9842070638400001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 2.7370798445390405
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "24 ounces (700 grams) ground beef mince",
+            "amount": "24.0",
+            "unit": "ounces",
+            "ingredient_name": "ground beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 40.53074622135
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tablespoon olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup fresh shredded parmesan",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "fresh shredded parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.08044000041000002,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.7085456087084003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "24 ounces (700 grams) Passata",
+            "amount": "24.0",
+            "unit": "ounces",
+            "ingredient_name": "Passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.9709144679849999
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "4 tablespoons flour, all purpose or plain",
+            "amount": "4.0",
+            "unit": "tablespoons",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0384,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0553344
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "10 ounces (300 grams) ground pork mince, or beef",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "ground pork mince",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.03220613698125
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "10 ounces (300 grams) ground pork mince, or beef",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 8.44390546278125
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Salt and pepper, season to your tastes",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "17 ounces (500 grams) fresh mozzarella cheese, shredded",
+            "amount": "17.0",
+            "unit": "ounces",
+            "ingredient_name": "fresh mozzarella cheese",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.481941893125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 10.236445809974999
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1/2 teaspoon sugar, (if desired)",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0024576000000000003
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "3 tablespoons tomato paste, (I use garlic and herbs flavoured)",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "14 ounces (410 grams) crushed tomatoes",
+            "amount": "14.0",
+            "unit": "ounces",
+            "ingredient_name": "crushed tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.39689332375,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.56636677299125
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "2 beef or vegetable bouillon cubes, crushed",
+            "amount": "1.0",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "2 beef or vegetable bouillon cubes, crushed",
+            "amount": "1.0",
+            "ingredient_name": "vegetable bouillon cubes",
+            "matched_ingredient": "Vegetable Suet",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oil in a large pot over medium heat, then add in the onion and carrots and cook for 8-10 minutes, or until softened."
+        },
+        {
+            "number": 2,
+            "instruction": "Add in the garlic and saut for about 1 minute, until fragrant."
+        },
+        {
+            "number": 3,
+            "instruction": "Add beef and pork (if using) and cook while breaking it up with the end of your spoon, until browned."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour in the Passata, crushed tomatoes, tomato paste, crushed bouillon and dried herbs."
+        },
+        {
+            "number": 5,
+            "instruction": "Mix well to combine and bring to a gentle simmer. Season with desired amount of salt and pepper (I use about 3/4 teaspoon each) and sugar if needed. Cover and cook for about 20-30 minutes, occasionally mixing, until the sauce has thickened slightly and meat is tender."
+        },
+        {
+            "number": 6,
+            "instruction": "Adjust salt, pepper and dried herbs to your taste."
+        },
+        {
+            "number": 7,
+            "instruction": "In a large pot, melt butter over medium heat."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove from hot plate; add the flour and whisk for about 30 seconds, or until well blended."
+        },
+        {
+            "number": 9,
+            "instruction": "Place pot back onto stove, reduce heat down to low and slowly whisk in 1 cup of the milk until well combined. Once well blended, add the remaining milk in 1 cup increments, mixing well after each addition, until all the milk is used and sauce is free from lumps."
+        },
+        {
+            "number": 10,
+            "instruction": "Increase heat to medium and continue cooking sauce while stirring occasionally until it thickens (about 6-7 minutes) and coats the back of your wooden spoon."
+        },
+        {
+            "number": 11,
+            "instruction": "Add in the parmesan cheese and remove from heat. Season with salt and pepper and mix until the cheese is melted through."
+        },
+        {
+            "number": 12,
+            "instruction": "Preheat oven to 350F | 180F."
+        },
+        {
+            "number": 13,
+            "instruction": "Spoon about 1 cup of meat sauce on the base of a 9x13-inch baking dish, then cover with lasagna sheets. (Trim sheets to fit over the meat if needed.)"
+        },
+        {
+            "number": 14,
+            "instruction": "Layer with 2 cups of meat sauce (or enough to cover pasta), 1 cup of white sauce and half of the mozzarella cheese. Repeat layers (leaving the remaining cheese for the top)."
+        },
+        {
+            "number": 15,
+            "instruction": "Pour the remaining meat sauce and white sauce over the last layer of lasagna sheets and top with the remaining mozzarella cheese."
+        },
+        {
+            "number": 16,
+            "instruction": "Bake for 25 minutes or until golden and bubbling."
+        },
+        {
+            "number": 17,
+            "instruction": "Garnish with parsley and let stand for about 10 minutes before slicing and serving.ENJOY!"
+        }
+    ]
+}

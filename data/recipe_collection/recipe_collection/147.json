@@ -1,0 +1,53 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/easy-pesto-pasta",
+    "title": "Pesto pasta",
+    "total_CO2": 1.79200475,
+    "servings": 6,
+    "CO2_per_portion": 0.29866745833333336,
+    "E.Mission coefficient": 3.1342452995190206,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 g pack spaghetti , fresh or dried",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.7205
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2-3 tbsp pesto from a jar, or see tip below to make your own",
+            "amount": "2.5",
+            "unit": "tbsp",
+            "ingredient_name": "pesto",
+            "matched_ingredient": "Pesto",
+            "kg_equivalent": 0.021750000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.009504750000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 g parmesan (or vegetarian alternative), shaved or grated",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Boil spaghetti in a large pan according to pack instructions."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain well, then return to the pan with the pesto and half the Parmesan. Toss well, then tip into a serving bowl and sprinkle with the remaining Parmesan."
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/vegetablecurry_80763",
+    "title": "Easy vegetable curry",
+    "total_CO2": 1.1298866,
+    "servings": 3,
+    "CO2_per_portion": 0.3766288666666667,
+    "E.Mission coefficient": 0.9047054207702777,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 medium potatoes (around 350g/12oz), peeled and cut into 2cm chunks",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.34,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1258
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large carrot, peeled and sliced diagonally",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 cauliflower (around 300g/10½oz), cut into small florets and halved",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.0065,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0028404999999999997
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 tbsp sunflower or vegetable oil",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower",
+            "matched_ingredient": "Sunflower seed",
+            "kg_equivalent": 0.007200000000000001,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0020016000000000005
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 tbsp sunflower or vegetable oil",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.08613
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large onion, coarsely grated or very finely chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp medium or hot curry powder",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "hot curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 x 227g tin chopped tomatoes",
+            "amount": "1.0",
+            "unit": "x 227g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "300 ml/10 fl oz vegetable or chicken stock (made with ½ cube), gluten-free if required",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.034125
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "300 ml/10 fl oz vegetable or chicken stock (made with ½ cube), gluten-free if required",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.045
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "100 g/31/2 oz frozen peas or two large handfuls young spinach leaves, or a mixture",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.044800000000000006
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "100 g/31/2 oz frozen peas or two large handfuls young spinach leaves, or a mixture",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "young spinach leaves",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.02185
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "plain yoghurt or vegan alternative, to serve",
+            "amount": "1.0",
+            "ingredient_name": "yoghurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.4727700000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "mango chutney, to serve",
+            "amount": "1.0",
+            "ingredient_name": "mango chutney",
+            "matched_ingredient": "Chutney",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.024576
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Half-fill a saucepan with cold water and add the potatoes and carrots. Bring to the boil and cook for 8 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the cauliflower florets and cook for 2 minutes more."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain in a colander and set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat the oil in a large, non-stick frying pan or wide-based saucepan."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the onion and cook over a medium heat for 8 minutes or until well softened and lightly browned, stirring regularly."
+        },
+        {
+            "number": 6,
+            "instruction": "Sprinkle over the curry powder and cook for 30 seconds more, stirring."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the tomatoes to the onions and cook for 2–3 minutes, stirring constantly."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the stock and bring to a gentle simmer."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the vegetables and peas or spinach and simmer gently for 5 minutes, stirring regularly. If the sauce thickens too much, add a splash of water."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve immediately with yoghurt and mango chutney."
+        }
+    ]
+}

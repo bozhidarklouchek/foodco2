@@ -1,0 +1,116 @@
+{
+    "url": "https://cooktoria.com/bulgarian-feta-pie-banitsa/",
+    "title": "Bulgarian Feta Pie \"Banitsa",
+    "total_CO2": 12.45100615680975,
+    "servings": 6,
+    "CO2_per_portion": 2.075167692801625,
+    "E.Mission coefficient": 10.12458168146425,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "20 sheets filo (phyllo) dough; thawed according to the package instructions",
+            "amount": "20.0",
+            "ingredient_name": "dough",
+            "matched_ingredient": "Dough",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "14 oz plain whole milk yogurt",
+            "amount": "14.0",
+            "unit": "oz",
+            "ingredient_name": "whole milk yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": 0.39689332375,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.1037603333487502
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "5 eggs",
+            "amount": "5.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.12675
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 cup vegetable oil (+ 1 tbsp. for greasing the pan)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.452829884661
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp baking soda",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "baking soda",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.011,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.133364
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 lb crumbled feta cheese",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "crumbled feta cheese",
+            "matched_ingredient": "Feta",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 9.6343019388
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Prepare the yogurt mixture by whisking the yogurt, eggs, vegetable oil, and baking soda together. Set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "Preheat the oven to 350º F. Grease a large, non-stick baking pan with vegetable oil."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove the filo dough from the plastic package and gently unroll."
+        },
+        {
+            "number": 4,
+            "instruction": "Spread about 1/4 cup of the yogurt-egg mixture onto the filo sheet."
+        },
+        {
+            "number": 5,
+            "instruction": "Sprinkle some (about 1/4 cup) feta cheese on top."
+        },
+        {
+            "number": 6,
+            "instruction": "From bottom to top, carefully roll the sheet of filo dough upwards with your fingers. The dough may have some tears, but that’s absolutely okay. Just keep rolling until you have something that resembles a sausage."
+        },
+        {
+            "number": 7,
+            "instruction": "Place the first roll onto the baking pan and repeat this step with the remaining filo sheets. If you don’t have a pan that fits the filo rolls perfectly, don’t worry. You can bend and turn these rolls to make them fit into the baking pan."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour the remaining yogurt-egg mixture on top."
+        },
+        {
+            "number": 9,
+            "instruction": "Bake for about 25 minutes, until the feta pie is golden brown."
+        },
+        {
+            "number": 10,
+            "instruction": "Let cool slightly before serving."
+        }
+    ]
+}

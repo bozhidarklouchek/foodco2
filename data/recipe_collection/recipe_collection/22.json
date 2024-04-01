@@ -1,0 +1,304 @@
+{
+    "url": "https://www.allrecipes.com/recipe/212721/indian-chicken-curry-murgh-kari/",
+    "title": "Indian Chicken Curry (Murgh Kari)",
+    "total_CO2": 5.9443903340317865,
+    "servings": 6,
+    "CO2_per_portion": 0.990731722338631,
+    "E.Mission coefficient": 5.317506214763399,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 pounds skinless, boneless chicken breast halves",
+            "amount": "2.0",
+            "unit": "pounds",
+            "ingredient_name": "chicken breast",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.90718474,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 5.52656943608
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 teaspoons salt",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0216,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2618784
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 cup cooking oil",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "cooking oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.10883058879000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.41660349388812007
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 1/2 cups chopped onion",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "chopped onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.07807411804499999,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.030839276627774997
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tablespoon minced garlic",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "minced garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 1/2 teaspoons minced fresh ginger root",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "minced fresh ginger root",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0027375
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon curry powder",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon ground cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 teaspoon ground turmeric",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon ground coriander",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 teaspoon cayenne pepper",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tablespoon water",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 (15 ounce) can crushed tomatoes",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "crushed tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 cup plain yogurt",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "plain yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": -0.22239294231,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": -0.6184747725641101
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tablespoon chopped fresh cilantro",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "chopped fresh cilantro",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 teaspoon salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/2 cup water",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 teaspoon garam masala",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 tablespoon chopped fresh cilantro",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "chopped fresh cilantro",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 tablespoon fresh lemon juice",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "fresh lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Gather all ingredients."
+        },
+        {
+            "number": 2,
+            "instruction": "Dotdash Meredith Food Studios"
+        },
+        {
+            "number": 3,
+            "instruction": "Sprinkle the chicken breasts with 2 teaspoons salt."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned on all sides."
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer browned chicken breasts to a plate and set aside."
+        },
+        {
+            "number": 6,
+            "instruction": "Dotdash Meredith Food Studios"
+        },
+        {
+            "number": 7,
+            "instruction": "Reduce the heat to medium and add onion, garlic, and ginger to the oil remaining in the skillet. Cook and stir until onion turns soft and translucent, 5 to 8 minutes. Stir curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring."
+        },
+        {
+            "number": 8,
+            "instruction": "Dotdash Meredith Food Studios"
+        },
+        {
+            "number": 9,
+            "instruction": "Dotdash Meredith Food Studios"
+        },
+        {
+            "number": 10,
+            "instruction": "Add tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt to the mixture; stir to combine."
+        },
+        {
+            "number": 11,
+            "instruction": "Dotdash Meredith Food Studios"
+        },
+        {
+            "number": 12,
+            "instruction": "Return chicken breast to the skillet along with any juices on the plate."
+        },
+        {
+            "number": 13,
+            "instruction": "Pour in 1/2 cup water and bring to a boil, turning the chicken to coat with the sauce."
+        },
+        {
+            "number": 14,
+            "instruction": "Sprinkle garam masala and 1 tablespoon cilantro over the chicken."
+        },
+        {
+            "number": 15,
+            "instruction": "Dotdash Meredith Food Studios"
+        },
+        {
+            "number": 16,
+            "instruction": "Cover the skillet and simmer until chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        },
+        {
+            "number": 17,
+            "instruction": "Drizzle with lemon juice to serve."
+        },
+        {
+            "number": 18,
+            "instruction": "DOTDASH MEREDITH FOOD STUDIOS"
+        }
+    ]
+}

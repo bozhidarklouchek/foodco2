@@ -1,0 +1,270 @@
+{
+    "url": "https://www.deliciousmagazine.co.uk/recipes/lancashire-and-mozzarella-cheese-sausages-with-gravy-and-mash/",
+    "title": "Vegetarian sausages with gravy and mash",
+    "total_CO2": 16.0220979,
+    "servings": 6,
+    "CO2_per_portion": 2.67034965,
+    "E.Mission coefficient": 4.545018126631113,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "400 g Lancashire cheese, grated",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "Lancashire cheese",
+            "matched_ingredient": "Lancashire",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 8.496
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "225 g mozzarella, drained and grated",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 4.779
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "200 g fresh white breadcrumbs",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "fresh white breadcrumbs",
+            "matched_ingredient": "White rice",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.7678
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "6 spring onions, trimmed and finely chopped",
+            "amount": "6.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.03555
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp each chopped fresh thyme, basil and parsley leaves",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 medium eggs, plus 3 medium egg yolks",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "egg yolks",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Oil, for deep-frying",
+            "amount": "1.0",
+            "ingredient_name": "Oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tbsp vegetable oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.17226
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 large onions, sliced",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp light soft brown sugar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0105,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.028056000000000005
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "25 g plain flour",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.036025
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "200 ml brown ale",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "brown ale",
+            "matched_ingredient": "Ale",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.2218
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "500-600ml fresh vegetable stock, hot",
+            "amount": "550.0",
+            "unit": "ml",
+            "ingredient_name": "fresh vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.55,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.011000000000000001
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 tsp gravy browning or Marmite",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "gravy browning",
+            "matched_ingredient": "Brown sauce",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002275
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "2 tsp gravy browning or Marmite",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Marmite",
+            "matched_ingredient": "Plant-based yogurt",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.02871
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 kg floury potatoes, such as Maris Piper, cut into large chunks",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "floury potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.37
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "150 g butter",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.41715
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "50 g wholegrain English mustard",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "wholegrain English mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.02185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Make the sausages. Put all the ingredients except the oil in a large bowl and season well. Using your hands, mix until well combined. Divide the mixture into 12 pieces and mould each into a sausage shape. Cover and chill for at least 2 hours or overnight."
+        },
+        {
+            "number": 2,
+            "instruction": "Make the gravy."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the vegetable oil in a large, heavy-based saucepan."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the onions, garlic and sugar and fry over a low heat for 25-30 minutes, stirring occasionally, until the onions are caramelised."
+        },
+        {
+            "number": 5,
+            "instruction": "Sprinkle with the flour and cook, stirring, for 1 minute. Gradually stir in the ale, stock and gravy browning or Marmite and bring to the boil. Reduce the heat and simmer, stirring occasionally, for 10 minutes or until thickened. Keep warm."
+        },
+        {
+            "number": 6,
+            "instruction": "Meanwhile, make the mash. Cook the potatoes in a pan of boiling salted water for 20 minutes or until tender."
+        },
+        {
+            "number": 7,
+            "instruction": "Drain, tip back into the pan and shake well. Season and mash until smooth, then beat in the butter, followed by the mustard. Keep warm."
+        },
+        {
+            "number": 8,
+            "instruction": "Half-fill a deep, heavy-based saucepan with oil and place over a medium-high heat until it reaches 180°C (to test if it is ready, use a sugar thermometer or drop in a cube of bread – it should turn brown in 40 seconds). Deep-fry the sausages in batches of 3-4 for 3 minutes or until richly golden."
+        },
+        {
+            "number": 9,
+            "instruction": "Remove and drain well on kitchen paper."
+        },
+        {
+            "number": 10,
+            "instruction": "Divide the mash and sausages between plates and pour over some beer gravy to serve."
+        }
+    ]
+}

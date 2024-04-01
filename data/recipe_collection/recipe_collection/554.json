@@ -1,0 +1,242 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/pork-recipes/sausage-gnocchi-with-warm-kale-bean-salad/",
+    "title": "Sausage gnocchi",
+    "total_CO2": 7.263466000000002,
+    "servings": 4,
+    "CO2_per_portion": 1.8158665000000005,
+    "E.Mission coefficient": 0.6177493525657111,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 spicy higher-welfare sausages (at least 80% meat)",
+            "amount": "4.0",
+            "ingredient_name": "welfare sausages",
+            "matched_ingredient": "Sausage",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 2.1846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 teaspoons fennel seeds",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "fennel seeds",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00395
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 sprigs of fresh rosemary",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "125 ml Chianti",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "Chianti",
+            "matched_ingredient": "Tannia",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.045625
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "200 g tenderstem broccoli",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "tenderstem broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0874
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "700 g passata",
+            "amount": "700.0",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g gnocchi",
+            "amount": "400.0",
+            "ingredient_name": "gnocchi",
+            "matched_ingredient": "Gnocchi",
+            "kg_equivalent": 10.4,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 3.848
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tablespoons fat-free natural yoghurt",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "fat-free natural yoghurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": -0.0282,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": -0.0784242
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 rashers of higher-welfare smoked streaky bacon",
+            "amount": "2.0",
+            "ingredient_name": "smoked streaky bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.032,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.233024
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "40 g blanched hazelnuts",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "blanched hazelnuts",
+            "matched_ingredient": "Hazelnut",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.011120000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 teaspoon maple syrup or runny honey",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.0033000000000000004,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.0032010000000000003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 teaspoon maple syrup or runny honey",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "runny honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.00345,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.0033464999999999996
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "200 g fine green beans",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "fine green beans",
+            "matched_ingredient": "Bean",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32200000000000006
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "300 g mixed greens, such as curly kale, Swiss chard, cavolo nero, spring greens, Brussels tops",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "mixed greens",
+            "matched_ingredient": "Mixed peel",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0951
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "11/2 tablespoons extra virgin olive oil",
+            "amount": "5.5",
+            "unit": "tablespoons",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.07590000000000001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.2905452
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "11/2 tablespoons sherry vinegar",
+            "amount": "5.5",
+            "unit": "tablespoons",
+            "ingredient_name": "sherry vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0825,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.1307625
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Ingredients out • Kettle boiled • Large casserole pan, high heat • Small frying pan, high heat • Large lidded pan, high heat • Food processor (thick slicer)"
+        },
+        {
+            "number": 3,
+            "instruction": "START COOKING"
+        },
+        {
+            "number": 4,
+            "instruction": "Squeeze the sausage meat out of the skins into the casserole pan with the fennel seeds and rosemary leaves (discard the sausage skins). Break the meat apart, stirring regularly."
+        },
+        {
+            "number": 5,
+            "instruction": "Finely slice the bacon, put into the small frying pan with 1 teaspoon of olive oil and the hazelnuts and cook until golden, then add the maple syrup or honey and remove from the heat."
+        },
+        {
+            "number": 6,
+            "instruction": "Line the beans up and cut off the stalks, then put them into the large pan, cover with boiling salted water and the lid. Cook for 4 minutes, then add the greens, tearing up any larger leaves."
+        },
+        {
+            "number": 7,
+            "instruction": "Pour the wine into the sausage pan and let it bubble away while you check on the beans and greens. If done, use a slotted spoon to transfer them to a colander to drain, leaving the pan of water on the heat."
+        },
+        {
+            "number": 8,
+            "instruction": "Tear the broccoli tips into the sausage pan, then slice and add the stalks, along with the passata."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the gnocchi to the pan of water the greens were cooked in and pop the lid on."
+        },
+        {
+            "number": 10,
+            "instruction": "Mix the extra virgin olive oil, vinegar and a pinch of sea salt and black pepper in a serving bowl, tip in the drained greens and toss to coat, then scatter over the crispy nuts and bacon."
+        },
+        {
+            "number": 11,
+            "instruction": "When the gnocchi have been floating for a couple of minutes, drain them and toss with the sauce. Season to taste and serve in the pan, or on a nice platter, drizzled with yoghurt."
+        },
+        {
+            "number": 12,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

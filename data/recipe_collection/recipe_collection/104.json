@@ -1,0 +1,243 @@
+{
+    "url": "https://www.feastingathome.com/nasi-goreng-indonesian-fried-rice/",
+    "title": "Nasi Goreng (Indonesian Fried Rice)",
+    "total_CO2": 5.310135242435423,
+    "servings": 3,
+    "CO2_per_portion": 1.7700450808118076,
+    "E.Mission coefficient": 2.4185084009519606,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8-12 ounces crispy tofu, pan-seared chicken or shrimp- all optional",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "crispy tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.40695740445937506
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "8-12 ounces crispy tofu, pan-seared chicken or shrimp- all optional",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "shrimp",
+            "matched_ingredient": "Shrimp",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 1.6802762356187502
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons oil, divided",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 shallots (or 1/2 an onion), chopped",
+            "amount": "2.0",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 garlic cloves, rough chopped",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 cup diced carrot (small dice!)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "diced carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12775764771,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.04663154141415
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 cup red bell pepper, chopped",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.120660000615,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.054900300279825
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 cups sliced mushrooms",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "sliced mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.7570823568000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.3444724723440001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 cup fresh shucked peas, snow peas, snap peas or green beans",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "fresh shucked peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.08517176514,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.07631390156543999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 cup fresh shucked peas, snow peas, snap peas or green beans",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "green beans",
+            "matched_ingredient": "Green bean",
+            "kg_equivalent": 0.0887205886875,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.142840147786875
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 eggs, whisked with a generous pinch salt  (optional)",
+            "amount": "2.0",
+            "unit": "pinch",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 cups cooked basmati rice, (leftover, dried out, is best -see notes)",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "cooked basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.45424941408,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.74386350065312
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 tablespoons soy sauce, more to taste (see notes) Or GF Liquid Aminos",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.04113
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 1/2 tablespoons maple syrup, honey or palm sugar",
+            "amount": "0.75",
+            "unit": "tablespoons",
+            "ingredient_name": "maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.014850000000000002,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.014404500000000002
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 1/2 tablespoons maple syrup, honey or palm sugar",
+            "amount": "0.75",
+            "unit": "tablespoons",
+            "ingredient_name": "palm sugar",
+            "matched_ingredient": "Palm sugar",
+            "kg_equivalent": 0.007200000000000001,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.019238400000000003
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "drizzle of sesame oil",
+            "amount": "1.0",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.050498
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/4-1/2 cup chopped scallions",
+            "amount": "0.375",
+            "unit": "cup",
+            "ingredient_name": "chopped scallions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.039037059022499994,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.015419638313887499
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "optional seasonings: Terasi shrimp power and Kecap Manis (see notes).",
+            "amount": "1.0",
+            "ingredient_name": "Terasi shrimp power",
+            "matched_ingredient": "Shrimp",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 0.059269999999999996
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In an extra-large skillet or wok, pan-sear your choice of protein in oil with a little salt, pepper and chili flakes until golden and cooked through, set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "In the same skillet, add 1-2 tablespoons oil and saute shallots, garlic, mushrooms, bell pepper and carrots over medium heat until the carrots are tender about 7-8 minutes. Season with salt. Toss in the fresh peas at the end."
+        },
+        {
+            "number": 3,
+            "instruction": "At the same time, while veggies are cooking, whisk,  salt and scramble the eggs in a separate oiled pan, breaking the cooked apart into little pieces, set aside. (Or feel free to top with sunny side eggs after serving.)"
+        },
+        {
+            "number": 4,
+            "instruction": "Once the veggies are tender, scoot them over to one side of the pan."
+        },
+        {
+            "number": 5,
+            "instruction": "Add a little more oil to the bare pan and add the rice. Turn the heat up and fry for 3-4 minutes, getting it a little crispy."
+        },
+        {
+            "number": 6,
+            "instruction": "Combine rice with the veggies."
+        },
+        {
+            "number": 7,
+            "instruction": "Drizzle with the soy sauce and maple syrup and mix well."
+        },
+        {
+            "number": 8,
+            "instruction": "Mix in the scrambled eggs and meat/shrimp/tofu if using.  Taste and season with a drizzle of sesame oil, chili flakes, salt and pepper if needed. Stir in the scallions right before serving."
+        },
+        {
+            "number": 9,
+            "instruction": "Divide among bowls and serve with some of the optional garnishes,  lime &amp; chile paste."
+        }
+    ]
+}

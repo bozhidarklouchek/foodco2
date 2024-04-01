@@ -1,0 +1,271 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/moussaka",
+    "title": "Moussaka",
+    "total_CO2": 24.454278199999994,
+    "servings": 8,
+    "CO2_per_portion": 3.0567847749999992,
+    "E.Mission coefficient": 5.602418859322557,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "6 tbsp olive oil",
+            "amount": "6.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.08235,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.48948840000000005
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 medium aubergines, cut into 5mm rounds",
+            "amount": "3.0",
+            "unit": "medium",
+            "ingredient_name": "aubergines",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.6825
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "800 g lamb mince",
+            "amount": "800.0",
+            "unit": "g",
+            "ingredient_name": "lamb mince",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 19.532
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 fat garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "fat garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 heaped tsp dried oregano",
+            "amount": "3.0",
+            "unit": "heaped",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp ground cinnamon",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 ml red wine",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.317
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 tbsp light brown soft sugar",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "soft sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0048,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0073728
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "550 g Maris Piper potatoes, peeled and sliced into 5 mm rounds",
+            "amount": "550.0",
+            "unit": "g",
+            "ingredient_name": "Maris Piper potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.55,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.20350000000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "40 g unsalted butter",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.11124
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "40 g plain flour",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.057640000000000004
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "450 ml whole milk",
+            "amount": "450.0",
+            "unit": "ml",
+            "ingredient_name": "whole milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.468,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.301508
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "40 g parmesan, finely grated",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8495999999999999
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "whole nutmeg, for grating",
+            "amount": "1.0",
+            "ingredient_name": "whole nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 large egg plus 1 yolk, lightly beaten",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat a frying pan over a high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Drizzle 4 tbsp of the oil over the slices of aubergine and fry them in several batches for 5-7 mins or until golden brown and beginning to soften. If they look a little dry during cooking, add a dash more olive oil. Set aside on a plate lined with kitchen paper."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat 1 tbsp of the oil in a large flameproof casserole dish or saucepan over a medium-high heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the mince and fry for 8-10 mins until a deep golden brown, regularly stirring and breaking up with a wooden spoon. Tip into a bowl and set aside."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the remaining oil to the casserole. Tip in the onion along with a pinch of salt and fry gently for 10-12 mins or until softened and turning translucent."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the garlic, oregano, cinnamon, chilli and bay cooking for a further min. Return the lamb to the pan and pour in the red wine, bring to a bubble and reduce the wine by half. Stir through the tomatoes, tomato purée and brown sugar, along with 200ml water. Season. Lower the heat and simmer gently, uncovered, for 20 mins, stirring occasionally until the sauce has thickened."
+        },
+        {
+            "number": 7,
+            "instruction": "Heat oven to 200C/180 fan/gas"
+        },
+        {
+            "number": 8,
+            "instruction": "Bring a large pan of lightly salted water to the boil."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the potato slices and cook for 6 mins, drain in a colander and leave to steam dry for 10 mins."
+        },
+        {
+            "number": 10,
+            "instruction": "Melt the butter in a small saucepan, stir in the flour and cook over a medium heat for 1 min."
+        },
+        {
+            "number": 11,
+            "instruction": "Remove from the heat and whisk in the milk, pouring in a bit at a time, until smooth. Return to the heat and bring to a simmer, cooking for 3 mins."
+        },
+        {
+            "number": 12,
+            "instruction": "Remove from the heat and whisk through the parmesan, a little grated nutmeg and some seasoning, and finally the whole egg as well as the yolk."
+        },
+        {
+            "number": 13,
+            "instruction": "Take a large rectangular ovenproof dish. Spoon a third of the meat into the dish and spread out evenly, followed by half the aubergine and half the potato, then the rest of the meat and another layer of aubergines, followed by potatoes. Finish with the béchamel, smoothing the top over with a palette knife. Put in the centre of the oven and cook for 50 mins or until deep golden brown. If it browns too much during cooking, cover the dish. Set aside for 10 mins to cool before serving."
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "url": "https://pickledplum.com/healthy-blended-vegetable-soup-recipe/",
+    "title": "Blended Vegetable Soup",
+    "total_CO2": 0.90645721423375,
+    "servings": 6,
+    "CO2_per_portion": 0.15107620237229166,
+    "E.Mission coefficient": 0.4735319861069757,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "6 carrots (peeled and roughly chopped)",
+            "amount": "6.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.1314
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 celery stalks (roughly chopped)",
+            "amount": "3.0",
+            "ingredient_name": "celery stalks",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 garlic cloves (finely chopped)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tbsp ginger (finely chopped)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp extra virgin olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large potato (peeled and roughly chopped)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "potato",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 large red onion (peeled and roughly chopped)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "8-10 cups of vegetable broth",
+            "amount": "9.0",
+            "unit": "cups",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 1.0646470642499999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.48441441423375
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large pot over high heat, add extra-virgin oil, garlic, ginger and red onions. Cook for 5 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Add carrots, celery and potatoes and cook for 5 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add enough broth to cover the vegetable by about half a thumb size."
+        },
+        {
+            "number": 4,
+            "instruction": "Add bay leaves, bring to boil and cook for 40 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Using an immersion, blend about half of the vegetables. If you are using a regular blender, roughly blend the soup so there are small chunks left."
+        }
+    ]
+}

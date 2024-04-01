@@ -1,0 +1,271 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/venison_cobbler_98688",
+    "title": "Venison cobbler",
+    "total_CO2": 27.455822899999998,
+    "servings": 6,
+    "CO2_per_portion": 4.575970483333333,
+    "E.Mission coefficient": 9.269665721327527,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp sunflower oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0288,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.1038816
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 large onions, sliced",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 celery sticks, trimmed and sliced",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 medium carrot, peeled and cut into rough 15mm/⅝in cubes",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp plain flour",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0276672
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp English mustard powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "English mustard powder",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "500 ml/18 fl oz real ale or stout",
+            "amount": "250.0",
+            "unit": "ml",
+            "ingredient_name": "real ale",
+            "matched_ingredient": "Ale",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.27725
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 ml/18 fl oz real ale or stout",
+            "amount": "250.0",
+            "unit": "ml",
+            "ingredient_name": "stout",
+            "matched_ingredient": "Stout",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.27725
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 kg/2 lb 4 oz venison (ideally shoulder or leg), cut into 3 cm/1 in chunks",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "venison",
+            "matched_ingredient": "Venison",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 24.415
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 heaped tbsp redcurrant jelly",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "redcurrant jelly",
+            "matched_ingredient": "Redcurrant jelly",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.03642
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp fresh thyme leaves, roughly chopped",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1-2 tbsp fresh lemon juice",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "fresh lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0071325
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "flaked sea salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "500 g/1 lb 2 oz self-raising flour, plus extra for dusting",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "raising flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.7205
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 tsp fine sea salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "fine sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "100 g/31/2 oz cold butter, cut into cubes",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "cold butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.2781
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "300 ml/101/2 oz whole milk, plus extra for glazing",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "whole milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.312,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.867672
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "beaten egg, to glaze (optional)",
+            "amount": "1.0",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 180C/350F/Gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the oil in a medium, flameproof casserole dish (or a large heavy-based saucepan) and fry the onions, celery and carrot gently for 10 minutes, or until the onion is softened and lightly coloured, stirring occasionally."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the flour and mustard and cook for a few seconds before slowly stirring in the ale and 250ml/9fl oz of water."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the venison, redcurrant jelly, thyme leaves and bay leaves and stir. Season with a little salt and lots of coarsely ground black pepper. Bring to a gentle simmer, stirring occasionally, then cover with a lid."
+        },
+        {
+            "number": 5,
+            "instruction": "Carefully transfer the dish to the oven and cook for 1¾–2 hours, or until the venison is very tender and the sauce is thick."
+        },
+        {
+            "number": 6,
+            "instruction": "Season to taste with salt and pepper, adding a little lemon juice to lift the richness. (At this point you can cool the venison mixture and leave it in the fridge to finish off later, or the next day if you like.) When you’re ready to cook your cobbler, spoon the venison mixture into an ovenproof pie dish."
+        },
+        {
+            "number": 7,
+            "instruction": "For the cobbler topping, preheat the oven to 200C/400F/Gas"
+        },
+        {
+            "number": 8,
+            "instruction": "Put the flour and salt in a large bowl and rub in the butter with your fingertips until the mixture resembles breadcrumbs."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the milk, stirring constantly, until the mixture comes together and forms a soft, spongy dough."
+        },
+        {
+            "number": 10,
+            "instruction": "Turn the dough out onto a floured work surface and roll out until it is about 2cm/¾in thick."
+        },
+        {
+            "number": 11,
+            "instruction": "Cut out 6cm/2½in rounds with a pastry cutter, kneading and re-rolling any leftover dough as necessary."
+        },
+        {
+            "number": 12,
+            "instruction": "Place the ‘cobbles’ over the surface of the pie so they nearly cover the filling and brush them with milk or beaten egg."
+        },
+        {
+            "number": 13,
+            "instruction": "Bake for 30 minutes, or until the topping is golden-brown and the filling is hot."
+        }
+    ]
+}

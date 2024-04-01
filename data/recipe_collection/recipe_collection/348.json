@@ -1,0 +1,164 @@
+{
+    "url": "https://www.makingthymeforhealth.com/easy-mushroom-ramen/",
+    "title": "Easy Mushroom Ramen",
+    "total_CO2": 1.214183310843875,
+    "servings": 4,
+    "CO2_per_portion": 0.3035458277109688,
+    "E.Mission coefficient": 0.8258055688833734,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1-2 heads bok choy, chopped (3 cups)",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "choy",
+            "matched_ingredient": "Pak choi",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.15508358902575
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "8 ounces fresh shiitake mushrooms, sliced",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "fresh shiitake mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.103192264175
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 garlic cloves, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "finely chopped green onions + sesame seeds for serving",
+            "amount": "1.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tablespoons miso (use chickpea miso for a soy-free option)",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "miso",
+            "matched_ingredient": "Miso",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.08613
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 ounce dried mushrooms (I prefer porcini)",
+            "amount": "1.0",
+            "unit": "ounce",
+            "ingredient_name": "dried mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.028349523125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.012899033021875
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 ounce dried mushrooms (I prefer porcini)",
+            "amount": "1.0",
+            "unit": "ounce",
+            "ingredient_name": "dried mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.028349523125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.012899033021875
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "5 ounces ramen noodles (preferably whole grain)",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "ramen noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.544169096384375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 shallot (or 1/2 small onion), finely chopped",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "shallot",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tablespoons tamari (or coconut aminos for soy-free)",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tamari",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "4 cups vegetable broth + 1 cup water",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.215295295215
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a measuring cup, combine 1 cup hot water with 1 ounce dried mushrooms. Stir together then set aside to steep while you prepare the remaining ingredients.In a large pot, warm 1 tablespoon oil over medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion and cook for 2 minutes. Then add the garlic and mushrooms and continue to cook for another 5 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the bok choy to the pot and cook for 3 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour in the vegetable broth and bring to a boil.Strain out the rehydrated dried mushrooms while reserving the remaining liquid. Pick out any hard pieces of rehydrated mushrooms then chop whatever is left and add it to the pot."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the miso to the mushroom liquid and whisk until evenly combined."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour into the pot with the broth along with the tamari the bring to a low boil and reduce heat to a simmer.Bring a separate small pot of salted water to a boil over medium high heat."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the ramen noodles and cook as directed. Strain and set aside.Ladle broth into separate bowls for serving then add ramen noodles."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve warm with green onion and sesame seeds, and enjoy!"
+        }
+    ]
+}

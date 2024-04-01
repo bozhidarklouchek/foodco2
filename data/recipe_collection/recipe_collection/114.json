@@ -1,0 +1,137 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/saucy-miso-mushrooms-udon-noodles",
+    "title": "Saucy miso mushrooms with udon noodles",
+    "total_CO2": 0.36449331500000004,
+    "servings": 4,
+    "CO2_per_portion": 0.09112332875000001,
+    "E.Mission coefficient": 1.140306637050478,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tbsp miso paste or miso glaze",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "miso paste",
+            "matched_ingredient": "Miso",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0645975
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tbsp miso paste or miso glaze",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "miso glaze",
+            "matched_ingredient": "Miso",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0645975
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tbsp mirin",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "mirin",
+            "matched_ingredient": "Mirin",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.071325
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 tbsp soy sauce",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.04113
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp sesame oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.013845000000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.04993891500000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 large or 8 small Portobello mushrooms",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "Portobello mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 x 150g packs straight-to-wok udon noodles",
+            "amount": "3.0",
+            "unit": "x 150g",
+            "ingredient_name": "udon noodles",
+            "matched_ingredient": "Wheat noodle",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp sesame seeds, toasted",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0048,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0013344
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 spring onions, finely sliced on an angle",
+            "amount": "4.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0237
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "In a bowl, whisk the miso paste, mirin, soy sauce, garlic and half the sesame oil until smooth and combined. Line a baking tray with a large sheet of foil, place the mushrooms in the middle and scrunch up the sides to almost encase the mushrooms."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour over the miso mix, turning the mushrooms to ensure they are well coated. Scrunch the packet of foil closed and bake for 30 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "About 5 mins before the mushrooms are ready, heat the remaining oil in a wok, stir-fry the noodles until hot through then divide between 4 bowls. Top each bowl with 1 or 2 mushrooms and pour over the sauce from the foil. Scatter with sesame seeds and spring onions."
+        }
+    ]
+}

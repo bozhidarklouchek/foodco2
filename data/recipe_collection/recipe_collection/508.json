@@ -1,0 +1,157 @@
+{
+    "url": "https://www.hellofresh.co.uk/recipes/mexican-chicken-stew-5dde8e1a840bd34a9375fb62",
+    "title": "Mexican Chicken Stew with Cheddar Cheese and Ciabatta",
+    "total_CO2": 263.573405,
+    "servings": 2,
+    "CO2_per_portion": 131.7867025,
+    "E.Mission coefficient": 3.41622097506918,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 Chicken Stock Powder",
+            "amount": "1.0",
+            "ingredient_name": "Chicken Stock Powder",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Echalion Shallot",
+            "amount": "1.0",
+            "ingredient_name": "Echalion",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "150 Sweetcorn",
+            "amount": "150.0",
+            "ingredient_name": "Sweetcorn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 Mexican Style Spice Mix",
+            "amount": "1.0",
+            "ingredient_name": "Mexican",
+            "matched_ingredient": "Tannia",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 Ciabatta",
+            "amount": "1.0",
+            "ingredient_name": "Ciabatta",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "260 Diced Chicken Thigh",
+            "amount": "260.0",
+            "ingredient_name": "Diced Chicken Thigh",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 40.3,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 245.50759999999997
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 Tomato Passata",
+            "amount": "1.0",
+            "ingredient_name": "Tomato Passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Garlic Clove",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "Garlic Clove",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "30 Mature Cheddar Cheese",
+            "amount": "30.0",
+            "ingredient_name": "Mature Cheddar Cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.8505,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 18.064619999999998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 Black Beans",
+            "amount": "1.0",
+            "ingredient_name": "Black Beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "125 Baby Spinach",
+            "amount": "125.0",
+            "ingredient_name": "Baby Spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "200 Water",
+            "amount": "200.0",
+            "ingredient_name": "Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 36.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "a) Preheat your oven to 200°C. b)"
+        },
+        {
+            "number": 2,
+            "instruction": "Heat a glug of oil in a large frying pan on medium-high heat .Once the oil is hot, add the chicken and a pinch of salt and pepper. Fry, turning frequently until the chicken is browned on the outside, 3-5 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "a) While the chicken is cooking, halve, peel and thinly slice the shallot. b) Peel and grate the garlic (or use a garlic press) c)"
+        },
+        {
+            "number": 4,
+            "instruction": "Drain and rinse the black beans in a colander, put half of them in a bowl and roughly mash."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the remaining whole beans to the bowl and combine. d)"
+        },
+        {
+            "number": 6,
+            "instruction": "Drain and rinse the sweetcorn in a sieve."
+        }
+    ]
+}

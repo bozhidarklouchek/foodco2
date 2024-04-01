@@ -1,0 +1,183 @@
+{
+    "url": "https://honest-food.net/pheasant-with-apples-recipe/",
+    "title": "Pheasant Normandy",
+    "total_CO2": 1.26544420900302,
+    "servings": 4,
+    "CO2_per_portion": 0.316361052250755,
+    "E.Mission coefficient": 0.8903203119507682,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 tablespoons unsalted butter",
+            "amount": "4.0",
+            "unit": "tablespoons",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05466000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.15200946000000004
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 cooking apples, (cored and sliced into wedges)",
+            "amount": "2.0",
+            "ingredient_name": "cooking apples",
+            "matched_ingredient": "Apple",
+            "kg_equivalent": 0.59,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.21062999999999998
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Flour for dredging",
+            "amount": "1.0",
+            "ingredient_name": "Flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4-6 pheasant legs (with thighs)",
+            "amount": "4.0",
+            "ingredient_name": "pheasant legs",
+            "matched_ingredient": "Pheasant",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large onion, (sliced root to top)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 cup Calvados or other apple brandy",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "Calvados",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.034305294292499997,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.41591738800226996
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 cup Calvados or other apple brandy",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "apple brandy",
+            "matched_ingredient": "Brandy",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.093748088713125
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 cups apple cider",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "apple cider",
+            "matched_ingredient": "Cider",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.16892400086099998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon dried thyme",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 cup heavy whipping cream",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "heavy whipping cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.164487971426625
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Salt the pheasant legs and let sit at room temperature for 30 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat 2 tablespoons of the butter in a Dutch oven or another large, oven-proof pan over medium heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the apple slices and sauté until they turn a little brown around the edges, turning occasionally."
+        },
+        {
+            "number": 4,
+            "instruction": "Sprinkle the apple slices with a little salt. Set aside on paper towels."
+        },
+        {
+            "number": 5,
+            "instruction": "Dust the pheasant in flour and add the remaining 2 tablespoons of butter to the pan. Brown the pheasant for 3 to 5 minutes per side."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove from pan and set aside."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the onion and increase the heat to medium-high. Sauté, stirring occasionally, until they just begin to brown, about 5 to 8 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Take the pan off the heat and pour in the brandy."
+        },
+        {
+            "number": 9,
+            "instruction": "Put the pan back on the heat and, using a wooden spoon, scrape any browned bits off the bottom of the pan."
+        },
+        {
+            "number": 10,
+            "instruction": "Let the brandy boil until it has reduced by about half."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the cider and bring it to a boil."
+        },
+        {
+            "number": 12,
+            "instruction": "Add the thyme."
+        },
+        {
+            "number": 13,
+            "instruction": "Lay the pheasant legs in the pan, cover and simmer gently until tender, anywhere from 90 minutes to 2 1/2 hours."
+        },
+        {
+            "number": 14,
+            "instruction": "Fish out the pheasant legs and strip the meat off the bones if you want to. Turn the heat to high, add the apples and boil down the sauce by half. When the sauce gets a little syrupy, turn off the heat and add the cream."
+        },
+        {
+            "number": 15,
+            "instruction": "Add salt to taste."
+        },
+        {
+            "number": 16,
+            "instruction": "Serve by spooning some apples and onions on everyone's plate and topping it with the pheasant."
+        }
+    ]
+}

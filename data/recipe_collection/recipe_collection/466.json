@@ -1,0 +1,224 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/puy_lentil_bolognaise_40407",
+    "title": "Vegetarian bolognese",
+    "total_CO2": 2.4652922000000004,
+    "servings": 8,
+    "CO2_per_portion": 0.30816152500000005,
+    "E.Mission coefficient": 0.3484536569163034,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tsp olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 large onions, chopped",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 carrots, chopped",
+            "amount": "3.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0657
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 stems celery, chopped",
+            "amount": "2.0",
+            "unit": "stems",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0364
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tsp fresh thyme leaves, or 1 tsp dried thyme",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tsp fresh thyme leaves, or 1 tsp dried thyme",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "500 g/1 lb 2 oz Puy lentils, rinsed and drained",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "Puy lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.805
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 x 400g tin tomatoes",
+            "amount": "1.0",
+            "unit": "x 400g",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "11/2 litres/2½ pints vegetable stock",
+            "amount": "5.5",
+            "unit": "litres",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 5.5,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.11
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp balsamic vinegar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "300 g/101/2 oz dried pasta",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "dried pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.4323
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "vegetarian cheese, to serve",
+            "amount": "1.0",
+            "ingredient_name": "vegetarian cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "green salad, to serve",
+            "amount": "1.0",
+            "ingredient_name": "green salad",
+            "matched_ingredient": "Salad",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "sea salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat a large sauté pan or casserole dish until medium hot."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the olive oil, onions, carrots and celery and cook over a medium heat for 5 minutes. You want them to soften but not colour – you can put a lid onto the pan to help keep the moisture in and steam the vegetables at the same time."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the thyme and garlic and cook for another minute then add the tomato purée and turn the heat up. Stir well so that the tomato purée goes all through the vegetables then add the Puy lentils and mix once more."
+        },
+        {
+            "number": 4,
+            "instruction": "Tip in the tinned tomatoes and the vegetable stock, stir well and bring to the boil. Turn the heat down to a gentle simmer and cook for 20-25 minutes until the lentils are tender and the sauce reduced slightly."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the balsamic vinegar and season with salt and pepper."
+        },
+        {
+            "number": 6,
+            "instruction": "When the sauce has only 15 minutes left to cook, bring a large saucepan of salted water to the boil."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the pasta and cook to al dente according to packet instructions, then drain, reserving some of the cooking water."
+        },
+        {
+            "number": 8,
+            "instruction": "You have enough sauce to serve 8 people. To serve 4, set aside half the sauce at this point. (See the \"tips\" section for ideas.)"
+        },
+        {
+            "number": 9,
+            "instruction": "Tip the drained pasta into the sauté pan with the sauce and mix well, adding the reserved pasta water if necessary to coat all the pasta in sauce."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve straightaway with a green salad and a grating of cheese."
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "url": "https://www.foodiecrush.com/gnocchi-with-pomodoro-sauce/",
+    "title": "Gnocchi With Pomodoro Sauce",
+    "total_CO2": 7.31745680760676,
+    "servings": 4,
+    "CO2_per_portion": 1.82936420190169,
+    "E.Mission coefficient": 4.992415482308854,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/4 cup DeLallo extra virgin olive oil (, plus 1 tablespoon)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "DeLallo extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.05441529439500001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.20830174694406003
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 stems fresh Italian flat leaf parsley",
+            "amount": "4.0",
+            "unit": "stems",
+            "ingredient_name": "fresh Italian flat leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.004,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001748
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 stems fresh oregano",
+            "amount": "4.0",
+            "unit": "stems",
+            "ingredient_name": "fresh oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 stems fresh rosemary",
+            "amount": "2.0",
+            "unit": "stems",
+            "ingredient_name": "fresh rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 stems fresh basil (,plus 2 more stems for serving)",
+            "amount": "2.0",
+            "unit": "stems",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002622
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 yellow onion (, diced)",
+            "amount": "0.5",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 cloves garlic (, pressed or minced)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 28 ounce can DeLallo San Marzano tomatoes",
+            "amount": "29.0",
+            "unit": "ounce",
+            "ingredient_name": "DeLallo San Marzano tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.822136170625,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 1.173188315481875
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Kosher salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Pinch of red pepper flakes",
+            "amount": "0.0",
+            "unit": "pinch",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 cup heavy cream (, optional)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "heavy cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.164487971426625
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 16- ounce package DeLallo potato gnocchi",
+            "amount": "1.0",
+            "ingredient_name": "DeLallo potato gnocchi",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "8 ounces cherry size mozzarella balls (, cut in half)",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "mozzarella balls",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 4.8171509694
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 cup freshly grated Parmesan cheese",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "freshly grated Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.04022000020500001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8542728043542002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add 1/4 cup olive oil to a 10-inch high sided sauté pan or a saucepan over medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the parsley, oregano, rosemary and 2 stems of basil and cook for about 5 minutes or until the herbs become crisp."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove the herbs and discard then add the onion and garlic to the oil, lowering the heat if needed so the onions cook gently and don&#x27;t brown. Cook until the onions are transparent, about 5-7 minutes, then crush the tomatoes with your hand and add to the pan with juice."
+        },
+        {
+            "number": 4,
+            "instruction": "Season with kosher salt, freshly ground black pepper and red pepper flakes and simmer for 30-40 minutes or until the sauce reduces and thicken, stirring occasionally. Stir in the heavy cream and remove from the heat."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, bring a saucepan of water to a boil and add the gnocchi. Season generously with kosher salt and cook until the gnocchi float to the top of the boiling water."
+        },
+        {
+            "number": 6,
+            "instruction": "Drain and then place the gnocchi into the cooked sauce. Top with the halved mozzarella balls and sprinkle with Parmesan cheese then drizzle the tops of the gnocchi with the remaining olive oil."
+        },
+        {
+            "number": 7,
+            "instruction": "Broil for 5-8 minutes or until the cheese melts and the tops become crispy."
+        },
+        {
+            "number": 8,
+            "instruction": "Garnish with additional basil leaves and serve immediately."
+        }
+    ]
+}

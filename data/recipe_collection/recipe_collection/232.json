@@ -1,0 +1,169 @@
+{
+    "url": "https://www.cauldronfoods.co.uk/recipes/sausage-lentil-casserole",
+    "title": "Sausage Lentil Casserole",
+    "total_CO2": 1.5750600000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.7875300000000001,
+    "E.Mission coefficient": 1.1589845474613687,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 packet of Cauldron Lincolnshire Sausages",
+            "amount": "1.0",
+            "ingredient_name": "Cauldron Lincolnshire Sausages",
+            "matched_ingredient": "Sausage",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.54615
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, roughly chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 large garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "large garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 carrot, peeled and chopped into small pieces",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 g tin of chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp red wine",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "150 g red split lentils",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "red split lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.2415
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 sprigs fresh rosemary",
+            "amount": "4.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp chopped flat leaf parsley",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped flat leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "425 ml / 3/4 pint vegetable stock made with one vegetable stock cube",
+            "amount": "425.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.425,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0085
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large pan, cook the sausages, until golden brown."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove the sausages from the pan, slice into chunky bite-sized pieces and place to one side."
+        },
+        {
+            "number": 3,
+            "instruction": "Cook the onion and garlic for 3-4 minutes or until softened."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the carrots and cook for a further 3-4 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Return the sausages to the pan, add the tomatoes, red wine, lentils, rosemary and stock, season with salt and pepper."
+        },
+        {
+            "number": 6,
+            "instruction": "Bring the pan to the boil and simmer rapidly for 5 minutes. Reduce the heat; cover and simmer for 45 minutes, or until the lentils are cooked, stirring frequently."
+        },
+        {
+            "number": 7,
+            "instruction": "Season to taste, garnish with the parsley and serve with crusty bread."
+        }
+    ]
+}

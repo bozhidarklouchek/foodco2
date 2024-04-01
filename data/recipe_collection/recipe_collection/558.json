@@ -1,0 +1,208 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/slow-cooker-chicken-tikka-masala",
+    "title": "Slow cooker chicken tikka masala",
+    "total_CO2": 10.722712000000001,
+    "servings": 4,
+    "CO2_per_portion": 2.6806780000000003,
+    "E.Mission coefficient": 4.438943533697633,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8-12 boneless, skinless chicken thighs, each cut into 3 chunks",
+            "amount": "10.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.55,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 9.4426
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp veg or rapeseed oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "veg",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.10923
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp veg or rapeseed oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 large onion, chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "thumb-sized piece ginger, finely grated or chopped",
+            "amount": "1.0",
+            "ingredient_name": "thumb-sized ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tbsp tikka curry paste",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "tikka curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.020475
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 ml passata",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp tomato purée",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp malt vinegar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "malt vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp light brown soft sugar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soft sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0147456
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cinnamon stick",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "5 cardamom pods",
+            "amount": "5.0",
+            "ingredient_name": "cardamom pods",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "100 ml double cream",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.094,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.26141400000000004
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "handful chopped coriander",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "cooked basmati rice, lime wedges and naan bread, to serve (optional)",
+            "amount": "1.0",
+            "ingredient_name": "basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the slow cooker. Season the chicken, then put the oil in a wide frying pan and, once hot, add the chicken. Don’t overcrowd the pan – you may want to do this in batches. Cook over a high heat until the chicken is browned, then transfer it to the slow cooker."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion, garlic and ginger to the pan and cook for a few mins until softened."
+        },
+        {
+            "number": 3,
+            "instruction": "Add a splash of water and scrape any bits from the bottom of the pan, then tip everything into the slow cooker."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the remaining ingredients, except the cream and coriander, then season well and cover with a lid. Cook on low for 5-7 hrs or on high for 4-5 hrs."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the cream and check the seasoning, adding more vinegar, sugar or salt if needed. Cook for another 10-15 mins until hot. Ladle between bowls and garnish with the coriander."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve with rice, naan bread and lime wedges, if you like."
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "url": "https://www.spendwithpennies.com/easy-grilled-chicken-breast/",
+    "title": "Easy Grilled Chicken Breasts",
+    "total_CO2": 4.8567439013052045,
+    "servings": 4,
+    "CO2_per_portion": 1.2141859753263011,
+    "E.Mission coefficient": 5.357387563660391,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/3 cup oil (olive oil or vegetable oil)",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.07255372585999999,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.27773566259207993
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/4 cup cider vinegar ((or red wine vinegar))",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "cider vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.093748088713125
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons Worcestershire sauce",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.071325
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons dijon mustard",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0078000000000000005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0034086000000000003
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tablespoons lemon juice",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.00951
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tablespoons Italian seasoning",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "Italian seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2109576
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon Kosher salt (or to taste)",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "Kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.032400000000000005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.3928176000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon pepper",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0076500000000000005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034807500000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tablespoon sugar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0147456
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon garlic powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "4 boneless skinless chicken breasts",
+            "amount": "4.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Combine all marinade ingredients in a bowl or freezer bag."
+        },
+        {
+            "number": 2,
+            "instruction": "Add chicken and toss well to combine."
+        },
+        {
+            "number": 3,
+            "instruction": " Marinate for 30 minutes (or up to 4 hours) before cooking chicken."
+        },
+        {
+            "number": 4,
+            "instruction": "Preheat grill to medium high heat."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove the chicken from the marinade, allowing the excess to drip off. Discard the remaining marinade."
+        },
+        {
+            "number": 6,
+            "instruction": "Place chicken on the grill for 7-8 minutes. Flip over and cook an additional 7-8 minutes or until no pink remains and chicken reaches 165°F."
+        },
+        {
+            "number": 7,
+            "instruction": "Rest 3-5 minutes before slicing."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "url": "https://tastesbetterfromscratch.com/tortilla-de-patatas/",
+    "title": "Tortilla de Patatas",
+    "total_CO2": 3.9149258694406,
+    "servings": 6,
+    "CO2_per_portion": 0.6524876449067667,
+    "E.Mission coefficient": 2.7004089805632563,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 1/2 cups extra virgin olive oil",
+            "amount": "2.5",
+            "unit": "cups",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.54415294395,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 2.0830174694406
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 medium Yukon Gold Potatoes (, (about 2 lbs), peeled and thinly sliced (about 1/4 inch thick))",
+            "amount": "3.0",
+            "unit": "inch",
+            "ingredient_name": "Yukon Gold Potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.51,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1887
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 yellow or white onion",
+            "amount": "0.5",
+            "ingredient_name": "yellow",
+            "matched_ingredient": "Porridge oat",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 yellow or white onion",
+            "amount": "0.5",
+            "ingredient_name": "white onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "6 eggs (, beaten)",
+            "amount": "6.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.30000000000000004,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.3521
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 teaspoons crushed sea salt (, divided)",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "crushed sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0216,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2618784
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add olive oil to a large skillet over medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add potato and onion; they should be mostly covered with olive oil (add a little more oil if needed). Season with 1 1/2 teaspoon sea salt. Cook on medium-high heat, maintaining a gentle boil, for 8-12 minutes, turning occasionally, until potatoes are just fork tender. Don’t overcook."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain potatoes in a colander, reserving oil. Taste and season with more salt, if needed. Allow to cool for a few minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile crack eggs into a bowl and season with about ½ tsp salt. Beat eggs together."
+        },
+        {
+            "number": 5,
+            "instruction": "Add potato and onion and toss to coat."
+        },
+        {
+            "number": 6,
+            "instruction": "Add a little bit of oil to the bottom of a 10-inch non-stick skillet over high heat. Once hot, pour potato mixture into it and cook on high heat for 1 minute. Reduce heat to medium-low and cook for about 5 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Run a rubber spatula along the outer edges of the tortilla to make sure it’s not sticking and to help it form its shape."
+        },
+        {
+            "number": 8,
+            "instruction": "Once it starts to firm up around the edges and in the center (although it will still be a little runny on toplace a large plate (larger than the size of the paover the pan and flip the omelette onto the plate."
+        },
+        {
+            "number": 9,
+            "instruction": "At this point, the cooked side of the tortilla de patatas should be facing up."
+        },
+        {
+            "number": 10,
+            "instruction": "Now gently slide the omelette back into the pan. Aim the back of the omelette to slide into the back of the skillet and use the spatula to help slide the rest of it off the plate and into the pan. Then use the spatula again to press the sides of the omelette in and under, to keep that rounded edge. "
+        },
+        {
+            "number": 11,
+            "instruction": "Cook on high heat for 1 minute, and low heat for 2-3 more minutes or until done. It’s done when it feels set in the center and a knife or toothpick inserted into  the center comes out clean."
+        },
+        {
+            "number": 12,
+            "instruction": "Flip the finished tortilla de patata back onto a plate, and serve."
+        },
+        {
+            "number": 13,
+            "instruction": "Serve warm or at room temperature."
+        }
+    ]
+}

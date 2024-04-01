@@ -1,0 +1,166 @@
+{
+    "url": "https://www.goodhousekeeping.com/food-recipes/a29686013/vegan-queso-dip-recipe/",
+    "title": "Vegan Queso",
+    "total_CO2": 0.28247700000000003,
+    "servings": 8,
+    "CO2_per_portion": 0.035309625000000004,
+    "E.Mission coefficient": 1.035947556615018,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 large poblano peppers, halved and seeded",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "poblano peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp. olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 cloves garlic, pressed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 c. cashews",
+            "amount": "1.0",
+            "ingredient_name": "cashews",
+            "matched_ingredient": "Cashew nut",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tsp. chili powder",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp. ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp. ground coriander",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.030310000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp. ground turmeric",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Kosher salt and pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 c. nutritional yeast&nbsp;",
+            "amount": "0.25",
+            "unit": "c.",
+            "ingredient_name": "nutritional yeast",
+            "matched_ingredient": "Nutritional yeast",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Chopped cilantro and tortilla chips, for serving",
+            "amount": "1.0",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat broiler. Arrange poblanos, cut sides down, on rimmed backing sheet and broil until charred, 3 to 5 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Transfer to bowl, cover, and let sit 5 minutes. Use paper towel to remove skins, then cut peppers into ¼-inch pieces.&nbsp;"
+        },
+        {
+            "number": 3,
+            "instruction": "Meanwhile, heat oil and garlic in small saucepan on medium until sizzling, about 1 minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from heat and stir in cashews, then spices and ½ teaspoon each salt and pepper."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 1½ cups water and bring mixture to a boil. Reduce heat and simmer until cashews are tender, 10 to 12 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Transfer mixture to blender, add nutritional yeast and ½ cup water, and puree until smooth.&nbsp;"
+        },
+        {
+            "number": 7,
+            "instruction": "Return mixture to saucepan and cook, stirring occasionally, until thickened, 6 to 8 minutes. Fold in all but 2 tablespoons poblanos."
+        },
+        {
+            "number": 8,
+            "instruction": "Transfer to serving dish, top with remaining poblanos, and sprinkle with cilantro. Makes 2 cups."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve with tortilla chips.&nbsp;"
+        }
+    ]
+}

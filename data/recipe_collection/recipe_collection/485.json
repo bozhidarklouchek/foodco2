@@ -1,0 +1,87 @@
+{
+    "url": "https://janelevi.com/recipes/baursak-kazakh-puffy-bread/",
+    "title": "Baursak – Kazakh puffy bread",
+    "total_CO2": 4.551839565000001,
+    "servings": 2,
+    "CO2_per_portion": 2.2759197825000004,
+    "E.Mission coefficient": 2.059968169383142,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1.5 kg white flour",
+            "amount": "1.5",
+            "unit": "kg",
+            "ingredient_name": "white flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 2.1615
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "500 ml lightly warmed milk",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "warmed milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.52,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.44612
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp salt",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.032400000000000005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.3928176000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3-4tbsp sugar",
+            "amount": "3.5",
+            "unit": "tbsp",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.033600000000000005,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.051609600000000005
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "10 g dried yeast",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "dried yeast",
+            "matched_ingredient": "Yeast",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.011090000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 eggs",
+            "amount": "2.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp melted butter",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "melted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        }
+    ],
+    "instructions": []
+}

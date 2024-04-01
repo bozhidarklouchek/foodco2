@@ -1,0 +1,162 @@
+{
+    "url": "https://www.mindfulchef.com/healthy-recipes/cod-with-salsa-verde-and-tomato-millet",
+    "title": "Hake with Salsa Verde & Tomato Buckwheat",
+    "total_CO2": 4.268653500000001,
+    "servings": 2,
+    "CO2_per_portion": 2.1343267500000005,
+    "E.Mission coefficient": 2.279898253485019,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "80 g buckwheat",
+            "amount": "80.0",
+            "unit": "g",
+            "ingredient_name": "buckwheat",
+            "matched_ingredient": "Buckwheat",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.11528000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "20 g capers",
+            "amount": "20.0",
+            "ingredient_name": "capers",
+            "matched_ingredient": "Capers",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 garlic clove",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 hake fillets (skin off)",
+            "amount": "2.0",
+            "ingredient_name": "hake fillets",
+            "matched_ingredient": "Hake",
+            "kg_equivalent": 1.366,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 3.861682
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 handful of fresh mint",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.0015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006555
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 handful of fresh flat-leaf parsley",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 red pepper",
+            "amount": "2.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tsp Italian herbs",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Italian herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "110 g seasonal tomatoes",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "seasonal tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.15697
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 200C / fan 180C / gas mark"
+        },
+        {
+            "number": 2,
+            "instruction": "Heat a large saucepan on medium heat, add the buckwheat and toast for 1 min. Fill the pan with salted hot water. Bring to a boil and cook for 10-12 mins, until cooked, then drain. Return to the saucepan and set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Thinly slice the peppers. Halve the tomatoes."
+        },
+        {
+            "number": 4,
+            "instruction": "Place both on a lined baking tray and toss with the Italian herbs and 1 tsp oil. Roast for 10-15 mins, until soft."
+        },
+        {
+            "number": 5,
+            "instruction": "Make the salsa verde; pick the mint leaves from the stalks and finely chop. along with the parsley. Finely chop or crush the garlic. Roughly chop the capers."
+        },
+        {
+            "number": 6,
+            "instruction": "Add everything to a bowl with the juice from half the lemon and 1/2 tbsp olive oil. Season with black pepper and mix well."
+        },
+        {
+            "number": 7,
+            "instruction": "Season the hake with sea salt and black pepper."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat a large frying pan with 1/2 tbsp oil on a medium heat."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the hake and cook for 4-5 mins, per side, until cooked through."
+        },
+        {
+            "number": 10,
+            "instruction": "Stir the remaining lemon juice and roasted veg through the cooked buckwheat. Season with sea salt and black pepper."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve the pepper and tomato buckwheat topped with the hake. Spoon over the salsa verde."
+        }
+    ]
+}

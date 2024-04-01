@@ -1,0 +1,185 @@
+{
+    "url": "https://feedmephoebe.com/red-lentil-recipe/",
+    "title": "Filling & Nourishing Red Lentil Curry with Spinach",
+    "total_CO2": 0.749860419678375,
+    "servings": 4,
+    "CO2_per_portion": 0.18746510491959376,
+    "E.Mission coefficient": 1.1546481862696978,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon olive or coconut oil",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "olive",
+            "matched_ingredient": "Olive",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tablespoon olive or coconut oil",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.00693,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.03986136
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 small red onion, diced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1- inch fresh ginger, peeled and minced",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 serrano chili pepper, seeded and minced",
+            "amount": "1.0",
+            "ingredient_name": "serrano chili pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon ground cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon garam masala",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 teaspoon coriander",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00054625
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "One 15-ounce can diced tomatoes",
+            "amount": "0.0",
+            "unit": "One 15-ounce",
+            "ingredient_name": "diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 teaspoon sea salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "One 15-ounce can unsweetened full fat coconut milk",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 cup red lentils",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "5 ounces baby spinach",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "baby spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.06194370802812501
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large stock pot or Dutch oven, heat the oil."
+        },
+        {
+            "number": 2,
+            "instruction": "Saute the onion over medium-high heat until soft, 5 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic, ginger, serrano, cumin, garam masala, and coriander. Cook until very fragrant, 2 minutes. Carefully pour in the tomatoes and add the salt, scraping up any brown bits that formed on the bottom of the pan. Cook, stirring occasionally, until the liquid has reduced and the tomato chunks have softened, 5 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the coconut milk and 1 cup water. Bring to a boil over high heat. Stir in the lentils and reduce the heat to medium-low. Cook until the lentils are tender, 25-35 minutes, stirring occasionally to prevent the lentils from sticking to the bottom of the pan. Fold in the spinach and cook until wilted, 3 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve alongside coconut rice."
+        }
+    ]
+}

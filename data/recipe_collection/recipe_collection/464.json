@@ -1,0 +1,294 @@
+{
+    "url": "https://www.recipetineats.com/sexy-lentil-salad/",
+    "title": "Sexy Lentil Salad",
+    "total_CO2": 9.326757029675251,
+    "servings": 4,
+    "CO2_per_portion": 2.331689257418813,
+    "E.Mission coefficient": 1.6205244746142893,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cup / 200g dried green lentils ((or other lentils) (Note 1 for canned))",
+            "amount": "1.0",
+            "unit": "cup ",
+            "ingredient_name": "dried green lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 cup / 200g vegetable or chicken broth ((or water + 1 bouillon cube, crumbled))",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 cup / 200g vegetable or chicken broth ((or water + 1 bouillon cube, crumbled))",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.6092
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 1/2 cups / 375 ml water",
+            "amount": "375.0",
+            "unit": "ml",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large garlic clove (, smashed (Note 2))",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "large garlic   (",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Lemon peel ((about 1.5 x 5 cm / 3/4 x 2 inch))",
+            "amount": "0.0",
+            "unit": "about 1.5 x 5 cm",
+            "ingredient_name": "Lemon peel",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 bay leaf (, dry or fresh)",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 sprigs thyme (, or 1/2 tsp dried thyme)",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 rib celery (, broken into 3 or 4 pieces (or just a handful of leafy fronds))",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "rib celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "250 g / 8oz cherry tomatoes (, halved or quartered (Note 3))",
+            "amount": "250.0",
+            "unit": "g ",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 4.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 6.06475
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 cucumbers (, cut into quarters then diced)",
+            "amount": "2.0",
+            "ingredient_name": "cucumbers",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.18200000000000002
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 red onion (, finely diced)",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup coriander / cilantro (, finely chopped)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 cup parsley (, finely chopped)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "90 g / 3 oz feta (, crumbled (or more!))",
+            "amount": "90.0",
+            "unit": "g",
+            "ingredient_name": "feta",
+            "matched_ingredient": "Feta",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.9115999999999997
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 handfuls rocket / arugula lettuce ((optional - bed for salad))",
+            "amount": "2.0",
+            "ingredient_name": "rocket",
+            "matched_ingredient": "Rocket",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "2 tsp lemon zest",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "lemon zest",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.00317
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "2 tbsp lemon juice",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.00951
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1/3 cup / 85 ml extra virgin olive oil",
+            "amount": "85.0",
+            "unit": "ml",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0782,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.2993496
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 tsp Dijon mustard",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 garlic clove (, minced)",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1 tsp sugar, optional",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.004915200000000001
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1/2 tsp salt + black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place Lentil ingredients in a large saucepan over high heat. Bring to simmer then turn down to medium low. Cook for 20 minutes for firm (I like this) or 25 minutes for soft. DO NOT overcook and make it mushy!"
+        },
+        {
+            "number": 2,
+            "instruction": "Drain in a colander, pick out celery etc. Rinse VERY quickly just to remove any grit coating the lentils (don't want to rinse away flavour!). Set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Place Dressing ingredients in a jar, shake well."
+        },
+        {
+            "number": 4,
+            "instruction": "Place lentils, tomato, cucumber, onion, coriander, parsley and some of the feta in a large bowl."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour over most of the Dressing, then toss."
+        },
+        {
+            "number": 6,
+            "instruction": "Place rocket lettuce on a serving platter. Pile salad on top."
+        },
+        {
+            "number": 7,
+            "instruction": "Drizzle over remaining Dressing and crumble over feta."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve! (I like serving with pita bread to stuff it in)"
+        }
+    ]
+}

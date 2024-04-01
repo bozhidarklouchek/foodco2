@@ -1,0 +1,266 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/veggie_korma_naan_16659",
+    "title": "Easy veggie korma with naan",
+    "total_CO2": 2.2213919800000004,
+    "servings": 4,
+    "CO2_per_portion": 0.5553479950000001,
+    "E.Mission coefficient": 2.258338396161198,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "190 g/61/2 oz rice",
+            "amount": "190.0",
+            "unit": "g",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.19,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.72941
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tsp coconut oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.00924,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.05314848
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 garlic cloves, finely chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 thumb ginger, grated",
+            "amount": "1.0",
+            "ingredient_name": "thumb ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 broccoli, chopped into florets",
+            "amount": "1.0",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01748
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "handful green beans or mangetout",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "green beans",
+            "matched_ingredient": "Green bean",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00966
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "handful green beans or mangetout",
+            "amount": "1",
+            "unit": "handful",
+            "ingredient_name": "mangetout",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 carrot, peeled and sliced thickly",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "handful baby corn",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "baby corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "250 g/9 oz natural yoghurt",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "natural yoghurt",
+            "matched_ingredient": "Natural Yogurt",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.69525
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tsp garam masala",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tsp ground turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tsp mild curry powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "mild curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 vegetable stock cube",
+            "amount": "1.0",
+            "ingredient_name": "vegetable stock cube",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "150 g/ 51/2 oz plain flour, plus extra for dusting",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21615
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "75 g/23/4 oz Greek-style yoghurt",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "Greek-style yoghurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.208575
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 tsp baking powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.05455800000000001
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "pinch of salt",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the rice into a cup, take note of where the rice comes up to and tip into a large saucepan (it might be the whole cup). Fill the same cup with water up to the noted line and tip into the saucepan, repeat once more. Bring to the boil, cover then simmer for 10 minutes, then turn the heat off completely, leaving the lid on."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the coconut oil into a pan and fry the onion, garlic and ginger."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chopped vegetables."
+        },
+        {
+            "number": 4,
+            "instruction": "For the curry paste, mix all the ingredients together with 200ml/7fl oz boiling water in a jug."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour into the pan with the yoghurt. Season with salt and pepper. Stir well place a lid on the pan and simmer for 10 minutes over a low heat."
+        },
+        {
+            "number": 6,
+            "instruction": "For the naan breads, mix all the ingredients together in a bowl and roll into a ball. Split into four and roll out into oval shapes on a floured, clean surface. Dry-fry (no oil) the naans for a few minutes, or until golden-brown."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve the curry with the naan and rice."
+        }
+    ]
+}

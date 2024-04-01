@@ -1,0 +1,240 @@
+{
+    "url": "https://www.simplyrecipes.com/recipes/slow_cooker_chickpea_curry_with_sweet_potatoes_and_red_peppers/",
+    "title": "Slow Cooker Chickpea Curry With Sweet Potatoes and Red Peppers",
+    "total_CO2": 1.24853556418824,
+    "servings": 10,
+    "CO2_per_portion": 0.12485355641882401,
+    "E.Mission coefficient": 0.803270603969996,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 medium yellow onion, diced",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 pound dried chickpeas, rinsed",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "dried chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.7302837157000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons curry powder",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.007917
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large white-fleshed sweet potato, peeled and diced (See Recipe Note)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "white-fleshed sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08695
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large or 2 small sweet bell peppers, diced (red or yellow, about 1/2 pound)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "sweet bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 (28-ounce) can diced tomatoes",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 (15.5-ounce) can coconut milk",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 1/4 cups water",
+            "amount": "1.25",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.295735295625,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 diced serrano, jalapeño, or fresno chili, optional",
+            "amount": "0.5",
+            "ingredient_name": "diced serrano",
+            "matched_ingredient": "Nardicots",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 diced serrano, jalapeño, or fresno chili, optional",
+            "amount": "0.5",
+            "ingredient_name": "fresno chili",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 teaspoon salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "6 cups spinach, roughly chopped, to serve",
+            "amount": "6.0",
+            "unit": "cups",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.11356235352,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.04962674848824
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Cooked rice, to serve, optional",
+            "amount": "1.0",
+            "ingredient_name": "Cooked rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Chopped cilantro, to serve",
+            "amount": "1.0",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Lime or lemon wedges, to serve",
+            "amount": "1.0",
+            "ingredient_name": "Lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Lime or lemon wedges, to serve",
+            "amount": "1",
+            "ingredient_name": "lemon wedges",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Drizzle olive oil in the bottom of a 6-quart or larger slow cooker then add onion and stir to coat."
+        },
+        {
+            "number": 2,
+            "instruction": "Pour dried chickpeas on top, then sprinkle the curry powder evenly over the beans."
+        },
+        {
+            "number": 3,
+            "instruction": "Follow with sweet potato, bell pepper, tomatoes, coconut milk, water, garlic, chili pepper (if using), and salt. Do not stir (leaving the chickpeas on the bottom and the sweet potatoes on top helps everything cook more evenly)."
+        },
+        {
+            "number": 4,
+            "instruction": "Sabrina Modelle"
+        },
+        {
+            "number": 5,
+            "instruction": "Sabrina Modelle"
+        },
+        {
+            "number": 6,
+            "instruction": "Sabrina Modelle"
+        },
+        {
+            "number": 7,
+            "instruction": "Sabrina Modelle"
+        },
+        {
+            "number": 8,
+            "instruction": "Sabrina Modelle"
+        },
+        {
+            "number": 9,
+            "instruction": "Sabrina Modelle"
+        }
+    ]
+}

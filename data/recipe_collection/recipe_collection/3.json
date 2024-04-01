@@ -1,0 +1,298 @@
+{
+    "url": "https://iamafoodblog.com/dishooms-ruby-chicken-curry-recipe/",
+    "title": "Dishoom's Ruby Chicken Curry",
+    "total_CO2": 4.248858521408388,
+    "servings": 2,
+    "CO2_per_portion": 2.124429260704194,
+    "E.Mission coefficient": 3.6064924986467095,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 lb boneless skinless chicken thighs (cut into 2” chunks)",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "boneless skinless chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.76328471804
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/4&quot; fresh ginger (finely diced)",
+            "amount": "0.25",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "5 cloves garlic (crushed)",
+            "amount": "5.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp Indian chili powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Indian chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp garam masala",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "juice of 1/4 lime",
+            "amount": "0.25",
+            "ingredient_name": "juice",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.031,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.011066999999999999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp neutral oil (such as grapeseed)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "neutral oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 cup kefir or greek yogurt",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "kefir",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.025137500128124997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.040471375206281246
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 cup kefir or greek yogurt",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "greek yogurt",
+            "matched_ingredient": "Greek Yogurt",
+            "kg_equivalent": 0.03134794133625,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08717862485611125
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "4 cloves garlic",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2&quot; fresh ginger (plus extra for garnish)",
+            "amount": "0.5",
+            "ingredient_name": "quot",
+            "matched_ingredient": "Quorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.555,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 cup neutral oil (such as grapeseed)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "neutral oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.10883058879000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.41660349388812007
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "4 pods green cardamom",
+            "amount": "4.0",
+            "ingredient_name": "green cardamom",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 stick cinnamon",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "14 ounces cherry tomatoes (blended)",
+            "amount": "14.0",
+            "unit": "ounces",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.39689332375,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.56636677299125
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 tbsp butter",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 tsp Indian chili powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Indian chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1/2 tsp garam masala",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1/2 tsp ground cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1/4 cup heavy cream (aka whipping cream)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "heavy cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.164487971426625
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a medium bowl, mix the marinade ingredients together, then toss chicken until evenly coated. Wrap and store in the fridge to marinate 6 hours to overnight."
+        },
+        {
+            "number": 2,
+            "instruction": "Making the curry takes about 45 minutes. Start by crushing or finely dicing the ginger and 2 cloves of the garlic. A mortar and pestle is ideal. Set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Roughly chop the remaining 2 cloves of garlic."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the 1/2 cup oil to a large pan and set over medium high heat, then add the garlic. Cook garlic until golden brown, about 2-3 minutes, watching carefully to ensure it doesn&#x27;t burn."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove the garlic with a skimmer or slotted spoon and set aside."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the bay leaf, cardamon, and cinnamon. Cook for about 1 minute, or until the cinnamon stick opens."
+        },
+        {
+            "number": 7,
+            "instruction": "Reduce the heat to medium and add the reserved ginger-garlic paste from step"
+        },
+        {
+            "number": 8,
+            "instruction": "Cook until paste has browned a little, about 5 minutes, then add the blended tomatoes, being careful of splattering. Cook, stirring occasionally, until the sauce is reduced about 2/3 and darkened, roughly 15 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the butter, chili powder, garam masala, cumin, the reserved crispy garlic from step 4, and a pinch of salt. Cook for another 10-15 minutes, or until sauce has reduced by about 1/2, then stir in the cream. Cook for another 5 minutes, then remove from the heat and set aside while you make the chicken."
+        },
+        {
+            "number": 10,
+            "instruction": "Preheat your grill on high. Oil the grates well, and then skewer and and cook the chicken until charred and just cooked through, 8-10 minutes. If you don&#x27;t have a grill handy, fry the chicken in 1-2 tbsp oil until just cooked through."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the chicken to the curry and simmer for another 5 minutes, stirring evenly to coat."
+        },
+        {
+            "number": 12,
+            "instruction": "Plate and garnish with ginger matchsticks and cilantro (optional)."
+        }
+    ]
+}

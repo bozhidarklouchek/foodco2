@@ -1,0 +1,193 @@
+{
+    "url": "https://minimalistbaker.com/my-favorite-vegan-pizza/",
+    "title": "My Favorite Vegan Pizza",
+    "total_CO2": 1.7425496252400627,
+    "servings": 2,
+    "CO2_per_portion": 0.8712748126200314,
+    "E.Mission coefficient": 1.8214486746496412,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 of one Trader Joe’s garlic-herb pizza crust",
+            "amount": "1.0",
+            "ingredient_name": "Trader Joe",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 cup each red, green, and orange bell pepper ((loosely chopped))",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "orange bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0603300003075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0274501501399125
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/3 cup red onion ((chopped))",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.017349804009999997,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.006853172583949999
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup button mushrooms ((chopped))",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "button mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.37854117840000007,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.17223623617200004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 tsp each dried or fresh basil, oregano, and garlic powder",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "dried",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp each dried or fresh basil, oregano, and garlic powder",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00054625
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/4 tsp sea salt",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 15-ounce can tomato sauce* ((organic when possible))",
+            "amount": "16.0",
+            "unit": "ounce",
+            "ingredient_name": "tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.64727631199
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tsp each dried or fresh basil, oregano, garlic powder, granulated sugar",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "dried",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 tsp each dried or fresh basil, oregano, garlic powder, granulated sugar",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00054625
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "~1/4 tsp sea salt ((to taste))",
+            "amount": "0.0",
+            "unit": "tsp",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 cup vegan parmesan cheese",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "vegan parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.04022000020500001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8542728043542002
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Red pepper flake + dried oregano",
+            "amount": "1.0",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 425 degrees F (218 C) and position a rack in the middle of the oven."
+        },
+        {
+            "number": 2,
+            "instruction": "Bring large skillet to medium heat. Once hot, add 1 Tbsp olive oil (amount as original recipe is written // adjust if altering batch size), onion and peppers. Season with salt, herbs and stir. Cook until soft and slightly charred – 10-15 minutes, adding the mushrooms in the last few minutes. Set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Prepare sauce by adding tomato sauce to a mixing bowl and adding seasonings and salt to taste. Adjust seasonings as needed. Set aside. Note: If using tomato paste, add water to thin until desired consistency is reached."
+        },
+        {
+            "number": 4,
+            "instruction": "Prepare vegan parmesan if you haven’t already by blitzing raw cashews, sea salt, nutritional yeast and garlic powder in a food processor until a fine meal is reached."
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer to jar and refrigerate to keep fresh."
+        },
+        {
+            "number": 6,
+            "instruction": "Roll out dough onto a floured surface and transfer to a parchment-lined round baking sheet. You’re going to add the pizza WITH the parchment directly to the oven to properly crisp the crust, so any round object will do as it’s not actually going into the oven (I use a wood board)."
+        },
+        {
+            "number": 7,
+            "instruction": "Top with desired amount of tomato sauce (you’ll have leftovers, which you can store in a jar for later use), a sprinkle of parmesan cheese and the sautéed veggies."
+        },
+        {
+            "number": 8,
+            "instruction": "Use the baking sheet to gently slide the pizza (WITH the parchment underneath) directly onto the oven rack. The parchment will help prevent it from falling through."
+        },
+        {
+            "number": 9,
+            "instruction": "Bake for 17-20 minutes or until crisp and golden brown."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with remaining parmesan cheese, dried oregano and red pepper flake. Leftovers keep well – no need to reheat! Cold pizza is yum."
+        }
+    ]
+}

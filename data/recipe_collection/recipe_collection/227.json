@@ -1,0 +1,217 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/mums_everyday_fish_pie_43141",
+    "title": "The Hairy Bikers' fish pie with cheese mash",
+    "total_CO2": 7.9643268,
+    "servings": 4,
+    "CO2_per_portion": 1.9910817,
+    "E.Mission coefficient": 3.210386488229603,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "400 ml/14 fl oz whole milk",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "whole milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.41600000000000004,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.1568960000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 small onion, thickly sliced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "500 g/1 lb 2 oz thick white fish fillets, preferably cod, haddock or pollock, skinned",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "white fish fillets",
+            "matched_ingredient": "Fish",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.70675
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "500 g/1 lb 2 oz thick white fish fillets, preferably cod, haddock or pollock, skinned",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "pollock",
+            "matched_ingredient": "Pollock",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.70675
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "40 g/11/2 oz butter",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.11124
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "40 g/11/2 oz plain flour",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.057640000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "150 g/51/2 oz frozen peas",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.1344
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 g/7 oz large raw prawns, peeled",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "raw prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 2.3708
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "sea salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "800 g/1 lb 12 oz medium potatoes, peeled and cut into quarters",
+            "amount": "800.0",
+            "unit": "g",
+            "ingredient_name": "medium potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.296
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "40 g/11/2 oz butter, cubed",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.11124
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 tbsp milk",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.04680000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13015080000000004
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "100 g/31/2 oz mature Cheddar cheese, grated",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "Cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the filling, pour the milk into a large lidded pan and add the sliced onion and bay leaves. Season with salt and black pepper."
+        },
+        {
+            "number": 2,
+            "instruction": "Place the fish fillets in the pan and bring to a very gentle simmer, cover and cook for two minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove the pan from the heat and leave to stand and infuse for 20 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain the fish through a colander into a bowl, then pour the milk into a jug."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, make the mash for the topping. Half fill a large saucepan with cold water."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the potatoes and bring to the boil. Reduce the heat and simmer for 15 minutes or until the potatoes are soft."
+        },
+        {
+            "number": 7,
+            "instruction": "Drain the potatoes and return them to the pan. Mash with the butter, milk and three-quarters of the grated cheese. Season to taste with salt and black pepper."
+        },
+        {
+            "number": 8,
+            "instruction": "Preheat the oven to 200C/400F/Gas"
+        },
+        {
+            "number": 9,
+            "instruction": "To finish the filling, melt the butter in a medium saucepan and stir in the flour. Cook for a few seconds, then gradually add the infused milk, stirring constantly, and simmer over a medium heat for 3–4 minutes until the sauce is smooth and thick. Stir in the peas and season with salt and black pepper."
+        },
+        {
+            "number": 10,
+            "instruction": "Spread one third of the sauce into the base of a 1.5 litre/2¾ pint ovenproof dish. Scatter half the fish fillets over the sauce, breaking them into chunky pieces as you go and discarding the onion and bay leaves."
+        },
+        {
+            "number": 11,
+            "instruction": "Arrange half the prawns on top of the fish and pour over another third of the sauce. Repeat this with the remaining fish and prawns and finish with the final third of sauce on top."
+        },
+        {
+            "number": 12,
+            "instruction": "Spoon the mash over the fish mixture, spreading to the edges with a palette knife. Fork the surface and sprinkle over the remaining cheese."
+        },
+        {
+            "number": 13,
+            "instruction": "Place the dish on a baking tray and bake in the centre of the oven for about 25 minutes or until the top is golden-brown and the filling is bubbling."
+        }
+    ]
+}

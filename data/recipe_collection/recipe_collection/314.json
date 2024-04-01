@@ -1,0 +1,142 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/roast-lamb-studded-rosemary-garlic",
+    "title": "Roast lamb studded with rosemary & garlic",
+    "total_CO2": 108.315855,
+    "servings": 8,
+    "CO2_per_portion": 13.539481875,
+    "E.Mission coefficient": 26.112790501446476,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "leg of lamb weighing 2.5 kg/5 lb 8 oz",
+            "amount": "2.5",
+            "unit": "kg",
+            "ingredient_name": "lamb",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 2.5,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 61.037499999999994
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 garlic bulb",
+            "amount": "1.0",
+            "unit": "bulb",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 bunch rosemary",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 carrots, cut into large chunks",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0584
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 onion, cut into quarters",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 glass red wine (about 150ml)",
+            "amount": "1.0",
+            "unit": "glass",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1.2 l beef or lamb stock",
+            "amount": "0.6",
+            "unit": "l",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.54,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 32.1678
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1.2 l beef or lamb stock",
+            "amount": "0.6",
+            "unit": "l",
+            "ingredient_name": "lamb stock",
+            "matched_ingredient": "Lamb stock",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 14.649
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Using a sharp pointed knife, make at least 30 small incisions all over the leg of lamb."
+        },
+        {
+            "number": 2,
+            "instruction": "Take 4 cloves from 1 bulb of garlic, peel and thinly slice them, then prod a slice into each incision. Next, take 1 bunch of rosemary, pull off small sprigs and push into the incisions, too."
+        },
+        {
+            "number": 3,
+            "instruction": "If done in advance, cover the leg of lamb well and refrigerate."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from the fridge 1 hr before roasting."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat oven to 190C/170C fan/gas 5. "
+        },
+        {
+            "number": 6,
+            "instruction": "Heat a large frying pan, add 1 tbsp vegetable oil and brown the leg of lamb all over."
+        },
+        {
+            "number": 7,
+            "instruction": "Scatter 2 carrots, cut into large chunks, 1 quartered onion, the remaining garlic and rosemary in a large roasting tin, pour in 1 glass of red wine and 1.2l beef or lamb stock, then place the browned lamb in the tin."
+        },
+        {
+            "number": 8,
+            "instruction": "Roast for about 1 hr 45 mins. Turn the leg of lamb halfway through so by the time it’s cooked, each side has been in the stock."
+        }
+    ]
+}

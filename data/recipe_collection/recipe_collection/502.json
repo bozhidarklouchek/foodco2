@@ -1,0 +1,159 @@
+{
+    "url": "https://www.spendwithpennies.com/creamy-mushroom-tagliatelle/",
+    "title": "Creamy Mushroom Tagliatelle",
+    "total_CO2": 4.87123761418245,
+    "servings": 4,
+    "CO2_per_portion": 1.2178094035456124,
+    "E.Mission coefficient": 4.289267398842916,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8 ounces tagliatelle (or long pasta such as linguine)",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "tagliatelle",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.326813302585
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 onion (small, diced)",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "8 ounces mushrooms (brown or white, sliced)",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.103192264175
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tablespoon olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 cloves garlic (minced)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 cup white wine",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.18749617742625
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 1/3 cup heavy cream",
+            "amount": "1.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "heavy cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.31545098199999994,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.8772691809419999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 ounces cream cheese",
+            "amount": "4.0",
+            "unit": "ounces",
+            "ingredient_name": "cream cheese",
+            "matched_ingredient": "Cream cheese",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.4085754847
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 cup Parmesan cheese (grated, divided)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.04022000020500001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8542728043542002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "salt and pepper (to taste )",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "fresh parsley (for garnish)",
+            "amount": "1.0",
+            "ingredient_name": "fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cook pasta according to package instructions."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain, reserve 1 cup of pasta water."
+        },
+        {
+            "number": 3,
+            "instruction": "In a large skillet, saute onion and mushrooms in olive oil until softened, about 5 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add garlic and cook until fragrant, about 1 minute."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the wine to deglaze and loosen any bits off the pan and simmer until the wine has almost evaporated, about 3-4 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the cream and cream cheese and stir until smooth. Simmer 5 minutes or slightly reduced and thickened. Stir in the pasta and half of the parmesan cheese. Toss to combine adding a little bit of the reserved pasta water if needed (you may not need all of it). Season with salt and pepper to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "Garnish with remaining cheese and parsley if desired."
+        }
+    ]
+}

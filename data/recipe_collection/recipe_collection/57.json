@@ -1,0 +1,141 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/spicy-falafels",
+    "title": "Homemade falafels",
+    "total_CO2": 1.0889184500000002,
+    "servings": 6,
+    "CO2_per_portion": 0.18148640833333338,
+    "E.Mission coefficient": 1.7203862074413467,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp sunflower or vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower",
+            "matched_ingredient": "Sunflower seed",
+            "kg_equivalent": 0.0048,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0013344
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp sunflower or vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 small onion, finely chopped",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 garlic clove, crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "400 g can chickpea, washed and drained",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chickpea",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp ground coriander (or use more cumin)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "handful parsley, chopped, or 1 tsp dried mixed herbs",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0010925
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "handful parsley, chopped, or 1 tsp dried mixed herbs",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried mixed herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 egg, beaten",
+            "amount": "1.0",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 1 tbsp oil in a large pan, then fry the onion and garlic over a low heat for 5 mins until softened. Tip into a large mixing bowl with the chickpeas and spices, then mash together with a fork or potato masher until the chickpeas are totally broken down. Stir in the parsley or dried herbs, with seasoning to taste."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the egg, then squish the mixture together with your hands."
+        },
+        {
+            "number": 3,
+            "instruction": "Mould the mix into 6 balls, then flatten into patties."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat the remaining oil in the pan, then fry the falafels on a medium heat for 3 mins on each side, until golden brown and firm."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve hot or cold with couscous, pitta bread or salad."
+        }
+    ]
+}

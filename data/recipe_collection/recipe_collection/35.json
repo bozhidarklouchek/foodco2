@@ -1,0 +1,135 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/beef-recipes/perfect-roast-beef/",
+    "title": "Perfect roast beef",
+    "total_CO2": 89.604551,
+    "servings": 6,
+    "CO2_per_portion": 14.934091833333333,
+    "E.Mission coefficient": 46.116598558929496,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1.5 kg topside of beef",
+            "amount": "1.5",
+            "unit": "kg",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 89.355
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 medium onions",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 carrots",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 sticks celery",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 bulb of garlic",
+            "amount": "1.0",
+            "unit": "bulb",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 bunch of mixed fresh herbs such as thyme, rosemary, bay, sage",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "mixed fresh herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Remove the beef from the fridge 30 minutes before you want to cook it, to let it come up to room temperature."
+        },
+        {
+            "number": 3,
+            "instruction": "Preheat the oven to 240°C/475°F/ gas"
+        },
+        {
+            "number": 4,
+            "instruction": "Wash and roughly chop the vegetables – there’s no need to peel them. Break the garlic bulb into cloves, leaving them unpeeled."
+        },
+        {
+            "number": 5,
+            "instruction": "Pile all the veg, garlic and herbs into the middle of a large roasting tray and drizzle with oil."
+        },
+        {
+            "number": 6,
+            "instruction": "Drizzle the beef with oil and season well with sea salt and black pepper, then rub all over the meat."
+        },
+        {
+            "number": 7,
+            "instruction": "Place the beef on top of the vegetables."
+        },
+        {
+            "number": 8,
+            "instruction": "Place the tray in the oven, then turn the heat down immediately to 200°C/400°F/gas 6 and cook for 1 hour for medium beef. If you prefer it medium-rare, take it out 5 to 10 minutes earlier. For well done, leave it in for another 10 to 15 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "If you’re doing roast potatoes and veggies, this is the time to crack on with them – get them into the oven for the last 45 minutes of cooking."
+        },
+        {
+            "number": 10,
+            "instruction": "Baste the beef halfway through cooking and if the veg look dry, add a splash of water to the tray to stop them from burning."
+        },
+        {
+            "number": 11,
+            "instruction": "When the beef is cooked to your liking, take the tray out of the oven and transfer the beef to a board to rest for 15 minutes or so. Cover it with a layer of tin foil and a tea towel and leave aside while you make your gravy, horseradish sauce and Yorkshire puddings."
+        },
+        {
+            "number": 12,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

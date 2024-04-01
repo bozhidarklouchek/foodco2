@@ -1,0 +1,153 @@
+{
+    "url": "https://beatthebudget.com/recipes/mushroom-rigatoni-ragu/",
+    "title": "Easy Mushroom Ragu (Ragout)",
+    "total_CO2": 1.06701825,
+    "servings": 4,
+    "CO2_per_portion": 0.2667545625,
+    "E.Mission coefficient": 1.1172381027171352,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g chestnut mushrooms, finely chopped ((£0.80))",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.11375
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 red onion, finely chopped ((£0.50/3)=(£0.17))",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "5 tbsp tomato puree ((£0.60))",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.107025
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 cloves of garlic, minced ((£0.69/3)=(£0.23))",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "400 g rigatoni ((£0.85))",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "rigatoni",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.5764
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "35 g panko breadcrumbs ((£1.25))",
+            "amount": "35.0",
+            "unit": "g",
+            "ingredient_name": "panko breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.035,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.05043500000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Bunch of fresh basil, finely chopped ((£0.55))",
+            "amount": "0.55",
+            "unit": "bunch",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.0016500000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0007210500000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 bags rocket salad (Optional side) ((£0.75x2)=(£1.50))",
+            "amount": "2.0",
+            "ingredient_name": "rocket salad",
+            "matched_ingredient": "Arugula",
+            "kg_equivalent": 0.004,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001748
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tbsp extra-virgin olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Salt & Pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Flakey sea salt (if possible)",
+            "amount": "1.0",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add 2 tbsp of extra-virgin olive oil and the chopped mushrooms into a deep frying pan on a medium heat. Season with salt and pepper and fry for 5 minutes, stirring frequently."
+        },
+        {
+            "number": 2,
+            "instruction": "Then, add the finely chopped onion to fry for a further 5-8 minutes, reducing the heat to medium/low. We want all the excess moisture to evaporate so that the mushrooms and onion can start to take on some colour and caramelise."
+        },
+        {
+            "number": 3,
+            "instruction": "Next, add the tomato puree and garlic to gently fry in the pan. At this stage, add the rigatoni into salted boiling water, timer set to the packet time minus 2 minutes. Continue to stir & gently fry the tomatoey/ mushroom mix during this time."
+        },
+        {
+            "number": 4,
+            "instruction": "Reserving the pasta water, transfer the undercooked pasta into the deep frying pan along with 3 ladles of pasta water. Stir to coat the rigatoni in the sauce and continue to cook until the pasta water has emulsified to form a glossy, delicious tomato sauce."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the panko breadcrumbs into a separate frying pan with the remaining oil, chopped basil and a pinch of flakey salt. Gently fry until golden brown (couple of mins)."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve the mushroom ragu with the salty, toasted basil breadcrumbs and an additional sprinkle of basil. So damn good"
+        }
+    ]
+}

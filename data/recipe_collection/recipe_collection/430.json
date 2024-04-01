@@ -1,0 +1,159 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/pizza-margherita-4-easy-steps",
+    "title": "Pizza Margherita in 4 easy steps",
+    "total_CO2": 3.6950414999999994,
+    "servings": 4,
+    "CO2_per_portion": 0.9237603749999999,
+    "E.Mission coefficient": 6.246636236845442,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "300 g strong bread flour",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "strong bread flour",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.4323
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp instant yeast (from a sachet or a tub)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "instant yeast",
+            "matched_ingredient": "Yeast",
+            "kg_equivalent": 0.00475,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.00526775
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tbsp olive oil, plus extra for drizzling",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "100 ml passata",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.14270000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "handful fresh basil or 1 tsp dried",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0010925
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "handful fresh basil or 1 tsp dried",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 garlic clove, crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "125 g ball mozzarella, sliced",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.655
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "handful grated or shaved parmesan (or vegetarian alternative)",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "grated",
+            "matched_ingredient": "Golden syrup",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "handful grated or shaved parmesan (or vegetarian alternative)",
+            "amount": "1",
+            "unit": "handful",
+            "ingredient_name": "shaved parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "handful of cherry tomatoes, halved",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.017,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.024259000000000003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "handful of basil leaves (optional)",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put the flour into a large bowl, then stir in the yeast and salt. Make a well, pour in 200ml warm water and the olive oil and bring together with a wooden spoon until you have a soft, fairly wet dough. Turn onto a lightly floured surface and knead for 5 mins until smooth. Cover with a tea towel and set aside. You can leave the dough to rise if you like, but it’s not essential for a thin crust."
+        }
+    ]
+}

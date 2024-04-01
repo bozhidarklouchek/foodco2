@@ -1,0 +1,222 @@
+{
+    "url": "https://www.deliciousmagazine.co.uk/recipes/the-ultimate-beef-burgers/",
+    "title": "The ultimate beef burgers",
+    "total_CO2": 64.74059919999998,
+    "servings": 8,
+    "CO2_per_portion": 8.092574899999997,
+    "E.Mission coefficient": 39.67921010051482,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 kg good-quality beef mince",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "good-quality beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 59.57
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 small onion, finely chopped",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tsp Dijon mustard",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0026000000000000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0011362000000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Small handful chopped fresh flatleaf parsley",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh flatleaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 large dill pickle gherkin, finely chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "dill pickle gherkin",
+            "matched_ingredient": "Gherkin",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 large free-range egg yolk",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "free-range egg yolk",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp sunflower oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0144,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.0519408
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "200 g good melting cheese, such as cheddar, gruyère or taleggio, sliced",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "melting cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "200 g good melting cheese, such as cheddar, gruyère or taleggio, sliced",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "taleggio",
+            "matched_ingredient": "Pecorino",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "8 burger buns",
+            "amount": "8.0",
+            "ingredient_name": "burger buns",
+            "matched_ingredient": "Plant-based burger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "4 tbsp mayonnaise",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "mayonnaise",
+            "matched_ingredient": "Mayonnaise",
+            "kg_equivalent": 0.114,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.513798
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tsp Dijon mustard",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0026000000000000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0011362000000000002
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Avocado, tomato and red onion, sliced",
+            "amount": "1.0",
+            "ingredient_name": "Avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Lettuce leaves",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "Lettuce",
+            "matched_ingredient": "Lettuce",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.003496
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place all the ingredients for the burgers in a large bowl. Season and mix well. Cover and chill in the fridge for 1 hour."
+        },
+        {
+            "number": 2,
+            "instruction": "Using wet hands, shape the mixture into 8 burgers. If you want to cook them straight away skip to step"
+        },
+        {
+            "number": 3,
+            "instruction": "If you are freezing them; place flat between sheets of baking paper in a rigid freezerproof container. Freeze for up to 3 months. When ready to use, defrost the burgers completely in the fridge; this will take 3-4 hours."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat a griddle pan or barbecue to hot."
+        },
+        {
+            "number": 5,
+            "instruction": "Brush both sides of the burgers with oil and cook for 3-4 minutes each side or until well browned and cooked."
+        },
+        {
+            "number": 6,
+            "instruction": "Meanwhile, preheat the grill to medium hot. Top each burger with a slice of cheese and grill for 2 minutes until bubbling. Toast the burger buns until lightly golden."
+        },
+        {
+            "number": 7,
+            "instruction": "Mix the mayonnaise with the mustard and spread over the base of each bun."
+        },
+        {
+            "number": 8,
+            "instruction": "Add some tomato, lettuce and avocado slices, then the burger, red onion slices and the other half of the bun."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve with a small bowl of ketchup and fries, if you like."
+        }
+    ]
+}

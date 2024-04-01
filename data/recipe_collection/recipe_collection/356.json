@@ -1,0 +1,85 @@
+{
+    "url": "https://originalflava.com/meals/brown-stew-chicken/",
+    "title": "Brown stew chicken",
+    "total_CO2": 2.116199,
+    "servings": 2,
+    "CO2_per_portion": 1.0580995,
+    "E.Mission coefficient": 6.011928977272727,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Wash Chicken with lemon and water. Remove all skin and cut into small pieces.",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "Chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.6701199999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Place chicken in a mixing bowl, add salt, pepper, Garlic, pimento paprika, 1tsp.  browning,  onions, bell peppers, scotch bonnet pepper and marinate in the fridge overnight.",
+            "amount": "1.0",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Take off all seasonings off chicken, then add vegetable oil to the frying pan/pot on medium heat and add chicken to the pot and cook until brown on each side (5 mins)",
+            "amount": "5.0",
+            "unit": "medium",
+            "ingredient_name": "seasonings",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Once browning is complete remove chicken from the pot, along with half of the remaining oil in the pot/pan.",
+            "amount": "0.5",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.0775,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.47213
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Add the seasoning you used to scrape off the chicken and add to pan, along with the remaining onions and some bell peppers, fresh thyme scotch bonnet pepper and cook for 3 minutes.",
+            "amount": "3.0",
+            "ingredient_name": "seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Add 1 tsp browning, 1 cup of water Cornflour, Ketchup and stir into a gravy.",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "browning",
+            "matched_ingredient": "Brown sauce",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002275
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Then add the chicken to the pan along with remaining bell peppers and 1 tsp. browning.  1 cup of water and Stir well and simmer for 40 minutes until meat is tender.",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.027414
+        }
+    ],
+    "instructions": []
+}

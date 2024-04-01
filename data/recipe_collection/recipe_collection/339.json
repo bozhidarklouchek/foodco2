@@ -1,0 +1,258 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/chicken-jalfrezi",
+    "title": "Chicken jalfrezi",
+    "total_CO2": 3.649434600000001,
+    "servings": 4,
+    "CO2_per_portion": 0.9123586500000003,
+    "E.Mission coefficient": 2.68953835949591,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 large onion, roughly chopped",
+            "amount": "0.5",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 garlic cloves, chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 green chilli, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "green chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "vegetable oil, for frying",
+            "amount": "1.0",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.053592
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "400 g can plum tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.30000000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp ground coriander",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.18186
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp ground cumin",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.11639039999999999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2-3 chicken breasts, diced",
+            "amount": "2.5",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.3875,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.36065
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 large onion, sliced",
+            "amount": "0.5",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 red pepper, chopped",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 red chillies, finely chopped (optional)",
+            "amount": "2.0",
+            "ingredient_name": "red chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 tsp garam masala",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0703192
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "handful of fresh, chopped coriander leaves",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped coriander leaves",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "cooked basmati rice or naan bread to serve",
+            "amount": "1.0",
+            "ingredient_name": "basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "cooked basmati rice or naan bread to serve",
+            "amount": "1",
+            "ingredient_name": "naan bread",
+            "matched_ingredient": "Naan bread",
+            "kg_equivalent": 0.177,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.255057
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Take 2-3 diced chicken breasts and coat in 1 tsp cumin, 1 tsp coriander and 1 tsp turmeric then leave it to marinate in the fridge while you make the sauce."
+        },
+        {
+            "number": 2,
+            "instruction": "To make the sauce, fry ½ roughly chopped large onion, 2 chopped garlic cloves and 1 finely chopped green chilli in a large pan with a little vegetable oil, for around 5 mins, until browned."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 300ml water to the onion mixture and simmer for around 20 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, put a 400g can plum tomatoes in a food processor and give it a good whizz (aim for a smooth consistency)."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat another large pan and gently fry 1 tbsp coriander, 1 tbsp cumin and 1 tsp turmeric in a splash of oil for about a minute."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the tomatoes to this pan and simmer for around 10 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Next, whizz your onion mixture in the food processor and add it to the spiced tomato sauce. Season generously, stir, then simmer for 20 minutes. You can make large batches of this sauce and freeze it for later use."
+        },
+        {
+            "number": 8,
+            "instruction": "Fry the marinated chicken in vegetable oil and stir continuously. After a few minutes, turn down the heat and add the remaining ½ sliced onion, 1 chopped red pepper and 2 finely chopped red chillies. Stir until the onions and pepper soften."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the sauce you prepared earlier to the cooked chicken and simmer for around 10-20 minutes, adding a splash of water if it gets too thick."
+        },
+        {
+            "number": 10,
+            "instruction": "Just before you dish it up, stir in 2 tsp garam masala and handful of chopped coriander leaves."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve with basmati rice or naan bread."
+        }
+    ]
+}

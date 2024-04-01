@@ -1,0 +1,176 @@
+{
+    "url": "https://domesticsuperhero.com/honey-sesame-tofu/",
+    "title": "Honey Sesame Tofu",
+    "total_CO2": 0.7405417049999999,
+    "servings": 2,
+    "CO2_per_portion": 0.37027085249999997,
+    "E.Mission coefficient": 1.0793062586764122,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 block extra firm tofu (, drained (see post for instructions))",
+            "amount": "1.0",
+            "ingredient_name": "firm tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.34452
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 TBS low sodium soy sauce + 1 TBS",
+            "amount": "1.0",
+            "unit": "TBS",
+            "ingredient_name": "sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.014624000000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp red pepper flakes",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0025499999999999997,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011602499999999998
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 TBS honey + 1 TBS",
+            "amount": "3.0",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.058199999999999995
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tsp Oyster sauce ((look for vegetarian oyster sauce if you want to keep this vegetarian))",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Oyster sauce",
+            "matched_ingredient": "Oyster sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.02827
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp sea salt/salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/8 tsp black pepper",
+            "amount": "0.125",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0003625,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.00439495
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 TBS rice wine vinegar",
+            "amount": "1.0",
+            "unit": "TBS",
+            "ingredient_name": "rice wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp sesame oil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.004615,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.016646305
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tsp corn starch",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "corn starch",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.008199999999999999,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.008101599999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 TBS sesame seeds",
+            "amount": "2.0",
+            "ingredient_name": "TBS sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 green onions (, chopped)",
+            "amount": "3.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 375 degrees F. Lightly spray a non-stick baking sheet with oil or use a silicone mat."
+        },
+        {
+            "number": 2,
+            "instruction": "In a medium bowl, stir together the 1 TBS soy sauce, red pepper flakes, 3 TBS honey, oyster sauce, salt, pepper, rice wine vinegar, and oil."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut tofu into 1/2-inch cubes. Gently add/stir tofu cubes into sauce. Cover, and marinate at least 15 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Place the tofu on the baking sheet in a single layer (reserve marinade). Spray tops with olive oil (I use the Misto) and bake in a preheated oven for 20 minutes. Turn tofu, and bake until the tofu turns golden brown, about 20 minutes more or until develops a nice crisp crust."
+        },
+        {
+            "number": 5,
+            "instruction": "Add additional soy sauce and honey ( 1 TBS each) to the marinade bowl."
+        },
+        {
+            "number": 6,
+            "instruction": "Add corn starch; whisk to combine."
+        },
+        {
+            "number": 7,
+            "instruction": "In a large skillet over medium high heat, add the marinade."
+        },
+        {
+            "number": 8,
+            "instruction": "Place the tofu cubes into the skillet as well, and stir to coat. Bring the sauce up to a quick boil, then reduce heat to a low simmer. After a few minutes the sauce will thicken; stir to coat tofu."
+        },
+        {
+            "number": 9,
+            "instruction": "Sprinkle with sesame seeds and green onions and serve immediately."
+        }
+    ]
+}

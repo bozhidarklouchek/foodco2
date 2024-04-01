@@ -1,0 +1,168 @@
+{
+    "url": "https://yemek.com/tarif/mercimek-corbasi/",
+    "title": "Mercimek Çorbası",
+    "total_CO2": 0.6408159999999999,
+    "servings": 6,
+    "CO2_per_portion": 0.10680266666666666,
+    "E.Mission coefficient": 7.281999999999999,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 yemek kaşığıayçiçek yağı",
+            "amount": "3.0",
+            "ingredient_name": "yemek kaşığıayçiçek yağı",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 adetkuru soğan(iri doğranmış)",
+            "amount": "1.0",
+            "ingredient_name": "adetkuru soğan)",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 0.088,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.6408159999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 yemek kaşığıun",
+            "amount": "1.0",
+            "ingredient_name": "kaşığıun",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 adethavuç(iri doğranmış)",
+            "amount": "1.0",
+            "ingredient_name": "adethavuç)",
+            "matched_ingredient": "Haslet",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 adetpatates(büyük boy, iri doğranmış)",
+            "amount": "1.0",
+            "ingredient_name": "adetpatates)",
+            "matched_ingredient": "Haslet",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tatlı kaşığıtuz",
+            "amount": "1.0",
+            "ingredient_name": "tatlı kaşığıtuz",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1çay kaşığıkarabiber",
+            "amount": "1.0",
+            "ingredient_name": "çay kaşığıkarabiber",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1,5su bardağıkırmızı ya da sarı mercimek",
+            "amount": "0.0",
+            "ingredient_name": "5su bardağıkırmızı ya da sarı mercimek",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "6 su bardağısıcak su(1 adet et su tablet ile hazırlanmış)",
+            "amount": "6.0",
+            "ingredient_name": "su bardağısıcak su)",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 yemek kaşığısıvı yağ",
+            "amount": "3.0",
+            "ingredient_name": "yemek kaşığısıvı yağ",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 yemek kaşığıtereyağı",
+            "amount": "2.0",
+            "ingredient_name": "kaşığıtereyağı",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tatlı kaşığıkırmızı toz biber",
+            "amount": "1.0",
+            "ingredient_name": "tatlı kaşığıkırmızı toz biber",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Mercimek Çorbası Tarifi Nasıl Yapılır?"
+        },
+        {
+            "number": 2,
+            "instruction": "Derin bir tencereye 3 yemek kaşığı sıvı yağ ekleyin. İri doğranmış 1 adet büyük soğanı sıvı yağ ile birlikte kavurun."
+        },
+        {
+            "number": 3,
+            "instruction": "Kavrulan soğanlara 1 yemek kaşığı unu ekleyin ve kokusu çıkıp, renk alana kadar kavurma işlemini sürdürün. İri parçalar halinde doğradığınız birer adet havuç ve patatesi tencereye aktarıp karıştırmaya devam edin."
+        },
+        {
+            "number": 4,
+            "instruction": "Tuz, karabiber ve bol suda yıkadıktan sonra suyunu süzdürdüğünüz 1,5 su bardağı mercimeği  de ilave edin ve son kez güzelce karıştırın."
+        },
+        {
+            "number": 5,
+            "instruction": "6 su bardağı sıcak suyu da tencereye ilave edin."
+        },
+        {
+            "number": 6,
+            "instruction": "Ardından kapağını kapatın, patates ve havuçlar yumuşayana kadar ara ara karıştırarak 40 dakika kadar pişirin."
+        },
+        {
+            "number": 7,
+            "instruction": "Çorba piştikten sonra pürüzsüz bir kıvam alması için; el blenderından geçirin. 5 dakika daha pişirdikten sonra ocaktan alın."
+        },
+        {
+            "number": 8,
+            "instruction": "3 yemek kaşığı sıvı yağ ve 2 yemek kaşığı tereyağını bir tavada kızdırın. Üzerine 1 tatlı kaşığı toz kırmızı biberi ekleyin ve 2 dakika yağı kızdırdıktan sonra ocaktan alın."
+        },
+        {
+            "number": 9,
+            "instruction": "Çorbayı bir kaseye alın ve üzerine kızdırdığınız yağdan gezdirip servis edin."
+        }
+    ]
+}

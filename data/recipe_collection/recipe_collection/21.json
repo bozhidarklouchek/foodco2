@@ -1,0 +1,433 @@
+{
+    "url": "https://www.thespruceeats.com/five-spice-pork-694819",
+    "title": "Five-Spice Pork With Bok Choy and Green Onions",
+    "total_CO2": 2.1023949285205,
+    "servings": 4,
+    "CO2_per_portion": 0.525598732130125,
+    "E.Mission coefficient": 3.5078243045272095,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon soy sauce",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tablespoon dry sherry, or Shaoxing rice wine",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "dry sherry",
+            "matched_ingredient": "Sherry",
+            "kg_equivalent": 0.00741,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.01174485
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tablespoon dry sherry, or Shaoxing rice wine",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "Shaoxing rice wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 teaspoon five-spice powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "five-spice powder",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon cornstarch",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "cornstarch",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.0040999999999999995,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.004050799999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "8 ounces thinly sliced pork (such as loin or tenderloin)",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "pork",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.65152981917
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon chicken stock, or water",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.00225
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon chicken stock, or water",
+            "amount": "0.5",
+            "unit": "tablespoon",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 teaspoon brown sugar, or granulated sugar",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00175,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.0046760000000000005
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon brown sugar, or granulated sugar",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "granulated sugar",
+            "matched_ingredient": "Granulated sugar",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0024576000000000003
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 teaspoon salt, or to taste",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tablespoons vegetable oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tablespoons chopped garlic",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chopped garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 cup chopped bok choy",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "chopped bok choy",
+            "matched_ingredient": "Pak choi",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.1033890593505
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "3 tablespoons chopped green onions",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chopped green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.0099,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.003910500000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Steps to Make It"
+        },
+        {
+            "number": 2,
+            "instruction": "Gather the ingredients."
+        },
+        {
+            "number": 3,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 4,
+            "instruction": "In a bowl, combine soy sauce, sherry, five-spice powder, and cornstarch and stir well into a smooth sauce."
+        },
+        {
+            "number": 5,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 6,
+            "instruction": "Add pork and stir to coat evenly. Set aside for 10 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 8,
+            "instruction": "In a small bowl, combine chicken stock, sugar, and salt and stir well. Set aside."
+        },
+        {
+            "number": 9,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 10,
+            "instruction": "Heat a wok or a large deep skillet over high heat."
+        },
+        {
+            "number": 11,
+            "instruction": "Add oil and swirl to coat the pan."
+        },
+        {
+            "number": 12,
+            "instruction": "Add garlic and toss well, until fragrant, about 15 seconds."
+        },
+        {
+            "number": 13,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 14,
+            "instruction": "Add pork mixture and spread into a single layer. Cook, undisturbed, until edges, change color, about 30 seconds. Toss well. Cook, tossing occasionally, until no longer pink, about 1 minute more."
+        },
+        {
+            "number": 15,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 16,
+            "instruction": "Add bok choy and toss well."
+        },
+        {
+            "number": 17,
+            "instruction": "Add chicken stock mixture and cook, tossing occasionally, until pork is cooked through, 1 to 2 minutes more."
+        },
+        {
+            "number": 18,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 19,
+            "instruction": "Add green onions and toss well."
+        },
+        {
+            "number": 20,
+            "instruction": "Transfer to a serving plate."
+        },
+        {
+            "number": 21,
+            "instruction": "Serve hot or warm."
+        },
+        {
+            "number": 22,
+            "instruction": "The Spruce / Kristina Vanni"
+        },
+        {
+            "number": 23,
+            "instruction": "How to Store"
+        },
+        {
+            "number": 24,
+            "instruction": "Refrigerate leftovers in a covered container within 2 hours and eat them within four days."
+        },
+        {
+            "number": 25,
+            "instruction": "To freeze, transfer to meal-size freezer containers or zip-close freezer bags. Freeze for up to three months. Defrost the pork in the refrigerator overnight."
+        },
+        {
+            "number": 26,
+            "instruction": "Reheat the pork and bok choy in a lightly oiled skillet or wok over medium heat until hot."
+        },
+        {
+            "number": 27,
+            "instruction": "What part of bok choy do you eat?"
+        },
+        {
+            "number": 28,
+            "instruction": "The entire bok choy (large or baby) may be enjoyed raw or cooked. Since bok choy is grown in sandy soil, it should be carefully washed to remove any dirt between the stalks."
+        },
+        {
+            "number": 29,
+            "instruction": "Pork Dinners"
+        },
+        {
+            "number": 30,
+            "instruction": "Nutrition Facts (per serving)"
+        },
+        {
+            "number": 31,
+            "instruction": "195"
+        },
+        {
+            "number": 32,
+            "instruction": "Calories"
+        },
+        {
+            "number": 33,
+            "instruction": "12g"
+        },
+        {
+            "number": 34,
+            "instruction": "Fat"
+        },
+        {
+            "number": 35,
+            "instruction": "Carbs"
+        },
+        {
+            "number": 36,
+            "instruction": "17g"
+        },
+        {
+            "number": 37,
+            "instruction": "Protein"
+        },
+        {
+            "number": 38,
+            "instruction": "Show Full Nutrition Label"
+        },
+        {
+            "number": 39,
+            "instruction": "Nutrition Facts"
+        },
+        {
+            "number": 40,
+            "instruction": "Servings: 2"
+        },
+        {
+            "number": 41,
+            "instruction": "to 4"
+        },
+        {
+            "number": 42,
+            "instruction": "Amount per serving"
+        },
+        {
+            "number": 43,
+            "instruction": "Calories"
+        },
+        {
+            "number": 44,
+            "instruction": "195"
+        },
+        {
+            "number": 45,
+            "instruction": "% Daily Value*"
+        },
+        {
+            "number": 46,
+            "instruction": "Total Fat 12g"
+        },
+        {
+            "number": 47,
+            "instruction": "15%"
+        },
+        {
+            "number": 48,
+            "instruction": "Saturated Fat 2g"
+        },
+        {
+            "number": 49,
+            "instruction": "11%"
+        },
+        {
+            "number": 50,
+            "instruction": "Cholesterol 45mg"
+        },
+        {
+            "number": 51,
+            "instruction": "15%"
+        },
+        {
+            "number": 52,
+            "instruction": "Sodium 819mg"
+        },
+        {
+            "number": 53,
+            "instruction": "36%"
+        },
+        {
+            "number": 54,
+            "instruction": "Total Carbohydrate 5g"
+        },
+        {
+            "number": 55,
+            "instruction": "Dietary Fiber 1g"
+        },
+        {
+            "number": 56,
+            "instruction": "Total Sugars 2g"
+        },
+        {
+            "number": 57,
+            "instruction": "Protein 17g"
+        },
+        {
+            "number": 58,
+            "instruction": "Vitamin C 13mg"
+        },
+        {
+            "number": 59,
+            "instruction": "66%"
+        },
+        {
+            "number": 60,
+            "instruction": "Calcium 62mg"
+        },
+        {
+            "number": 61,
+            "instruction": "Iron 1mg"
+        },
+        {
+            "number": 62,
+            "instruction": "Potassium 417mg"
+        },
+        {
+            "number": 63,
+            "instruction": "*The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+        },
+        {
+            "number": 64,
+            "instruction": "(Nutrition information is calculated using an ingredient database and should be considered an estimate.)"
+        }
+    ]
+}

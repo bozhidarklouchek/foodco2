@@ -1,0 +1,104 @@
+{
+    "url": "http://www.eatingkent.co.uk/2016/10/midweek-quickie-tofush-chips.html",
+    "title": "Midweek Quickie; Tofush & Chips",
+    "total_CO2": 1.947048,
+    "servings": 2,
+    "CO2_per_portion": 0.973524,
+    "E.Mission coefficient": 3.023366459627329,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Cover your block of pressed tofu in the vinegar, tamari and 2 tsp of kelp powder and marinate for a couple of hours.",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "pressed tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.022968
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Drain and pat dry your tofu, reserving the liquid.",
+            "amount": "1.0",
+            "ingredient_name": "tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.34452
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Now is a good time to get an inch or so of oil on to heat in a deep pan. If you start now, you won't have to wait for it to be hot enough to receive your tofush.",
+            "amount": "0.0",
+            "unit": "an inch",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Cut the tofu block in half to make 2 ''meaty fillets''",
+            "amount": "0.5",
+            "ingredient_name": "tofu block",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.17226
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Add all that salty, vinegary, sea flavoured reserved marinating liquid to the flour and mix, finish off your batter to your desired thickness with soda water.",
+            "amount": "1.0",
+            "ingredient_name": "vinegary",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Cut your nori sheet in half and wrap each tofu piece in it. Sticking the flappy bit down with a bit of batter definitely helps.",
+            "amount": "0.5",
+            "ingredient_name": "tofu piece",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.17226
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Serve with some homemade chips, I like to cook mine in a hot oven in sesame oil.",
+            "amount": "1.0",
+            "ingredient_name": "homemade chips",
+            "matched_ingredient": "Naan bread",
+            "kg_equivalent": 0.177,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.255057
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "I'll probably learn to make tofu.",
+            "amount": "1.0",
+            "ingredient_name": "tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.34452
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Ta-da! Friday night fishy dinner can still be a thing. I just need to either make my own tofu or get my lazy arse to Charlton more frequently. ",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "fishy dinner",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.084,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.611688
+        }
+    ],
+    "instructions": []
+}

@@ -1,0 +1,271 @@
+{
+    "url": "https://www.kitchensanctuary.com/spaghetti-bolognese/",
+    "title": "Spaghetti Bolognese",
+    "total_CO2": 28.379471750000004,
+    "servings": 4,
+    "CO2_per_portion": 7.094867937500001,
+    "E.Mission coefficient": 19.066139337241143,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion (peeled and finely diced)",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 cloves garlic (peeled and minced)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 carrot (peeled and finely diced)",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 chestnut mushrooms (finely diced)",
+            "amount": "3.0",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.039,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.017745
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "450 g (1 lb) minced beef",
+            "amount": "450.0",
+            "unit": "g",
+            "ingredient_name": "minced beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 26.8065
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "120 ml (1/2 cup) red wine",
+            "amount": "120.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.19019999999999998
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tbsp tomato puree",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 tsp dried thyme",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 beef stock cube (crumbled)",
+            "amount": "1.0",
+            "ingredient_name": "beef stock cube",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 x 400 g (2 x 14 oz) canned chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400 g",
+            "ingredient_name": "canned chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 tbsp light brown sugar",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "light brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00525,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.014028000000000002
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 tsp black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "300 g (10.5 oz) dried spaghetti or fresh pasta",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "dried spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21615
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "300 g (10.5 oz) dried spaghetti or fresh pasta",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "fresh pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21615
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "small bunch spring onions (scallions) (chopped)",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "grated parmesan",
+            "amount": "1.0",
+            "ingredient_name": "grated parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a frying pan over a medium-high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion and cook for 5 minutes, stirring often, until the onion softens."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic and cook for a further minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the carrot and mushrooms and cook for a further 2-3 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the minced beef and cook for 5-6 minutes, until browned. Stir often, breaking up any large chunks of meat with a spatula."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the wine. Bring to the boil and let it bubble for 2-3 minutes until reduced by three-quarters."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the tomato puree, oregano, thyme, Worcestershire sauce, beef stock cube, tinned tomatoes, brown sugar, salt, and pepper. Stir and bring to the boil. Turn down the heat and simmer for 15 -20 minutes until thickened."
+        },
+        {
+            "number": 8,
+            "instruction": "Meanwhile, boiled a large pan of salted water."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the spaghetti and cook for 10-12 minutes until al dente."
+        },
+        {
+            "number": 10,
+            "instruction": "Drain the spaghetti and divide between 6 bowls."
+        },
+        {
+            "number": 11,
+            "instruction": "Spoon the bolognese on top of the spaghetti and sprinkle on the spring onions and parmesan before serving."
+        }
+    ]
+}

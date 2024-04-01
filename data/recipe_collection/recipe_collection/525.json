@@ -1,0 +1,143 @@
+{
+    "url": "https://juliasalbum.com/pork-belly-with-honey-garlic-sauce/#wprm-recipe-container-16221",
+    "title": "Sliced Pork Belly with Honey Garlic Sauce",
+    "total_CO2": 3.5403126916847247,
+    "servings": 4,
+    "CO2_per_portion": 0.8850781729211812,
+    "E.Mission coefficient": 3.9432527447154966,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 lb pork belly",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "pork belly",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 3.30305963834
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/4 cup honey",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0816229415925,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.079174253344725
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons tamari sauce (or soy sauce)",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tamari sauce",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.03375
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 cloves garlic (, minced)",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tablespoons sesame seeds (, toasted)",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0026688
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 green onions (, chopped)",
+            "amount": "2.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "salt (, to taste)",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "How to cook sliced pork belly"
+        },
+        {
+            "number": 2,
+            "instruction": "Slice pork belly into small cube-like pieces. Slice off extra fat, if you wish."
+        },
+        {
+            "number": 3,
+            "instruction": "Add sliced pork belly to a large pan and start frying on high heat. Do not add cooking oil.  "
+        },
+        {
+            "number": 4,
+            "instruction": "Constantly move pork belly slices in the beginning.  Cook them for about 5 minutes on one side on high heat, then 5 minutes on the other side on high-medium heat.   Use splatter screen.  The total cooking time should be about 10 minutes.   Reduce heat to medium, if the pan gets too hot. The sliced pork belly should get crispy and browned. "
+        },
+        {
+            "number": 5,
+            "instruction": "As you're cooking you might have to reduce heat from high to medium as the pan gets hot. There shouldn't be any burnt pieces and the pan should not get burned on the bottom (I used stainless steel pan). Don't crowd the pan. Depending on the size of your frying pan, you might have to do this in 2 batches."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove pan-fried pork belly slices to a plate. "
+        },
+        {
+            "number": 7,
+            "instruction": "Remove extra fat from the frying pan. "
+        },
+        {
+            "number": 8,
+            "instruction": "Honey Garlic Sauce"
+        },
+        {
+            "number": 9,
+            "instruction": "Add ¼ cup honey and 3 tablespoons tamari sauce, and minced garlic. "
+        },
+        {
+            "number": 10,
+            "instruction": "Heat up the sauce until it boils, reduce heat, and cook for about 1 minute stirring."
+        },
+        {
+            "number": 11,
+            "instruction": "Remove from heat. "
+        },
+        {
+            "number": 12,
+            "instruction": "Add 1 tablespoon of sesame seeds and stir it in. "
+        },
+        {
+            "number": 13,
+            "instruction": "Add back the sliced pork belly.  "
+        },
+        {
+            "number": 14,
+            "instruction": "Sprinkle the remaining 1 tablespoon of sesame seeds on top.  Top with chopped green onion, and serve."
+        }
+    ]
+}

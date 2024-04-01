@@ -1,0 +1,233 @@
+{
+    "url": "https://beatthebudget.com/recipes/vegan-tikka-masala/",
+    "title": "Veggie Tikka Masala",
+    "total_CO2": 2.650124050000001,
+    "servings": 6,
+    "CO2_per_portion": 0.44168734166666684,
+    "E.Mission coefficient": 1.2359644385369668,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cauliflower ((£0.95⁠))",
+            "amount": "1.0",
+            "ingredient_name": "cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.005680999999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 broccoli ((£0.95⁠))",
+            "amount": "1.0",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01748
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 white onions ((£0.47⁠))",
+            "amount": "2.0",
+            "ingredient_name": "white onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "50 g fresh ginger ((£0.43⁠))",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.01825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tin of chickpeas ((£0.60⁠))",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.002,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00322
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "500 g passata ((£0.32⁠))",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tin coconut milk ((£0.59 ⁠))",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 aubergine ((£0.67⁠))",
+            "amount": "1.0",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Bunch of fresh coriander ((£0.29⁠))",
+            "amount": "0.29",
+            "unit": "bunch",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "300 g brown rice ((£0.79⁠))",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.1517
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tsp cumin ⁠",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tsp ground turmeric ⁠",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tsp ground coriander ⁠",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.12124000000000001
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tsp garam masala ⁠",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0703192
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1-2 tsp chilli powder",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "400 ml vegetable stock",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.008
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Salt & Pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Start with prepping the vegetables by chopping the cauliflower and broccoli into florets, slicing the aubergine into bitesize chunks, dicing the onion and grating the ginger."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the diced onion into a pan with 1 tbsp of olive oil on a medium to low heat. Sweat for 5 minutes until translucent. ⁠"
+        },
+        {
+            "number": 3,
+            "instruction": "Pour in all the seasoning and fresh ginger,  stirring to coat the onions. Fry gently for around a minute before adding the aubergine, fry for a further 5 mins. ⁠"
+        },
+        {
+            "number": 4,
+            "instruction": "Increase the heat and pour in the passata, coconut milk and 400ml of vegetable stock. Stir to combine and then add the florets and season with salt and pepper. Reduce the heat to a simmer for 20 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "During this time you can cook the rice for the allocated time on the packet."
+        },
+        {
+            "number": 6,
+            "instruction": "Once the timer’s up for the curry, add the drained chickpeas to the pot and cook for a further 10 minutes. ⁠"
+        },
+        {
+            "number": 7,
+            "instruction": "Divide into your meal prep containers with a helping of brown rice for each portion. When eating, serve up with some fresh coriander and a pinch of salt. Optionally add chilli flakes if you’re a heat junky."
+        }
+    ]
+}

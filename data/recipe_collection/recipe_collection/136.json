@@ -1,0 +1,141 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/creamy_parsnip_and_apple_35005",
+    "title": "Creamy parsnip and apple soup",
+    "total_CO2": 1.3715418000000001,
+    "servings": 6,
+    "CO2_per_portion": 0.22859030000000002,
+    "E.Mission coefficient": 0.5604076979651876,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "25 g/1 oz butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp sunflower oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0144,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.0519408
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 medium onions, chopped",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "600 g/1 lb 5 oz parsnips, cut into 2 cm/1 in pieces",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "parsnips",
+            "matched_ingredient": "Parsnip",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "600 g/1 lb 5 oz Bramley apples, peeled, quartered and cut into chunks",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "Bramley apples",
+            "matched_ingredient": "Apple",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.21419999999999997
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 litre/13/4 pints vegetable or chicken stock",
+            "amount": "0.5",
+            "unit": "litre",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.11375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 litre/13/4 pints vegetable or chicken stock",
+            "amount": "0.5",
+            "unit": "litre",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.15
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "150 ml/5 fl oz milk",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.156,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.433836
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "flaked sea salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Melt the butter and oil in a large saucepan.  Gently fry the onions and parsnips for 15 minutes, or until the onions are softened."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the garlic and apples and cook for a further two minutes, stirring regularly."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour over the stock and bring to the boil. Reduce the heat to a simmer and cook for about 20 minutes, or until the parsnips are very soft."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from the heat and season with salt and freshly ground black pepper.  Blend the mixture in a food processor until smooth."
+        },
+        {
+            "number": 5,
+            "instruction": "Stir in the milk, adding a little extra if required. Season to taste with salt and freshly ground black pepper."
+        }
+    ]
+}

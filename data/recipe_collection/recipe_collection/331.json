@@ -1,0 +1,223 @@
+{
+    "url": "https://veganuary.com/recipes/squeaky-bean-chicken-style-curry/",
+    "title": "Vegan Chicken Curry",
+    "total_CO2": 4.228587817702285,
+    "servings": 4,
+    "CO2_per_portion": 1.0571469544255712,
+    "E.Mission coefficient": 3.0926793173245315,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Pack of Squeaky Bean Kick of Tikka chicken style pieces",
+            "amount": "1.0",
+            "unit": "pack",
+            "ingredient_name": "Tikka chicken style pieces",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "X1 red bell pepper, diced",
+            "amount": "1.0",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "X1 tin of butter beans",
+            "amount": "0.0",
+            "unit": "tin",
+            "ingredient_name": "butter beans",
+            "matched_ingredient": "Butter bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons of olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large onion, diced small",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tablespoon grated fresh ginger",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "grated fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves garlic, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon garam masala",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 teaspoon curry powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon ground coriander",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 teaspoon cayenne pepper",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000329875
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 teaspoon salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 ounces tomato paste",
+            "amount": "3.0",
+            "unit": "ounces",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.085048569375,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.12136430849812499
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 (13.5 oz) canned full fat coconut milk",
+            "amount": "1.0",
+            "ingredient_name": "canned full fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "4 cups of basmati rice",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.60566588544,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 2.32515133420416
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Vegan naan bread",
+            "amount": "1.0",
+            "ingredient_name": "naan bread",
+            "matched_ingredient": "Naan bread",
+            "kg_equivalent": 0.177,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.255057
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Chopped coriander to season",
+            "amount": "1.0",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add 2 tablespoons of olive oil in a pan over medium-high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Saute the onion for 3-4 minutes, then add the ginger and garlic and cook for 1 more minute."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the spices, salt, tomato paste and coconut milk. Stir until smooth and combined, then simmer for 5-10 minutes, stirring frequently. Once finished, put this mixture to one side"
+        },
+        {
+            "number": 4,
+            "instruction": "In another pan on medium heat, add some olive oil and cook the diced pepper until softened. Then, add the tin of butter beans, stir and leave for 1 more minute."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the pack of tikka pieces, stir so all the ingredients are combined and turn down the heat to low."
+        },
+        {
+            "number": 6,
+            "instruction": "Take your sauce and slowly start adding the mixture to the ingredients. Keep this on a low heat and slowly cook until the ingredients start bubbling"
+        },
+        {
+            "number": 7,
+            "instruction": "We suggest serving with basmati rice, vegan naan and a sprinkle of chopped coriander for the ultimate curry experience!"
+        }
+    ]
+}

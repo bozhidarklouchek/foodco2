@@ -1,0 +1,138 @@
+{
+    "url": "https://www.copymethat.com/r/YiExls3lW/joe-wicks-special-lasagne/",
+    "title": "Joe Wick's Special Lasagne",
+    "total_CO2": 60.98636750000001,
+    "servings": 2,
+    "CO2_per_portion": 30.493183750000004,
+    "E.Mission coefficient": 23.99620991540429,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "olive oil, for frying olive oil, for frying",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 kg beef mince 1 kg beef mince",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 59.57
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large red onion, diced 1 large red onion, diced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 carrot, diced 1 carrot, diced",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 courgette, diced 1 courgette, diced",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 garlic cloves, finely chopped 2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp tomato puree 1 tbsp tomato puree",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 ml beef stock 400 ml beef stock",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "beef stock",
+            "matched_ingredient": "Beef stock",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.05,
+            "ingredient_carbon": 0.42000000000000004
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 x 400g tin of chopped tomatoes 1 x 400g tin of chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "18 lasagne sheets 18 lasagne sheets",
+            "amount": "18.0",
+            "ingredient_name": "lasagne sheets lasagne sheets",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.27,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.10665000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "basil, leaves only, roughly torn basil, leaves only, roughly torn",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.0005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0002185
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "crusty bread, to serve (optional) crusty bread, to serve (optional)",
+            "amount": "1.0",
+            "ingredient_name": "crusty bread",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.040348
+        }
+    ],
+    "instructions": []
+}

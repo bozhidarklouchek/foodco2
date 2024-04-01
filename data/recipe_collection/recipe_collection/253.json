@@ -1,0 +1,249 @@
+{
+    "url": "https://www.bbcgoodfood.com/user/39789/recipe/homemade-pizza-0",
+    "title": "Homemade Pizza",
+    "total_CO2": 2.1201670000000004,
+    "servings": 2,
+    "CO2_per_portion": 1.0600835000000002,
+    "E.Mission coefficient": 1.5502546385156755,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "550 g of strong white flour",
+            "amount": "550.0",
+            "unit": "g",
+            "ingredient_name": "strong white flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.55,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.7925500000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "7 g of dried yeast (usually one sachet)",
+            "amount": "7.0",
+            "unit": "g",
+            "ingredient_name": "dried yeast",
+            "matched_ingredient": "Yeast",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.007763
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp of table salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "table salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp of caster sugar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.006912000000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "320 ml of luke warm water",
+            "amount": "320.0",
+            "unit": "ml",
+            "ingredient_name": "luke warm water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.32,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Pepper to season",
+            "amount": "1.0",
+            "ingredient_name": "Pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp of olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Tin of chopped tomatoes",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp of tomato Puree",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato Puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Pepper to season",
+            "amount": "1.0",
+            "ingredient_name": "Pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Coarse salt to season",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 cloves of garlic (crushed or finely chopped)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tsp of basil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tsp of oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tsp Thyme",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Grated cheddar and mozzarella",
+            "amount": "1.0",
+            "ingredient_name": "Grated cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.02835,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.602154
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Toppings of your choice",
+            "amount": "1.0",
+            "ingredient_name": "toppings",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Sieve the strong white flour into a large mixing bowl, add the salt and pepper."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the water, yeast, sugar and olive oil into a jug and leave for 3 minutes to allow the yeast to activate."
+        },
+        {
+            "number": 3,
+            "instruction": "Slowly pour the wet mixture into the mixing bowl while stirring using a wooden spoon until everything is roughly mixed. Then, using your hands, further mix and knead the dough until it is elastic and slightly tacky but not over sticky."
+        },
+        {
+            "number": 4,
+            "instruction": "Place the dough in the mixing bowl and cover with a damp tea towel and leave for 1 hour until the dough has doubled in size."
+        },
+        {
+            "number": 5,
+            "instruction": "Take the dough and knead it for a few minutes to take some of the air out. Split it into two equal parts. If you are only wishing to make 1 pizza then you can freeze the extra dough."
+        },
+        {
+            "number": 6,
+            "instruction": "For the sauce, put all sauce ingredients into a blender for  30 seconds until you are left with a thick, light red sauce."
+        },
+        {
+            "number": 7,
+            "instruction": "Flour a work surface and using a rolling pin, roll the dough until it is roughly the size of the pizza tray you are using."
+        },
+        {
+            "number": 8,
+            "instruction": "Place the rolled out dough onto the tray and using your fingers, work the dough until it fills the tray."
+        },
+        {
+            "number": 9,
+            "instruction": "Brush the surface of the dough with olive oil and then add enough sauce mix to cover the base spreading evenly."
+        },
+        {
+            "number": 10,
+            "instruction": "Sprinkle on the grated cheese followed by your topping choice."
+        },
+        {
+            "number": 11,
+            "instruction": "Cook the pizza in preheated oven at 200C for 20 minutes and then serve."
+        }
+    ]
+}

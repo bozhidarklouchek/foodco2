@@ -1,0 +1,105 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/cheesy-broccoli-pasta-bake",
+    "title": "Cheesy broccoli pasta bake",
+    "total_CO2": 4.1814863,
+    "servings": 4,
+    "CO2_per_portion": 1.045371575,
+    "E.Mission coefficient": 3.922963035932076,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "280 g penne",
+            "amount": "280.0",
+            "unit": "g",
+            "ingredient_name": "penne",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.28,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11060000000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "280 g broccoli, cut into florets",
+            "amount": "280.0",
+            "unit": "g",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.28,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.12236000000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "25 g plain flour",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.036025
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "300 ml milk",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.312,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.867672
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp wholegrain mustard",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "wholegrain mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0039000000000000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0017043000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "140 g mature cheddar, grated",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "mature cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.9736000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cook the pasta, adding the broccoli for the final 4-5 mins and cooking until tender."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain well, then heat the grill."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the butter in a saucepan and stir in the flour. Cook for 1 min, then gradually add the milk, stirring well between each addition. Bring to the boil, stirring, then simmer for 2 mins, before stirring in the mustard, half the cheese and seasoning."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix the pasta and broccoli into the sauce and spoon into an ovenproof dish. Scatter over the remaining cheese and place under a hot grill for 3-4 mins until golden and bubbling."
+        }
+    ]
+}

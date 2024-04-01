@@ -1,0 +1,656 @@
+{
+    "url": "https://www.kitchenstories.com/en/recipes/nurnberger-bratwursts-with-sauerkraut-and-mashed-potatoes",
+    "title": "Nürnberger bratwursts with sauerkraut and mashed potatoes",
+    "total_CO2": 1.6042256738497602,
+    "servings": 2,
+    "CO2_per_portion": 0.8021128369248801,
+    "E.Mission coefficient": 0.7590756985447688,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2.2 lbs potatoes (mealy)",
+            "amount": "2.2",
+            "unit": "lbs",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.9979032140000001,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.36922418918000005
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 cup milk",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.24605176596000003,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6842699611347601
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "5 tbsp butter",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.06832500000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.19001182500000005
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "0.25 tsp nutmeg",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1.5 lbs sauerkraut",
+            "amount": "1.5",
+            "unit": "lbs",
+            "ingredient_name": "sauerkraut",
+            "matched_ingredient": "Sauerkraut",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.29732979853499997
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "20 small bratwursts",
+            "amount": "20.0",
+            "unit": "small",
+            "ingredient_name": "bratwursts",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "pepper",
+            "amount": "1.0",
+            "ingredient_name": "bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "mustard (optional)",
+            "amount": "1.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Search for recipes"
+        },
+        {
+            "number": 2,
+            "instruction": "Recipes"
+        },
+        {
+            "number": 3,
+            "instruction": "Stories"
+        },
+        {
+            "number": 4,
+            "instruction": "Video"
+        },
+        {
+            "number": 5,
+            "instruction": "Shop"
+        },
+        {
+            "number": 6,
+            "instruction": "App"
+        },
+        {
+            "number": 7,
+            "instruction": "Search for recipes"
+        },
+        {
+            "number": 8,
+            "instruction": "Login"
+        },
+        {
+            "number": 9,
+            "instruction": "Sign-up"
+        },
+        {
+            "number": 10,
+            "instruction": "Recipe"
+        },
+        {
+            "number": 11,
+            "instruction": "International Cuisines"
+        },
+        {
+            "number": 12,
+            "instruction": "German"
+        },
+        {
+            "number": 13,
+            "instruction": "Nürnberger bratwursts with sauerkraut and mashed potatoes"
+        },
+        {
+            "number": 14,
+            "instruction": "Overview"
+        },
+        {
+            "number": 15,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 16,
+            "instruction": "Steps"
+        },
+        {
+            "number": 17,
+            "instruction": "Comments (1"
+        },
+        {
+            "number": 18,
+            "instruction": "Nürnberger bratwursts with sauerkraut and mashed potatoes"
+        },
+        {
+            "number": 19,
+            "instruction": "Based on 23 ratings"
+        },
+        {
+            "number": 20,
+            "instruction": "Sponsored"
+        },
+        {
+            "number": 21,
+            "instruction": "Save"
+        },
+        {
+            "number": 22,
+            "instruction": "Share"
+        },
+        {
+            "number": 23,
+            "instruction": "In app"
+        },
+        {
+            "number": 24,
+            "instruction": "Mason"
+        },
+        {
+            "number": 25,
+            "instruction": "Contributor"
+        },
+        {
+            "number": 26,
+            "instruction": "Difficulty"
+        },
+        {
+            "number": 27,
+            "instruction": "Easy 👌"
+        },
+        {
+            "number": 28,
+            "instruction": "30 min"
+        },
+        {
+            "number": 29,
+            "instruction": "Baking"
+        },
+        {
+            "number": 30,
+            "instruction": "0 min"
+        },
+        {
+            "number": 31,
+            "instruction": "Resting"
+        },
+        {
+            "number": 32,
+            "instruction": "0 min"
+        },
+        {
+            "number": 33,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 34,
+            "instruction": "Servings"
+        },
+        {
+            "number": 35,
+            "instruction": "½ kg"
+        },
+        {
+            "number": 36,
+            "instruction": "potatoes (mealy)"
+        },
+        {
+            "number": 37,
+            "instruction": "⅛ l"
+        },
+        {
+            "number": 38,
+            "instruction": "milk"
+        },
+        {
+            "number": 39,
+            "instruction": "35 g"
+        },
+        {
+            "number": 40,
+            "instruction": "butter"
+        },
+        {
+            "number": 41,
+            "instruction": "⅛ tsp"
+        },
+        {
+            "number": 42,
+            "instruction": "nutmeg"
+        },
+        {
+            "number": 43,
+            "instruction": "350 g"
+        },
+        {
+            "number": 44,
+            "instruction": "sauerkraut"
+        },
+        {
+            "number": 45,
+            "instruction": "small bratwursts"
+        },
+        {
+            "number": 46,
+            "instruction": "salt"
+        },
+        {
+            "number": 47,
+            "instruction": "pepper"
+        },
+        {
+            "number": 48,
+            "instruction": "mustard (optional)"
+        },
+        {
+            "number": 49,
+            "instruction": "Metric"
+        },
+        {
+            "number": 50,
+            "instruction": "Use setting"
+        },
+        {
+            "number": 51,
+            "instruction": "Imperial"
+        },
+        {
+            "number": 52,
+            "instruction": "Utensils"
+        },
+        {
+            "number": 53,
+            "instruction": "large saucepan, vegetable peeler, potato masher, whisk, small saucepan, cutting board, knife, large frying pan"
+        },
+        {
+            "number": 54,
+            "instruction": "How-To Videos"
+        },
+        {
+            "number": 55,
+            "instruction": "See all"
+        },
+        {
+            "number": 56,
+            "instruction": "Creamy mashed potatoes"
+        },
+        {
+            "number": 57,
+            "instruction": "How to measure"
+        },
+        {
+            "number": 58,
+            "instruction": "Nutrition per serving"
+        },
+        {
+            "number": 59,
+            "instruction": "Cal586"
+        },
+        {
+            "number": 60,
+            "instruction": "Fat34 g"
+        },
+        {
+            "number": 61,
+            "instruction": "Protein20 g"
+        },
+        {
+            "number": 62,
+            "instruction": "Carb50 g"
+        },
+        {
+            "number": 63,
+            "instruction": "Step 1/"
+        },
+        {
+            "number": 64,
+            "instruction": "½ kg potatoes (mealy)"
+        },
+        {
+            "number": 65,
+            "instruction": "⅛ l milk"
+        },
+        {
+            "number": 66,
+            "instruction": "25 g butter"
+        },
+        {
+            "number": 67,
+            "instruction": "⅛ tsp nutmeg"
+        },
+        {
+            "number": 68,
+            "instruction": "salt"
+        },
+        {
+            "number": 69,
+            "instruction": "pepper"
+        },
+        {
+            "number": 70,
+            "instruction": "large saucepan"
+        },
+        {
+            "number": 71,
+            "instruction": "vegetable peeler"
+        },
+        {
+            "number": 72,
+            "instruction": "potato masher"
+        },
+        {
+            "number": 73,
+            "instruction": "whisk"
+        },
+        {
+            "number": 74,
+            "instruction": "small saucepan"
+        },
+        {
+            "number": 75,
+            "instruction": "cutting board"
+        },
+        {
+            "number": 76,
+            "instruction": "knife"
+        },
+        {
+            "number": 77,
+            "instruction": "Peel potatoes and cut into rough chunks. In a large saucepan filled with salted water, cook potatoes for approx. 15 – 20 min. Meanwhile heat up milk in a small saucepan. Once potatoes are done, drain the saucepan and add butter, nutmeg, and milk. Mash potatoes with a masher and whisk thoroughly until texture is smooth and even. Season to taste with salt and pepper."
+        },
+        {
+            "number": 78,
+            "instruction": "Step 2/"
+        },
+        {
+            "number": 79,
+            "instruction": "350 g sauerkraut"
+        },
+        {
+            "number": 80,
+            "instruction": "large saucepan"
+        },
+        {
+            "number": 81,
+            "instruction": "In a large saucepan, heat up sauerkraut over medium heat for approx. 4 – 5 min."
+        },
+        {
+            "number": 82,
+            "instruction": "Step 3/"
+        },
+        {
+            "number": 83,
+            "instruction": "10 small bratwursts"
+        },
+        {
+            "number": 84,
+            "instruction": "mustard (optional)"
+        },
+        {
+            "number": 85,
+            "instruction": "large frying pan"
+        },
+        {
+            "number": 86,
+            "instruction": "In a large frying pan, roast bratwursts over medium heat for approx. 4 – 5 min until thoroughly browned."
+        },
+        {
+            "number": 87,
+            "instruction": "Serve on a plate with mashed potatoes and sauerkraut."
+        },
+        {
+            "number": 88,
+            "instruction": "Add mustard to your liking. Enjoy!"
+        },
+        {
+            "number": 89,
+            "instruction": "Enjoy your meal!"
+        },
+        {
+            "number": 90,
+            "instruction": "Tags"
+        },
+        {
+            "number": 91,
+            "instruction": "#oktoberfest"
+        },
+        {
+            "number": 92,
+            "instruction": "#weeknight dinner"
+        },
+        {
+            "number": 93,
+            "instruction": "#salty"
+        },
+        {
+            "number": 94,
+            "instruction": "#main"
+        },
+        {
+            "number": 95,
+            "instruction": "#crowd pleaser"
+        },
+        {
+            "number": 96,
+            "instruction": "#german"
+        },
+        {
+            "number": 97,
+            "instruction": "#comfort food"
+        },
+        {
+            "number": 98,
+            "instruction": "#beef"
+        },
+        {
+            "number": 99,
+            "instruction": "#pork"
+        },
+        {
+            "number": 100,
+            "instruction": "#sausage"
+        },
+        {
+            "number": 101,
+            "instruction": "#savory"
+        },
+        {
+            "number": 102,
+            "instruction": "#for four"
+        },
+        {
+            "number": 103,
+            "instruction": "#frying"
+        },
+        {
+            "number": 104,
+            "instruction": "#spring"
+        },
+        {
+            "number": 105,
+            "instruction": "#autumn"
+        },
+        {
+            "number": 106,
+            "instruction": "#winter"
+        },
+        {
+            "number": 107,
+            "instruction": "More delicious ideas for you"
+        },
+        {
+            "number": 108,
+            "instruction": "30 min"
+        },
+        {
+            "number": 109,
+            "instruction": "Bavarian meatloaf with potato salad"
+        },
+        {
+            "number": 110,
+            "instruction": "Sandra Schumann"
+        },
+        {
+            "number": 111,
+            "instruction": "15 min"
+        },
+        {
+            "number": 112,
+            "instruction": "Bavarian sausage salad"
+        },
+        {
+            "number": 113,
+            "instruction": "Mason"
+        },
+        {
+            "number": 114,
+            "instruction": "55 h"
+        },
+        {
+            "number": 115,
+            "instruction": "Roast pork with sauerkraut and potatoes"
+        },
+        {
+            "number": 116,
+            "instruction": "Sandra Schumann"
+        },
+        {
+            "number": 117,
+            "instruction": "30 min"
+        },
+        {
+            "number": 118,
+            "instruction": "Creamy pork and mushroom ragout with rice"
+        },
+        {
+            "number": 119,
+            "instruction": "Vanessa Pass"
+        },
+        {
+            "number": 120,
+            "instruction": "40 min"
+        },
+        {
+            "number": 121,
+            "instruction": "Pasta with sausage, tomatoes, and rosemary"
+        },
+        {
+            "number": 122,
+            "instruction": "Sandra Schumann"
+        },
+        {
+            "number": 123,
+            "instruction": "25 min"
+        },
+        {
+            "number": 124,
+            "instruction": "vegan"
+        },
+        {
+            "number": 125,
+            "instruction": "Creamy pumpkin pasta with sage"
+        },
+        {
+            "number": 126,
+            "instruction": "Theresa Kellner"
+        },
+        {
+            "number": 127,
+            "instruction": "50 min"
+        },
+        {
+            "number": 128,
+            "instruction": "Sauerkraut with kassler and mashed potatoes"
+        },
+        {
+            "number": 129,
+            "instruction": "Mason"
+        },
+        {
+            "number": 130,
+            "instruction": "40 min"
+        },
+        {
+            "number": 131,
+            "instruction": "Baked ziti with Italian sausage"
+        },
+        {
+            "number": 132,
+            "instruction": "Goodnes"
+        },
+        {
+            "number": 133,
+            "instruction": "Made with  in Berlin"
+        },
+        {
+            "number": 134,
+            "instruction": "AJNS New Media GmbH | Storkower Straße 115 | 10407 Berlin | Phone: +49 (0)30 695 182 91 | Email: hello@kitchenstories.de"
+        },
+        {
+            "number": 135,
+            "instruction": "Represented by Nora Seetge & Alexander Bauer"
+        },
+        {
+            "number": 136,
+            "instruction": "Kitchen Stories is supported by product placement"
+        },
+        {
+            "number": 137,
+            "instruction": "¹By clicking \"submit\", you’re consenting to our email newsletter with cooking content and information on products. You may withdraw your consent at any time."
+        }
+    ]
+}

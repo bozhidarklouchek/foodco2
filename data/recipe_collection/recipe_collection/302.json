@@ -1,0 +1,66 @@
+{
+    "url": "https://www.bosh.tv/recipes/curry-house-jalfrezi",
+    "title": "Curry House Jalfrezi",
+    "total_CO2": 0.2670444,
+    "servings": 4,
+    "CO2_per_portion": 0.0667611,
+    "E.Mission coefficient": 4.747456000000001,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 tbsp sunflower oil - or olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0288,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.1038816
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 tbsp sunflower oil - or olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pour the oil into the saucepan"
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onions and sauté for 5 minutes"
+        },
+        {
+            "number": 3,
+            "instruction": "Add a teaspoon of the ginger and garlic paste"
+        },
+        {
+            "number": 4,
+            "instruction": "Add all the remaining spices and half the water and stir"
+        },
+        {
+            "number": 5,
+            "instruction": "Simmer for 10 minutes, until browned and reduced completely"
+        },
+        {
+            "number": 6,
+            "instruction": "Pour in the rest of the water, stir and transfer to the liquidiser"
+        },
+        {
+            "number": 7,
+            "instruction": "Blend to a smooth liquid"
+        },
+        {
+            "number": 8,
+            "instruction": "Clean out the pan"
+        }
+    ]
+}

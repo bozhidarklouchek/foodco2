@@ -1,0 +1,156 @@
+{
+    "url": "https://www.unicornsinthekitchen.com/turkish-bulgur-pilaf-recipe/",
+    "title": "Turkish Bulgur Pilaf",
+    "total_CO2": 1.31189418665208,
+    "servings": 4,
+    "CO2_per_portion": 0.32797354666302,
+    "E.Mission coefficient": 0.7280867866964662,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cups bulgur (coarse)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "bulgur",
+            "matched_ingredient": "Bulgur wheat",
+            "kg_equivalent": 0.26497882488,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.38183448665208003
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large onion (diced)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 cloves garlic (minced)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 green pepper (diced)",
+            "amount": "1.0",
+            "ingredient_name": "green pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 roma tomatoes (chopped)",
+            "amount": "3.0",
+            "ingredient_name": "roma tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5351250000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 1/2 tbsp tomato paste",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0321075
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tsp black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 1/2 cup water",
+            "amount": "3.5",
+            "unit": "cup",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.82805882775,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the bulgur in a bowl and rinse a few times. Set it aside."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the olive oil in a pot over medium heat. Sauté the onion until translucent and then add the minced garlic. Cook for a minute. "
+        },
+        {
+            "number": 3,
+            "instruction": "Add in the diced green pepper and cook for a few minutes until it softens. "
+        },
+        {
+            "number": 4,
+            "instruction": "Add in the chopped tomatoes and stir well. Cook until they start releasing their juice. "
+        },
+        {
+            "number": 5,
+            "instruction": "Add the tomato paste and stir well so it combines with the other ingredients. "
+        },
+        {
+            "number": 6,
+            "instruction": "Add the salt and pepper and add in the rinsed bulgur. Stir well. "
+        },
+        {
+            "number": 7,
+            "instruction": "Turn the heat to medium high and add in the water. Once it comes to a simmer, lower the heat to medium, cover with a lid and cook for about 20-25 minutes until the water is almost completely evaporated. "
+        },
+        {
+            "number": 8,
+            "instruction": "Wrap the lid in a clean kitchen towel and place it on the pot. Turn the heat to medium low and cook for another 10 minutes.&nbsp;"
+        },
+        {
+            "number": 9,
+            "instruction": "Turn the heat off the let the bulgur sit for 5 minutes untouched, then fluff it with a fork and serve.&nbsp;"
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+    "url": "https://www.kitchensanctuary.com/korean-fried-chicken/#wprm-recipe-container-18813",
+    "title": "Korean Fried Chicken",
+    "total_CO2": 5.289336627500002,
+    "servings": 4,
+    "CO2_per_portion": 1.3223341568750004,
+    "E.Mission coefficient": 4.000307531012892,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 chicken breasts ( sliced into long thick strips)",
+            "amount": "4.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "240 ml (1 cup) buttermilk",
+            "amount": "240.0",
+            "unit": "ml",
+            "ingredient_name": "buttermilk",
+            "matched_ingredient": "Buttermilk",
+            "kg_equivalent": 0.2184,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6073704000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/4 tsp white pepper",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "white pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0006374999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00029006249999999996
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 tsp garlic salt",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "garlic salt",
+            "matched_ingredient": "Garlic salt",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "180 g (1 1/2 cups) plain (all-purpose) flour",
+            "amount": "180.0",
+            "unit": "g",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.25938
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp ground black pepper",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tsp garlic salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garlic salt",
+            "matched_ingredient": "Garlic salt",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 tsp celery salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "celery salt",
+            "matched_ingredient": "Celery salt",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp dried thyme",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tsp paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tsp baking powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.0045000000000000005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.05455800000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tsp chilli flakes",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "vegetable oil for deep frying ((at least 1 litre/four cups))",
+            "amount": "0.0",
+            "unit": "at least 1 litre",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 tbsp gochujang paste",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "gochujang paste",
+            "matched_ingredient": "Gochujang",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "2 tbsp honey",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.040158
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "4 tbsp brown sugar",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.042,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.11222400000000002
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "4 tbsp soy sauce",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.05484
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 cloves garlic (peeled and minced)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "2 tsp minced ginger",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "minced ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.00365
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1 tbsp sesame oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.013845000000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.04993891500000001
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "3 spring onions (sliced into thin strips)",
+            "amount": "3.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.017775
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "1 tsp sesame seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0004448000000000001
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "1/2 tsp chilli flakes ((red pepper flakes))",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the chicken in a bowl."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the buttermilk, salt, pepper, and garlic salt."
+        },
+        {
+            "number": 3,
+            "instruction": "Mix together, cover and place in the fridge to marinade for at least 1 hour (up to overnight)"
+        },
+        {
+            "number": 4,
+            "instruction": "Preheat the oven to a low heat (to keep the cooked chicken warm)."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat a large pan of vegetable oil (or preheat your deep fat fryer) until hot (you can test by dropping a small cube of bread in there, if it rises immediately to the top and starts to bubble rapidly, it’s hot enough). You’ll need at least 1 litre (4 cups) of oil."
+        },
+        {
+            "number": 6,
+            "instruction": "Mix together the crispy coating ingredients in a small bowl."
+        },
+        {
+            "number": 7,
+            "instruction": "Take the chicken out of the fridge. Lift a piece from the buttermilk and allow the excess to drip off. Dredge the chicken in the crispy coating mixture – ensuring it’s fully covered."
+        },
+        {
+            "number": 8,
+            "instruction": "Place on a tray and repeat until all of the chicken is coated."
+        },
+        {
+            "number": 9,
+            "instruction": "Once the oil is hot enough, add in 5 or 6 of the chicken tenders. You can add more or less depending on the size of your pan, just be sure not to overcrowd the chicken."
+        },
+        {
+            "number": 10,
+            "instruction": "Cook for 3-5 minutes until golden brown and cooked in the middle. You can check this by cutting open a piece of chicken, if it’s no longer pink in the middle, it’s cooked."
+        },
+        {
+            "number": 11,
+            "instruction": "Place on a tray in the oven to keep warm whilst you cook the rest of the chicken. **If you want to ensure the chicken stays extra crispy whilst in the oven, see my &#39;Top Tips for Success&#39; section in the post."
+        },
+        {
+            "number": 12,
+            "instruction": "Meanwhile, make the sauce."
+        },
+        {
+            "number": 13,
+            "instruction": "Place the gochujang, honey, sugar, soy sauce, garlic, ginger, vegetable oil, and sesame oil in a saucepan and stir together."
+        },
+        {
+            "number": 14,
+            "instruction": "Bring to the boil, then simmer for 5 minutes until thickened."
+        },
+        {
+            "number": 15,
+            "instruction": "Pour over the crispy chicken and carefully toss together, then top with the spring onions, chilli flakes, and sesame seeds before serving."
+        }
+    ]
+}

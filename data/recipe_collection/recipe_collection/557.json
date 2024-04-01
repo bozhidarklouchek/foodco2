@@ -1,0 +1,21 @@
+{
+    "url": "https://akispetretzikis.com/categories/kotopoylo-galopoyla/grhgoros-gyros-kotopoylo",
+    "title": "Γρήγορος γύρος κοτόπουλο",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 3,
+            "original_string": "Καθώς μαγειρεύεις, τσέκαρε τα βήματα που ολοκληρώνεις και ακολούθησε τη συνταγή χωρίς να χαθείς.",
+            "amount": "1.0",
+            "ingredient_name": "καθώς μαγειρεύεις",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

@@ -1,0 +1,591 @@
+{
+    "url": "https://www.kitchensanctuary.com/roast-beef-dinner/",
+    "title": "How to make a Roast Beef Dinner",
+    "total_CO2": 95.84797500749998,
+    "servings": 4,
+    "CO2_per_portion": 23.961993751874996,
+    "E.Mission coefficient": 19.206442561554343,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1.5 kg (3.3 lbs) topside of beef ((this should be enough meat for 4 people with leftovers - or 6-7 people if no leftovers))",
+            "amount": "1.5",
+            "unit": "kg",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 89.355
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 tsp black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "105 g (1 cup minus 1 tbsp) plain (all-purpose) flour",
+            "amount": "105.0",
+            "unit": "g",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.105,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.151305
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 medium eggs",
+            "amount": "3.0",
+            "unit": "medium",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.15000000000000002,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.67605
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "150 ml (1/2 cup + 2 tbsp) milk",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.156,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.433836
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 tsp beef dripping or lard",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "beef dripping",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 0.5361300000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 tsp beef dripping or lard",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "lard",
+            "matched_ingredient": "Lard",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.06553800000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "pinch salt and pepper",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "120 g (1/2 cup) lard or duck fat",
+            "amount": "60.0",
+            "unit": "g",
+            "ingredient_name": "lard",
+            "matched_ingredient": "Lard",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.43692
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "120 g (1/2 cup) lard or duck fat",
+            "amount": "60.0",
+            "unit": "g",
+            "ingredient_name": "duck fat",
+            "matched_ingredient": "Duck",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.36551999999999996
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 kg (2.25 lbs) floury potatoes (such as Maris Piper or red-skinned Rooster potatoes)",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "floury potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.37
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tsp Maldon salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Maldon salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tbsp fresh thyme leaves",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "300 g (10.5 oz) Chantenay carrots",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "Chantenay carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.1095
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "2 tbsp salted butter",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "salted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.027330000000000004,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.07600473000000002
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/4 tsp white pepper",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "white pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0006374999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00029006249999999996
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 small cauliflower (broken into small florets)",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.005680999999999999
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "100 g (1 cup minus 1 tbsp) mature/strong Cheddar cheese",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "strong Cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "180 ml (3/4 cup) double (heavy) cream",
+            "amount": "180.0",
+            "unit": "ml",
+            "ingredient_name": "cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.50058
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1/4 tsp salt",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1/4 tsp black pepper",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "1 tbsp chopped fresh parsley",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "2 tbsp cornflour/cornstarch",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.024599999999999997,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.024304799999999998
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "5 tbsp cold water",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "cold water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "meat juices from your roasted beef",
+            "amount": "1.0",
+            "ingredient_name": "meat juices",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.124,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.044267999999999995
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "3 beef stock cubes (crumbled )",
+            "amount": "3.0",
+            "ingredient_name": "beef stock cubes",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "720 ml (3 cups) hot vegetable stock (from your boiled/steamed vegetables and potatoes)",
+            "amount": "720.0",
+            "unit": "ml",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.72,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0144
+        },
+        {
+            "ingredient_number": 30,
+            "original_string": "1/4 tsp salt",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 31,
+            "original_string": "1/4 tsp black pepper",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 32,
+            "original_string": "1/4 tsp gravy browning ((optional))",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "gravy browning",
+            "matched_ingredient": "Brown sauce",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        },
+        {
+            "ingredient_number": 33,
+            "original_string": "300 g (10.5 oz) tenderstem broccoli",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "tenderstem broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.1311
+        },
+        {
+            "ingredient_number": 34,
+            "original_string": "1 tbsp salted butter",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "salted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 35,
+            "original_string": "pinch salt and pepper",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 180C/350F (fan)."
+        },
+        {
+            "number": 2,
+            "instruction": "Drizzle the oil over the beef and season with the salt and pepper transfer to a roasting tin and place in oven (uncovered) for 1 hour and 15 minutes (for medium) or 1 hour and 30 minutes (for well done). Baste once, halfway through cooking."
+        },
+        {
+            "number": 3,
+            "instruction": "Prepare the Yorkshire pudding mixture."
+        },
+        {
+            "number": 4,
+            "instruction": "Place the flour in a jug and make a well in the centre."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the eggs and stir together with a balloon whisk, bringing the flour into the centre with the eggs bit by bit."
+        },
+        {
+            "number": 6,
+            "instruction": "Add in the milk and whisk again until combined. It’s fine if it’s a little bit lumpy."
+        },
+        {
+            "number": 7,
+            "instruction": "Place the jug in the fridge to chill (for at least 30 minutes)."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the lard/duck fat for the roast potatoes to a roasting tin."
+        },
+        {
+            "number": 9,
+            "instruction": "Add ½ tsp of beef dripping/lard to 8 holes of a 12-hole metal bun tin for the Yorkshire puddings."
+        },
+        {
+            "number": 10,
+            "instruction": "Peel the potatoes and chop them into chunky pieces a little bigger than a ping pong ball (approx 2 inches/5cm across). Peel the carrots, chop the cauliflower into florets and grate the cheese for the cauliflower cheese."
+        },
+        {
+            "number": 11,
+            "instruction": "Place the potatoes in a pan and cover with cold water."
+        },
+        {
+            "number": 12,
+            "instruction": "Place on the hob on a high heat and bring to the boil, then turn down the heat and simmer for 8-9 minutes - until softened at the edges."
+        },
+        {
+            "number": 13,
+            "instruction": "Meanwhile, place the potato roasting tin in the top of the oven (move the beef down) to heat the fat for 10 minutes."
+        },
+        {
+            "number": 14,
+            "instruction": "Drain the potatoes in a colander (save the potato water for the gravy) and give them a good shake to really roughen up the edges. Don&#39;t worry if a few break apart and they look overly fluffy. The more fluffy they are, the better they&#39;ll absorb the fat and the crispier they&#39;ll be. Put to one side."
+        },
+        {
+            "number": 15,
+            "instruction": "Bring a pan of water to the boil and place the cauliflower in a steam basket over the top."
+        },
+        {
+            "number": 16,
+            "instruction": "Place a lid on the pan (or you can place the cauliflower directly in the boiling water if you don&#39;t have a steam basket)."
+        },
+        {
+            "number": 17,
+            "instruction": "Turn the water down to a simmer and simmer for 5 minutes until the cauliflower is tender but not soggy."
+        },
+        {
+            "number": 18,
+            "instruction": "Drain the cauliflower."
+        },
+        {
+            "number": 19,
+            "instruction": "Open the oven and place the drained potatoes in the roasting tin, turn them in the fat."
+        },
+        {
+            "number": 20,
+            "instruction": "Place in oven for 25 minutes."
+        },
+        {
+            "number": 21,
+            "instruction": "By now, the beef should be almost ready (and it will need to rest while you prepare the rest of the meal). As soon as it’s done, take the beef out oven and turn the heat of the oven up to 220C/425F (fan)."
+        },
+        {
+            "number": 22,
+            "instruction": "Transfer the beef to a board, and cover it with foil and a couple of tea towels –  this will allow the meat to rest and keep warm for 30-40 minutes."
+        },
+        {
+            "number": 23,
+            "instruction": "Now it’s time to assemble the cauliflower cheese."
+        },
+        {
+            "number": 24,
+            "instruction": "Pour 2 tbsp of the cream into a baking dish and sprinkle on 2 tbsp of the grated cheese."
+        },
+        {
+            "number": 25,
+            "instruction": "Add half of the cauliflower, then top with half of the remaining cream and a quarter of the remaining cheese."
+        },
+        {
+            "number": 26,
+            "instruction": "Sprinkle on half of the salt and pepper."
+        },
+        {
+            "number": 27,
+            "instruction": "Top with the remaining cauliflower, then pour on the remaining cream."
+        },
+        {
+            "number": 28,
+            "instruction": "Sprinkle on the rest of the cheese, salt and pepper. Put to one side."
+        },
+        {
+            "number": 29,
+            "instruction": "Bring a pan of water to the boil for steaming the carrots and broccoli (if boiling the veg rather than steaming, add the carrots to the water now, whilst it’s cold. Make sure the water covers the carrots with about an inch of water to spare, so you can syphon off some of it for the gravy)."
+        },
+        {
+            "number": 30,
+            "instruction": "Turn over the roast potatoes in the oven and move to a lower shelf. Cook for a further 20-25 minutes, until golden."
+        },
+        {
+            "number": 31,
+            "instruction": "Add the Yorkshire pudding tin to the top of the oven."
+        },
+        {
+            "number": 32,
+            "instruction": "Heat for 5 minutes until the oil is very hot."
+        },
+        {
+            "number": 33,
+            "instruction": "Put the carrots in the steam basket and place a lid on. Steam for 20 minutes"
+        },
+        {
+            "number": 34,
+            "instruction": "Remove the Yorkshire pudding mixture from the fridge. Season with the salt and pepper and whisk together. Open the oven and pour the Yorkshire pudding mixture evenly into the Yorkshire pudding holes with the fat in."
+        },
+        {
+            "number": 35,
+            "instruction": "Place the cauliflower cheese at the top of the oven too. Close the oven door. Cook the Yorkshire puddings and cauliflower cheese for 20 minutes – until golden."
+        },
+        {
+            "number": 36,
+            "instruction": "Prepare a cornstarch slurry for the gravy by mixing the cornflour/cornstarch with the cold water in a small jug."
+        },
+        {
+            "number": 37,
+            "instruction": "Put broccoli on to steam or boil for 8-10 minutes – until tender."
+        },
+        {
+            "number": 38,
+            "instruction": "Now it’s time to make the gravy."
+        },
+        {
+            "number": 39,
+            "instruction": "Place the meat roasting tray on the hob (make sure it’s hob-proof) and start to heat."
+        },
+        {
+            "number": 40,
+            "instruction": "Sprinkle on the crumbled stock cubes."
+        },
+        {
+            "number": 41,
+            "instruction": "Add the reserved water from boiling the potatoes (approx. 2-3 cups/480ml-720ml) and stir, whilst heating on a high heat until bubbling. Scrape up any bits from the pan and mix in. This is where the meaty flavour comes from."
+        },
+        {
+            "number": 42,
+            "instruction": "Top up with more water from the vegetable steam pan (carefully) if more gravy is needed. Once bubbling, slowly add the cornstarch slurry, a splash at a time, whilst stirring with the whisk, until the gravy is the desired consistency. Stir in a little gravy browning if you’d like the gravy to be darker. Leave on a very low heat to keep warm."
+        },
+        {
+            "number": 43,
+            "instruction": "Transfer the meat from the board to a warm serving plate – ready for carving at the table. If there are any meat juices on the board, you can add these to the gravy."
+        },
+        {
+            "number": 44,
+            "instruction": "Drain the carrots and broccoli."
+        },
+        {
+            "number": 45,
+            "instruction": "Place in a serving bowl and top with butter and a sprinkle of white pepper for the carrots, and butter with salt and pepper for the broccoli."
+        },
+        {
+            "number": 46,
+            "instruction": "Remove the Yorkshire puddings and roasted potatoes from the oven and transfer them to serving dishes."
+        },
+        {
+            "number": 47,
+            "instruction": "Remove cauliflower cheese from the oven and sprinkle fresh parsley on top."
+        },
+        {
+            "number": 48,
+            "instruction": "Carefully pour the gravy into a gravy jug."
+        },
+        {
+            "number": 49,
+            "instruction": "Time to serve!"
+        }
+    ]
+}

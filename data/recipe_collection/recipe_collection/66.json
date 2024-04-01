@@ -1,0 +1,131 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/ragudipomodoro_70563",
+    "title": "Tomato ragù",
+    "total_CO2": 0.48414380000000007,
+    "servings": 4,
+    "CO2_per_portion": 0.12103595000000002,
+    "E.Mission coefficient": 0.5944426299957027,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 x 800g tin plum tomatoes (or 2 x 400g tins)",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.11249999999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 celery sticks",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 carrots",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 onions",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 bay leaf (dried is fine)",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 glass of water",
+            "amount": "1.0",
+            "unit": "glass",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "handful of basil leaves (optional)",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Finely chop the celery, carrots and onions, fry them gently in a large tall pan in olive oil until softened and golden-brown."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the tomatoes, basil, bay leaf, tomato purée, water, salt and freshly ground black pepper."
+        },
+        {
+            "number": 3,
+            "instruction": "Mix well, cover with a lid and allow to simmer on a low heat for approximately 30 minutes. (Make sure you stir occasionally). You can blend this sauce with a handheld stick blender (removing the bay leaf first!) or leave it chunky."
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "url": "https://www.vegrecipesofindia.com/palak-paneer/",
+    "title": "palak paneer , how to make palak paneer | paneer s",
+    "total_CO2": 2.73520061,
+    "servings": 4,
+    "CO2_per_portion": 0.6838001525,
+    "E.Mission coefficient": 4.368736848830431,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 bay leaf/tej patta",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp kasuri methi leaves/dry fenugreek leaves (optional)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "kasuri methi leaves",
+            "matched_ingredient": "Fenugreek leaves",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002275
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 tsp garam masala powder (add more if required)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garam masala powder",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4-5 garlic, finely chopped",
+            "amount": "4.0",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0079
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp oil or ghee or unsalted butter",
+            "amount": "0.6666666666666666",
+            "unit": "tbsp",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.009200000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0352176
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp oil or ghee or unsalted butter",
+            "amount": "0.6666666666666666",
+            "unit": "tbsp",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.00911,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.025334910000000002
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 inch ginger, roughly chopped",
+            "amount": "0.5",
+            "unit": "inch",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 small or medium onion, finely chopped",
+            "amount": "0.5",
+            "unit": "medium",
+            "ingredient_name": "small",
+            "matched_ingredient": "Porridge oat",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 small or medium onion, finely chopped",
+            "amount": "0.5",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "200 g paneer or tofu",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "paneer",
+            "matched_ingredient": "Paneer",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "200 g paneer or tofu",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.2871
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "salt as required",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 bunch fresh spinach/palak",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 small or medium tomato, chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4 tsp turmeric powder",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "turmeric powder",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "water as required",
+            "amount": "1.0",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 or 3/4 tsp cumin seeds",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "rinse the spinach very wall in water.boil water in a pan with some salt.switch off the fire and add the spinach leaves in the hot water.close with a lid and let the spinach leaves sit in the water for 2-3 mins.drain and immediately add the leaves in a pan or bowl containing ice cold water.this helps in preserving the green color of the spinach.drain and then puree the spinach in a blender or hand blender with ginger, garlic and green chilies.make a smooth puree.heat oil or ghee in a pan or kadai.fry the cumin first.then add the bay leaves and onions.fry till the onions become browned.now add the garlic and tomatoes.fry till the tomatoes become soft.add the turmeric powder, red chili powder and asafoetida.stir and fry for some seconds.add the spinach puree.add some water if required.simmer for 6-7 minutes or more till the spinach is cooked.lastly add salt and garam masala.stir and add the paneer cubes.cook the gravy till the paneer cubes become soft and succulent.add cream and stir.simmer for 30 seconds or a minute.at this stage you can also add some crushed kasuri methi leaves.stir and serve the palak paneer hot with some rotis, naan or jeera rice.you can top the palak paneer with some butter or cream also while serving."
+        }
+    ]
+}

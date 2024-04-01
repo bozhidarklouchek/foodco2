@@ -1,0 +1,155 @@
+{
+    "url": "https://www.hellofresh.co.uk/recipes/ginger-beef-noodles-5c62aac8c445fa170835f4d2",
+    "title": "Ginger Beef Noodles with Green Beans and Red Pepper",
+    "total_CO2": 3892.1462003,
+    "servings": 2,
+    "CO2_per_portion": 1946.07310015,
+    "E.Mission coefficient": 58.0243567961382,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "240 Beef Mince",
+            "amount": "240.0",
+            "ingredient_name": "Beef Mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 65.28,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 3888.7296
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Bell Pepper",
+            "amount": "1.0",
+            "ingredient_name": "Bell Pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "150 Green Beans",
+            "amount": "150.0",
+            "ingredient_name": "Green Beans",
+            "matched_ingredient": "Green bean",
+            "kg_equivalent": 0.9,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 1.449
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "25 Soy Sauce",
+            "amount": "25.0",
+            "ingredient_name": "Soy Sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.36560000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 Garlic Clove",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "Garlic Clove",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 Egg Noodle Nest",
+            "amount": "2.0",
+            "ingredient_name": "Egg Noodle Nest",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.34,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.53238
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 Lime",
+            "amount": "0.5",
+            "ingredient_name": "Lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Ginger",
+            "amount": "1.0",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "25 Ketjap Manis",
+            "amount": "25.0",
+            "ingredient_name": "Manis",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 Coriander",
+            "amount": "1.0",
+            "ingredient_name": "Coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 Sugar",
+            "amount": "0.5",
+            "ingredient_name": "Sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0023,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0035328
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pop the kettle on to boil for water to use for the noodles. Trim the green beans then chop into thirds. Halve the pepper and discard the core and seeds. Slice into thin strips. Zest and quarter the lime. Peel and grate the ginger. Peel and grate the garlic (or use a garlic press). Roughly chop the coriander (stalks and all)."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat a splash of oil in a large frying pan over medium-high heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the mince and stir-fry until browned, 6-8 mins. Break it up with a wooden spoon as it cooks. When the beef is cooked, transfer to a small bowl, mix in the ketjap manis and half of the soy sauce and set to one side. Keep the pan! IMPORTANT: The beef is safe to eat when browned all over and no longer pink in the middle."
+        },
+        {
+            "number": 4,
+            "instruction": "In the meantime, pour the boiled water into a large saucepan over high heat with 0.5 tsp of salt. Stir in the noodles, bring back to the boil then cook the noodles until tender, 4 mins. Once cooked, drain in a sieve and run under cold water to stop them from sticking together."
+        },
+        {
+            "number": 5,
+            "instruction": "Return the now empty frying pan to medium heat, adding another splash of oil if dry. Once hot, add the pepper, green beans and a small splash of water to help them cook. Stir-fry until tender, . Stir in the ginger and garlic. Cook for 1 minute then stir in the remaining soy sauce and sugar (see ingredients for amount)."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the beef mince back into the pan and stir in the noodles. Toss to coat and continue to cook until everything is piping hot, 2-3 mins. Once hot, remove the pan from the heat and stir in the lime zest, juice from half the lime and half the coriander. Season to taste with salt and pepper."
+        },
+        {
+            "number": 7,
+            "instruction": "Divide the noodles between your bowls and sprinkle over the remaining coriander."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve with the remaining wedges of lime on the side to squeeze on top! Enjoy!"
+        }
+    ]
+}

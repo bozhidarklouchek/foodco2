@@ -1,0 +1,94 @@
+{
+    "url": "https://www.aldi.us/en/recipes/lunch-dinner/beef-lamb/argentinian-skirt-steak-tacos/",
+    "title": "Homepage",
+    "total_CO2": 0.0,
+    "servings": 6,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Argentinian Skirt Steak Tacos",
+            "amount": "1.0",
+            "ingredient_name": "Skirt Steak Tacos",
+            "matched_ingredient": "Corn tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "5 minutes (plus 4 hours to marinate)",
+            "amount": "5.0",
+            "ingredient_name": "minutes",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "12 minutes",
+            "amount": "12.0",
+            "ingredient_name": "minutes",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "17 minutes (plus 4 hours to marinate)",
+            "amount": "17.0",
+            "ingredient_name": "minutes",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "6",
+            "amount": "6.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "For the chimichurri: In a blender combine all ingredients except canola oil and process until smooth. With blender on lowest setting, drizzle in canola oil until fully incorporated."
+        },
+        {
+            "number": 2,
+            "instruction": "Marinate skirt steak in chimichurri sauce for at least 4 hours."
+        },
+        {
+            "number": 3,
+            "instruction": "Using the lid of the Crofton Cast Iron 2-in-1 Pot, coat with cooking spray and place over medium heat."
+        },
+        {
+            "number": 4,
+            "instruction": "In a single layer, place steaks in pan, cooking 4-6 minutes per side or until done to preference."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, in a medium skillet over medium-low heat, place tortillas in pan for 10-15 seconds per side to warm."
+        },
+        {
+            "number": 6,
+            "instruction": "Dice steak, and place into warmed tortillas."
+        },
+        {
+            "number": 7,
+            "instruction": "Garnish with recommended toppings."
+        },
+        {
+            "number": 8,
+            "instruction": "Tip: If you are unable to locate Chihuahua cheese, mild or white cheddar are perfect substitutes!"
+        }
+    ]
+}

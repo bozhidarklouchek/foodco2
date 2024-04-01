@@ -1,0 +1,192 @@
+{
+    "url": "https://www.olivemagazine.com/recipes/vegetarian/roasted-butternut-squash-with-goats-cheese/",
+    "title": "Roasted butternut squash with goat's cheese",
+    "total_CO2": 3.37848885,
+    "servings": 4,
+    "CO2_per_portion": 0.8446222125,
+    "E.Mission coefficient": 3.209889408802641,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 butternut squash, small",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "butternut squash",
+            "matched_ingredient": "Butternut squash",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 clove garlic, crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "a pinch dried chilli flakes",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp thyme, chopped",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 courgette, cut into 2cm chunks",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 red pepper, cut into 2cm chunks",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 small red onions, cut into thin wedges",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 g cherry tomatoes",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.28540000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "50 g pine nuts",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "pine nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.013900000000000003
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "100 g goat's cheese, crumbled",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "goat's cheese",
+            "matched_ingredient": "Goat",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 2.4415
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp breadcrumbs",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.00626835
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tbsp parsley, chopped",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tbsp parmesan",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0051,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.108324
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oven to 200C/fan 180C/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Cut the squash in half and scoop out the seeds then cut criss-cross patterns over the cut-side of each one."
+        },
+        {
+            "number": 3,
+            "instruction": "Mix together the garlic, 2 tbsp olive oil, chilli and thyme and brush this mixture over theflesh."
+        },
+        {
+            "number": 4,
+            "instruction": "Bake for about 30-40 minutes until the flesh is tender."
+        },
+        {
+            "number": 5,
+            "instruction": "To make the filling, put the courgette, pepper and onion in a roasting tin and drizzle with 1 tbsp olive oil. Season and roast for about 20-25 minutes until tender and starting to brown at the edges."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the cherry tomatoes and pine nuts and cook for another 10 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Mix the breadcrumbs, parsley and parmesan. Arrange the roasted vegetables and goat’s cheese in the squash halves, scatter with the breadcrumb mix and bake for a further 10 minutes or until golden and bubbling."
+        }
+    ]
+}

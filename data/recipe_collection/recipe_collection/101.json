@@ -1,0 +1,206 @@
+{
+    "url": "https://www.jessicagavin.com/japchae-korean-glass-noodles-tofu/",
+    "title": "Japchae Korean Glass Noodles with Tofu",
+    "total_CO2": 0.9754133156166251,
+    "servings": 4,
+    "CO2_per_portion": 0.24385332890415629,
+    "E.Mission coefficient": 1.0208806211965615,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 cup shredded carrots",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "shredded carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.063878823855,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.023315770707075
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 cloves garlic, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tablespoons honey",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.040158
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/4 cup low sodium soy sauce or tamari",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.0295735295625,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.027030206020125
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 cup low sodium soy sauce or tamari",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "tamari",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.0295735295625,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.022180147171874998
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 scallion stalks, cut into 1-inch pieces",
+            "amount": "2.0",
+            "unit": "inch",
+            "ingredient_name": "scallion stalks",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 1/2 teaspoons sesame oil",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.006922500000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.024969457500000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon sesame seeds",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0004448000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "6 shiitake mushrooms, stems removed and thinly sliced",
+            "amount": "6.0",
+            "unit": "stems",
+            "ingredient_name": "shiitake mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.15000000000000002,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.06825000000000002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 ounces fresh spinach",
+            "amount": "4.0",
+            "unit": "ounces",
+            "ingredient_name": "fresh spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0495549664225
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "8 ounces sweet potato starch noodles",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "sweet potato starch noodles",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08391458845000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup diced firm tofu (7 ounces)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "diced firm tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.18927058920000003,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.5433958615932001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tablespoon vegetable oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 cup thinly sliced yellow onion",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.05204941203,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.020559517751850002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a medium sized bowl whisk together soy sauce and honey."
+        },
+        {
+            "number": 2,
+            "instruction": "Add in tofu, gently stir to coat and allow to marinate while you prepare other ingredients.Bring a large pot of water to boil, enough to fit the noodles. Cook noodles in boiling water for 5 minutes. Do not discard water. You will use it for blanching the spinach. Use tongs to transfer to a colander and rinse noodles under cool running water."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut the noodles into 6-inch long pieces with scissors. Set aside.Blanch spinach in the same pot of water that you cooked the noodles for 1 minute, until wilted."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain the water and rinse under cold running water. For spinach into a ball and squeeze out excess water. Use a knife to cut the spinach ball in half. Set aside."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat a large saute pan over medium-high heat."
+        },
+        {
+            "number": 6,
+            "instruction": "Add 1 tablespoon oil and allow to heat up."
+        },
+        {
+            "number": 7,
+            "instruction": "Add onion, garlic, mushrooms, and carrot, saute for 2 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Add scallion and saute 1 minute."
+        },
+        {
+            "number": 9,
+            "instruction": "Add tofu and cook 1 minute to warm (do not discard sauce). Turn heat to low and add noodles, spinach, sesame oil and sauce. Gently stir to combine until noodles are coated with the sauce."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve topped with sesame seeds."
+        }
+    ]
+}

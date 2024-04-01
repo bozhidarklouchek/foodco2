@@ -1,0 +1,339 @@
+{
+    "url": "https://www.theguardian.com/food/2020/aug/23/nigel-slater-recipes-freekeh-with-summer-vegetables-and-labneh-with-sesame",
+    "title": "Nigel Slater's for freekeh and labneh",
+    "total_CO2": 23.7812011,
+    "servings": 4,
+    "CO2_per_portion": 5.945300275,
+    "E.Mission coefficient": 0.46163979840676317,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Freekeh with summer vegetables",
+            "amount": "1.0",
+            "ingredient_name": "summer vegetables",
+            "matched_ingredient": "Summer squash",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "carrots 15, young, slim",
+            "amount": "0.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "beetroots 3, young",
+            "amount": "0.0",
+            "ingredient_name": "beetroots 3",
+            "matched_ingredient": "Beetroot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "red onions 2",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "olive oil 3 tbsp",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "freekeh (roasted green wheat) 200g",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "roasted green wheat",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0874
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "vegetable stock 500 ml",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.01
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "bay leaves 2",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "cinnamon stick 1",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "cardamom pods 5",
+            "amount": "5.0",
+            "ingredient_name": "cardamom pods",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "coriander leaves a handful",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "mint about 20 medium-sized leaves",
+            "amount": "20.0",
+            "unit": "leaves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "parsley a small bunch",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "parsley a",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Toss the coriander, mint and parsley leaves with the freekeh and vegetables. Check the seasoning and serve with seeded labneh.",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "The labneh will keep for several days in the fridge.",
+            "amount": "1.0",
+            "ingredient_name": "neh",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Labneh with sesame and pumpkin seeds",
+            "amount": "1.0",
+            "ingredient_name": "pumpkin seeds",
+            "matched_ingredient": "Pumpkin seed",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.037500000000000006
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Seedy customer: labneh with sesame and pumpkin seeds. Photograph: Jonathan Lovekin/The Observer",
+            "amount": "1.0",
+            "ingredient_name": "pumpkin seeds",
+            "matched_ingredient": "Pumpkin seed",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.037500000000000006
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "I make this to accompany the wheat pilau above, but its uses are myriad. It keeps in a covered jar in the fridge for days.",
+            "amount": "1.0",
+            "ingredient_name": "wheat pilau",
+            "matched_ingredient": "Pilau rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "cucumber 250 g",
+            "amount": "250.0",
+            "ingredient_name": "cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 50.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 22.75
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "pumpkin seeds 3 tbsp",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "pumpkin seeds",
+            "matched_ingredient": "Pumpkin seed",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.03375
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "black sesame seeds 2 tbsp",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "black sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0026688
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "white sesame seeds 2 tbsp",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "white sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0026688
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "labneh 400 g",
+            "amount": "400.0",
+            "ingredient_name": "labneh",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "olive oil 4 tbsp",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.054900000000000004,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.32632560000000005
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "sumac a pinch",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "sumac a",
+            "matched_ingredient": "Fenugreek leaves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "Halve the cucumber lengthways and scoop out the seeds with a teaspoon. Using the coarse side of a grater, grate the cucumber into a sieve then suspend it over a bowl and leave to drain.",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "seeds",
+            "matched_ingredient": "Seed",
+            "kg_equivalent": 0.00315,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0008757000000000001
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "In a dry, shallow pan toast the pumpkin seeds over a moderate heat for a few minutes till fragrant. Add the sesame seeds and continue for a couple of minutes then tip the lot into the labneh.",
+            "amount": "1.0",
+            "ingredient_name": "pumpkin seeds",
+            "matched_ingredient": "Pumpkin seed",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.037500000000000006
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "Serve the labneh in a bowl with the freekeh above.",
+            "amount": "1.0",
+            "ingredient_name": "labneh",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Halve the cucumber lengthways and scoop out the seeds with a teaspoon. Using the coarse side of a grater, grate the cucumber into a sieve then suspend it over a bowl and leave to drain."
+        },
+        {
+            "number": 2,
+            "instruction": "In a dry, shallow pan toast the pumpkin seeds over a moderate heat for a few minutes till fragrant."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the sesame seeds and continue for a couple of minutes then tip the lot into the labneh."
+        },
+        {
+            "number": 4,
+            "instruction": "Squeeze the grated cucumber between your hands to remove as much of the moisture as you can, then add the cucumber to the labneh. Stir everything gently together with a fork, then trickle the olive oil over the surface."
+        },
+        {
+            "number": 5,
+            "instruction": "Sprinkle a pinch of sumac on the top."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve the labneh in a bowl with the freekeh above."
+        },
+        {
+            "number": 7,
+            "instruction": "Follow Nigel on Twitter @Nigel"
+        },
+        {
+            "number": 8,
+            "instruction": "Slater"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/classic-jacket-potatoes",
+    "title": "Classic jacket potatoes",
+    "total_CO2": 2.3638776,
+    "servings": 4,
+    "CO2_per_portion": 0.5909694,
+    "E.Mission coefficient": 2.2617591733244025,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tsp olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 large baking potatoes",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "baking potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.68,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.2516
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "200 ml soured cream",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "soured cream",
+            "matched_ingredient": "Soured cream",
+            "kg_equivalent": 0.182,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.506142
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "50 g cheddar, grated",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 crispy bacon rashers, chopped",
+            "amount": "4.0",
+            "ingredient_name": "crispy bacon rashers",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.064,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.466048
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "4 spring onions, thinly sliced",
+            "amount": "4.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0237
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oven to 220C/200C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Rub the olive oil over the potatoes and put on the top shelf of the oven. "
+        },
+        {
+            "number": 3,
+            "instruction": "Bake for 20 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "Turn down the oven to 190C/170C fan/gas 5 and bake for 45 mins-1 hr until the skin is crisp and the flesh soft."
+        },
+        {
+            "number": 5,
+            "instruction": "Cut a cross on top of each potato, squeeze the sides, add the soured cream and your favourite toppings."
+        }
+    ]
+}

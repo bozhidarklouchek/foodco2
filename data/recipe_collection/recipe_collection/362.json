@@ -1,0 +1,158 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/greek-lamb-orzo",
+    "title": "Greek lamb with orzo",
+    "total_CO2": 273.76461845,
+    "servings": 6,
+    "CO2_per_portion": 45.62743640833333,
+    "E.Mission coefficient": 1.5834402020795604,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 kg shoulder of lamb",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "lamb",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 24.415
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 onions, sliced",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp chopped oregano, or 1 tsp dried",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 tsp ground cinnamon",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "ground cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 cinnamon sticks, broken in half",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.008400000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0038220000000000007
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g can chopped tomato",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1.2 l hot low-sodium chicken or vegetable stock",
+            "amount": "0.6",
+            "unit": "l",
+            "ingredient_name": "hot low-sodium chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.54,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.28968
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1.2 l hot low-sodium chicken or vegetable stock",
+            "amount": "0.6",
+            "unit": "l",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.012
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g orzo (see know-how below)",
+            "amount": "400.0",
+            "ingredient_name": "orzo",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 170.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 244.97
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "freshly grated parmesan, to serve",
+            "amount": "1.0",
+            "ingredient_name": "grated parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 180C/fan 160C/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Cut the lamb into 4cm chunks, then spread over the base of a large, wide casserole dish."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the onions, oregano, cinnamon sticks, ground cinnamon and olive oil, then stir well."
+        },
+        {
+            "number": 4,
+            "instruction": "Bake, uncovered, for 45 mins, stirring halfway."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour over the chopped tomatoes and stock, cover tightly, then return to the oven for 1½ hrs, until the lamb is very tender."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the cinnamon sticks, then stir in the orzo. Cover again, then cook for a further 20 mins, stirring halfway through. The orzo should be cooked and the sauce thickened."
+        },
+        {
+            "number": 7,
+            "instruction": "Sprinkle with grated Parmesan and serve with crusty bread."
+        }
+    ]
+}

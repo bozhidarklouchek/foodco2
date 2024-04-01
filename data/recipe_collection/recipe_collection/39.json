@@ -1,0 +1,184 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/easy-chicken-fajitas",
+    "title": "Easy chicken fajitas",
+    "total_CO2": 2.8677756000000003,
+    "servings": 4,
+    "CO2_per_portion": 0.7169439000000001,
+    "E.Mission coefficient": 2.975179582944289,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 chicken breasts, finely sliced",
+            "amount": "2.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.31,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.88852
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 red onion, finely sliced",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 red pepper, sliced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 red chilli, finely sliced (optional)",
+            "amount": "1.0",
+            "ingredient_name": "red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "smoked paprika",
+            "amount": "1.0",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp ground coriander",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.18186
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "ground cumin",
+            "amount": "1.0",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 tbsp olive oil",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.054900000000000004,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.32632560000000005
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 lime, juiced",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Tabasco",
+            "amount": "1.0",
+            "ingredient_name": "Tabasco",
+            "matched_ingredient": "Babaco",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "8 tortillas",
+            "amount": "8.0",
+            "ingredient_name": "tortillas",
+            "matched_ingredient": "Corn tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "mixed salad",
+            "amount": "1.0",
+            "ingredient_name": "salad",
+            "matched_ingredient": "Salad",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "230 g fresh salsa",
+            "amount": "230.0",
+            "unit": "g",
+            "ingredient_name": "fresh salsa",
+            "matched_ingredient": "Salsa",
+            "kg_equivalent": 0.23,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.32821
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas 6 and wrap 8 medium tortillas in foil."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix 1 heaped tbsp smoked paprika, 1 tbsp ground coriander, a pinch of ground cumin, 2 crushed garlic cloves, 4 tbsp olive oil, the juice of 1 lime and 4-5 drops Tabasco together in a bowl with a big pinch each of salt and pepper."
+        },
+        {
+            "number": 3,
+            "instruction": "Stir 2 finely sliced chicken breasts, 1 finely sliced red onion, 1 sliced red pepper and 1 finely sliced red chilli, if using, into the marinade."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat a griddle pan until smoking hot and add the chicken and marinade to the pan."
+        },
+        {
+            "number": 5,
+            "instruction": "Keep everything moving over a high heat for about 5 mins using tongs until you get a nice charred effect. If your griddle pan is small you may need to do this in two batches."
+        },
+        {
+            "number": 6,
+            "instruction": "To check the chicken is cooked, find the thickest part and tear in half – if any part is still raw cook until done."
+        },
+        {
+            "number": 7,
+            "instruction": "Put the tortillas in the oven to heat up and serve with the cooked chicken, a bag of mixed salad and one 230g tub of fresh salsa."
+        }
+    ]
+}

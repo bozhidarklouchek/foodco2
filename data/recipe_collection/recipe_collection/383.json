@@ -1,0 +1,964 @@
+{
+    "url": "https://thehappyfoodie.co.uk/recipes/mary-berrys-braised-lamb-with-sweet-potato-and-haricot-beans",
+    "title": "Mary Berry’s Braised Lamb with Sweet Potato and Haricot Beans",
+    "total_CO2": 19.222448,
+    "servings": 6,
+    "CO2_per_portion": 3.2037413333333333,
+    "E.Mission coefficient": 13.79931658291457,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Chicken",
+            "amount": "1.0",
+            "ingredient_name": "whole chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Beef",
+            "amount": "1.0",
+            "ingredient_name": "Beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Salmon",
+            "amount": "1.0",
+            "ingredient_name": "Salmon",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 0.34,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 1.7622200000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Aubergine",
+            "amount": "1.0",
+            "ingredient_name": "Aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Banana",
+            "amount": "1.0",
+            "ingredient_name": "Banana",
+            "matched_ingredient": "Banana",
+            "kg_equivalent": 0.126,
+            "carbon_per_kg": 0.678,
+            "ingredient_carbon": 0.085428
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Chocolate",
+            "amount": "1.0",
+            "ingredient_name": "Chocolate",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Mary Berry Lamb, Sweet Potato & Bean Stew | BBC2 Simple Comforts"
+        },
+        {
+            "number": 2,
+            "instruction": "Skip to content"
+        },
+        {
+            "number": 3,
+            "instruction": "Recipes"
+        },
+        {
+            "number": 4,
+            "instruction": "Books"
+        },
+        {
+            "number": 5,
+            "instruction": "Features"
+        },
+        {
+            "number": 6,
+            "instruction": "Authors"
+        },
+        {
+            "number": 7,
+            "instruction": "eBook Deals"
+        },
+        {
+            "number": 8,
+            "instruction": "Christmas"
+        },
+        {
+            "number": 9,
+            "instruction": "Follow us"
+        },
+        {
+            "number": 10,
+            "instruction": "Explore our Christmas 2023 gift guide"
+        },
+        {
+            "number": 11,
+            "instruction": "Recipes"
+        },
+        {
+            "number": 12,
+            "instruction": "Books"
+        },
+        {
+            "number": 13,
+            "instruction": "Features"
+        },
+        {
+            "number": 14,
+            "instruction": "Authors"
+        },
+        {
+            "number": 15,
+            "instruction": "Christmas"
+        },
+        {
+            "number": 16,
+            "instruction": "Deals"
+        },
+        {
+            "number": 17,
+            "instruction": "Feed your appetite for cooking with Penguin’s expert authors"
+        },
+        {
+            "number": 18,
+            "instruction": "Authors"
+        },
+        {
+            "number": 19,
+            "instruction": "Jamie Oliver"
+        },
+        {
+            "number": 20,
+            "instruction": "Nigella Lawson"
+        },
+        {
+            "number": 21,
+            "instruction": "Mary Berry"
+        },
+        {
+            "number": 22,
+            "instruction": "Rick Stein"
+        },
+        {
+            "number": 23,
+            "instruction": "Yotam Ottolenghi"
+        },
+        {
+            "number": 24,
+            "instruction": "Rukmini Iyer"
+        },
+        {
+            "number": 25,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 26,
+            "instruction": "Chicken"
+        },
+        {
+            "number": 27,
+            "instruction": "Beef"
+        },
+        {
+            "number": 28,
+            "instruction": "Salmon"
+        },
+        {
+            "number": 29,
+            "instruction": "Courgette"
+        },
+        {
+            "number": 30,
+            "instruction": "Aubergine"
+        },
+        {
+            "number": 31,
+            "instruction": "Apple"
+        },
+        {
+            "number": 32,
+            "instruction": "Banana"
+        },
+        {
+            "number": 33,
+            "instruction": "Chocolate"
+        },
+        {
+            "number": 34,
+            "instruction": "Dishes"
+        },
+        {
+            "number": 35,
+            "instruction": "Curry"
+        },
+        {
+            "number": 36,
+            "instruction": "Pasta"
+        },
+        {
+            "number": 37,
+            "instruction": "Soup"
+        },
+        {
+            "number": 38,
+            "instruction": "Salad"
+        },
+        {
+            "number": 39,
+            "instruction": "Cake"
+        },
+        {
+            "number": 40,
+            "instruction": "Diet"
+        },
+        {
+            "number": 41,
+            "instruction": "Vegetarian"
+        },
+        {
+            "number": 42,
+            "instruction": "Vegan"
+        },
+        {
+            "number": 43,
+            "instruction": "Gluten-Free"
+        },
+        {
+            "number": 44,
+            "instruction": "More"
+        },
+        {
+            "number": 45,
+            "instruction": "Baking"
+        },
+        {
+            "number": 46,
+            "instruction": "Family Friendly"
+        },
+        {
+            "number": 47,
+            "instruction": "Quick"
+        },
+        {
+            "number": 48,
+            "instruction": "Easy"
+        },
+        {
+            "number": 49,
+            "instruction": "Freezer Friendly"
+        },
+        {
+            "number": 50,
+            "instruction": "One Pot"
+        },
+        {
+            "number": 51,
+            "instruction": "Get our weekly email"
+        },
+        {
+            "number": 52,
+            "instruction": "Recipes, book news, deals and more"
+        },
+        {
+            "number": 53,
+            "instruction": "Get our weekly email"
+        },
+        {
+            "number": 54,
+            "instruction": "Recipes"
+        },
+        {
+            "number": 55,
+            "instruction": "Books"
+        },
+        {
+            "number": 56,
+            "instruction": "Features"
+        },
+        {
+            "number": 57,
+            "instruction": "Authors"
+        },
+        {
+            "number": 58,
+            "instruction": "Christmas"
+        },
+        {
+            "number": 59,
+            "instruction": "Deals"
+        },
+        {
+            "number": 60,
+            "instruction": "Authors"
+        },
+        {
+            "number": 61,
+            "instruction": "Jamie Oliver"
+        },
+        {
+            "number": 62,
+            "instruction": "Nigella Lawson"
+        },
+        {
+            "number": 63,
+            "instruction": "Mary Berry"
+        },
+        {
+            "number": 64,
+            "instruction": "Rick Stein"
+        },
+        {
+            "number": 65,
+            "instruction": "Yotam Ottolenghi"
+        },
+        {
+            "number": 66,
+            "instruction": "Rukmini Iyer"
+        },
+        {
+            "number": 67,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 68,
+            "instruction": "Chicken"
+        },
+        {
+            "number": 69,
+            "instruction": "Beef"
+        },
+        {
+            "number": 70,
+            "instruction": "Salmon"
+        },
+        {
+            "number": 71,
+            "instruction": "Courgette"
+        },
+        {
+            "number": 72,
+            "instruction": "Aubergine"
+        },
+        {
+            "number": 73,
+            "instruction": "Apple"
+        },
+        {
+            "number": 74,
+            "instruction": "Banana"
+        },
+        {
+            "number": 75,
+            "instruction": "Chocolate"
+        },
+        {
+            "number": 76,
+            "instruction": "Dishes"
+        },
+        {
+            "number": 77,
+            "instruction": "Curry"
+        },
+        {
+            "number": 78,
+            "instruction": "Pasta"
+        },
+        {
+            "number": 79,
+            "instruction": "Soup"
+        },
+        {
+            "number": 80,
+            "instruction": "Salad"
+        },
+        {
+            "number": 81,
+            "instruction": "Cake"
+        },
+        {
+            "number": 82,
+            "instruction": "Diet"
+        },
+        {
+            "number": 83,
+            "instruction": "Vegetarian"
+        },
+        {
+            "number": 84,
+            "instruction": "Vegan"
+        },
+        {
+            "number": 85,
+            "instruction": "Gluten-Free"
+        },
+        {
+            "number": 86,
+            "instruction": "More"
+        },
+        {
+            "number": 87,
+            "instruction": "Baking"
+        },
+        {
+            "number": 88,
+            "instruction": "Family Friendly"
+        },
+        {
+            "number": 89,
+            "instruction": "Quick"
+        },
+        {
+            "number": 90,
+            "instruction": "Easy"
+        },
+        {
+            "number": 91,
+            "instruction": "Freezer Friendly"
+        },
+        {
+            "number": 92,
+            "instruction": "One Pot"
+        },
+        {
+            "number": 93,
+            "instruction": "Recipes>Bean Recipes"
+        },
+        {
+            "number": 94,
+            "instruction": "Mary Berry’s Braised Lamb with Sweet Potato and Haricot Beans"
+        },
+        {
+            "number": 95,
+            "instruction": "by Mary Berry"
+        },
+        {
+            "number": 96,
+            "instruction": "from Simple Comforts"
+        },
+        {
+            "number": 97,
+            "instruction": "Serves 6"
+        },
+        {
+            "number": 98,
+            "instruction": "Print"
+        },
+        {
+            "number": 99,
+            "instruction": "Mary Berry's substantial and comforting stew, as seen on the BBC2 series Simple Comforts, is guaranteed to fill the family up with tender chunks of lamb, sweet potato and haricot beans."
+        },
+        {
+            "number": 100,
+            "instruction": "From the book"
+        },
+        {
+            "number": 101,
+            "instruction": "Simple Comforts"
+        },
+        {
+            "number": 102,
+            "instruction": "Mary Berry"
+        },
+        {
+            "number": 103,
+            "instruction": "Simple Comforts"
+        },
+        {
+            "number": 104,
+            "instruction": "Heart-warming comfort dishes from the nation's favourite cook"
+        },
+        {
+            "number": 105,
+            "instruction": "With easy, family-friendly recipes as well as all-out weekend feasts"
+        },
+        {
+            "number": 106,
+            "instruction": "Including chapters full of indulgent bakes and sweet treats"
+        },
+        {
+            "number": 107,
+            "instruction": "Buy Book"
+        },
+        {
+            "number": 108,
+            "instruction": "amazon"
+        },
+        {
+            "number": 109,
+            "instruction": "hive"
+        },
+        {
+            "number": 110,
+            "instruction": "waterstones"
+        },
+        {
+            "number": 111,
+            "instruction": "Ebook deal this week"
+        },
+        {
+            "number": 112,
+            "instruction": "Simple Comforts"
+        },
+        {
+            "number": 113,
+            "instruction": "£1.99"
+        },
+        {
+            "number": 114,
+            "instruction": "Available for £1.99 for UK customers for a limited time only."
+        },
+        {
+            "number": 115,
+            "instruction": "Introduction"
+        },
+        {
+            "number": 116,
+            "instruction": "A hearty family stew, this is full of flavour and perfect for feeding a crowd. If an extra person turns up unexpectedly, just add another can of drained beans!"
+        },
+        {
+            "number": 117,
+            "instruction": "Catch all of your favourite recipes from Mary's new series, Simple Comforts, here."
+        },
+        {
+            "number": 118,
+            "instruction": "Read more"
+        },
+        {
+            "number": 119,
+            "instruction": "Read less"
+        },
+        {
+            "number": 120,
+            "instruction": "Tags"
+        },
+        {
+            "number": 121,
+            "instruction": "Bean"
+        },
+        {
+            "number": 122,
+            "instruction": "LambSweet Potato"
+        },
+        {
+            "number": 123,
+            "instruction": "StewWinter"
+        },
+        {
+            "number": 124,
+            "instruction": "Dinner"
+        },
+        {
+            "number": 125,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 126,
+            "instruction": "2 tbsp"
+        },
+        {
+            "number": 127,
+            "instruction": "sunflower oil"
+        },
+        {
+            "number": 128,
+            "instruction": "1kg (2lb 3oz)"
+        },
+        {
+            "number": 129,
+            "instruction": "lamb neck fillet, diced"
+        },
+        {
+            "number": 130,
+            "instruction": "large onions, sliced"
+        },
+        {
+            "number": 131,
+            "instruction": "celery sticks, sliced"
+        },
+        {
+            "number": 132,
+            "instruction": "garlic clove, crushed"
+        },
+        {
+            "number": 133,
+            "instruction": "1 tbsp"
+        },
+        {
+            "number": 134,
+            "instruction": "cumin powder"
+        },
+        {
+            "number": 135,
+            "instruction": "1 tbsp"
+        },
+        {
+            "number": 136,
+            "instruction": "medium curry powder"
+        },
+        {
+            "number": 137,
+            "instruction": "450ml (15fl oz)"
+        },
+        {
+            "number": 138,
+            "instruction": "lamb or beef stock"
+        },
+        {
+            "number": 139,
+            "instruction": "1 x 400g (14oz)"
+        },
+        {
+            "number": 140,
+            "instruction": "tin of chopped tomatoes"
+        },
+        {
+            "number": 141,
+            "instruction": "1 tbsp"
+        },
+        {
+            "number": 142,
+            "instruction": "sun-dried tomato purée or paste"
+        },
+        {
+            "number": 143,
+            "instruction": "2 tbsp"
+        },
+        {
+            "number": 144,
+            "instruction": "mango chutney"
+        },
+        {
+            "number": 145,
+            "instruction": "1 x 400g (14oz)"
+        },
+        {
+            "number": 146,
+            "instruction": "tin of haricot beans, drained and rinsed"
+        },
+        {
+            "number": 147,
+            "instruction": "sweet potatoes, peeled and sliced into 2cm (¾in) cubes"
+        },
+        {
+            "number": 148,
+            "instruction": "salt and freshly ground black pepper"
+        },
+        {
+            "number": 149,
+            "instruction": "Essential kit"
+        },
+        {
+            "number": 150,
+            "instruction": "You will need: a large deep frying pan or sauté pan with a lid or a flameproof and ovenproof casserole dish."
+        },
+        {
+            "number": 151,
+            "instruction": "Explore our Christmas 2023 gift guide"
+        },
+        {
+            "number": 152,
+            "instruction": "Explore now"
+        },
+        {
+            "number": 153,
+            "instruction": "You will need a large deep frying pan or sauté pan with a lid or a flameproof and ovenproof casserole dish. Preheat the oven to 160°C/140°C fan/Gas"
+        },
+        {
+            "number": 154,
+            "instruction": "Heat a tablespoon of the oil in the pan. Quickly fry the lamb over a high heat, until golden brown all over – you may need to do this in batches so as not to overcrowd the pan."
+        },
+        {
+            "number": 155,
+            "instruction": "Remove each batch with a slotted spoon and set aside."
+        },
+        {
+            "number": 156,
+            "instruction": "Add the remaining oil to the same pan and fry the onions, celery and garlic for a few minutes."
+        },
+        {
+            "number": 157,
+            "instruction": "Add the spices and fry for another 30 seconds, stirring."
+        },
+        {
+            "number": 158,
+            "instruction": "Add the stock, tomatoes, tomato purée or paste and the mango chutney. Bring to the boil, stirring, then add the lamb and season with salt and pepper. Stir for a few minutes, then cover the pan with a lid and transfer to the oven for about an hour."
+        },
+        {
+            "number": 159,
+            "instruction": "Put the pan back on the hob and add the beans and sweet potatoes. Bring everything back up to the boil, then cover the pan again and return to the oven. Continue to simmer for a further 45 minutes or until the lamb is tender and the potatoes are just cooked but still holding their shape. Check the seasoning and serve piping hot."
+        },
+        {
+            "number": 160,
+            "instruction": "Prepare ahead: Can be made up to 2 days ahead up to the end of step"
+        },
+        {
+            "number": 161,
+            "instruction": "Reheat, then add the beans and potatoes and proceed as above."
+        },
+        {
+            "number": 162,
+            "instruction": "Latest ebook deal"
+        },
+        {
+            "number": 163,
+            "instruction": "Simple Comforts"
+        },
+        {
+            "number": 164,
+            "instruction": "When it comes to comfort food, easy-to-follow, fuss-free recipes are an absolute must and Mary Berry’s Simple Comforts is packed with them. With her characteristically straightforward instructions, clever tips, and handy shortcuts, Mary makes delicious, heartwarming cooking easy, enjoyable, and accessible for every home cook. This is a book to soothe the soul and lift the spirits, whether you’re cooking up a hearty hotpot, treating your friends and family to indulgent bakes, or entertaining guests with a classic roast dinner. Mary Berry’s Simple Comforts contains over 120 recipes, each with a beautiful photograph so you can see exactly how your finished dish will look. Better yet, the book is accompanied by a six-part BBC2 series which includes a number of recipes from the book."
+        },
+        {
+            "number": 165,
+            "instruction": "Get the deal"
+        },
+        {
+            "number": 166,
+            "instruction": "Amazon"
+        },
+        {
+            "number": 167,
+            "instruction": "Available for £1.99 for UK customers for a limited time only."
+        },
+        {
+            "number": 168,
+            "instruction": "More Stew Recipes"
+        },
+        {
+            "number": 169,
+            "instruction": "View all"
+        },
+        {
+            "number": 170,
+            "instruction": "Julius Roberts’ Hearty Sausage Stew"
+        },
+        {
+            "number": 171,
+            "instruction": "by Julius Roberts"
+        },
+        {
+            "number": 172,
+            "instruction": "from The Farm Table"
+        },
+        {
+            "number": 173,
+            "instruction": "Jamie Oliver’s Chicken and Merguez Stew, Beautiful Bay Marinade, Slow-Cooked Onions and Beans"
+        },
+        {
+            "number": 174,
+            "instruction": "by Jamie Oliver"
+        },
+        {
+            "number": 175,
+            "instruction": "from 5 Ingredients Mediterranean"
+        },
+        {
+            "number": 176,
+            "instruction": "Mumma Zuu’s Jollof Rice"
+        },
+        {
+            "number": 177,
+            "instruction": "by Big Zuu"
+        },
+        {
+            "number": 178,
+            "instruction": "from Big Zuu’s Big Eats"
+        },
+        {
+            "number": 179,
+            "instruction": "Ingredients"
+        },
+        {
+            "number": 180,
+            "instruction": "More Stew Recipes"
+        },
+        {
+            "number": 181,
+            "instruction": "View all"
+        },
+        {
+            "number": 182,
+            "instruction": "Dr Rupy’s Haricot Bean Casserole"
+        },
+        {
+            "number": 183,
+            "instruction": "by Dr Rupy Aujla"
+        },
+        {
+            "number": 184,
+            "instruction": "from Dr Rupy Cooks: Healthy. Easy. Flavour"
+        },
+        {
+            "number": 185,
+            "instruction": "Hearty Sausage Casserole"
+        },
+        {
+            "number": 186,
+            "instruction": "by Chris Collins"
+        },
+        {
+            "number": 187,
+            "instruction": "from Comfy"
+        },
+        {
+            "number": 188,
+            "instruction": "More Bean Recipes"
+        },
+        {
+            "number": 189,
+            "instruction": "View all"
+        },
+        {
+            "number": 190,
+            "instruction": "Jamie Oliver’s Chicken and Merguez Stew, Beautiful Bay Marinade, Slow-Cooked Onions and Beans"
+        },
+        {
+            "number": 191,
+            "instruction": "by Jamie Oliver"
+        },
+        {
+            "number": 192,
+            "instruction": "from 5 Ingredients Mediterranean"
+        },
+        {
+            "number": 193,
+            "instruction": "Dr Rupy’s Cajun-Style Beans and Prawns"
+        },
+        {
+            "number": 194,
+            "instruction": "by Dr Rupy Aujla"
+        },
+        {
+            "number": 195,
+            "instruction": "from Dr Rupy Cooks: Healthy. Easy. Flavour"
+        },
+        {
+            "number": 196,
+            "instruction": "More Recipes from Simple Comforts"
+        },
+        {
+            "number": 197,
+            "instruction": "View all"
+        },
+        {
+            "number": 198,
+            "instruction": "Mary Berry’s Spicy Sausage"
+        },
+        {
+            "number": 199,
+            "instruction": "Rolls"
+        },
+        {
+            "number": 200,
+            "instruction": "by Mary Berry"
+        },
+        {
+            "number": 201,
+            "instruction": "from Simple Comforts"
+        },
+        {
+            "number": 202,
+            "instruction": "Mary Berry’s"
+        },
+        {
+            "number": 203,
+            "instruction": "Bakewell Tart Fingers"
+        },
+        {
+            "number": 204,
+            "instruction": "by Mary Berry"
+        },
+        {
+            "number": 205,
+            "instruction": "from Simple Comforts"
+        },
+        {
+            "number": 206,
+            "instruction": "Explore our Christmas 2023 gift guide"
+        },
+        {
+            "number": 207,
+            "instruction": "Explore now"
+        },
+        {
+            "number": 208,
+            "instruction": "Subscribe to The Happy Foodie email newsletter"
+        },
+        {
+            "number": 209,
+            "instruction": "Get our latest recipes, features, book news and ebook deals straight to your inbox every week"
+        },
+        {
+            "number": 210,
+            "instruction": "From the book: Simple Comforts"
+        },
+        {
+            "number": 211,
+            "instruction": "Simple Comforts"
+        },
+        {
+            "number": 212,
+            "instruction": "Heart-warming comfort dishes from the nation's favourite cook"
+        },
+        {
+            "number": 213,
+            "instruction": "With easy, family-friendly recipes as well as all-out weekend feasts"
+        },
+        {
+            "number": 214,
+            "instruction": "Including chapters full of indulgent bakes and sweet treats"
+        },
+        {
+            "number": 215,
+            "instruction": "Buy Book"
+        },
+        {
+            "number": 216,
+            "instruction": "amazon"
+        },
+        {
+            "number": 217,
+            "instruction": "hive"
+        },
+        {
+            "number": 218,
+            "instruction": "waterstones"
+        },
+        {
+            "number": 219,
+            "instruction": "We’d love to pop into your email inbox every Friday with inspiring recipes from Penguin’s world-leading cookery writers, the latest cookbook releases, ebook deals and more."
+        },
+        {
+            "number": 220,
+            "instruction": "Website Header and Popup"
+        },
+        {
+            "number": 221,
+            "instruction": "Your Email"
+        },
+        {
+            "number": 222,
+            "instruction": "By clicking Submit, I consent to you using my details to send me The Happy Foodie newsletters, and confirm I have read and understood Penguin Random House's Privacy Policy."
+        },
+        {
+            "number": 223,
+            "instruction": "CAPTCHA"
+        }
+    ]
+}

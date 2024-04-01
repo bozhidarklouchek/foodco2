@@ -1,0 +1,157 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/chicken-tikka-masala",
+    "title": "Chicken tikka masala",
+    "total_CO2": 9.595377,
+    "servings": 10,
+    "CO2_per_portion": 0.9595376999999999,
+    "E.Mission coefficient": 3.517366935483871,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 tbsp vegetable oil",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.22968
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 onions, roughly chopped",
+            "amount": "4.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.592,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.23384
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "6 tbsp chicken tikka masala paste (use shop-bought or make your own - see recipe, below)",
+            "amount": "6.0",
+            "unit": "tbsp",
+            "ingredient_name": "chicken tikka masala paste",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.081,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.493452
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 red peppers, deseeded and cut into chunks",
+            "amount": "2.0",
+            "ingredient_name": "red peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "8 boneless, skinless chicken breasts, cut into 2.5cm cubes",
+            "amount": "8.0",
+            "ingredient_name": "skinless chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 x 400g cans chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 tbsp tomato purée",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.08562
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2-3 tbsp mango chutney",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "mango chutney",
+            "matched_ingredient": "Chutney",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.046079999999999996
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "150 ml double cream",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.14100000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.39212100000000005
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "150 ml natural yogurt",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "natural yogurt",
+            "matched_ingredient": "Natural Yogurt",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.025029000000000003
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "chopped coriander leaves, to serve",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the vegetable oil and butter in a large, lidded casserole on the hob, then add the onions and a pinch of salt. Cook for 15-20 mins until soft and golden."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the tikka masala paste and peppers, then cook for 5 mins more to cook out the rawness of the spices."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chicken breasts and stir well to coat in the paste. Cook for 2 mins, then tip in the chopped tomatoes, tomato purée and 200ml water. Cover with a lid and gently simmer for 15 mins, stirring occasionally, until the chicken is cooked through."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove the lid, stir through the mango chutney, double cream and natural yogurt, then gently warm through. Season, then set aside whatever you want to freeze. Will keep, in an airtight container, in the freezer for up to three months. Scatter the rest with coriander leaves and serve with basmati rice and naan bread."
+        }
+    ]
+}

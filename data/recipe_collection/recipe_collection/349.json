@@ -1,0 +1,155 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/creamy-chicken-stew",
+    "title": "Creamy chicken stew",
+    "total_CO2": 6.015221839999999,
+    "servings": 4,
+    "CO2_per_portion": 1.5038054599999997,
+    "E.Mission coefficient": 3.140140551997035,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 leeks , halved and finely sliced",
+            "amount": "3.0",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.27,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.10665000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp olive oil , plus extra if needed",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp butter",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "8 small chicken thighs",
+            "amount": "8.0",
+            "unit": "small",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.88,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 5.3609599999999995
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "500 ml chicken stock",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.15
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp Dijon mustard",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0039000000000000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0017043000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "75 g crème fraîche",
+            "amount": "75.0",
+            "ingredient_name": "crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "200 g frozen peas",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.17920000000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tbsp dried or fresh breadcrumbs",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "dried",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.013049999999999999,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00570285
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp dried or fresh breadcrumbs",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "fresh breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.0065249999999999996,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.009402525
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "small bunch of parsley , finely chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tip the leeks and oil into a flameproof casserole dish on a low heat, add the butter and cook everything very gently for 10 mins or until the leeks are soft."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the chicken, skin-side down, in a large non-stick frying pan on a medium heat, cook until the skin browns, then turn and brown the other side. You shouldn’t need any oil but if the skin starts to stick, add a little."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chicken to the leeks, leaving behind any fat in the pan."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the stock to the dish and bring to a simmer, season well, cover and cook for 30 mins on low. Stir in the mustard, crème fraîche and peas and bring to a simmer. You should have quite a bit of sauce."
+        },
+        {
+            "number": 5,
+            "instruction": "When you’re ready to serve, put the grill on."
+        },
+        {
+            "number": 6,
+            "instruction": "Mix the breadcrumbs and parsley, sprinkle them over the chicken and grill until browned."
+        }
+    ]
+}

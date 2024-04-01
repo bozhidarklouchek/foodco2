@@ -1,0 +1,223 @@
+{
+    "url": "https://cookieandkate.com/best-vegetable-lasagna-recipe/",
+    "title": "Best Vegetable Lasagna",
+    "total_CO2": 21.819824940544212,
+    "servings": 8,
+    "CO2_per_portion": 2.7274781175680265,
+    "E.Mission coefficient": 6.322082561045741,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons extra-virgin olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 large carrots, chopped (about 1 cup)",
+            "amount": "3.0",
+            "unit": "cup",
+            "ingredient_name": "large carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.38327294313,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.13989462424245
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 red bell pepper, chopped",
+            "amount": "1.0",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 medium zucchini, chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "zucchini",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 medium yellow onion, chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 teaspoon salt",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "5-6 ounces baby spinach",
+            "amount": "5.5",
+            "unit": "ounces",
+            "ingredient_name": "baby spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.15592237718750002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0681380788309375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 large can (28 ounces) diced tomatoes",
+            "amount": "1.0",
+            "unit": "large can",
+            "ingredient_name": "diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 cup roughly chopped fresh basil + additional for garnish",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tablespoons extra-virgin olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 cloves garlic, pressed or minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 teaspoon salt",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 teaspoon red pepper flakes",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0006374999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00029006249999999996
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 cups (16 ounces) low-fat cottage cheese, divided",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "low-fat cottage cheese",
+            "matched_ingredient": "Cottage cheese",
+            "kg_equivalent": 0.43059059043000003,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 9.1457441407332
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/4 teaspoon salt, to taste",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Freshly ground black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "9 no-boil lasagna noodles*",
+            "amount": "9.0",
+            "ingredient_name": "lasagna noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 1.53,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 6.895709999999999
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "8 ounces (2 cups) freshly grated low-moisture, part-skim mozzarella cheese",
+            "amount": "8.0",
+            "unit": "ounces",
+            "ingredient_name": "skim mozzarella cheese",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 4.8171509694
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 425 degrees Fahrenheit."
+        },
+        {
+            "number": 2,
+            "instruction": "To prepare the veggies: In a large skillet over medium heat, warm the olive oil. Once shimmering, add the carrots, bell pepper, zucchini, yellow onion, and salt. Cook, stirring every couple of minutes, until the veggies are golden on the edges, about 8 to 12 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add a few large handfuls of spinach. Cook, stirring frequently, until the spinach has wilted. Repeat with remaining spinach and cook until all of the spinach has wilted, about 3 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove the skillet from the heat and set aside."
+        }
+    ]
+}

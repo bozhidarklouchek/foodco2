@@ -1,0 +1,203 @@
+{
+    "url": "https://www.kitchensanctuary.com/chicken-tikka-recipe/",
+    "title": "Chicken Tikka",
+    "total_CO2": 3.4952243499999995,
+    "servings": 6,
+    "CO2_per_portion": 0.5825373916666666,
+    "E.Mission coefficient": 4.869696064089167,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "120 g (1/2 cup) Greek yogurt (or thick natural yogurt (full fat))",
+            "amount": "120.0",
+            "unit": "g",
+            "ingredient_name": "Greek yogurt",
+            "matched_ingredient": "Greek Yogurt",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.33372
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 cloves garlic (peeled and minced)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp minced ginger",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "minced ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "juice of half a lemon",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp turmeric",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tsp mild chilli powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "mild chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "pinch cinnamon",
+            "amount": "0.0",
+            "unit": "pinch",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 tsp black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp vegetable oil (for brushing onto the chicken before grilling)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp freshly chopped coriander",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "freshly chopped coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "3 chicken breasts ((approx 500g/17.5 oz) - chopped into bite-size chunks)",
+            "amount": "3.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.46499999999999997,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.8327799999999996
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the chicken breast pieces into a bowl or freezer bag with the yogurt, garlic, ginger, lemon juice, coriander, turmeric, cumin, paprika, chilli powder, cinnamon, salt, and pepper."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix together so that everything is combined, then cover and place in the fridge to marinate for 2-3 hours."
+        },
+        {
+            "number": 3,
+            "instruction": "If you’re using wooden skewers, place them in water to soak while the chicken is marinating. This will help to prevent them from burning during grilling."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove the marinated chicken from the fridge and thread onto skewers."
+        },
+        {
+            "number": 5,
+            "instruction": "Brush the chicken with the oil, then place on a griddle plate and cook, turning a couple of times, for 8-10 minutes until cooked through. Alternatively, you can grill (broil) under a grill, or you can barbecue for the same amount of time."
+        },
+        {
+            "number": 6,
+            "instruction": "Make sure the chicken is cooked by slicing it into a larger piece and ensuring it&#39;s no longer pink in the middle."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve with a sprinkling of freshly chopped coriander."
+        }
+    ]
+}

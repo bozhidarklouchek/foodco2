@@ -1,0 +1,315 @@
+{
+    "url": "https://www.simplyrecipes.com/recipes/homemade_pizza/",
+    "title": "Homemade Pizza",
+    "total_CO2": 6.7326501500000004,
+    "servings": 4,
+    "CO2_per_portion": 1.6831625375000001,
+    "E.Mission coefficient": 3.577106048933403,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 1/2 cups (355 ml) warm water (105°F-115°F)",
+            "amount": "355.0",
+            "unit": "ml",
+            "ingredient_name": "warm water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.355,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 package (2 1/4 teaspoons) of active dry yeast",
+            "amount": "1.0",
+            "unit": "teaspoons",
+            "ingredient_name": "active dry yeast",
+            "matched_ingredient": "Yeast",
+            "kg_equivalent": 0.00475,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.00526775
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 3/4 cups (490 g) bread flour",
+            "amount": "490.0",
+            "unit": "g",
+            "ingredient_name": "bread flour",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.49,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.70609
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons extra virgin olive oil (omit if cooking pizza in a wood-fired pizza oven)",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1056528
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 teaspoons salt",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0216,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2618784
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 teaspoon sugar",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.004915200000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Extra virgin olive oil",
+            "amount": "1.0",
+            "ingredient_name": "virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Cornmeal (to help slide the pizza onto the pizza stone)",
+            "amount": "1.0",
+            "ingredient_name": "Cornmeal",
+            "matched_ingredient": "Cornmeal",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Tomato sauce (smooth, or puréed)",
+            "amount": "1.0",
+            "ingredient_name": "Tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Firm mozzarella cheese, grated",
+            "amount": "1.0",
+            "ingredient_name": "mozzarella cheese",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.02835,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.602154
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Fresh soft mozzarella cheese, separated into small clumps",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "soft mozzarella cheese",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.02835,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.602154
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Fontina cheese, grated",
+            "amount": "1.0",
+            "ingredient_name": "Fontina cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Parmesan cheese, grated",
+            "amount": "1.0",
+            "ingredient_name": "Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Feta cheese, crumbled",
+            "amount": "1.0",
+            "ingredient_name": "cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Mushrooms, very thinly sliced if raw, otherwise first sautéed",
+            "amount": "1.0",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Mushrooms, very thinly sliced if raw, otherwise first sautéed",
+            "amount": "1.0",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Bell peppers, stems and seeds removed, very thinly sliced",
+            "amount": "1.0",
+            "unit": "stems",
+            "ingredient_name": "Bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Bell peppers, stems and seeds removed, very thinly sliced",
+            "amount": "1.0",
+            "unit": "stems",
+            "ingredient_name": "Bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "Italian pepperoncini, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "Italian pepperoncini",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Italian pepperoncini, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "Italian pepperoncini",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "Italian sausage, cooked ahead and crumbled",
+            "amount": "1.0",
+            "ingredient_name": "Italian sausage",
+            "matched_ingredient": "Sausage",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.54615
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "Chopped fresh basil",
+            "amount": "1.0",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "Chopped fresh basil",
+            "amount": "1.0",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "Baby arugula, tossed in a little olive oil, added as pizza comes out of the oven",
+            "amount": "1.0",
+            "ingredient_name": "arugula",
+            "matched_ingredient": "Arugula",
+            "kg_equivalent": 0.002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000874
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "Pesto",
+            "amount": "1.0",
+            "ingredient_name": "Pesto",
+            "matched_ingredient": "Pesto",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006992
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "Pepperoni, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "Pepperoni",
+            "matched_ingredient": "Pepperoni",
+            "kg_equivalent": 0.251,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.827782
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "Onions, thinly sliced raw or caramelized",
+            "amount": "1.0",
+            "ingredient_name": "Onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "Onions, thinly sliced raw or caramelized",
+            "amount": "1",
+            "ingredient_name": "caramelized",
+            "matched_ingredient": "Caraway seeds",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "Ham, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "Ham",
+            "matched_ingredient": "Ham",
+            "kg_equivalent": 0.063,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.458766
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Making the Pizza Dough"
+        }
+    ]
+}

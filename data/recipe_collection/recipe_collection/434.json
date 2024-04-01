@@ -1,0 +1,149 @@
+{
+    "url": "https://100cookbooks.wordpress.com/2012/02/14/mushroom-risotto-delia-smith-christmas-cookbook/",
+    "title": "Mushroom Risotto, Delia Smith Christmas cookbook",
+    "total_CO2": 1.522198,
+    "servings": 2,
+    "CO2_per_portion": 0.761099,
+    "E.Mission coefficient": 1.096526437112808,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "175 g Italian arborio rice",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "Italian arborio rice",
+            "matched_ingredient": "Arborio rice",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.671825
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "570 ml boiling water",
+            "amount": "570.0",
+            "unit": "ml",
+            "ingredient_name": "boiling water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.5700000000000001,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "15 g packet dried porcini mushrooms",
+            "amount": "15.0",
+            "unit": "g",
+            "ingredient_name": "dried porcini mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "225 g fresh mushrooms, chopped",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "fresh mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.10237500000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 glass dry white wine",
+            "amount": "1.0",
+            "unit": "glass",
+            "ingredient_name": "dry white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "65 g butter",
+            "amount": "65.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.180765
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp grated parmesan cheese, plus extra to serve",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "grated parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0102,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.216648
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "salt and freshly milled black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": " Begin by placing the dried mushrooms in a bowl and pouring over the boiling water, then leave them to soak for 30 minutes while you melt 50g of the butter in a large heavy-based saucepan."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion and fresh mushrooms, and let these cook very, very gently until the onion is pale gold."
+        },
+        {
+            "number": 3,
+            "instruction": " When the porcini have soaked, drain them (reserving the soaking water), squeeze any excess moisture from them with your hands, then chop them very small before adding them to the other mushrooms and onion."
+        },
+        {
+            "number": 4,
+            "instruction": " Now stir in the rice and cook for 1 or 2 minutes, stirring the grains to get them nicely coated with the buttery juice. Next pour in the wine and add a little salt and stir."
+        },
+        {
+            "number": 5,
+            "instruction": " Keeping the heat low, leave the rice to absorb the wine fully (about 10 minutes) – don’t put a lid on."
+        },
+        {
+            "number": 6,
+            "instruction": " Meanwhile bring the mushroom-soaking liquid up to the boil in a separate pan, then when the wine has been absorbed you can add a ladleful of mushroom liquid to the rice."
+        },
+        {
+            "number": 7,
+            "instruction": " Stir again and allow it to be gently absorbed by the rice before adding the rest, a ladleful at a time, stirring after each addition and waiting for that to be absorbed."
+        },
+        {
+            "number": 8,
+            "instruction": " The finished risotto should be creamy with very little visible liquid but just enough to keep it soupy rather than mushy and sticky. There is a moment when the right degree of creaminess is achieved and the grains of rice are still firm to the bite."
+        },
+        {
+            "number": 9,
+            "instruction": " At the end, stir in the remaining 15 g butter plus 2 tbsp grated parmesan and some seasoning."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve the risotto with more parmesan sprinkled on top."
+        }
+    ]
+}

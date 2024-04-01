@@ -1,0 +1,226 @@
+{
+    "url": "https://www.thebossykitchen.com/authentic-mexican-tinga-de-pollo-chicken-chipotle-tomato-sauce/",
+    "title": "Mexican Chicken Tinga",
+    "total_CO2": 7.680123626582499,
+    "servings": 6,
+    "CO2_per_portion": 1.2800206044304165,
+    "E.Mission coefficient": 3.4099227514454387,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 1/2 pounds chicken (, about 4 boneless, skinless chicken breasts or thighs)",
+            "amount": "1.5",
+            "unit": "pounds",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 4.144927077059999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 garlic cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 small onion (cut in quarters)",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 teaspoon dried Mexican oregano",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "dried Mexican oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 teaspoon salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cups water or low sodium chicken stock (or more to cover the chicken)",
+            "amount": "1.0",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 cups water or low sodium chicken stock (or more to cover the chicken)",
+            "amount": "1.0",
+            "unit": "cups",
+            "ingredient_name": "low sodium chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.07097647095
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "5 tablespoons vegetable oil (, like sunflower, canola, or olive oil)",
+            "amount": "5.0",
+            "unit": "tablespoons",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.28709999999999997
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 large onions (, thinly sliced (use either sweet onion, white onion, yellow onion or red onion))",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "4-5 Roma plum tomatoes (, or 1 can (28 ounces) of crushed tomatoes)",
+            "amount": "4.5",
+            "unit": "can",
+            "ingredient_name": "Roma plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.33749999999999997,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.253125
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "7 ounces can of Chipotle chiles in Adobo sauce ((use less if you like it less spicy))",
+            "amount": "7.0",
+            "unit": "ounces",
+            "ingredient_name": "Chipotle chiles",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.198446661875,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 2.4059673285725003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2-3 cloves of garlic",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 1/2 teaspoon salt (or to taste)",
+            "amount": "1.5",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.016200000000000003,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.19640880000000005
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/4 teaspoon Mexican oregano",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "Mexican oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4 teaspoon dried thyme",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/4 teaspoon dried marjoram",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "dried marjoram",
+            "matched_ingredient": "Marjoram",
+            "kg_equivalent": 0.001875,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000819375
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/4 teaspoon black pepper",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Bring a pot of salty water to a boil and add the chicken breast to cook."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion cut in quarters, garlic cloves, bay leaves, oregano, and salt. If you use chicken stock, go easy on salt."
+        },
+        {
+            "number": 3,
+            "instruction": "Let the chicken simmer until it is cooked through. It could take between 12-15 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Make sure you skim the foam that forms on top of the water as it starts boiling. When the chicken is cooked, set aside."
+        }
+    ]
+}

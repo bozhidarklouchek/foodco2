@@ -1,0 +1,185 @@
+{
+    "url": "https://beatthebudget.com/recipes/golden-vegetable-pilaf/",
+    "title": "Easy Vegetable Rice Pilaf",
+    "total_CO2": 5.10123702,
+    "servings": 5,
+    "CO2_per_portion": 1.020247404,
+    "E.Mission coefficient": 1.7072070239553423,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 white onion, finely diced ((£0.09))",
+            "amount": "1.0",
+            "ingredient_name": "white onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 garlic cloves, minced ((£0.23))",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 g ginger, finely chopped ((£0.50))",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.01825
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "400 ml (1 tin) coconut milk ((£0.82))",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.48,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.43872
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 kg frozen veg, broccoli, cauliflower &amp; carrot ((£0.92))",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "frozen veg",
+            "matched_ingredient": "Parrot fish",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 2.827
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 lime, juiced ((£0.20))",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "350 g jasmine rice/long grain white rice ((£1.40))",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "jasmine rice",
+            "matched_ingredient": "Jasmine rice",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.34365
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 handful of fresh mint, removed from tough stems ((£0.50))",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.0015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006555
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 pomegranate, deseeded ((£0.65))",
+            "amount": "1.0",
+            "ingredient_name": "pomegranate",
+            "matched_ingredient": "Pomegranate",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.1875
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp coconut oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.01386,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.07972272
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp turmeric",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "600 ml vegetable stock",
+            "amount": "600.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.012
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Salt & Pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Optional chilli flakes",
+            "amount": "1.0",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add the coconut oil, onion and ginger into a large saucepan/deep frying pan on a medium to low heat. Season with a generous pinch of salt and pepper and gently fry until the onions are translucent, around 6 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Then, add the garlic to fry for a couple of minutes. If it’s starting to feel a bit dry, add a splash of water."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the turmeric into the pan to bloom for a further minute along with the lime zest."
+        },
+        {
+            "number": 4,
+            "instruction": "To that, add the coconut milk, frozen veggies, lime juice and stock. As the veggies will bring the temperature right down, increase the heat and wait for the pot to come back up to a low simmer before adding the rice. Season again with salt and pepper and set a timer for 12 minutes (check the packet time of your rice), stirring once half-way."
+        },
+        {
+            "number": 5,
+            "instruction": "When the rice is fully cooked and the cooking liquid is fully absorbed, you’ll be ready to go!"
+        },
+        {
+            "number": 6,
+            "instruction": "Serve with a sprinkle of pomegranate seeds, mint and an extra squeeze of lime. If you like a little heat, add some chilli flakes!"
+        }
+    ]
+}

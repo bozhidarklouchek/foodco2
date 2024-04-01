@@ -1,0 +1,203 @@
+{
+    "url": "https://realfood.tesco.com/recipes/prawn-caesar-salad.html",
+    "title": "Prawn Caesar salad",
+    "total_CO2": 4.460518849999999,
+    "servings": 6,
+    "CO2_per_portion": 0.7434198083333331,
+    "E.Mission coefficient": 4.662157146590016,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp plain flour",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0276672
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large egg, beaten",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "70 g panko breadcrumbs",
+            "amount": "70.0",
+            "unit": "g",
+            "ingredient_name": "panko breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.10087000000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp ground black pepper",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "70 g Parmesan, finely grated",
+            "amount": "70.0",
+            "unit": "g",
+            "ingredient_name": "Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.4868000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 x 200g packs frozen raw and peeled king prawns, defrosted",
+            "amount": "2.0",
+            "unit": "packs",
+            "ingredient_name": "king prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 0.7112399999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "180 g pack Tesco Finest smoked pancetta rashers",
+            "amount": "180.0",
+            "unit": "g",
+            "ingredient_name": "smoked pancetta rashers",
+            "matched_ingredient": "Pancetta",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.31076
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 x 60g bags rocket leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "rocket",
+            "matched_ingredient": "Rocket",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "270 g pack chicory, leaves separated",
+            "amount": "270.0",
+            "unit": "g",
+            "ingredient_name": "chicory",
+            "matched_ingredient": "Chicory",
+            "kg_equivalent": 0.27,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.11799000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "6 anchovy fillets",
+            "amount": "6.0",
+            "ingredient_name": "anchovy fillets",
+            "matched_ingredient": "Anchovy",
+            "kg_equivalent": 0.024,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.067848
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp Dijon mustard",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0006500000000000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00028405000000000005
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "10 g fresh parsley, leaves picked",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00437
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "10 g fresh chives, snipped",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "fresh chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00395
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 lemon, juiced",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "125 g Greek-style yogurt",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "Greek-style yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.347625
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to gas 6, 200&deg;C, fan 180&deg;C."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the flour and egg in separate bowls."
+        },
+        {
+            "number": 3,
+            "instruction": "Mix the breadcrumbs, black pepper and 45g Parmesan in another bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Line a baking sheet with nonstick baking paper. Dip the prawns into the flour, followed by the egg and&nbsp;then the breadcrumbs, making sure they are fully coated."
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer to the baking sheet and bake for 20 mins or until crisp and golden."
+        },
+        {
+            "number": 6,
+            "instruction": "Meanwhile, place the pancetta rashers in a single layer on another lined baking sheet; bake for 15 mins until crisp and golden."
+        },
+        {
+            "number": 7,
+            "instruction": "Meanwhile, prepare the salad. Blitz the dressing ingredients in a food processor with the remaining Parmesan; set aside. Divide the rocket and chicory between 6 plates. Top with the pancetta and prawns and drizzle over the sauce to serve."
+        }
+    ]
+}

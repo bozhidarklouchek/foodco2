@@ -1,0 +1,222 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/vegetables-recipes/aubergine-parmigiana-melanzane-alla-parmigiana/",
+    "title": "Aubergine Parmigiana (Melanzane alla Parmigiana)",
+    "total_CO2": 5.78057175,
+    "servings": 6,
+    "CO2_per_portion": 0.963428625,
+    "E.Mission coefficient": 2.0196606571982603,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 large firm aubergines",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "aubergines",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.6825
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 a bulb of spring garlic or 1 clove of regular garlic",
+            "amount": "0.25",
+            "unit": "bulb",
+            "ingredient_name": "spring garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00049375
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 a bulb of spring garlic or 1 clove of regular garlic",
+            "amount": "0.25",
+            "unit": "bulb",
+            "ingredient_name": "clove",
+            "matched_ingredient": "Cloves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 heaped teaspoon dried oregano",
+            "amount": "1.0",
+            "unit": "heaped teaspoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 x 400 g tins of quality plum tomatoes or 1kg fresh ripe tomatoes",
+            "amount": "0.5",
+            "unit": "kg",
+            "ingredient_name": "quality plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 x 400 g tins of quality plum tomatoes or 1kg fresh ripe tomatoes",
+            "amount": "0.5",
+            "unit": "kg",
+            "ingredient_name": "fresh ripe tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "wine vinegar",
+            "amount": "1.0",
+            "ingredient_name": "wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 bunch of fresh basil (30g)",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 large handfuls of Parmesan cheese (freshly grated)",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0309,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.656316
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 handfuls of dried breadcrumbs",
+            "amount": "2.0",
+            "ingredient_name": "dried breadcrumbs",
+            "matched_ingredient": "Dried coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "a few sprigs of fresh oregano",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "150 g buffalo mozzarella (optional)",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "buffalo mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.1859999999999995
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Preheat a griddle pan or barbecue."
+        },
+        {
+            "number": 3,
+            "instruction": "Trim and slice the aubergines 1cm thick. Peel and finely chop the onion, and peel and finely slice the garlic."
+        },
+        {
+            "number": 4,
+            "instruction": "Place a large pan on a medium heat with 2 or 3 lugs of olive oil, add the onion, garlic and dried oregano, then cook for 10 minutes, or until the onion is soft and the garlic has a tiny bit of colour."
+        },
+        {
+            "number": 5,
+            "instruction": "If you’re using tinned tomatoes, break them up, and if you’re using fresh tomatoes (which will obviously taste sweeter and more delicious, if they’re in season), very quickly prick each one and put them into a big pan of boiling water for 40 seconds."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove from the pan with a slotted spoon and put them into a bowl of cold water for 30 seconds, then remove the skins, carefully squeeze out the pips and cut up the flesh."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the tomato flesh or tinned tomatoes to the onion pan, give the mixture a good stir, then put a lid on and simmer slowly for 15 minutes, or until thickened and reduced."
+        },
+        {
+            "number": 8,
+            "instruction": "Grill the aubergines on both sides until lightly charred – you'll need to work in batches."
+        },
+        {
+            "number": 9,
+            "instruction": "Season the tomato sauce carefully with sea salt, black pepper and a tiny swig of wine vinegar, then pick in the basil. You can leave the sauce chunky or you can purée it."
+        },
+        {
+            "number": 10,
+            "instruction": "Spoon a layer of tomato sauce into a 15cm x 25cm baking dish, then add a fine scattering of Parmesan, followed by a single layer of aubergines. Repeat these layers until you’ve used all the ingredients up, finishing with a little sauce and another good sprinkling of Parmesan."
+        },
+        {
+            "number": 11,
+            "instruction": "Pick and finely chop the oregano, then toss with the breadcrumbs and a little olive oil, then sprinkle on top of the Parmesan. Tear over the mozzarella (if using)."
+        },
+        {
+            "number": 12,
+            "instruction": "Bake at 190°C/375°F/gas 5 for 30 minutes, or until golden, crisp and bubbly – it’s best eaten straight away, but it can also be served cold."
+        },
+        {
+            "number": 13,
+            "instruction": "Tips"
+        },
+        {
+            "number": 14,
+            "instruction": "You can use the same method substituting courgettes or fennel for the aubergines – both are delicious. But do try making it with aubergines – you’ll love it!"
+        },
+        {
+            "number": 15,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

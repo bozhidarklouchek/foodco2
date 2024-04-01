@@ -1,0 +1,190 @@
+{
+    "url": "https://www.allrecipes.com/recipe/25310/dolmas-stuffed-grape-leaves/",
+    "title": "Dolmas (Stuffed Grape Leaves)",
+    "total_CO2": 1.5012905559024625,
+    "servings": 8,
+    "CO2_per_portion": 0.18766131948780782,
+    "E.Mission coefficient": 1.3634989560983932,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 onions, minced",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 1/2 cups uncooked white rice",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "uncooked white rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.3016500015375,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.1580343559024624
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 1/2 cups hot water, or as needed to cover",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "hot water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tablespoons tomato paste",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tablespoons dried currants",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "dried currants",
+            "matched_ingredient": "Currant",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.03642
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tablespoons pine nuts",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "pine nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.00834
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon ground cinnamon",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "ground cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tablespoon dried mint",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "dried mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tablespoon dried dill weed",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "dried dill weed",
+            "matched_ingredient": "Dill",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 teaspoon ground allspice",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "allspice",
+            "matched_ingredient": "Allspice",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 teaspoon ground cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 (8 ounce) jar grape leaves, drained and rinsed in warm water",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "grape leaves",
+            "matched_ingredient": "Grape leaves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oil in a medium saucepan over medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add onions and sauté until tender, about 5 minutes. Stir in rice, then add enough hot water to cover. Cover and simmer until rice is halfway cooked, about 10 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove from the heat and stir in tomato paste, currants, pine nuts, cinnamon, mint, dill, allspice, and cumin."
+        },
+        {
+            "number": 4,
+            "instruction": "Let mixture cool, about 15 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Prepare a large pot by placing an inverted plate on the bottom; this will protect the dolmas from direct heat during steaming."
+        },
+        {
+            "number": 6,
+            "instruction": "Cut off and discard any grape leaf stems."
+        },
+        {
+            "number": 7,
+            "instruction": "Place about 1 teaspoon cooled rice mixture into the center of a leaf. Fold in the sides, then roll into a cigar shape."
+        },
+        {
+            "number": 8,
+            "instruction": "Place into the prepared pot. Repeat to make remaining dolmas."
+        },
+        {
+            "number": 9,
+            "instruction": "Pour in just enough warm water to reach the bottom of the first layer of dolmas. Cover and simmer over low heat for 30 to 45 minutes, or until rice is totally cooked. Check the water level often and add more as necessary."
+        }
+    ]
+}

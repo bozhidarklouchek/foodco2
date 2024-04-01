@@ -1,0 +1,328 @@
+{
+    "url": "https://www.deliciousmagazine.co.uk/recipes/wild-garlic-ravioli/",
+    "title": "Wild garlic ravioli",
+    "total_CO2": 8.869887,
+    "servings": 6,
+    "CO2_per_portion": 1.4783145,
+    "E.Mission coefficient": 4.419365237537681,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "300 g wild garlic (see Know-how)",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "wild garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.1185
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "200 g cream cheese",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "cream cheese",
+            "matched_ingredient": "Cream cheese",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 4.248
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "200 g crème fraîche",
+            "amount": "200.0",
+            "ingredient_name": "crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Finely grated zest 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "grated zest",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Large pinch ground nutmeg",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "ground nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "600 g /recipes/fresh-spinach-pasta/fresh spinach pasta",
+            "amount": "600.0",
+            "unit": "g",
+            "ingredient_name": "fresh-spinach-pasta",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 2.7041999999999997
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Italian ‘00’ flour to dust",
+            "amount": "0.0",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "12 small fresh sage leaves",
+            "amount": "12.0",
+            "unit": "leaves",
+            "ingredient_name": "small fresh sage",
+            "matched_ingredient": "Sage",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Finely grated parmesan (or vegetarian hard cheese)",
+            "amount": "1.0",
+            "ingredient_name": "grated parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Grated zest 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "50 ml olive oil",
+            "amount": "50.0",
+            "unit": "ml",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.04575,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.271938
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "150 g fresh breadcrumbs - we used sourdough for extra flavour",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "fresh breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21615
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Finely grated zest 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "grated zest",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Handful fresh flatleaf parsley leaves, finely chopped",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh flatleaf parsley leaves",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Large pinch dried saffron",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "dried saffron",
+            "matched_ingredient": "Saffron",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "150 g unsalted butter",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.41715
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Clean tea towel or 2 large baking trays, dusted with semolina",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "semolina",
+            "matched_ingredient": "Semolina",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "Extra-virgin olive oil or saffron butter (optional)",
+            "amount": "1.0",
+            "ingredient_name": "virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Extra-virgin olive oil or saffron butter (optional)",
+            "amount": "1",
+            "ingredient_name": "saffron butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.02781
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "Handful walnut halves, toasted and roughly chopped, or pangrattato (optional)",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "walnut halves",
+            "matched_ingredient": "Walnut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.013900000000000003
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "You&#8217;ll also need",
+            "amount": "8217.0",
+            "ingredient_name": "you’ll also need",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "Ideally, a pasta-rolling machine (see Know-how)",
+            "amount": "1.0",
+            "ingredient_name": "pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.425,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.612425
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Make the https://www.deliciousmagazine.co.uk/recipes/fresh-spinach-pasta/ >fresh spinach pasta to begin."
+        },
+        {
+            "number": 2,
+            "instruction": "To make the filling, wash the wild garlic, then put in a large pan with a lid over the heat. Cook, stirring, until tender (about 3 minutes)."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain and refresh under cold running water. Put in a clean tea towel, then gather up the sides and squeeze to remove any excess moisture. Finely chop, then add to a bowl with the cream cheese, crème fraîche and lemon zest."
+        },
+        {
+            "number": 4,
+            "instruction": "Add salt, pepper and nutmeg, then stir to combine. Cover and keep in the fridge until needed."
+        },
+        {
+            "number": 5,
+            "instruction": "Once the pasta dough has rested it’s ready to /how-to-roll-pasta-using-a-pasta-machine/roll in a pasta machine (or see Know-how to roll by hand)."
+        },
+        {
+            "number": 6,
+            "instruction": "Cut the dough into 4 even pieces so you can run them through the machine piece by piece, otherwise it will get too long to handle. Take the dough you’re not rolling and wrap tightly in cling film to keep it moist."
+        },
+        {
+            "number": 7,
+            "instruction": "Set the pasta machine to its widest setting, then flatten and shape the dough into a rectangle (making sure it will fit through the rollers). If the dough seems wet, flour it lightly. Carefully pass the dough through the rollers, then fold in half, end to end. Repeat 2-3 times, folding and passing the dough through the rollers each time. If the dough is sticking, sprinkle the machine and work surface with a little flour."
+        },
+        {
+            "number": 8,
+            "instruction": "Once the dough has gone through the widest setting 3-4 times, narrow the setting by a notch and continue to wind the pasta through, without folding it in half. Narrow the rollers by a notch after each rolling until the pasta is translucent and very long – for ravioli, stop on the second-to-thinnest setting. Repeat with another piece of dough."
+        },
+        {
+            "number": 9,
+            "instruction": "Cut a long dough sheet in half widthways (you want the sheets roughly equal in length if possible). Cover one with a clean tea towel to stop the pasta drying out. Fold the other sheet in half lengthways, then unfold. Using the crease as a guide, put a small teaspoon of filling mixture on each side of the crease at 4cm intervals. Lightly brush the pasta around the fillings with water."
+        },
+        {
+            "number": 10,
+            "instruction": "Lay over the second sheet of pasta to cover the fillings. With your fingertips, press gently around each mound of filling to seal the dough and push out any pockets of air."
+        },
+        {
+            "number": 11,
+            "instruction": "Cut the pasta into even squares around each mound with a ravioli stamp, fluted pastry wheel or, for straight edges, a sharp knife."
+        },
+        {
+            "number": 12,
+            "instruction": "Put the ravioli squares upside down on the prepared clean tea towel/baking trays, making sure they don’t touch. Repeat with the remaining dough and filling (see Make Ahead)."
+        },
+        {
+            "number": 13,
+            "instruction": "If making the pangrattato, heat the oil in a large pan over a medium heat."
+        },
+        {
+            "number": 14,
+            "instruction": "Add the breadcrumbs and lemon zest, then add salt and pepper. Fry, stirring, for 3-4 minutes until toasted and lightly golden."
+        },
+        {
+            "number": 15,
+            "instruction": "Transfer to a bowl to cool slightly, then stir in the parsley and set aside to cool."
+        },
+        {
+            "number": 16,
+            "instruction": "If making the saffron butter, put the saffron in a large dry pan and toast gently for 30 seconds until fragrant."
+        },
+        {
+            "number": 17,
+            "instruction": "Add the butter, leave until it melts and foams, then take off the heat and keep to hand."
+        },
+        {
+            "number": 18,
+            "instruction": "To cook the ravioli, bring a large pot of salted water to the boil."
+        },
+        {
+            "number": 19,
+            "instruction": "Add the ravioli and sage leaves, then cook at a gentle simmer for 2-3 minutes until al dente."
+        },
+        {
+            "number": 20,
+            "instruction": "Drain loosely, add straight to the pan of saffron butter and toss well to coat. Or just drizzle with olive oil."
+        },
+        {
+            "number": 21,
+            "instruction": "Serve scattered with walnuts and/or pangrattato, parmesan, grated lemon zest, salt and black pepper."
+        }
+    ]
+}

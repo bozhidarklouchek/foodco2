@@ -1,0 +1,150 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/kidney-bean-curry",
+    "title": "Kidney bean curry",
+    "total_CO2": 1.4434855000000002,
+    "servings": 2,
+    "CO2_per_portion": 0.7217427500000001,
+    "E.Mission coefficient": 1.4715929248649202,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "thumb-sized piece of ginger, peeled and finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 small pack coriander, stalks finely chopped, leaves roughly shredded",
+            "amount": "1.0",
+            "unit": "pack",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp ground paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tsp garam masala",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0703192
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g can kidney beans, in water",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "kidney beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "cooked basmati rice, to serve",
+            "amount": "1.0",
+            "ingredient_name": "basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large frying pan over a low-medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to colour."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil."
+        },
+        {
+            "number": 5,
+            "instruction": "Turn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves."
+        }
+    ]
+}

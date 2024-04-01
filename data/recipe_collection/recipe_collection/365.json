@@ -1,0 +1,157 @@
+{
+    "url": "https://aducksoven.com/recipes/sous-vide-pork-loin-roast-with-garlic-herb-rub/",
+    "title": "Sous Vide Pork Loin Roast with Garlic Herb Rub",
+    "total_CO2": 11.942596059190002,
+    "servings": 6,
+    "CO2_per_portion": 1.9904326765316671,
+    "E.Mission coefficient": 7.099873320783856,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3-4 pound pork loin roast",
+            "amount": "3.5",
+            "unit": "pound",
+            "ingredient_name": "pork loin roast",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 1.587573295,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 11.560708734190001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Leaves from 1 sprig rosemary",
+            "amount": "1.0",
+            "unit": "sprig",
+            "ingredient_name": "rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "5 cloves of garlic (peeled)",
+            "amount": "5.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tsp kosher salt",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0216,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2618784
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 tsp freshly cracked black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp red pepper flakes (optional)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0012749999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0005801249999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp olive oil (if necessary)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0022875,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0135969
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Juice of 1/2 lemon",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp chopped fresh parsley",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp flaked sea salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "flaked sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat a water bath to your desired temp with an immersion circulator. 130F for medium rare, 140F for medium (my favorite), 150F for medium-well, 160F for well done."
+        },
+        {
+            "number": 2,
+            "instruction": "Prepare the rub by adding garlic cloves, rosemary, salt, pepper, and red pepper flakes (if desired) to a food processor to make a paste. If it needs to be thinned out a bit, add olive oil and continue to process."
+        },
+        {
+            "number": 3,
+            "instruction": "Rub this mixture all over the pork loin roast."
+        },
+        {
+            "number": 4,
+            "instruction": "Vacuum seal the pork loin roast, or use another air removal method if desired."
+        },
+        {
+            "number": 5,
+            "instruction": "Add to water bath and cook for 3-5 hours."
+        },
+        {
+            "number": 6,
+            "instruction": "When the roast is done, preheat the broiler and line a rimmed baking sheet with foil."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove the roast from the water bath and the bag, saving the liquid, and place roast on the foil lined baking sheet, fat cap up. Broil until deeply golden brown."
+        },
+        {
+            "number": 8,
+            "instruction": "In a bowl, whisk together the liquid from the bag, lemon juice, parsley, and flaked sea salt."
+        },
+        {
+            "number": 9,
+            "instruction": "Slice the pork roast into thick slices and serve with sauce."
+        }
+    ]
+}

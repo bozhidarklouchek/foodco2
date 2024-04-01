@@ -1,0 +1,301 @@
+{
+    "url": "https://www.recipetineats.com/shepherds-pie/",
+    "title": "Shepherd's Pie",
+    "total_CO2": 47.36608065220713,
+    "servings": 5,
+    "CO2_per_portion": 9.473216130441426,
+    "E.Mission coefficient": 14.149786841695091,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 1/2 tbsp olive oil",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0205875,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.12237210000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 garlic cloves (, minced)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion (, finely chopped)",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 carrot (, finely chopped)",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 rib celery (, finely chopped)",
+            "amount": "1.0",
+            "ingredient_name": "rib celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3/4 tsp each dried thyme and rosemary ((or 2 sprigs fresh thyme + 1 sprig rosemary))",
+            "amount": "0.75",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.002175,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0009504749999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "750 g (1.5 lb) ground lamb (mince) OR beef",
+            "amount": "750.0",
+            "unit": "g",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 44.6775
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 cup (35g) flour (, plain/all purpose)",
+            "amount": "35.0",
+            "unit": "g",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.035,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.05043500000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 cup (55g) tomato paste",
+            "amount": "55.0",
+            "unit": "g",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.055,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.078485
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 cups (500ml) beef stock / broth",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "beef stock",
+            "matched_ingredient": "Beef stock",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 1.05,
+            "ingredient_carbon": 0.49683529665
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 cup (125ml) red wine ((or water))",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.18749617742625
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 beef bouillon cube (, crumbled)",
+            "amount": "1.0",
+            "ingredient_name": "beef bouillon cube",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tbsp Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 dried bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "dried bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "3/4 tsp cooking / kosher salt",
+            "amount": "0.75",
+            "unit": "tsp",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.008100000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.09820440000000003
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 tsp black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 cup frozen peas",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.17034353028,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.15262780313087998
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1.2 kg (2.2 lb) potatoes, peeled and cut into 2.5 cm / 1 inch cubes",
+            "amount": "1.2",
+            "unit": "kg",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.2,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.444
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 tbsp (30g) butter",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08343
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 - 3 tbsp grated parmesan (, optional)",
+            "amount": "2.5",
+            "unit": "tbsp",
+            "ingredient_name": "grated parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.012750000000000003,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.27081000000000005
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "2 tbsp (30g) butter (, melted)",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08343
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "Fresh thyme leaves, optional garnish",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "Fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "2/3 cup (165 ml) milk ((whole or low fat))",
+            "amount": "165.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.1716,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.4772196
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oil in a large skillet over medium high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add onion and garlic, cook for 1 minute. Then add carrots, celery, thyme and rosemary. Cook for 3 minutes or until softened and sweet."
+        },
+        {
+            "number": 3,
+            "instruction": "Turn heat up to high."
+        },
+        {
+            "number": 4,
+            "instruction": "Add lamb and cook, breaking it up as you go, until browned."
+        },
+        {
+            "number": 5,
+            "instruction": "Add flour and mix in."
+        },
+        {
+            "number": 6,
+            "instruction": "Add tomato paste, broth, red wine, bouillon cube, Worcestershire sauce and bay leaves. Stir well."
+        },
+        {
+            "number": 7,
+            "instruction": "Bring to simmer, then turn down heat so it is simmering rapidly - I have it on medium. Cook for 30 minutes, stirring occasionally, until it reduces down to a thick gravy consistency (Note"
+        },
+        {
+            "number": 8,
+            "instruction": "(see video)."
+        },
+        {
+            "number": 9,
+            "instruction": "Add salt and pepper, taste, then add more if you like."
+        },
+        {
+            "number": 10,
+            "instruction": "Transfer Filling to 1.5 litre / 1.5 quart pie baking dish. Stir through peas. Cover, then refrigerate to cool for 1 - 2 hours or overnight (optional, Note 2)"
+        }
+    ]
+}

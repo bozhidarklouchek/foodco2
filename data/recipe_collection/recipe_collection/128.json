@@ -1,0 +1,74 @@
+{
+    "url": "https://holycowvegan.net/fennel-mania-fennel-crusted-potatoes/?fbclid=IwAR39y1mrkvU-A4R0UZW7V2IO4qaIWDr5WO_wOyLu2zksILhMdX4wfKrm758",
+    "title": "Fennel Crusted Potatoes",
+    "total_CO2": 0.2646174,
+    "servings": 4,
+    "CO2_per_portion": 0.06615435,
+    "E.Mission coefficient": 0.4987135318507351,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 medium potatoes ((I use any kind I have on hand), cut into a 3/4-inch dice)",
+            "amount": "3.0",
+            "unit": "inch",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.51,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.1887
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tsp fennel seeds (, coarsely powdered)",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "fennel seeds",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00395
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 tsp ground black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tsp olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Salt to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place all the ingredients in a baking dish and toss together to coat all the potatoes."
+        },
+        {
+            "number": 2,
+            "instruction": "Bake in a 400-degree oven about 30-40 minutes or until nicely golden-brown and tender when pierced with a fork (stir halfway if desired)."
+        }
+    ]
+}

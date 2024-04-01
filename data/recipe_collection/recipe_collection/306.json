@@ -1,0 +1,185 @@
+{
+    "url": "https://lovingitvegan.com/vegan-potato-leek-soup/",
+    "title": "Vegan Potato Leek Soup",
+    "total_CO2": 1.0131607517325,
+    "servings": 6,
+    "CO2_per_portion": 0.16886012528875002,
+    "E.Mission coefficient": 0.34896010795744353,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 Medium Onion (White, Yellow or Brown, Chopped)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp Crushed Garlic",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Crushed Garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 Tbsp Olive Oil",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "Olive Oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 Large Leeks (white and light green parts only, chopped)",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.1422
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp Dried Thyme",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dried Thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp Dried Rosemary",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Dried Rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp Ground Coriander",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Ground Coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.030310000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "6 Medium Potatoes ((2.2lb/1kg) peeled and chopped*)",
+            "amount": "6.0",
+            "unit": "medium",
+            "ingredient_name": "Potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.02,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.3774
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 Bay Leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 cups Vegetable Stock/Broth ((960ml))",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "Vegetable Stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.946352946,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.01892705892
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "14 ounces Coconut Cream ((400ml, 1 can) Unsweetened*)",
+            "amount": "14.0",
+            "unit": "ounces",
+            "ingredient_name": "Coconut Cream",
+            "matched_ingredient": "Coconut cream",
+            "kg_equivalent": 0.39689332375,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.2976699928125
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Sea Salt and Black Pepper (to taste)",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Fresh Chives (Chopped)",
+            "amount": "1.0",
+            "ingredient_name": "Fresh Chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add the chopped onion and leeks to a pot with the crushed garlic and olive oil and sauté until softened."
+        },
+        {
+            "number": 2,
+            "instruction": "Add in the thyme, rosemary and coriander powder and sauté."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chopped potatoes, bay leaves and vegetable stock and bring to a boil. Reduce the heat, cover the pot and simmer until the potatoes are soft and cooked."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from the heat and remove the bay leaves."
+        },
+        {
+            "number": 5,
+            "instruction": "Then add in the coconut cream."
+        },
+        {
+            "number": 6,
+            "instruction": "Blend the soup using an immersion blender for the easiest blending or, if you don&#39;t have an immersion blender, transfer in stages to a blender jug and blend until smooth."
+        },
+        {
+            "number": 7,
+            "instruction": "Add sea salt and black pepper to taste."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve with fresh chopped chives."
+        }
+    ]
+}

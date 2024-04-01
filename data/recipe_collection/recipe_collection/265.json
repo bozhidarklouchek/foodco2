@@ -1,0 +1,137 @@
+{
+    "url": "https://www.knorr.com/ca/en/recipe-ideas/knorr-slow-cooker-pulled-pork.html",
+    "title": "Knorr Slow Cooker Pulled Pork",
+    "total_CO2": 8.624692595850002,
+    "servings": 10,
+    "CO2_per_portion": 0.8624692595850002,
+    "E.Mission coefficient": 6.2044535974407395,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 1/2 lbs. (1.25 kgs) boneless pork shoulder, trimmed of excess fat",
+            "amount": "2.5",
+            "unit": "lbs",
+            "ingredient_name": "boneless pork shoulder",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 1.1339809250000001,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 8.25764909585
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large green or red bell pepper, chopped",
+            "amount": "0.5",
+            "unit": "large",
+            "ingredient_name": "green",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large green or red bell pepper, chopped",
+            "amount": "0.5",
+            "unit": "large",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/3 cup (75 mL) tomato paste",
+            "amount": "75.0",
+            "unit": "mL",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.107025
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 cup (60 mL) firmly packed brown sugar",
+            "amount": "60.0",
+            "unit": "mL",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.042,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.11222400000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 cup (60 mL) apple cider vinegar",
+            "amount": "60.0",
+            "unit": "mL",
+            "ingredient_name": "apple cider vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.09509999999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 pot Knorr® Homestyle Stock Chicken",
+            "amount": "1.0",
+            "ingredient_name": "Stock Chicken",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Tbsp. (15 Tbsp.) Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp. (5 mL) onion powder",
+            "amount": "5.0",
+            "unit": "mL",
+            "ingredient_name": "onion powder",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.0011,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00043450000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 clove garlic, chopped",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat skillet over medium-high heat and cook pork, turning to cook all sides, until browned, about 4 minutes. Arrange pork in slow cooker."
+        },
+        {
+            "number": 2,
+            "instruction": "Add remaining ingredients and stir. Cook covered on LOW 8 to 10 hours or HIGH 4 to 6 hours until pork is fork-tender."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove pork; reserve juices, removing fat. Shred pork with fork, then stir into reserved juices."
+        },
+        {
+            "number": 4,
+            "instruction": "Serve on warm hamburger buns or medium-sized crusty rolls with coleslaw, if desired."
+        }
+    ]
+}

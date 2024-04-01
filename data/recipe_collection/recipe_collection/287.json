@@ -1,0 +1,190 @@
+{
+    "url": "https://www.africanbites.com/jamaican-curry-goat/",
+    "title": "Jamaican Curry Goat",
+    "total_CO2": 4.691314570416089,
+    "servings": 6,
+    "CO2_per_portion": 0.7818857617360148,
+    "E.Mission coefficient": 3.5005292412794837,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3- 3 1/2 pounds goat meat ((cut in chunks))",
+            "amount": "3.5",
+            "ingredient_name": "goat meat",
+            "matched_ingredient": "Goat",
+            "kg_equivalent": 0.161,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 3.930815
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/4- 1/2 cup cooking oil",
+            "amount": "0.375",
+            "unit": "cup",
+            "ingredient_name": "cooking oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0816229415925,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.31245262041608995
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 teaspoons minced garlic",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "minced garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00395
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 -2 teaspoons minced ginger",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "minced ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0027375
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 medium onion sliced",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "4-5 Tablespoons Curry powder",
+            "amount": "4.5",
+            "unit": "Tablespoons",
+            "ingredient_name": "Curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.03915,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01781325
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1- teaspoon white pepper",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "white pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0025499999999999997,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011602499999999998
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1-2 teaspoons fresh thyme",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0019009499999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 green onions sliced",
+            "amount": "2.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2-3 medium potatoes",
+            "amount": "2.5",
+            "unit": "medium",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.42500000000000004,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.15725
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 Tablespoon tomato paste",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 scotch bonnet pepper ((adjust to suit taste buds or replace with any hot pepper))",
+            "amount": "1.0",
+            "ingredient_name": "scotch bonnet pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tablespoon Bouillon powder ((optional))",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "Bouillon powder",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Salt to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Season goat with, salt and pepper. Set aside"
+        },
+        {
+            "number": 2,
+            "instruction": "In a large pot, heat oil over medium heat, until hot, and then add the goat meat sauté stirring, frequently, any browned bits off the bottom of the pot, until goat is brown."
+        },
+        {
+            "number": 3,
+            "instruction": "Then add curry, stir for about 1-2 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the garlic,ginger,  white pepper, onions,thyme, tomato paste, scallions (green onions) and scotch bonnet pepper stir for about a minute."
+        },
+        {
+            "number": 5,
+            "instruction": "Then pour in just enough water to cover the goat and bring to a boil and let it simmer until tender (depending on the goat size and preference) about 2 hours or more, stirring the saucepan occasionally and adding more water as needed.."
+        },
+        {
+            "number": 6,
+            "instruction": "About 15-20 minutes before you remove from the stove add potatoes and bouillon powder. Continue cooking until potatoes are tender, if you want really thick curry goat let the potatoes cook even more ."
+        },
+        {
+            "number": 7,
+            "instruction": "You may adjust thickness of soup with water or stock."
+        }
+    ]
+}

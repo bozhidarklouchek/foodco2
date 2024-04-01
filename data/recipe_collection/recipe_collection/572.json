@@ -1,0 +1,286 @@
+{
+    "url": "https://cupfulofkale.com/vegan-lentil-shepherds-pie-with-sweet-potato-mash/",
+    "title": "Lentil Shepherd's Pie with Sweet Potato Mash",
+    "total_CO2": 4.784359800000001,
+    "servings": 6,
+    "CO2_per_portion": 0.7973933000000001,
+    "E.Mission coefficient": 1.6088371107673687,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1.25 kg (about 5) sweet potatoes",
+            "amount": "1.25",
+            "unit": "kg",
+            "ingredient_name": "sweet potatoes",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 1.25,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.4625
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "120 ml unsweetned almond milk",
+            "amount": "120.0",
+            "unit": "ml",
+            "ingredient_name": "unsweetned almond milk",
+            "matched_ingredient": "Almond milk",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.03336
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 heaped tbsp vegan butter",
+            "amount": "1.0",
+            "unit": "heaped tbsp",
+            "ingredient_name": "tbsp vegan butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.05562
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "150 g vegan cheddar style cheese",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "vegan cheddar style cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.1859999999999995
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Salt and pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 red onion",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 garlic cloves",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 stick of celery",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.004,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00182
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 g chestnut mushrooms",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "250 g (1.5 cups) dried red lentils",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "dried red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.4025
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tins (800g) chopped tomatoes",
+            "amount": "2.0",
+            "unit": "tins",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "500 ml vegetable stock",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.01
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tbsp tomato puree",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp soy sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tsp marmite",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "marmite",
+            "matched_ingredient": "Plant-based yogurt",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.02871
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tbsp dried mixed herbs",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "dried mixed herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 tsp smoked paprika",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "Salt and pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 180C/350F."
+        },
+        {
+            "number": 2,
+            "instruction": "Peel the sweet potatoes and cut into 2 inch chunks."
+        },
+        {
+            "number": 3,
+            "instruction": "Place in a large saucepan of boiling water and leave to simmer for about 20 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Finely dice the onions and celery, crush the garlic and roughly chop the mushrooms."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat some oil on medium heat in a large frying pan or saucepan and put the onion in."
+        },
+        {
+            "number": 6,
+            "instruction": "Next add the garlic, celery and then the mushrooms. Cook for about 5 minutes until the liquid from the mushrooms is absorbed."
+        },
+        {
+            "number": 7,
+            "instruction": "Rinse the lentils and add along with all the remaining ingredients. Bring to a gentle simmer and let cook and thicken for about 25 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Check the sweet potatoes. Pierce with a knife and if soft, turn off the heat, drain and return to the pan."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the milk and whisk using a hand mixer until soft."
+        },
+        {
+            "number": 10,
+            "instruction": "Add the butter and cheese and mix again. Taste and season with salt and pepper. Leave to one side."
+        },
+        {
+            "number": 11,
+            "instruction": "Stir the lentil mixture to make sure none is stuck to the bottom. The sauce should have thickened and darkened in colour and the lentils will be soft. Taste and season with salt and pepper."
+        },
+        {
+            "number": 12,
+            "instruction": "Place the lentil filling into a large dish or individual ramekins."
+        },
+        {
+            "number": 13,
+            "instruction": "Place dollops of the sweet potato mash on top and spoon to the edges. With the back of a fork gently make lines/peaks in the mash (this will help it to crisp)."
+        },
+        {
+            "number": 14,
+            "instruction": "Pop in the oven for 25 minutes, you may want to place the dish on a baking tray in case of any spillages."
+        },
+        {
+            "number": 15,
+            "instruction": "If you want the mash a little crispier, turn on the grill and cook for a further few minutes."
+        },
+        {
+            "number": 16,
+            "instruction": "Serve and top with some fresh herbs! I like to serve with some sauteed green veg or a leafy salad."
+        },
+        {
+            "number": 17,
+            "instruction": "Will keep in the fridge in an air tight container for 3-5 days."
+        }
+    ]
+}

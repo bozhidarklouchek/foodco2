@@ -1,0 +1,21 @@
+{
+    "url": "https://www.stylist.co.uk/life/recipes/egg-muffin-recipe-breakfast-ideas/442795",
+    "title": "This easy egg muffin tops up iron levels",
+    "total_CO2": 0.22535,
+    "servings": 2,
+    "CO2_per_portion": 0.112675,
+    "E.Mission coefficient": 4.507,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "egg muffin recipe: boost iron and protein levels",
+            "amount": "1.0",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        }
+    ],
+    "instructions": []
+}

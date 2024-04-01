@@ -1,0 +1,131 @@
+{
+    "url": "https://www.foodinaminute.co.nz/Recipes/Mexican-Tortilla-Wraps",
+    "title": "A Platform for Performance",
+    "total_CO2": 2.33024,
+    "servings": 2,
+    "CO2_per_portion": 1.16512,
+    "E.Mission coefficient": 7.281999999999999,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Our Purpose, Vision & Values",
+            "amount": "1.0",
+            "ingredient_name": "our purpose",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "The Kraft Heinz Company has an unparalleled portfolio of powerful and iconic brands.",
+            "amount": "1.0",
+            "ingredient_name": "Heinz",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 0.088,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.6408159999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "We at Kraft Heinz are unrelenting in our quest to transform the food industry. Join us and bring your appetite for more. Find out what it takes to work here.",
+            "amount": "1.0",
+            "ingredient_name": "Kraft Heinz",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 0.088,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.6408159999999999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "The Kraft Heinz Company",
+            "amount": "1.0",
+            "ingredient_name": "Kraft Heinz",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 0.088,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.6408159999999999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Diversity, Inclusion & Belonging",
+            "amount": "1.0",
+            "ingredient_name": "diversity",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 31,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 41,
+            "original_string": "1",
+            "amount": "1.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 42,
+            "original_string": "2",
+            "amount": "2.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 43,
+            "original_string": "3",
+            "amount": "3.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 44,
+            "original_string": "4",
+            "amount": "4.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 47,
+            "original_string": "Bring Your Appetite For More",
+            "amount": "1.0",
+            "ingredient_name": "bring your appetite",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.056,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.407792
+        },
+        {
+            "ingredient_number": 49,
+            "original_string": "A Platform for Performance",
+            "amount": "1.0",
+            "ingredient_name": "platform",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

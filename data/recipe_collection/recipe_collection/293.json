@@ -1,0 +1,169 @@
+{
+    "url": "https://thewanderlustkitchen.com/white-beans-and-pasta-rosemary-pesto/?utm_campaign=coschedule&utm_source=pinterest&utm_medium=Anetta+%7C+The+Wanderlust+Kitchen&utm_content=White+Beans+and+Pasta+with+Rosemary+Pesto",
+    "title": "White Bean Pasta with Rosemary Pesto",
+    "total_CO2": 1.2197461877444402,
+    "servings": 2,
+    "CO2_per_portion": 0.6098730938722201,
+    "E.Mission coefficient": 1.3628033857380337,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 small yellow onion (peeled and roughly chopped)",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 cloves garlic (peeled)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tablespoon extra virgin olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/8 teaspoon red pepper flakes",
+            "amount": "0.125",
+            "unit": "teaspoon",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.00031874999999999997,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00014503124999999998
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "6 ounces orecchiette pasta",
+            "amount": "6.0",
+            "unit": "ounces",
+            "ingredient_name": "orecchiette pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.17009713875,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.24510997693875
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 cup tomato paste",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.084402853371375
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 14-ounce can cannellini white beans, drained and rinsed",
+            "amount": "15.0",
+            "unit": "ounce",
+            "ingredient_name": "cannellini white beans",
+            "matched_ingredient": "Cannellini bean",
+            "kg_equivalent": 0.425242846875,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6846409834687501
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon salted butter",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "salted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 cup rosemary arugula pesto",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "rosemary arugula pesto",
+            "matched_ingredient": "Arugula",
+            "kg_equivalent": 0.030756470745000004,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.013440577715565002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Crusty bread and fresh arugula for serving (optional)",
+            "amount": "1.0",
+            "ingredient_name": "Crusty bread",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.040348
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Set a large pot of water on the stove and bring to a boil."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, place the onion and garlic in the bowl of a food processor and pulse until pureed."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the olive oil in a large pan set over medium heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the onion-garlic puree along with the red pepper flakes. Cook, stirring frequently, until the onions have softened and lost their bite; about 8 to 10 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, add the pasta to the boiling water and cook 1 or 2 minutes shy of al dente according to package directions (until there is just the slightest bite left in the center)."
+        },
+        {
+            "number": 6,
+            "instruction": "When the pasta is nearly done cooking, add the tomato paste and beans to the onion-garlic mixture.  Strain the pasta, reserving one cup of cooking water."
+        },
+        {
+            "number": 7,
+            "instruction": "Add half of the reserved cooking water to the tomato-onion mixture and cook for 2 to 3 minutes, until well-combined and slightly reduced."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the butter and drained almost-al dente pasta to the pan and toss well."
+        },
+        {
+            "number": 9,
+            "instruction": "Add enough of the remaining half cup pasta cooking water to mostly submerge the pasta. Cook until the pasta is tender and the sauce is very thick, another 2 to 3 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Stir half of the pesto into the pasta; taste and add salt as desired."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve hot, with crusty bread and fresh arugula (optional)."
+        },
+        {
+            "number": 12,
+            "instruction": "Garnish with the remaining pesto."
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "url": "https://www.delish.com/uk/cooking/recipes/a28831487/classic-lasagne-recipe/",
+    "title": "Classic Lasagne",
+    "total_CO2": 56.8829511,
+    "servings": 8,
+    "CO2_per_portion": 7.1103688875,
+    "E.Mission coefficient": 19.423920471231007,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "350 g lasagne pasta sheets&nbsp;",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "lasagne pasta sheets",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.50435
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp. extra-virgin olive oil, plus more for drizzling",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.004600000000000001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0176088
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "450 g beef mince",
+            "amount": "450.0",
+            "unit": "g",
+            "ingredient_name": "beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 26.8065
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 cloves garlic, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp. dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "900 g ready-made tomato pasta sauce",
+            "amount": "900.0",
+            "unit": "g",
+            "ingredient_name": "ready-made tomato pasta sauce",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.9,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 4.0563
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "450 g ricotta",
+            "amount": "450.0",
+            "unit": "g",
+            "ingredient_name": "ricotta",
+            "matched_ingredient": "Ricotta",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 9.558
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "50 g freshly grated Parmesan",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "freshly grated Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp. chopped parsley, plus more for garnish",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "700 g mozzarella, sliced",
+            "amount": "700.0",
+            "unit": "g",
+            "ingredient_name": "mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.7,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 14.867999999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Meanwhile, in a large pot over medium-high heat, heat oil. Cook beef until no longer pink, breaking up with a wooden spoon, then drain fat. Return beef to pan and&nbsp;add garlic and oregano and stir for 1 minute. Season with salt and pepper, then add tomato sauce and stir until warmed through.&nbsp;"
+        },
+        {
+            "number": 2,
+            "instruction": "Combine ricotta, 25g Parmesan, and parsley in a large mixing bowl and season with salt and pepper. Set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Cover with foil and bake for 15 minutes, then increase temperature to 200ºC and bake uncovered for 18 to 20 minutes.&nbsp;"
+        }
+    ]
+}

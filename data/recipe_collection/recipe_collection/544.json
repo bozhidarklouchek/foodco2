@@ -1,0 +1,272 @@
+{
+    "url": "https://www.you.co.uk/yotam-ottolenghis-gigli-chickpeas-zaatar/",
+    "title": "Yotam Ottolenghi's gigli with chickpeas and za'atar",
+    "total_CO2": 1.8782510000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.9391255000000001,
+    "E.Mission coefficient": 5.5405634218289075,
+    "ingredients": [
+        {
+            "ingredient_number": 7,
+            "original_string": "More You Food",
+            "amount": "1.0",
+            "ingredient_name": "Food",
+            "matched_ingredient": "Soya mince",
+            "kg_equivalent": 0.07,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.20097
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 clever ways to use your cast iron Le Creuset casserole",
+            "amount": "3.0",
+            "ingredient_name": "Le Creuset casserole",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.168,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.223376
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Eating out: Erst, Manchester",
+            "amount": "1.0",
+            "ingredient_name": "eating out: erst",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.056,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.407792
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Quick cauliflower curry",
+            "amount": "1.0",
+            "ingredient_name": "cauliflower curry",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.005680999999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Food & Drinks",
+            "amount": "1.0",
+            "ingredient_name": "Drinks",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Book offer: Baking for Pleasure",
+            "amount": "1.0",
+            "ingredient_name": "book offer: baking",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Chocolate and sherry baked pears",
+            "amount": "1.0",
+            "ingredient_name": "Chocolate",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Rum and raisin pudding",
+            "amount": "1.0",
+            "ingredient_name": "raisin pudding",
+            "matched_ingredient": "Raisin",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.033992
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Associated Newspapers Limited is a company registered in England and Wales (Company No. 084121), Northcliffe House, 2 Derry Street, Kensington, London, W8 5TT. VAT Number: GB 243 5711 74",
+            "amount": "84126.0",
+            "ingredient_name": "associated newspapers limited is a company registered in england and wales",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "You can change your preferences at any time. Your information will be used in line with our Privacy Policy.",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "you change your preferences at any time. your information will be used in line",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Privacy & Cookies Policy | Terms and conditions",
+            "amount": "1.0",
+            "ingredient_name": "Cookies",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "Yotam Ottolenghi's gigli with chickpeas and za’atar - The Mail",
+            "amount": "1.0",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.002,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00322
+        },
+        {
+            "ingredient_number": 47,
+            "original_string": "Get unlimited digital access, £1 for 3 months",
+            "amount": "1.0",
+            "ingredient_name": "get unlimited digital access",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 48,
+            "original_string": "Try for £1",
+            "amount": "1.0",
+            "ingredient_name": "try",
+            "matched_ingredient": "Mixed peel",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 49,
+            "original_string": "Already a subscriber?",
+            "amount": "1.0",
+            "ingredient_name": "already a subscriber",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 51,
+            "original_string": "Yotam Ottolenghi's gigli with chickpeas and za’atar",
+            "amount": "1.0",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.002,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00322
+        },
+        {
+            "ingredient_number": 53,
+            "original_string": "September 2, 2018",
+            "amount": "0.0",
+            "ingredient_name": "september 2",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 55,
+            "original_string": "Get unlimited digital access, £1 for 3 months",
+            "amount": "1.0",
+            "ingredient_name": "get unlimited digital access",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 56,
+            "original_string": "Try for £1",
+            "amount": "1.0",
+            "ingredient_name": "try",
+            "matched_ingredient": "Mixed peel",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 57,
+            "original_string": "Already a subscriber?",
+            "amount": "1.0",
+            "ingredient_name": "already a subscriber",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 60,
+            "original_string": "Nigella Lawson's advice for dealing with fussy eaters at Christmas",
+            "amount": "1.0",
+            "ingredient_name": "fussy",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 62,
+            "original_string": "‘I think, “How did my body not fall apart?”’",
+            "amount": "1.0",
+            "ingredient_name": "‘i think",
+            "matched_ingredient": "John Dory",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 66,
+            "original_string": "Want to read more? Please register or sign in.",
+            "amount": "1.0",
+            "ingredient_name": "sign in",
+            "matched_ingredient": "Club soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 69,
+            "original_string": "By clicking “Register” you agree to receive promotional communications from us, unless you have unticked the box above.",
+            "amount": "1.0",
+            "ingredient_name": "by clicking “register” you agree to receive promotional communications from us",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 70,
+            "original_string": "Already a subscriber? Please sign in.",
+            "amount": "1.0",
+            "ingredient_name": "already a subscriber? please sign in",
+            "matched_ingredient": "Nutritional yeast",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 71,
+            "original_string": "Forgotten password?",
+            "amount": "1.0",
+            "ingredient_name": "forgotten password",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

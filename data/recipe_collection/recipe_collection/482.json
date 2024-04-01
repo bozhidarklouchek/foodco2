@@ -1,0 +1,107 @@
+{
+    "url": "https://www.recipetineats.com/how-to-cook-steak/",
+    "title": "How to cook steak - like a chef",
+    "total_CO2": 0.27192,
+    "servings": 1,
+    "CO2_per_portion": 0.27192,
+    "E.Mission coefficient": 2.589714285714286,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Salt and pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "75 g / 5 tbsp unsalted butter (, cut into 1.25 cm / 1/2 inch cubes (Note 2))",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.208575
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "6 sprigs fresh thyme or 3 sprigs rosemary",
+            "amount": "3.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "6 sprigs fresh thyme or 3 sprigs rosemary",
+            "amount": "3.0",
+            "unit": "sprigs",
+            "ingredient_name": "rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "5 garlic cloves (, peeled and smashed to split (Note 3))",
+            "amount": "5.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 - 2 boneless ribeye or scotch fillet (, 2.5 cm / 1 inch thick, approx 300g/10 oz each (Note 1))",
+            "amount": "0.75",
+            "unit": "inch",
+            "ingredient_name": "boneless ribeye",
+            "matched_ingredient": "Haslet",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 - 2 boneless ribeye or scotch fillet (, 2.5 cm / 1 inch thick, approx 300g/10 oz each (Note 1))",
+            "amount": "0.75",
+            "unit": "inch",
+            "ingredient_name": "scotch fillet",
+            "matched_ingredient": "Turbot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Bring to room temp: Take the steak out of the fridge 30 minutes prior to bring to room temperature."
+        },
+        {
+            "number": 2,
+            "instruction": "Dry steaks: Pat dry with paper towels."
+        }
+    ]
+}

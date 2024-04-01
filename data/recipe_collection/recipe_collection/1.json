@@ -1,0 +1,91 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/egg-fried-rice",
+    "title": "Egg fried rice",
+    "total_CO2": 3.0634699999999997,
+    "servings": 4,
+    "CO2_per_portion": 0.7658674999999999,
+    "E.Mission coefficient": 3.3190357529794143,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g long grain rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "250 g long grain rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "long grain rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tbsp vegetable oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.17226
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 eggs, beaten",
+            "amount": "4.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 spring onions, sliced, to serve",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cook the rice following pack instructions, then drain, spread it out to steam-dry and set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat 2 tbsp of the oil in a large wok over a high heat, then add the onion and fry until lightly browned, around 5 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the rice, stir and toast for about 3 mins, then move to the side of the pan."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the remaining oil, then tip in the egg mixture. Leave to cook a little, then mix in with the rice  stir vigorously to coat the grains or, if you prefer the egg chunkier, allow to set for a little longer before breaking up and stirring through. Tip into a serving bowl and scatter over the spring onion to serve."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/spinach-chickpea-curry",
+    "title": "Spinach & chickpea curry",
+    "total_CO2": 0.779205,
+    "servings": 4,
+    "CO2_per_portion": 0.19480125,
+    "E.Mission coefficient": 0.8686789297658863,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp mild curry paste",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "mild curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "400 g can cherry tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 x 400g cans chickpeas, drained and rinsed",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.004,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00644
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "250 g bag baby leaf spinach",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "baby leaf spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.10925
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "squeeze lemon juice",
+            "amount": "1.0",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "basmati rice, to serve",
+            "amount": "1.0",
+            "ingredient_name": "basmati rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the curry paste in a large non-stick frying pan. Once it starts to split, add the onion and cook for 2 mins to soften. Tip in the tomatoes and bubble for 5 mins or until the sauce has reduced."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the chickpeas and some seasoning, then cook for 1 min more. Take off the heat, then tip in the spinach and allow the heat of the pan to wilt the leaves. Season, add the lemon juice, and serve with basmati rice."
+        }
+    ]
+}

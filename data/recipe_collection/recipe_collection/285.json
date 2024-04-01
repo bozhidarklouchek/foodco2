@@ -1,0 +1,213 @@
+{
+    "url": "https://www.kitchensanctuary.com/bbq-chicken-wings/",
+    "title": "BBQ Chicken Wings",
+    "total_CO2": 7.471780824999999,
+    "servings": 24,
+    "CO2_per_portion": 0.31132420104166664,
+    "E.Mission coefficient": 4.673587280489138,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 kg (2.2 lbs) chicken wings",
+            "amount": "1.0",
+            "unit": "kg",
+            "ingredient_name": "chicken wings",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 6.092
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 level tbsp aluminium-free baking powder (It has to be baking powder NOT baking soda - see further notes on baking powder below)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "aluminium-free baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.32734800000000003
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 tsp salt (make sure it's regular table salt)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 tsp pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0012749999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0005801249999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "300 ml (1 1/4 cups) tomato ketchup",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "tomato ketchup",
+            "matched_ingredient": "Tomato ketchup",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.4281
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "4 tbsp white wine vinegar",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "white wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.09509999999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "5 tbsp dark brown sugar",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "dark brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0525,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.14028000000000002
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp black treacle or molasses",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "black treacle",
+            "matched_ingredient": "Treacle",
+            "kg_equivalent": 0.0195,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.052104000000000004
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp black treacle or molasses",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "molasses",
+            "matched_ingredient": "Molasses",
+            "kg_equivalent": 0.0195,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.052104000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp honey",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.062099999999999995,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.06023699999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp Worcestershire Sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire Sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 tsp mustard powder ( - or 1 tsp English mustard)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "mustard powder",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0006500000000000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00028405000000000005
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 1/2 tsp smoked paprika",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 tsp black pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 120C/250F (fan) and place a rack on a large baking tray."
+        },
+        {
+            "number": 2,
+            "instruction": "Cut each wing at the joint so you have a mini wing and a drumette. Dry the wings with paper towels, then place in a large bowl and add the baking powder, salt and pepper. Toss to combine. Note - it&#39;s important to dry the wings first so they only get a light coating. Discard any remaining coating once tossed together."
+        },
+        {
+            "number": 3,
+            "instruction": "Place in a single layer on the rack. It&#039;s fine for them to be touching slightly."
+        },
+        {
+            "number": 4,
+            "instruction": "Place on the lower shelf of the oven for 30 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "After 30 minutes, turn the oven up to 220C/425F (fan) and rotate the tray for even cooking. Cook for a further 45-50 minutes until the wings are lightly golden and crispy (if your wings aren&#39;t particularly meaty, cook for 10 minutes less). Take it out of the oven."
+        },
+        {
+            "number": 6,
+            "instruction": "Whilst the wings are baking, make the barbecue sauce."
+        },
+        {
+            "number": 7,
+            "instruction": "Place all of the ingredients in a saucepan and mix together."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat over a medium-high heat, until boiling, then simmer for 5 minutes. Turn off the heat."
+        },
+        {
+            "number": 9,
+            "instruction": "Toss the barbecue sauce with the wings and serve straightaway."
+        }
+    ]
+}

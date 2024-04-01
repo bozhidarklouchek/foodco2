@@ -1,0 +1,146 @@
+{
+    "url": "https://www.anediblemosaic.com/arabic-meat-in-yogurt-sauce-shakriya/",
+    "title": "Shakriya (Arabic Meat in Yogurt Sauce)",
+    "total_CO2": 418.75233900000006,
+    "servings": 8,
+    "CO2_per_portion": 52.34404237500001,
+    "E.Mission coefficient": 7.184222403411351,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tablespoons olive oil, divided",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "11/2-2 lbs (680 to 910 g) red meat (lamb, beef, or bison), trimmed of fat and cubed",
+            "amount": "680.0",
+            "unit": "to 910 g",
+            "ingredient_name": "red meat",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 57.120000000000005,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 415.94784000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Water, to cover the meat",
+            "amount": "1.0",
+            "ingredient_name": "Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 beef bouillon cubes",
+            "amount": "2.0",
+            "ingredient_name": "beef bouillon cubes",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "4 cloves garlic, crushed using a mortar and pestle",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "32 oz (910 g) plain, low-fat yogurt",
+            "amount": "910.0",
+            "unit": "g",
+            "ingredient_name": "low-fat yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": 0.91,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 2.53071
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tablespoons cornstarch, dissolved in 2 tablespoons cold water to form a slurry",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "cornstarch",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.024599999999999997,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.024304799999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Salt to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Prepared rice, for serving (topped with toasted nuts, if desired)",
+            "amount": "1.0",
+            "ingredient_name": "Prepared rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 2 tablespoons oil in a 5-quart pot over medium-high heat. When the oil starts to ripple, add the meat and let it brown on one side (about 3 to 5 minutes) before stirring it. Stir the meat and add just enough water to cover it (about 3 cups/710 ml)."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the bouillon cubes and bay leaf. Bring it up to a boil, then turn it down to a simmer and cook (covered) until the meat is tender, about 45 to 60 minutes, stirring occasionally and adding water if necessary (you should have about 2 cups/475 ml of water left in the pot after cooking the meat)."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the yogurt and cornstarch slurry to the meat. Cook over low heat until it comes to a simmer, stirring continuously in one direction with a wooden spoon."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat the remaining 1 tablespoon oil with the crushed garlic in a small skillet over low heat for 2 to 3 minutes, stirring constantly."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the sauteed garlic to the soup."
+        },
+        {
+            "number": 6,
+            "instruction": "Taste the soup and add salt as desired."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve with prepared rice."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "url": "http://www.eatingkent.co.uk/2016/12/ducking-unbelievable.html",
+    "title": "Ducking Unbelievable",
+    "total_CO2": 0.03555,
+    "servings": 2,
+    "CO2_per_portion": 0.017775,
+    "E.Mission coefficient": 0.395,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Preheat your oven to gas mark 6 or equivalent.",
+            "amount": "6.0",
+            "ingredient_name": "preheat your oven to gas mark",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.03555
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Chop the hard centres off the jackfruit slices, but don't throw them away, that's wasteful. Just chop them finely.",
+            "amount": "1.0",
+            "ingredient_name": "jackfruit slices",
+            "matched_ingredient": "Jackfruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Serve!",
+            "amount": "1.0",
+            "ingredient_name": "serve",
+            "matched_ingredient": "Fromage frais",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Elbow your partner in the nipple to get the last bit of crispy ducky goodness!",
+            "amount": "1.0",
+            "ingredient_name": "crispy ducky goodness",
+            "matched_ingredient": "Crisp rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Feel satisfied that even though it didn't look like it, you had at least 3 different portions of fruit and veg in this meal.",
+            "amount": "3.0",
+            "ingredient_name": "fruit",
+            "matched_ingredient": "Star fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

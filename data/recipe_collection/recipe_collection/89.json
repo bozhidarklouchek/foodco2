@@ -1,0 +1,88 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/courgette-fritters-0",
+    "title": "Courgette fritters",
+    "total_CO2": 23.694101399999997,
+    "servings": 2,
+    "CO2_per_portion": 11.847050699999999,
+    "E.Mission coefficient": 0.47125501690824495,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g courgettes, grated",
+            "amount": "250.0",
+            "ingredient_name": "courgettes",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 50.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 22.75
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "20 g plain flour",
+            "amount": "20.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.028820000000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 egg, beaten",
+            "amount": "1.0",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "25 g finely grated parmesan, or vegetarian alternative (optional)",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "grated parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.531
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "170 g tub roasted red pepper hummus, to serve",
+            "amount": "170.0",
+            "unit": "g",
+            "ingredient_name": "roasted red pepper hummus",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.07735
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Combine the grated courgette, flour, egg and parmesan in a large bowl."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat a non-stick frying pan over a medium heat and add the oil. Fry the fritters for 2-3 mins on each side until golden brown."
+        },
+        {
+            "number": 3,
+            "instruction": "Serve straight away with red pepper hummus."
+        }
+    ]
+}

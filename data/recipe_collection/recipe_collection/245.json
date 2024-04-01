@@ -1,0 +1,165 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/vegetable-curry-crowd",
+    "title": "Easy vegetable curry",
+    "total_CO2": 1.532387,
+    "servings": 8,
+    "CO2_per_portion": 0.191548375,
+    "E.Mission coefficient": 0.6610815358067299,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 large potato, diced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "potato",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 small butternut squash, peeled, deseeded and diced",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "butternut squash",
+            "matched_ingredient": "Butternut squash",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 aubergine, diced",
+            "amount": "1.0",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "6 tbsp tikka masala paste",
+            "amount": "6.0",
+            "unit": "tbsp",
+            "ingredient_name": "tikka masala paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.04095
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 tbsp vegetable oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.17226
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 onions, sliced",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "680 g-700 g jar tomato passata",
+            "amount": "680.0",
+            "unit": "g-700 g",
+            "ingredient_name": "tomato passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g can coconut milk",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.36560000000000004
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 red peppers, sliced",
+            "amount": "2.0",
+            "ingredient_name": "red peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 courgettes, diced",
+            "amount": "2.0",
+            "ingredient_name": "courgettes",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.18200000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "few coriander sprigs, to serve",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "rice or naan bread, to serve",
+            "amount": "1.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "rice or naan bread, to serve",
+            "amount": "1",
+            "ingredient_name": "naan bread",
+            "matched_ingredient": "Naan bread",
+            "kg_equivalent": 0.177,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.255057
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Toss the potato, squash and aubergine with 2 tbsp curry paste and 2 tbsp oil in a large roasting tin. Season, then roast for 30 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Meanwhile, make the sauce. Fry the onions in the remaining oil in a large pan until softened and golden – add a splash of water if they start to dry out. Stir in the remaining curry paste, cook for 3 mins, then add the passata, coconut milk and 100ml water. Simmer for a few mins."
+        },
+        {
+            "number": 4,
+            "instruction": "When the vegetables are roasted, tip them into the sauce with the peppers and courgettes. Simmer for 10-15 mins until tender. Scatter with coriander and serve."
+        }
+    ]
+}

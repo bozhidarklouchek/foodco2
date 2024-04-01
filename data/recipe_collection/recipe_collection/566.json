@@ -1,0 +1,280 @@
+{
+    "url": "https://www.panningtheglobe.com/healthy-spicy-shepherds-pie/",
+    "title": "Healthy Shepherd's Pie",
+    "total_CO2": 15.018597431426912,
+    "servings": 4,
+    "CO2_per_portion": 3.754649357856728,
+    "E.Mission coefficient": 4.400242322277954,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 1/2 pounds russet (baking) potatoes, peeled and cut into 1 -to 1 ½ inch chunks",
+            "amount": "2.5",
+            "unit": "pounds",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.1339809250000001,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.41957294225
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3/4 cup low salt chicken broth (plus you'll need another cup of broth for the casserole)",
+            "amount": "0.75",
+            "unit": "cup",
+            "ingredient_name": "salt chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.1596970596375,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.9728744873116499
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons good quality olive oil",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "quality olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 1/2 teaspoons kosher salt, or to taste",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.016200000000000003,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.19640880000000005
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Several grinds of fresh black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "fresh black pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 teaspoons olive oil",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 pound ground lamb (substitute beef, chicken or turkey, if you prefer)",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "ground lamb",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 11.07445771355
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 carrots, peeled and chopped (1 ½ cups chopped)",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.38327294313,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.13989462424245
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 large onion, peeled and chopped (about 1 ½ cups chopped)",
+            "amount": "1.0",
+            "unit": "cups",
+            "ingredient_name": "large onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.05204941203,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.020559517751850002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 red bell pepper, seeded, ribs removed, chopped",
+            "amount": "1.0",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 medium garlic cloves, minced (1 tablespoon plus 1 teaspoon)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "medium garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup low-salt chicken broth (I recommend Swanson's low salt)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "low-salt chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.21292941285,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.2971659830822
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 tablespoons tomato paste (I recommend organic or San Marzano)",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 teaspoons kosher salt or more, to taste",
+            "amount": "1.0",
+            "unit": "teaspoons",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 teaspoon dried thyme",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4-1/2 teaspoon cayenne pepper (depending on how hot you like it)",
+            "amount": "0.375",
+            "unit": "teaspoon",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.0010875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0004948125
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Several grinds of black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1/2 cup frozen petit peas, thawed",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "frozen petit peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.08517176514,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.07631390156543999
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1/2 cup frozen sweet corn, thawed (I recommend organic)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "frozen sweet corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.08517176514,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.08414970395832
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "2 small or 1 large zucchini, chopped or finely diced (1 ½ cups)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "zucchini",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.215295295215
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cover potatoes with cold water in a large pot and add 1 teaspoon of salt. Bring to a boil and cook for 15 minutes or until just tender."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain and mash with ¾ cup broth, 3 tablespoons olive oil, 1½ teaspoons salt and several grinds of black pepper, to taste."
+        },
+        {
+            "number": 3,
+            "instruction": "While potatoes are cooking, preheat oven to 400ºF."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat 2 teaspoons olive oil in a large (preferably cast iron) skillet, over medium heat. Cook lamb (or other ground meat), stirring, until it loses its pinkness. With a slotted spoon, transfer to a bowl and pour off fat from the skillet."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 2 tablespoons olive oil to the skillet. Cook onions, carrots and bell pepper over medium heat, stirring occasionally, until fairly dry and starting to brown, 5-7 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add garlic and zucchini and cook, stirring, for a minute or so. Return lamb to the skillet."
+        },
+        {
+            "number": 7,
+            "instruction": "Add 1 cup broth, 3 tablespoons tomato paste,  ½ teaspoon thyme, 1 teaspoon salt, black pepper and cayenne to taste, and bay leaf. Simmer over medium-low heat for 5 minutes, stirring occasionally. Stir in the corn and peas and remove from heat. Correct the seasoning with more salt and pepper, if desired."
+        },
+        {
+            "number": 8,
+            "instruction": "To assemble the pie, use a spatula to smooth out the meat filling in the bottom of the skillet or casserole."
+        },
+        {
+            "number": 9,
+            "instruction": "Spread the mashed potatoes out evenly on top and use the tines of a fork to make swirly patterns in the potatoes, if you like."
+        },
+        {
+            "number": 10,
+            "instruction": "Bake, uncovered, in the top third of the oven for 25 minutes, or until heated through and golden brown in spots. Rest casserole for 10-15 minutes. Slice into pieces and serve."
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/coconut-squash-dhansak",
+    "title": "Coconut & squash dhansak (320)",
+    "total_CO2": 3.1085770000000004,
+    "servings": 4,
+    "CO2_per_portion": 0.7771442500000001,
+    "E.Mission coefficient": 1.2474225521669344,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp vegetable oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "500 g butternut squash",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "butternut squash",
+            "matched_ingredient": "Butternut squash",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "100 g frozen chopped onions",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "frozen chopped onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.03950000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 heaped tbsp mild curry paste",
+            "amount": "4.0",
+            "unit": "heaped tbsp",
+            "ingredient_name": "mild curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 g can light coconut milk",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.36560000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "mini naan bread, to serve",
+            "amount": "1.0",
+            "ingredient_name": "naan bread",
+            "matched_ingredient": "Naan bread",
+            "kg_equivalent": 0.177,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.255057
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g can lentils, drained",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "200 g bag baby spinach",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "baby spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0874
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "150 ml coconut yogurt",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "coconut yogurt",
+            "matched_ingredient": "Plant-based yogurt",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.8613
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large pan."
+        },
+        {
+            "number": 2,
+            "instruction": "Put the squash in a bowl with a splash of water. Cover with cling film and microwave on High for 10 mins or until tender. Meanwhile, add the onions to the hot oil and cook for a few mins until soft."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the curry paste, tomatoes and coconut milk, and simmer for 10 mins until thickened to a rich sauce."
+        },
+        {
+            "number": 4,
+            "instruction": "Warm the naan breads in a low oven or in the toaster."
+        },
+        {
+            "number": 5,
+            "instruction": "Drain any liquid from the squash, then add to the sauce with the lentils, spinach and some seasoning. Simmer for a further 2-3 mins to wilt the spinach, then stir in the coconut yogurt."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve with the warm naan and a dollop of extra yogurt."
+        }
+    ]
+}

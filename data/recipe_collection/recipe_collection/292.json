@@ -1,0 +1,134 @@
+{
+    "url": "https://www.eatgood4life.com/roasted-garlic-spinach-white-pizza/",
+    "title": "Roasted garlic spinach white pizza",
+    "total_CO2": 31.1283874620375,
+    "servings": 2,
+    "CO2_per_portion": 15.56419373101875,
+    "E.Mission coefficient": 14.337504503630413,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4-5 heads of garlic",
+            "amount": "4.0",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0079
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 tsp olive oil",
+            "amount": "4.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0183,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.1087752
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 whole wheat pizza dough",
+            "amount": "2.0",
+            "ingredient_name": "whole wheat pizza dough",
+            "matched_ingredient": "Dough",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "32 oz part skim mozzarella cheese",
+            "amount": "32.0",
+            "unit": "oz",
+            "ingredient_name": "skim mozzarella cheese",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.90718474,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 19.2686038776
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "16-22 oz ricotta cheese",
+            "amount": "19.0",
+            "unit": "oz",
+            "ingredient_name": "ricotta cheese",
+            "matched_ingredient": "Ricotta",
+            "kg_equivalent": 0.538640939375,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 11.440733552325
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "20 oz Cascadian Farm frozen spinach, thawed and liquid squeezed",
+            "amount": "20.0",
+            "unit": "oz",
+            "ingredient_name": "Cascadian Farm frozen spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.5669904625000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.24777483211250004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Pepper flakes, optional",
+            "amount": "1.0",
+            "ingredient_name": "Pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat your oven to 400°F. Use your fingers to peel away all the loose layers around the head of garlic. With a knife, cut off about 1/4 inch from the top of the head to expose the cloves."
+        },
+        {
+            "number": 2,
+            "instruction": "Drizzle 1 teaspoon of olive oil over the exposed surface of each garlic head. Wrap the garlic in aluminum foil and roast for 30-40 minutes. The garlic is done when a center clove is completely soft."
+        },
+        {
+            "number": 3,
+            "instruction": "Let the garlic cool slightly. Press the bottom of the entire clove to push it out of its paper."
+        },
+        {
+            "number": 4,
+            "instruction": "Place it in a bowl and mash with the back of a fork."
+        },
+        {
+            "number": 5,
+            "instruction": "Combine the roasted garlic with the ricotta cheese and set aside."
+        },
+        {
+            "number": 6,
+            "instruction": "On a flat surface, like your kitchen counter, place some whole wheat flour to prevent the dough from sticking."
+        },
+        {
+            "number": 7,
+            "instruction": "Roll out your pizza dough with a rolling pin."
+        },
+        {
+            "number": 8,
+            "instruction": "Place the pizza dough onto the pizza stone making sure you reach the edges. You can also use a pizza baking sheet or a cookie sheet. Repeat this with the second pizza dough."
+        },
+        {
+            "number": 9,
+            "instruction": "Spread half of the ricotta cheese mixture over each pizza dough followed by the mozzarella cheese and spinach. "
+        },
+        {
+            "number": 10,
+            "instruction": "Bake the pizzas at 425F in a preheated oven for 18-2o minutes."
+        },
+        {
+            "number": 11,
+            "instruction": "When the pizzas are done top with pepper flakes if using."
+        },
+        {
+            "number": 12,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

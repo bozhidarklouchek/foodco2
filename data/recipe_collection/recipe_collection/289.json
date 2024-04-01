@@ -1,0 +1,161 @@
+{
+    "url": "https://www.bbcgoodfood.com/user/776194/recipe/haddock-florentine",
+    "title": "Haddock Florentine",
+    "total_CO2": 6.8537232999999995,
+    "servings": 3,
+    "CO2_per_portion": 2.2845744333333333,
+    "E.Mission coefficient": 4.038967116506571,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "250 g Spinach",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "Spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.10925
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "600 ml Milk",
+            "amount": "600.0",
+            "unit": "ml",
+            "ingredient_name": "Milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.624,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.735344
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "300 g Haddock Fillets",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "Haddock Fillets",
+            "matched_ingredient": "Haddock",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.8481
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "300 g Smoked Haddock Fillets",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "Smoked Haddock Fillets",
+            "matched_ingredient": "Haddock",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.8481
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "20 g Butter",
+            "amount": "20.0",
+            "unit": "g",
+            "ingredient_name": "Butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.05562
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "20 g Flour",
+            "amount": "20.0",
+            "unit": "g",
+            "ingredient_name": "Flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.028820000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "150 g Mature Cheddar",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "Mature Cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.1859999999999995
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp Wholegrain Mustard",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Wholegrain Mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0039000000000000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0017043000000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 slice wholemeal bread",
+            "amount": "1.0",
+            "ingredient_name": "wholemeal bread",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.040348
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 handful parsley",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pre heat oven to 200 degrees C (Gas mark 6)."
+        },
+        {
+            "number": 2,
+            "instruction": "Place the slice of bread and the parsley in a blender and blitz to crumbs."
+        },
+        {
+            "number": 3,
+            "instruction": "Steam spinach for 5 minutes to wilt. Once wilted and cooled squeeze out excess water and place in the bottom of an oven proof dish."
+        },
+        {
+            "number": 4,
+            "instruction": "Bring milk to the boil and add the haddock fillets. Simmer gently until the haddock is cooked and flaking."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove the fish from the milk (keep the milk for the next step) and flake it on top of the spinach base."
+        },
+        {
+            "number": 6,
+            "instruction": "Melt the butter in a saucepan, add the flour to form a paste using a whisk to mix the flour and butter. Gradually add the milk whisking all the time to remove any lumps."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the cheese and the wholegrain mustard and stir well until the cheese has melted."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour the sauce over the haddock and spinach. Top with the bread crumb\\parsley mix."
+        },
+        {
+            "number": 9,
+            "instruction": "Place in oven for 10-15 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with new potatoes."
+        }
+    ]
+}

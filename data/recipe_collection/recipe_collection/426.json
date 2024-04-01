@@ -1,0 +1,188 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/fish-recipes/keralan-fish-curry/",
+    "title": "Keralan fish curry",
+    "total_CO2": 2.3498762,
+    "servings": 6,
+    "CO2_per_portion": 0.39164603333333337,
+    "E.Mission coefficient": 2.5684514154552414,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "6 shallots",
+            "amount": "6.0",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 cloves of garlic",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2.5 cm piece of ginger",
+            "amount": "2.5",
+            "unit": "cm",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 fresh green chilli",
+            "amount": "1.0",
+            "ingredient_name": "fresh green chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "750 g firm white fish from sustainable sources",
+            "amount": "750.0",
+            "unit": "g",
+            "ingredient_name": "firm white fish",
+            "matched_ingredient": "Fish",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 2.12025
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "groundnut oil",
+            "amount": "1.0",
+            "ingredient_name": "groundnut oil",
+            "matched_ingredient": "Groundnut oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 teaspoon mustard seeds",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "mustard seeds",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "20 curry leaves",
+            "amount": "20.0",
+            "unit": "leaves",
+            "ingredient_name": "curry",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tablespoon chilli powder",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon turmeric",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 x 400 g tin of light coconut milk",
+            "amount": "1.0",
+            "unit": "x 400 g",
+            "ingredient_name": "light coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 x 400 g tin of quality chopped tomatoes",
+            "amount": "1.0",
+            "unit": "x 400 g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "a few sprigs of fresh coriander",
+            "amount": "1.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Peel and finely slice the shallots, garlic and ginger. Trim and finely slice the chilli."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut the fish into chunks."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat a lug of groundnut oil in a large pan, add the mustard seeds and curry leaves and cook until the seeds start to pop."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the shallot, garlic, ginger and chilli, and cook on a medium heat for 5 minutes, or until softened."
+        },
+        {
+            "number": 6,
+            "instruction": "Mix the chilli powder and turmeric together with a splash of water, and stir into the pan. Fry for 1 minute, then add the fish, coconut milk and tomatoes."
+        },
+        {
+            "number": 7,
+            "instruction": "Season, bring to the boil, then simmer for 20 minutes, or until the fish is cooked and the sauce has reduced."
+        },
+        {
+            "number": 8,
+            "instruction": "Pick, chop and scatter over the coriander leaves. Delicious served with basmati rice and warm naan bread."
+        },
+        {
+            "number": 9,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

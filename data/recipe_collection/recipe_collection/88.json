@@ -1,0 +1,112 @@
+{
+    "url": "https://www.marmiton.org/recettes/recette_tarte-tatin-gourmande_165036.aspx",
+    "title": "Tarte tatin gourmande",
+    "total_CO2": 42.56705999999999,
+    "servings": 8,
+    "CO2_per_portion": 5.320882499999999,
+    "E.Mission coefficient": 16.6277578125,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "crème fraîche liquide (facultatif)",
+            "amount": "1.0",
+            "ingredient_name": "crème fraîche liquide",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "7 pommes à cuire (Boskoop de préférence, à défaut reinette grise du Canada)",
+            "amount": "7.0",
+            "ingredient_name": "cuire",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "70 g de beurre",
+            "amount": "70.0",
+            "ingredient_name": "beurre",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "140 g de sucre en poudre",
+            "amount": "140.0",
+            "ingredient_name": "poudre",
+            "matched_ingredient": "Pomfret",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "125 g de beurre",
+            "amount": "125.0",
+            "ingredient_name": "beurre",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "250 g de farine",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "farine",
+            "matched_ingredient": "Margarine",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.957
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 oeufs",
+            "amount": "1.0",
+            "ingredient_name": "oeufs",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "90 g de sucre",
+            "amount": "90.0",
+            "unit": "g",
+            "ingredient_name": "sucre",
+            "matched_ingredient": "Golden syrup",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.13824
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "30 g d'amandes",
+            "amount": "30.0",
+            "ingredient_name": "amandes",
+            "matched_ingredient": "Dark chocolate",
+            "kg_equivalent": 2.2199999999999998,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 41.471819999999994
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Mettre la farine, le sucre ,la poudre d’amande, l’œuf et le beurre un peu ramolli en petit morceau dans le robot."
+        },
+        {
+            "number": 2,
+            "instruction": "Constituez une  boule, et la réservez  au réfrigérateur mini 2h dans un récipient hermétique ou cellofrais."
+        }
+    ]
+}

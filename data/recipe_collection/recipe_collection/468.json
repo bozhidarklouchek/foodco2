@@ -1,0 +1,850 @@
+{
+    "url": "https://www.tarladalal.com/mixed-vegetable-clear-soup-4203r",
+    "title": "mixed vegetable clear soup",
+    "total_CO2": 0.2199463272760875,
+    "servings": 4,
+    "CO2_per_portion": 0.05498658181902188,
+    "E.Mission coefficient": 0.6820457884396871,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/4 cup finely chopped cauliflower",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/4 cup finely chopped carrot",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.0319394119275,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0116578853535375
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/4 cup finely chopped cabbage",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/4 cup finely chopped capsicum",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped capsicum",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.026024706015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.010279758875925001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 cup finely chopped tomatoes",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.084402853371375
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp olive oil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.004575,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0271938
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp finely chopped garlic (lehsun)",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "chopped garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00395
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp finely chopped ginger (adrak)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.001825
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp finely chopped green chillies",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chopped green chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "salt and to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp finely chopped fresh mint leaves (pudina)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh mint leaves",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tbsp finely coriander (dhania)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tsp lemon juice",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.001585
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "For mixed vegetable clear soup"
+        },
+        {
+            "number": 2,
+            "instruction": "To make mixed vegetable clear soup, heat the oil in a wok or a deep non-stick pan, add the garlic, ginger and green chillies and sauté on a medium flame for a few seconds."
+        },
+        {
+            "number": 3,
+            "instruction": "Add all the vegetables and sauté on a medium flame for 2 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add 3 cups of hot water, salt and pepper, mix well and cook on a medium flame for 3 minutes, while stirring occasionally."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove from the flame, add the mint leaves, coriander and lemon juice and mix well."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve the mixed vegetable clear soup immediately."
+        },
+        {
+            "number": 7,
+            "instruction": "Like"
+        },
+        {
+            "number": 8,
+            "instruction": "Mixed Vegetable Clear Soup ( Veg Clear Soup). Clear Soups are known to be light, refreshing and soothing too. They are thin liquid soups made of water or stock, with crisp titbits of veggies or beans. See our collection of clear soups and some of the popular clear soups we love.   "
+        },
+        {
+            "number": 9,
+            "instruction": "Chinese Clear Vegetable Soup"
+        },
+        {
+            "number": 10,
+            "instruction": "Clear Soup with Carrot Baby Corn and Mushrooms"
+        },
+        {
+            "number": 11,
+            "instruction": "Spinach Mushroom and Carrot Clear Soup"
+        },
+        {
+            "number": 12,
+            "instruction": "To make mixed vegetable clear soup recipe | veg clear soup | healthy Indian veg clear soup | remedy for cold | chop cauliflower, cabbage, capsicum, tomatoes, carrots, ginger, green chillies and garlic and keep the ready. This soup will meet your nutrient requirements with a horde of veggies. See the photo of list of ingredients for  mixed vegetable clear soup."
+        },
+        {
+            "number": 13,
+            "instruction": "Heat 1 tsp olive oil in a wok or a deep pan. You can also make use of butter but, olive oil is a healthier option as compared to them."
+        },
+        {
+            "number": 14,
+            "instruction": "Add 2 tsp finely chopped garlic (lehsun). If you are Jain, you can skip adding garlic."
+        },
+        {
+            "number": 15,
+            "instruction": "Add 1 tsp finely chopped ginger (adrak)."
+        },
+        {
+            "number": 16,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 17,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 18,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 19,
+            "instruction": "googletag.display('div-gpt-ad-1570706400435-0');"
+        },
+        {
+            "number": 20,
+            "instruction": "googletag.pubads().refresh([adslot0]);"
+        },
+        {
+            "number": 21,
+            "instruction": "});"
+        },
+        {
+            "number": 22,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 23,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 24,
+            "instruction": "var adslot1 = googletag.define"
+        },
+        {
+            "number": 25,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 26,
+            "instruction": "Ad', [336, 280], \"adslot1\").set"
+        },
+        {
+            "number": 27,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 28,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 29,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 30,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 31,
+            "instruction": "googletag.pubads().refresh([adslot1]);"
+        },
+        {
+            "number": 32,
+            "instruction": "});"
+        },
+        {
+            "number": 33,
+            "instruction": "Saute."
+        },
+        {
+            "number": 34,
+            "instruction": "Add 1 tsp finely chopped green chillies. You can adjust the quantity according to your preference of spice."
+        },
+        {
+            "number": 35,
+            "instruction": "Saute on a medium flame for few seconds."
+        },
+        {
+            "number": 36,
+            "instruction": "Add 1/4 cup finely chopped cauliflower. Instead of chopping you can also use grated cauliflower."
+        },
+        {
+            "number": 37,
+            "instruction": "Add 1/4 cup finely chopped carrot. The trick to preserving the freshness of carrot roots is to minimize the amount of moisture they lose. To do this, make sure to store them in the coolest part of the refrigerator in a plastic bag or wrapped in a paper towel."
+        },
+        {
+            "number": 38,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 39,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 40,
+            "instruction": "var adslot2 = googletag.define"
+        },
+        {
+            "number": 41,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 42,
+            "instruction": "Ad', [336, 280], \"adslot2\").set"
+        },
+        {
+            "number": 43,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 44,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 45,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 46,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 47,
+            "instruction": "googletag.pubads().refresh([adslot2]);"
+        },
+        {
+            "number": 48,
+            "instruction": "});"
+        },
+        {
+            "number": 49,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 50,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 51,
+            "instruction": "var adslot3 = googletag.define"
+        },
+        {
+            "number": 52,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 53,
+            "instruction": "Ad', [336, 280], \"adslot3\").set"
+        },
+        {
+            "number": 54,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 55,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 56,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 57,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 58,
+            "instruction": "googletag.pubads().refresh([adslot3]);"
+        },
+        {
+            "number": 59,
+            "instruction": "});"
+        },
+        {
+            "number": 60,
+            "instruction": "Add 1/4 cup finely chopped cabbage. Cabbage helps in weight control."
+        },
+        {
+            "number": 61,
+            "instruction": "Add 1/4 cup finely chopped capsicum."
+        },
+        {
+            "number": 62,
+            "instruction": "Add 1/4 cup finely chopped tomatoes. You can also de-seed the tomatoes."
+        },
+        {
+            "number": 63,
+            "instruction": "Saute all the vegetables on a medium flame for 2 minutes. When these subtle flavor boosters are sautéed on a medium flame, they release juices which enhances the overall flavor."
+        },
+        {
+            "number": 64,
+            "instruction": "Add 3 cups of hot water to the wok of sauted vegetables."
+        },
+        {
+            "number": 65,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 66,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 67,
+            "instruction": "var adslot4 = googletag.define"
+        },
+        {
+            "number": 68,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 69,
+            "instruction": "Ad', [336, 280], \"adslot4\").set"
+        },
+        {
+            "number": 70,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 71,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 72,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 73,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 74,
+            "instruction": "googletag.pubads().refresh([adslot4]);"
+        },
+        {
+            "number": 75,
+            "instruction": "});"
+        },
+        {
+            "number": 76,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 77,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 78,
+            "instruction": "var adslot5 = googletag.define"
+        },
+        {
+            "number": 79,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 80,
+            "instruction": "Ad', [336, 280], \"adslot5\").set"
+        },
+        {
+            "number": 81,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 82,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 83,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 84,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 85,
+            "instruction": "googletag.pubads().refresh([adslot5]);"
+        },
+        {
+            "number": 86,
+            "instruction": "});"
+        },
+        {
+            "number": 87,
+            "instruction": "Add salt to taste. We added 1/2 tsp salt."
+        },
+        {
+            "number": 88,
+            "instruction": "Add 1/8 tsp pepper and mix well. Freshly ground black pepper not only add heat but also, depth to the soup."
+        },
+        {
+            "number": 89,
+            "instruction": "Mix well and cook on a medium flame for 3 minutes, while stirring occasionally. "
+        },
+        {
+            "number": 90,
+            "instruction": "Remove from the flame."
+        },
+        {
+            "number": 91,
+            "instruction": "Add 2 tbsp finely chopped fresh mint leaves (pudina) for freshness."
+        },
+        {
+            "number": 92,
+            "instruction": "Add 2 tbsp finely coriander (dhania), it would give a luscious taste to the "
+        },
+        {
+            "number": 93,
+            "instruction": "Mixed Vegetable Clear Soup. Switch the flame off. "
+        },
+        {
+            "number": 94,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 95,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 96,
+            "instruction": "var adslot6 = googletag.define"
+        },
+        {
+            "number": 97,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 98,
+            "instruction": "Ad', [336, 280], \"adslot6\").set"
+        },
+        {
+            "number": 99,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 100,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 101,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 102,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 103,
+            "instruction": "googletag.pubads().refresh([adslot6]);"
+        },
+        {
+            "number": 104,
+            "instruction": "});"
+        },
+        {
+            "number": 105,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 106,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 107,
+            "instruction": "var adslot7 = googletag.define"
+        },
+        {
+            "number": 108,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 109,
+            "instruction": "Ad', [336, 280], \"adslot7\").set"
+        },
+        {
+            "number": 110,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 111,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 112,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 113,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 114,
+            "instruction": "googletag.pubads().refresh([adslot7]);"
+        },
+        {
+            "number": 115,
+            "instruction": "});"
+        },
+        {
+            "number": 116,
+            "instruction": "Add 1 tsp lemon juice."
+        },
+        {
+            "number": 117,
+            "instruction": "Mix the mixed vegetable clear soup recipe | veg clear soup | healthy Indian veg clear soup | soup remedy for cold | well."
+        },
+        {
+            "number": 118,
+            "instruction": "Pour into a serving bowl."
+        },
+        {
+            "number": 119,
+            "instruction": "Serve the "
+        },
+        {
+            "number": 120,
+            "instruction": "Mixed Vegetable Clear Soup ( Veg Clear Soup) immediately."
+        },
+        {
+            "number": 121,
+            "instruction": "Mixed Vegetable Clear Soup – A Low Calorie Healthy Soup. "
+        },
+        {
+            "number": 122,
+            "instruction": "Mixed Vegetable Clear Soup is a fiber and water filled start to a meal. "
+        },
+        {
+            "number": 123,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 124,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 125,
+            "instruction": "var adslot8 = googletag.define"
+        },
+        {
+            "number": 126,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 127,
+            "instruction": "Ad', [336, 280], \"adslot8\").set"
+        },
+        {
+            "number": 128,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 129,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 130,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 131,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 132,
+            "instruction": "googletag.pubads().refresh([adslot8]);"
+        },
+        {
+            "number": 133,
+            "instruction": "});"
+        },
+        {
+            "number": 134,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 135,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 136,
+            "instruction": "var adslot9 = googletag.define"
+        },
+        {
+            "number": 137,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 138,
+            "instruction": "Ad', [336, 280], \"adslot9\").set"
+        },
+        {
+            "number": 139,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 140,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 141,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 142,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 143,
+            "instruction": "googletag.pubads().refresh([adslot9]);"
+        },
+        {
+            "number": 144,
+            "instruction": "});"
+        },
+        {
+            "number": 145,
+            "instruction": "Finely chopped veggies add not only fiber to keep you satiated but also a dose of antioxidant which reduces inflammation in the body. "
+        },
+        {
+            "number": 146,
+            "instruction": "The water in this clear soup is a flavourful way of making up for your day’s water requirement. "
+        },
+        {
+            "number": 147,
+            "instruction": "Vegetable Clear Soup can also be enjoyed by those having sore throat, cold or cough. It has no added preservatives or soya sauce. Moreover the ginger and garlic has been proven effective against infection. You can also try some home remedies to relieve cold and cough. "
+        },
+        {
+            "number": 148,
+            "instruction": "The fresh herbs – mint and coriander along with vitamin C help to enhance your intake of vitamin C, which is an immune-building vitamin. "
+        },
+        {
+            "number": 149,
+            "instruction": "Enjoy it piping hot and reap its flavor plus health benefits."
+        },
+        {
+            "number": 150,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 151,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 152,
+            "instruction": "var adslot10 = googletag.define"
+        },
+        {
+            "number": 153,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 154,
+            "instruction": "Ad', [336, 280], \"adslot10\").set"
+        },
+        {
+            "number": 155,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 156,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 157,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 158,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 159,
+            "instruction": "googletag.pubads().refresh([adslot10]);"
+        },
+        {
+            "number": 160,
+            "instruction": "});"
+        },
+        {
+            "number": 161,
+            "instruction": "// Call display() to register the slot as ready"
+        },
+        {
+            "number": 162,
+            "instruction": "// and refresh() to fetch an ad."
+        },
+        {
+            "number": 163,
+            "instruction": "var adslot11 = googletag.define"
+        },
+        {
+            "number": 164,
+            "instruction": "Slot('/1035919/Rcp_Step_Block"
+        },
+        {
+            "number": 165,
+            "instruction": "Ad', [336, 280], \"adslot11\").set"
+        },
+        {
+            "number": 166,
+            "instruction": "Targeting(\"test\", \"infinitescroll\").add"
+        },
+        {
+            "number": 167,
+            "instruction": "Service(googletag.pubads());"
+        },
+        {
+            "number": 168,
+            "instruction": "googletag.cmd.push(function () {"
+        },
+        {
+            "number": 169,
+            "instruction": "googletag.display('div-gpt-ad-1548320692495-0');"
+        },
+        {
+            "number": 170,
+            "instruction": "googletag.pubads().refresh([adslot11]);"
+        },
+        {
+            "number": 171,
+            "instruction": "});"
+        },
+        {
+            "number": 172,
+            "instruction": "Cabbage can be replaced with finely chopped cauliflower. "
+        },
+        {
+            "number": 173,
+            "instruction": "Coriander and mint leaves can be replaced with basil for a refreshing flavour."
+        },
+        {
+            "number": 174,
+            "instruction": "Do not cook after adding the lemon juice. Only mix well."
+        }
+    ]
+}

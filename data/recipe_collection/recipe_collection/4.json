@@ -1,0 +1,31 @@
+{
+    "url": "https://www.delish.com/uk/cooking/recipes/amp30607284/thai-red-curry/",
+    "title": "",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 7,
+            "original_string": "Check out our latest stories.",
+            "amount": "1.0",
+            "ingredient_name": "check out our latest stories",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Oops! We don't have the page you're looking for.",
+            "amount": "1.0",
+            "ingredient_name": "oops! we don't have the page you're looking for",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

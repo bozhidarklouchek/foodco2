@@ -1,0 +1,192 @@
+{
+    "url": "https://www.yummly.co.uk/recipe/Vegan-Red-Lentil-Curry-2012935?prm-v1",
+    "title": "Vegan Red Lentil Curry",
+    "total_CO2": 0.60330117584025,
+    "servings": 4,
+    "CO2_per_portion": 0.1508252939600625,
+    "E.Mission coefficient": 0.49056664905983527,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons sesame oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.027690000000000003,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.09987783000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 ginger thumb of, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "ginger thumb of",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 cloves garlic finely chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 chilli pepper finely chopped",
+            "amount": "0.5",
+            "ingredient_name": "chilli pepper",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "5 scallions white finely chopped",
+            "amount": "5.0",
+            "ingredient_name": "scallions white",
+            "matched_ingredient": "White rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 celery stalk roughly chopped",
+            "amount": "1.0",
+            "ingredient_name": "celery stalk",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tablespoons curry powder",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.007917
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 teaspoon chilli powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tablespoon tomato paste",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 carrots cut into discs",
+            "amount": "3.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0657
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup red lentils",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 cups vegetable stock",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.7097647095,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.01419529419
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 handful spinach leaves",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "spinach leaves",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 pinch salt and pepper",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4 lime",
+            "amount": "0.25",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.01625,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0051512500000000004
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 handful cilantro finely chopped",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

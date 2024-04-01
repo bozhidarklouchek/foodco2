@@ -1,0 +1,163 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/mushroom-stroganoff",
+    "title": "Mushroom stroganoff",
+    "total_CO2": 5.523758099999999,
+    "servings": 2,
+    "CO2_per_portion": 2.7618790499999997,
+    "E.Mission coefficient": 4.507902313624679,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tsp olive oil",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.00915,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0543876
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp paprika",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "300 g mixed mushroom, chopped",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "mixed mushroom",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1365
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "300 g mixed mushroom, chopped",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "mixed mushroom",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1365
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "150 ml low-sodium beef or vegetable stock",
+            "amount": "75.0",
+            "unit": "ml",
+            "ingredient_name": "low-sodium beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.0675,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 4.020975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "150 ml low-sodium beef or vegetable stock",
+            "amount": "75.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0015
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp Worcestershire sauce, or vegetarian alternative",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp half-fat soured cream",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "fat soured cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.125145
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "small bunch parsley, roughly chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "250 g pouch cooked wild rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "cooked wild rice",
+            "matched_ingredient": "Wild rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat 2 tsp olive oil in a large non-stick frying pan and soften 1 finely chopped onion for about 5 mins."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 1 tbsp paprika and 2 crushed garlic cloves, then cook for 1 min more."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 300g mixed mushrooms and cook on a high heat, stirring often, for about 5 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour in 150ml low-sodium beef or vegetable stock and 1 tbsp Worcestershire sauce or vegetarian alternative.Bring to the boil, bubble for 5 mins until the sauce thickens, then turn off the heat and stir through 3 tbsp half-fat soured cream and most of the small bunch of roughly chopped parsley. Make sure the pan is not on the heat or the sauce may split."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat 250g pouch cooked wild rice following pack instructions, then stir through the remaining chopped parsley and serve with the stroganoff."
+        }
+    ]
+}

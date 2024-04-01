@@ -1,0 +1,436 @@
+{
+    "url": "https://www.theguardian.com/food/2020/nov/28/yotam-ottolenghi-noodle-recipes-sambal-crab-biang-biang-pineapple-vermicelli",
+    "title": "From stir-fry to pudding: Yotam Ottolenghi's noodle",
+    "total_CO2": 0.783203,
+    "servings": 2,
+    "CO2_per_portion": 0.3916015,
+    "E.Mission coefficient": 1.1613330367734283,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 red chillies, deseeded",
+            "amount": "4.0",
+            "ingredient_name": "red chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "180 g sweet cherry tomatoes",
+            "amount": "180.0",
+            "unit": "g",
+            "ingredient_name": "sweet cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.25686
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "10 g fresh turmeric root, peeled and finely chopped",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "fresh turmeric root",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.12124000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 garlic cloves, peeled and roughly chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "10 g fresh ginger, peeled and roughly chopped",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.00365
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 small shallots, peeled and finely chopped",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp tomato paste",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.014270000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "21/2 tbsp soy sauce",
+            "amount": "10.5",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.1575,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.143955
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "21/2 tbsp maple syrup",
+            "amount": "10.5",
+            "unit": "tbsp",
+            "ingredient_name": "maple syrup",
+            "matched_ingredient": "Maple syrup",
+            "kg_equivalent": 0.2079,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.201663
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tsp green (or black) peppercorns, roughly crushed",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "green",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00437
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "20 ml lime juice",
+            "amount": "20.0",
+            "unit": "ml",
+            "ingredient_name": "lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.00634
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add the cooked noodles, toss to combine, then turn off the heat. Stir in the remaining sambal, the chives and the picked crab (reserve a little to finish the dish)."
+        },
+        {
+            "number": 2,
+            "instruction": "Transfer to a platter, garnish with the spring onion and the reserved crab, and serve with lime wedges for squeezing on top."
+        },
+        {
+            "number": 3,
+            "instruction": "Biang biang noodles with numbing oil and tahini soy sauce"
+        },
+        {
+            "number": 4,
+            "instruction": "Yotam Ottolenghi’s biang biang noodles with numbing oil and tahini soy sauce."
+        },
+        {
+            "number": 5,
+            "instruction": "This is inspired by Xi’an Impression, a fantastic restaurant in north London that serves the food of Shan Xi Province in China. During the first lockdown, my colleague Ixta Belfrage came up with this recipe in homage to her two favourite dishes there: biang biang noodles and cucumber salad with special sesame sauce. It became a bit of a viral sensation, as people all over the world took to Instagram to pull and slap their own noodles. It’s important to use a plain flour with 10-12% protein – any less than 10 %, and the dough will rip, rather than stretch (you can find the protein levels in the nutritional information on the side of the packet). Don’t worry if the noodles rip at the ends – they’ll still taste great with the sauces. The technique takes practice, and you’ll get better as you make them, I promise. (You can find step-by-step video guides on Ixta’s Instagram story highlights.)"
+        },
+        {
+            "number": 6,
+            "instruction": "Prep and rest 3 hr"
+        },
+        {
+            "number": 7,
+            "instruction": "Cook 1 hr+"
+        },
+        {
+            "number": 8,
+            "instruction": "Serves 2"
+        },
+        {
+            "number": 9,
+            "instruction": "For the noodles"
+        },
+        {
+            "number": 10,
+            "instruction": "300g plain flour (10-12% protein)"
+        },
+        {
+            "number": 11,
+            "instruction": "½ tsp salt"
+        },
+        {
+            "number": 12,
+            "instruction": "150g water (yes, I know that works out to 150ml, but for this I always weigh it out, to be super-precise)"
+        },
+        {
+            "number": 13,
+            "instruction": "For the numbing oil"
+        },
+        {
+            "number": 14,
+            "instruction": "150ml sunflower oil"
+        },
+        {
+            "number": 15,
+            "instruction": "1 banana shallot, peeled and finely chopped (60g)"
+        },
+        {
+            "number": 16,
+            "instruction": "2 garlic cloves, peeled and finely chopped"
+        },
+        {
+            "number": 17,
+            "instruction": "10g fresh ginger, peeled and finely grated"
+        },
+        {
+            "number": 18,
+            "instruction": "½ red chilli, finely chopped"
+        },
+        {
+            "number": 19,
+            "instruction": "1 whole star anise"
+        },
+        {
+            "number": 20,
+            "instruction": "1 tbsp red bell pepper flakes"
+        },
+        {
+            "number": 21,
+            "instruction": "1 tsp chilli flakes"
+        },
+        {
+            "number": 22,
+            "instruction": "1½ tsp Szechuan peppercorns, roughly crushed"
+        },
+        {
+            "number": 23,
+            "instruction": "1½ tsp tomato paste"
+        },
+        {
+            "number": 24,
+            "instruction": "1 tsp black sesame seeds"
+        },
+        {
+            "number": 25,
+            "instruction": "1 tsp sesame seeds"
+        },
+        {
+            "number": 26,
+            "instruction": "Salt"
+        },
+        {
+            "number": 27,
+            "instruction": "For the tahini and soy sauce"
+        },
+        {
+            "number": 28,
+            "instruction": "60g tahini (mixed very well, to combine the solids and fat)"
+        },
+        {
+            "number": 29,
+            "instruction": "2 tbsp soy sauce, plus extra to serve"
+        },
+        {
+            "number": 30,
+            "instruction": "1½ tbsp maple syrup"
+        },
+        {
+            "number": 31,
+            "instruction": "1½ tbsp rice vinegar"
+        },
+        {
+            "number": 32,
+            "instruction": "1 tbsp water"
+        },
+        {
+            "number": 33,
+            "instruction": "To serve"
+        },
+        {
+            "number": 34,
+            "instruction": "2 spring onions, trimmed and julienned"
+        },
+        {
+            "number": 35,
+            "instruction": "½ large cucumber, halved lengthways, seeds scooped out and discarded, flesh cut into 1½cm dice"
+        },
+        {
+            "number": 36,
+            "instruction": "1½ tbsp sesame seeds, toasted"
+        },
+        {
+            "number": 37,
+            "instruction": "For the noodles, mix the flour and salt in a bowl, then very slowly pour in the water, stirring with a chopstick the whole time, until the mix comes together into a dough – it will look on the dry side once all the water has been added, but don’t be tempted to add any more."
+        },
+        {
+            "number": 38,
+            "instruction": "Transfer to a work surface and knead for about five minutes, until the dough comes together into a shaggy ball. You’ll need to use some muscle here, because it will be quite tough. Cover with a tea towel and leave to rest for 10 minutes."
+        },
+        {
+            "number": 39,
+            "instruction": "After the dough has rested, knead again vigorously for 10 minutes, until it’s very smooth: it should by now have the texture of Play-Doh and, if you poke it, the indentation should remain, rather than spring back. Cover again with a tea towel and rest for another 10 minutes."
+        },
+        {
+            "number": 40,
+            "instruction": "Grease a tray with vegetable oil."
+        },
+        {
+            "number": 41,
+            "instruction": "Cut the dough into eight equal pieces of about 55g each, then roll each piece into a sausage and place on the greased tray. Cover with cling-film and leave to rest at room temperature for two to three hours."
+        },
+        {
+            "number": 42,
+            "instruction": "Meanwhile, make the numbing oil."
+        },
+        {
+            "number": 43,
+            "instruction": "Heat two tablespoons of sunflower oil in a small saucepan on a medium-high heat, add the next eight ingredients and a quarter-teaspoon of salt, turn down the heat to medium and fry very gently for five minutes, stirring often, until the shallot is soft."
+        },
+        {
+            "number": 44,
+            "instruction": "Add the tomato paste and all the sesame seeds, and cook for another two minutes. Stir in the remaining 120ml oil, reduce the heat to low and simmer very gently for 20 minutes – if the oil starts to bubble at all, take it off the heat for a minute, to cool down. Turn off the heat and leave to cool and infuse for at least an hour."
+        },
+        {
+            "number": 45,
+            "instruction": "For the tahini soy sauce, whisk all the ingredients in a bowl until very smooth."
+        },
+        {
+            "number": 46,
+            "instruction": "Once the dough has rested, flatten each sausage into a rectangle: grease a work surface, then, working with one piece at a time, use a rolling pin to roll the dough sausage into a 16cm x 8cm rectangle. Use a chopstick to make an indent across the middle of the rectangle - this will be your “ripping line” later. Repeat with the other seven dough sausages, then leave to rest for 10 minutes."
+        },
+        {
+            "number": 47,
+            "instruction": "Put a large spoonful each of the numbing oil and tahini soy sauce into two serving bowls and put to one side."
+        },
+        {
+            "number": 48,
+            "instruction": "Bring a large pot of salted water to a boil. Meanwhile, and again working with one piece of dough at a time, take both ends of the dough rectangle between your thumb and fingers of each hand, and start to pull slowly and gently, until you feel there is no more tension left. Still holding both ends, slap the noodle down on the work surface about five times, gently stretching it out more as you go."
+        },
+        {
+            "number": 49,
+            "instruction": "Lower the now stretched noodle on to the work surface, then, using the indent you made earlier, tear it in half lengthways to form a large, closed loop. Drop the noodle straight into the pan of boiling water, and cook for about a minute, or until it floats to the top Repeat with the remaining pieces of dough, adding them to the water as they’re stretched and ripped."
+        },
+        {
+            "number": 50,
+            "instruction": "Drain the cooked noodles well, then transfer them to the serving bowls."
+        },
+        {
+            "number": 51,
+            "instruction": "Use chopsticks to mix the noodles with the oil and sauces, adding more of each to taste. Top with the spring onion, cucumber and sesame seeds, and serve with more soy sauce drizzled on top."
+        },
+        {
+            "number": 52,
+            "instruction": "Coconut and pineapple sweet vermicelli"
+        },
+        {
+            "number": 53,
+            "instruction": "Yotam Ottolenghi’s coconut and pineapple sweet vermicelli."
+        },
+        {
+            "number": 54,
+            "instruction": "Served hot on a cold winter’s day, this is as comforting for breakfast as it is for pudding. Save the recipe for sunnier times, too, because it’s also delicious eaten cold, straight from the fridge."
+        },
+        {
+            "number": 55,
+            "instruction": "Prep 10 min"
+        },
+        {
+            "number": 56,
+            "instruction": "Cook 40 min"
+        },
+        {
+            "number": 57,
+            "instruction": "Serves 4"
+        },
+        {
+            "number": 58,
+            "instruction": "100g angel hair pasta, roughly broken into 4cm pieces"
+        },
+        {
+            "number": 59,
+            "instruction": "1 x 400ml tin full-fat coconut milk"
+        },
+        {
+            "number": 60,
+            "instruction": "50g raw virgin coconut oil"
+        },
+        {
+            "number": 61,
+            "instruction": "400ml water"
+        },
+        {
+            "number": 62,
+            "instruction": "3 cardamom pods, lightly bashed open with a pestle"
+        },
+        {
+            "number": 63,
+            "instruction": "2 makrut lime leaves, lightly bruised by hand"
+        },
+        {
+            "number": 64,
+            "instruction": "60g caster sugar"
+        },
+        {
+            "number": 65,
+            "instruction": "2 tbsp desiccated coconut, lightly toasted"
+        },
+        {
+            "number": 66,
+            "instruction": "1 lime, cut into 4 wedges"
+        },
+        {
+            "number": 67,
+            "instruction": "For the pineapple caramel"
+        },
+        {
+            "number": 68,
+            "instruction": "200g pineapple, peeled and cored, flesh cut into 2cm x 1cm pieces"
+        },
+        {
+            "number": 69,
+            "instruction": "100g caster sugar"
+        },
+        {
+            "number": 70,
+            "instruction": "1 lime – zest finely grated, to get 1 tsp, and juiced, to get 1 tbsp"
+        },
+        {
+            "number": 71,
+            "instruction": "40g coconut oil"
+        },
+        {
+            "number": 72,
+            "instruction": "Salt"
+        },
+        {
+            "number": 73,
+            "instruction": "In a large saute pan, toast the pasta on a medium heat, stirring frequently, for five minutes, or until lightly golden brown: don’t worry if it’s not all perfectly toasted."
+        },
+        {
+            "number": 74,
+            "instruction": "Add the coconut milk, coconut oil, water, cardamom, bruised lime leaves, a pinch of salt and the sugar, bring to a boil, then turn the heat back down to medium and leave to simmer for 18-20 minutes, stirring often, or until the pasta has softened and the mixture thickened. Keep warm until ready to serve."
+        },
+        {
+            "number": 75,
+            "instruction": "Meanwhile, sprinkle the sugar all over the base of a medium saucepan, add two tablespoons of water and leave to cook on a medium heat, without stirring, for eight minutes, until you have a golden caramel. Stir in the pineapple, a quarter-teaspoon of salt and the lime juice, and cook, stirring frequently, for eight minutes more. Stir in the coconut oil, cook for another three minutes, until the caramel has thickened to a butterscotch-like consistency, then set aside."
+        },
+        {
+            "number": 76,
+            "instruction": "Divide the pasta mixture between four bowls, then top with the pineapple caramel, desiccated coconut and lime zest. Squeeze the lime wedges on top before serving."
+        }
+    ]
+}

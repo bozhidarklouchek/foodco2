@@ -1,0 +1,223 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/vegetables-recipes/simple-veggie-tofu-stir-fry/",
+    "title": "Simple veggie & tofu stir-fry",
+    "total_CO2": 0.7776699999999999,
+    "servings": 2,
+    "CO2_per_portion": 0.38883499999999993,
+    "E.Mission coefficient": 1.3419672131147535,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons cashew nuts",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "cashew nuts",
+            "matched_ingredient": "Cashew nut",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.00417
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tablespoons sesame seeds",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.014400000000000001,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.004003200000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "175 g firm tofu",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "firm tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.502425
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 teaspoon cornflour",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.0040999999999999995,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.004050799999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "vegetable oil",
+            "amount": "1.0",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.053592
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "runny honey",
+            "amount": "1.0",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.0194
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves of garlic",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "5 cm piece of ginger",
+            "amount": "5.0",
+            "unit": "cm",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 spring onions",
+            "amount": "4.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0237
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 fresh red chillies optional",
+            "amount": "2.0",
+            "ingredient_name": "fresh red chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 a head of broccoli",
+            "amount": "0.5",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00874
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 a red pepper",
+            "amount": "0.5",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "4 baby sweetcorn",
+            "amount": "4.0",
+            "ingredient_name": "baby sweetcorn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "80 g sweetcorn",
+            "amount": "80.0",
+            "unit": "g",
+            "ingredient_name": "sweetcorn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.07904
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 lime",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "low-salt soy sauce",
+            "amount": "1.0",
+            "ingredient_name": "salt soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.014624000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Place a frying pan or wok over a high heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the cashew nuts, then 30 seconds later add the sesame seeds. Toss for a further 30 seconds until golden, then tip into a bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Cut the tofu into cubes, then place in a bowl and dust with the cornflour and a pinch of sea salt and black pepper."
+        },
+        {
+            "number": 5,
+            "instruction": "Add a good lug of oil to the pan or wok and place back over a medium-high heat."
+        },
+        {
+            "number": 6,
+            "instruction": "Fry the tofu until golden and crisp, then scoop it out of the pan with a slotted spoon and set aside on a plate lined with kitchen paper. While it’s still warm, drizzle with honey and scatter over the nuts and seeds."
+        },
+        {
+            "number": 7,
+            "instruction": "Peel and slice the garlic and ginger, then trim and slice the spring onions on an angle. Slice the chillies (if using), cut the broccoli into florets, then slice the pepper. Halve the sweetcorn lengthways."
+        },
+        {
+            "number": 8,
+            "instruction": "Return the pan to a medium heat and add the garlic, ginger, spring onions and chillies (if using). Stir-fry for 30 seconds, or until the garlic turns golden."
+        },
+        {
+            "number": 9,
+            "instruction": "Add your vegetables and stir-fry for a further 4 minutes. Squeeze in the juice from half the lime and add a splash of soy sauce."
+        },
+        {
+            "number": 10,
+            "instruction": "Tip the vegetables into bowls, top with the crispy tofu and serve with the remaining lime wedges and some chilli sauce, if you like extra heat."
+        },
+        {
+            "number": 11,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

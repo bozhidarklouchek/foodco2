@@ -1,0 +1,182 @@
+{
+    "url": "https://whatsgabycooking.com/stacked-eggplant-parmesan/",
+    "title": "Perfect Eggplant Parmesan",
+    "total_CO2": 27.057625683958136,
+    "servings": 6,
+    "CO2_per_portion": 4.50960428065969,
+    "E.Mission coefficient": 9.772176664475023,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "▢ 2 jars marinara sauce",
+            "amount": "2.0",
+            "ingredient_name": "marinara sauce",
+            "matched_ingredient": "Barbeque sauce",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "▢ 2 large eggplant",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "eggplant",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.455
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "▢ 5 large eggs",
+            "amount": "5.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.12675
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "▢ 3 tablespoons whole milk",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "whole milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.04680000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13015080000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "▢ 4 cups Italian-style breadcrumbs",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "Italian-style breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.27444235433999997,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.39547143260393997
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "▢ 1 tablespoon dried oregano",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "▢ 1 tablespoon fresh thyme leaves",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "fresh thyme leaves",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "▢ Vegetable oil for frying, as needed, about 1 ½ to 2 cups",
+            "amount": "0.0",
+            "unit": "about 1 ½ to 2 cups",
+            "ingredient_name": "Vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "▢ 1 1/2 pounds mozzarella cheese cut into thin slices",
+            "amount": "1.5",
+            "unit": "pounds",
+            "ingredient_name": "mozzarella cheese cut",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 14.451452908199999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "▢ 1/2 cup grated Parmesan",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "grated Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.04022000020500001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8542728043542002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "▢ 1 pound fontina cheese shredded",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "fontina cheese shredded",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 9.6343019388
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "▢ 2 handfuls fresh basil",
+            "amount": "2.0",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002622
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Slice the eggplant into thin slices."
+        },
+        {
+            "number": 2,
+            "instruction": "In a medium bowl, whisk together the eggs and milk and set aside. In another bowl, combine the breadcrumbs, oregano and thyme and stir to combine."
+        },
+        {
+            "number": 3,
+            "instruction": "Dip the eggplant slices into the egg mixture, making sure to coat both sides. Following the egg mixture, dip the eggplant into the bread crumb herb mixture on both sides."
+        },
+        {
+            "number": 4,
+            "instruction": "In a large skillet, add about ⅓ cup of the vegetable oil over medium high heat. Once the oil is hot, add the breaded eggplant slices a few at a time and fry on both sides until golden brown. Once golden, remove from the oil and let rest on a paper towel to drain excess oil. Continue this process with the remaining eggplant slices, making sure to add extra oil if needed."
+        },
+        {
+            "number": 5,
+            "instruction": "Preheat oven to 350 degrees F."
+        },
+        {
+            "number": 6,
+            "instruction": "To assemble"
+        },
+        {
+            "number": 7,
+            "instruction": "In a 9 by 13-inch baking dish or large cast iron skillet, spoon about ¼ of the marinara sauce on the bottom. Top with a layer of the fried eggplant; the eggplant slices can overlap slightly. Top with about ⅓ of the mozzarella slices."
+        },
+        {
+            "number": 8,
+            "instruction": "Sprinkle about ¼ of the Parmesan and fontina cheeses. Top with a layer of torn basil leaves. Spoon sauce and repeat the layering 2 more times to make 3-4 layers. End with the remaining mozzarella. Carefully press the layers down firmly into the dish once assembled."
+        },
+        {
+            "number": 9,
+            "instruction": "Place the dish in the top part of the oven and cook until the cheese is melted and bubbly, 35 to 40 minutes. For extra browning, put the dish under the broiler for a minute or two just before serving to get an extra brown cheesy top."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with extra basil on top."
+        }
+    ]
+}

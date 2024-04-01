@@ -1,0 +1,189 @@
+{
+    "url": "https://glutenfreecuppatea.co.uk/2018/03/20/gluten-free-beer-battered-fish-and-chips-recipe-dairy-free-low-fodmap/",
+    "title": "Gluten free beer battered fish and chips",
+    "total_CO2": 9.059386949999999,
+    "servings": 2,
+    "CO2_per_portion": 4.529693474999999,
+    "E.Mission coefficient": 2.4706520535616883,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 skinless, boneless, cod loins (80g total)",
+            "amount": "2.0",
+            "ingredient_name": "cod loins",
+            "matched_ingredient": "Cod",
+            "kg_equivalent": 1.47,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 4.15569
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "110 g gf self-raising flour",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "self-raising flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.15851
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "150 ml gluten free beer",
+            "amount": "150.0",
+            "unit": "ml",
+            "ingredient_name": "gluten free beer",
+            "matched_ingredient": "Beer",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.16635
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 tsp baking powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.0022500000000000003,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.027279000000000005
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 litre of vegetable oil for frying",
+            "amount": "1.0",
+            "unit": "litre",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 3.828
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 peeled medium-sized potatoes",
+            "amount": "4.0",
+            "unit": "medium",
+            "ingredient_name": "-sized potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.68,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.2516
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "150 g frozen peas",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.1344
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "50 g dairy-free margarine (or real butter if you can deal with dairy)",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "dairy-free margarine",
+            "matched_ingredient": "Margarine",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.19140000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "7-8 fresh chopped mint leaves",
+            "amount": "7.5",
+            "unit": "leaves",
+            "ingredient_name": "fresh chopped mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.01125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00491625
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Half a lemon (squeezed)",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "A little extra gluten free flour for dusting later",
+            "amount": "1.0",
+            "ingredient_name": "gluten free flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pour 1 litre of vegetable oil into a large saucepan or casserole dish. Put this on at a medium heat and allow it to reach 180-200c. Trust me, it's worth investing in a digital thermometer for this! But if you don't have one, just drop a little batter into the oil after around 10 minutes and see if it excitedly sizzles or not. Whilst waiting for this, you can..."
+        },
+        {
+            "number": 2,
+            "instruction": "Start preparing your chips."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut your peeled potatoes in half, then cut each half into 1cm strips, lengthways."
+        },
+        {
+            "number": 4,
+            "instruction": "Place in cold water and bring to the boil in a saucepan, then allow to simmer for 4 minutes before draining. Allow these to drain and dry on kitchen roll."
+        },
+        {
+            "number": 5,
+            "instruction": "Get a big bowl and add all your dry ingredients needed for making your gluten-free batter. Crack open your beer and add 150ml to your bowl. Take a big whisk and whisk it all together, getting as much air into it as possible."
+        },
+        {
+            "number": 6,
+            "instruction": "Roll your cod loins in gluten free flour (important to do this so the batter sticks!) before placing them in the batter mix. Then ensure that they're evenly coated."
+        },
+        {
+            "number": 7,
+            "instruction": "Hopefully your oil has reached 180-200c by now, so slowly lower your coated cod loins into the hot oil. It might spit a little so be careful and don't drop it in in case it splashes. When the batter looks golden, it's done. This should take about 5 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove the fish with a slotted spoon and place it on a plate with kitchen roll and allow to drain."
+        },
+        {
+            "number": 9,
+            "instruction": "Next, add your chips to the hot oil for 5 minutes or until golden."
+        },
+        {
+            "number": 10,
+            "instruction": "Remove the chips from the oil with a slotted spoon and allow to drain on another plate with kitchen roll."
+        },
+        {
+            "number": 11,
+            "instruction": "For super quick and easy mushy peas, fry your frozen peas in dairy-free margarine in a frying pan on a medium heat for 5 minutes."
+        },
+        {
+            "number": 12,
+            "instruction": "Add freshly chopped mint leaves, squeeze half a lemon. Mash it all up with a potato masher and that's it! If you want them really smooth, use a food processor instead... but that's more washing up!"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "url": "https://www.quorn.co.uk/recipes/chilli-con-carne-quorn-mince",
+    "title": "Vegetarian Chilli con Carne with Quorn Mince",
+    "total_CO2": 2.50643635,
+    "servings": 4,
+    "CO2_per_portion": 0.6266090875,
+    "E.Mission coefficient": 1.4928149791542586,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 medium onion, diced",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 red pepper, diced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 fresh red chillies, diced",
+            "amount": "2.0",
+            "ingredient_name": "fresh red chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 cloves of garlic, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp smoked paprika",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp ground cumin",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tsp ground coriander",
+            "amount": "3.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.18186
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp chilli powder (optional depending on your heat preference)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "500 ml tomato passata",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "tomato passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp tomato puree",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 vegetable stock cube",
+            "amount": "1.0",
+            "ingredient_name": "vegetable stock cube",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "400 g can kidney beans, drained",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "kidney beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tsp brown sugar or 1 small cube plain chocolate (optional)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00175,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.0046760000000000005
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tsp brown sugar or 1 small cube plain chocolate (optional)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "plain chocolate",
+            "matched_ingredient": "White chocolate",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0467025
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 large bunch of fresh coriander leaves, finely chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh coriander leaves",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "salt to taste (optional)",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pre-heat the oil in a large frying pan and cook the onion for 5-6 minutes or until beginning to soften."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the red pepper and continue to cook for a further 5 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the chillies, garlic and spices and cook for a further 2 minutes stirring continuously"
+        },
+        {
+            "number": 4,
+            "instruction": "Stir in the chopped tomatoes, passata, tomato puree and crumble over the stock cube and bring to a gentle simmer for 8 minutes stirring occasionally. Stir in the kidney beans, sugar or chocolate if using and the Quorn Meat Free Mince. Cook over a gentle heat for a further 10 minutes and season to taste"
+        },
+        {
+            "number": 5,
+            "instruction": "Stir in the chopped coriander and serve with rice, jacket potatoes or with nachos for a delicious dinner!"
+        }
+    ]
+}

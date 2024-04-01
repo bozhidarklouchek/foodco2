@@ -1,0 +1,432 @@
+{
+    "url": "https://www.simplyrecipes.com/recipes/lasagna/",
+    "title": "Lasagna",
+    "total_CO2": 97.40525113491401,
+    "servings": 8,
+    "CO2_per_portion": 12.175656391864251,
+    "E.Mission coefficient": 4.31582763436642,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "A large skillet to brown the beef, bell pepper, and onion",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 28-ounce can good quality tomato sauce",
+            "amount": "29.0",
+            "unit": "ounce",
+            "ingredient_name": "tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.822136170625,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 1.173188315481875
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 14-ounce can crushed tomatoes",
+            "amount": "15.0",
+            "unit": "ounce",
+            "ingredient_name": "crushed tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.425242846875,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.606821542490625
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "A large slotted cooking spoon",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "slotted cooking spoon",
+            "matched_ingredient": "Groundnut oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "A large wooden cooking spoon",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "wooden cooking spoon",
+            "matched_ingredient": "Groundnut oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 cup chopped fresh parsley (preferably flat leaf), packed",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cloves garlic, minced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Pinch of garlic powder and/or garlic salt",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "A medium saucepan (3-4 quarts) to simmer the sauce",
+            "amount": "3.5",
+            "unit": "quarts",
+            "ingredient_name": "sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 3.312235311,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 3.0273830742539998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 Tbsp Italian Seasoning",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Italian Seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 lb dry lasagna noodles (requires 9 lasagna noodles - unbroken)",
+            "amount": "0.5",
+            "unit": "lb",
+            "ingredient_name": "lasagna noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.022170405795
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 pound lean ground beef (chuck)",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "lean ground beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 27.0204974809
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 1/2 lb (24 ounces) Mozzarella cheese, grated or sliced",
+            "amount": "1.5",
+            "unit": "lb",
+            "ingredient_name": "Mozzarella cheese",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 14.451452908199999
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "A couple large sheet pans to cool the noodles",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "A large colander to drain the noodles",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Olive oil",
+            "amount": "1.0",
+            "ingredient_name": "Olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/2 onion, diced, about 3/4 cup",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.026024706015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.010279758875925001
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "2 Tbsp chopped fresh oregano or 2 teaspoons dried oregano",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "chopped fresh oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 Tbsp chopped fresh oregano or 2 teaspoons dried oregano",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1/4 lb (4 ounces) freshly grated Parmesan cheese",
+            "amount": "0.25",
+            "unit": "lb",
+            "ingredient_name": "freshly grated Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.1133980925,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.4085754847
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "A large pot (8-12-quarts) for cooking the pasta",
+            "amount": "20.0",
+            "unit": "quarts",
+            "ingredient_name": "pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 15.141647136,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 21.819113522976
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1 Tbsp red or white wine vinegar",
+            "amount": "0.5",
+            "unit": "Tbsp",
+            "ingredient_name": "red",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.00255,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.054162
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1 Tbsp red or white wine vinegar",
+            "amount": "0.5",
+            "unit": "Tbsp",
+            "ingredient_name": "white wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "15 ounces Ricotta cheese",
+            "amount": "15.0",
+            "unit": "ounces",
+            "ingredient_name": "Ricotta cheese",
+            "matched_ingredient": "Ricotta",
+            "kg_equivalent": 0.425242846875,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 9.032158067625
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "A chef's knife or large paring knife to cut the vegetables",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.07735
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "A chef's knife or large paring knife to cut the vegetables",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.07735
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "13'' x 9'' x 2'' lasagna pan, preferably pyrex or stainless steel (avoid aluminum pans if you can, they can react with the acidity of the sauce)",
+            "amount": "0.0",
+            "unit": "x 9'' x 2''",
+            "ingredient_name": "acidity",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "1 Tbsp to 1/4 cup sugar (to taste, optional)",
+            "amount": "1.0",
+            "unit": "Tbsp to 1",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0046,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0070656
+        },
+        {
+            "ingredient_number": 30,
+            "original_string": "3 ounces (half a 6-oz can) tomato paste",
+            "amount": "3.0",
+            "unit": "ounces",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.085048569375,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.12136430849812499
+        },
+        {
+            "ingredient_number": 31,
+            "original_string": "1/2 large bell pepper (green, red, or yellow), stem and core removed, diced, about 3/4 cup",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0603300003075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0274501501399125
+        },
+        {
+            "ingredient_number": 32,
+            "original_string": "1/2 large bell pepper (green, red, or yellow), stem and core removed, diced, about 3/4 cup",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0603300003075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0274501501399125
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "1 Put a large pot of salted water (1 Tbsp salt for every 2 quarts of water) on the stovetop on high heat. It can take a while for a large pot of water to come to a boil (this will be your pasta water), so prepare the sauce in the next steps while the water is heating.2In a large skillet heat 2 teaspoonsof olive oil on medium high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the ground beef and cook it until it is lightly browned on all sides."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove the beef with a slotted spoon to a bowl.If there is more than a tablespoon of fat left in the pan (there shouldn't be if you are using lean ground beef) remove it from the pan. 3"
+        },
+        {
+            "number": 4,
+            "instruction": "Add the diced bell pepper and onions to skillet (in the photo we are using yellow bell pepper and red onions). Cook for 4 to 5 minutes, until the onions are translucent and the peppers softened."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the minced garlic and cook half a minute more. Return the browned ground beef to the pan. Stir to combine, reduce the heat to low and cook for another 5 minutes. 4"
+        },
+        {
+            "number": 6,
+            "instruction": "Transfer the beef pepper onion mixture to a medium sized (3 to 4 quart) pot."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the crushed tomatoes, tomato sauce, and tomato paste to the pot."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the parsley, oregano, and Italian seasonings, adjusting the amounts to taste."
+        },
+        {
+            "number": 9,
+            "instruction": "Sprinkle with garlic powder and/or garlic salt, to taste."
+        },
+        {
+            "number": 10,
+            "instruction": "Sprinkle with red or white wine vinegar. Stir in sugar, a tablespoon at a time, tasting after each addition, to taste. (The amount of sugar needed will vary, depending on how acidic the tomatoes are that you are using.)"
+        },
+        {
+            "number": 11,
+            "instruction": "Add salt to taste, and note that you will later be adding Parmesan, which is salty.Bring the sauce to a simmer and lower the heat to low to maintain a low simmer. Cook for 15-45 minutes, stirring often. Scrape the bottom of the pot every so often so nothing sticks to the bottom and scorches."
+        },
+        {
+            "number": 12,
+            "instruction": "Remove from heat. 5By now the salted water you started heating in step one should be boiling."
+        },
+        {
+            "number": 13,
+            "instruction": "Add the dry lasagna noodles and cook then per package directions (al dente). (Note noodles may be cooked in advance.) Stir often to prevent from sticking. Make sure that water remains at a full rolling boil during the entire cooking to prevent noodles from sticking. When ready, drain in a colander and rinse with cool water, gently separating any noodles that may be sticking together."
+        },
+        {
+            "number": 14,
+            "instruction": "Spread a little olive oil on a large rimmed baking sheet, and lay out the cooked noodles on this sheet, turning them over so that they get coated with a little of the olive oil. This will prevent them from sticking together.   6 In a 13x9x2-inch casserole or lasagna dish, ladle acup of sauce and spread it overthe bottom of the dish. Arrangeone layer of lasagna noodles lengthwise (about 3 long noodles, edge may overlap, depending on your pan) over the sauce. Ladle a third of the remaining sauce over the noodles."
+        },
+        {
+            "number": 15,
+            "instruction": "Sprinklea layer of a third of the grated mozzarella on top of lasagna sauce."
+        },
+        {
+            "number": 16,
+            "instruction": "Add half of the ricotta cheese, by placing cheese dollops every coupleinches."
+        },
+        {
+            "number": 17,
+            "instruction": "Sprinkle the grated parmesan cheese evenly over thetop of ricotta cheese. Apply second layer of noodles, top it with half of the remaining sauce."
+        },
+        {
+            "number": 18,
+            "instruction": "Add half of the remaining Mozzarella, the remaining ricotta cheese, and another thin sprinkling of Parmesan. Finish with another layer of noodles."
+        },
+        {
+            "number": 19,
+            "instruction": "Spread the remaining sauce over the top layer of noodles and sprinkle with the remaining Mozzarella cheese.7 Tent the lasagna pan with aluminum foil (not touching noodles or sauce)."
+        },
+        {
+            "number": 20,
+            "instruction": "Bake at 375F for 45 minutes. Allow to cool before serving.May be reheated in conventional oven or microwave. Leave aluminum tent on for storage. (Try to keep the aluminum foil from touching the sauce.)"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/sausage-kale-gnocchi-one-pot?utm_source=app",
+    "title": "Sausage, kale & gnocchi one-pot",
+    "total_CO2": 1.3129939,
+    "servings": 4,
+    "CO2_per_portion": 0.328248475,
+    "E.Mission coefficient": 1.130697237830739,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "6 pork sausages",
+            "amount": "6.0",
+            "ingredient_name": "pork sausages",
+            "matched_ingredient": "Quorn sausage",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.555,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp chilli flakes",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp fennel seeds (optional)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fennel seeds",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "500 g fresh gnocchi",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "fresh gnocchi",
+            "matched_ingredient": "Gnocchi",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "500 ml chicken stock (fresh if you can get it)",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.15
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "100 g chopped kale",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "chopped kale",
+            "matched_ingredient": "Kale",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "40 g parmesan, finely grated",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8495999999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large high-sided frying pan over a medium heat. Squeeze the sausages straight from their skins into the pan, then use the back of a wooden spoon to break the meat up."
+        },
+        {
+            "number": 2,
+            "instruction": "Sprinkle in the chilli flakes and fennel seeds, if using, then fry until the sausagemeat is crisp around the edges."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove from the pan with a slotted spoon."
+        },
+        {
+            "number": 4,
+            "instruction": "Tip the gnocchi into the pan, fry for a minute or so, then pour in the chicken stock. Once bubbling, cover the pan with a lid and cook for 3 mins, then stir in the kale. Cook for 2 mins more or until the gnocchi is tender and the kale has wilted. Stir in the parmesan, then season with black pepper and scatter the crisp sausagemeat over the top."
+        }
+    ]
+}

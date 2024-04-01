@@ -1,0 +1,128 @@
+{
+    "url": "https://www.thefullhelping.com/simple-broccoli-stem-brown-rice-stir-fry/",
+    "title": "Simple Broccoli Stem & Brown Rice Stir Fry",
+    "total_CO2": 0.78196620605104,
+    "servings": 4,
+    "CO2_per_portion": 0.19549155151276,
+    "E.Mission coefficient": 1.9299040962217,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cup short-grain brown rice, rinsed (about 3 cups cooked)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "short-grain brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.15141647136,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.58128783355104
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 1/2 tablespoons toasted sesame oil",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "toasted sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.0207675,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.07490837250000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 clove garlic, minced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 large or 3 small broccoli stalks, peeled and sliced crosswise thinly",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "broccoli stalks",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.03496
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tablespoon unseasoned rice vinegar",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "unseasoned rice vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon tamari",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "tamari",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.01125
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Crushed red pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Bring a large pot of water to boil, add the rice, and boil for 40-45 minutes, or until the rice is tender."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain, return the rice to the pot, cover, and allow the rice to steam for a few minutes while you prepare the broccoli stems."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the sesame oil in a large skillet or saute pan over medium high heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the broccoli stems and a pinch of salt."
+        },
+        {
+            "number": 5,
+            "instruction": "Saute the stems for 4 minutes, or until they&#039;re becoming tender and bright green."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the garlic and continue to cook for another minute, stirring constantly."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the rice to the pan, along with the vinegar and tamari."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat the rice through."
+        },
+        {
+            "number": 9,
+            "instruction": "Add a dash of red pepper flakes. Taste the stir fry and add extra vinegar, tamari, and pepper to taste."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve."
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "url": "https://themodernproper.com/wild-mushroom-risotto",
+    "title": "Wild Mushroom Risotto",
+    "total_CO2": 4.477940713980835,
+    "servings": 6,
+    "CO2_per_portion": 0.7463234523301391,
+    "E.Mission coefficient": 1.7895315816426733,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 lb wild mushroom",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "wild mushroom",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.20638452835
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "8 tbsp butter",
+            "amount": "8.0",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.10932000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.3040189200000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 small shallots, minced",
+            "amount": "2.0",
+            "unit": "small",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 garlic cloves, minced",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 fresh thyme sprigs",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp freshly ground pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "freshly ground pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3/4 cup dry white wine",
+            "amount": "0.75",
+            "unit": "cup",
+            "ingredient_name": "dry white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.177441177375,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.28124426613937503
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp lemon juice",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "5 cups chicken stock (or vegetable)",
+            "amount": "5.0",
+            "unit": "cups",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 1.1829411825,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.35488235475
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 1/2 cups Lundberg Family Farm's Arborio Rice",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "Arborio Rice",
+            "matched_ingredient": "Arborio rice",
+            "kg_equivalent": 0.22712470704,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.87193175032656
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup heavy cream",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "heavy cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6579518857065
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 cup freshly grated parmesan cheese",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "freshly grated parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.08044000041000002,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.7085456087084003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "fresh parsley minced, optional",
+            "amount": "1.0",
+            "ingredient_name": "fresh parsley minced",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Warm broth over low heat in a small saucepan.In a heavy skillet melt half of the butter over medium heat"
+        },
+        {
+            "number": 2,
+            "instruction": "Add mushrooms and shallots and saute until tender, about 8 minutes"
+        },
+        {
+            "number": 3,
+            "instruction": "Add garlic, thyme sprigs, salt and pepper and stir for an additional minute"
+        },
+        {
+            "number": 4,
+            "instruction": "Remove mushroom mixture from pan and set aside."
+        },
+        {
+            "number": 5,
+            "instruction": "Add remaining butter to pan over medium heat"
+        },
+        {
+            "number": 6,
+            "instruction": "Once melted, add rice and stir until rice begins to look translucent, 3-4 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Add ¾ cup dry white wine and lemon juice and bring to a simmer, stirring constantly until liquid is absorbed"
+        },
+        {
+            "number": 8,
+            "instruction": "Add mushroom stock or 1 cup of vegetable broth and stir until almost all broth is absorbed"
+        },
+        {
+            "number": 9,
+            "instruction": "Continuing adding broth 1 cup at a time, and stir until liquid is almost absorbed"
+        },
+        {
+            "number": 10,
+            "instruction": "(This step takes 20-25 minutes.)"
+        },
+        {
+            "number": 11,
+            "instruction": "Add mushrooms mixture into the rice and stir to combine"
+        },
+        {
+            "number": 12,
+            "instruction": "Gently stir in heavy cream and parmesan cheese and cook for an additional 5 min on low heat"
+        },
+        {
+            "number": 13,
+            "instruction": "Risotto should be creamy, but firm to the bite"
+        },
+        {
+            "number": 14,
+            "instruction": "Transfer risotto to a serving bowl and top with freshly ground pepper, shaved parmesan and fresh parsley."
+        }
+    ]
+}

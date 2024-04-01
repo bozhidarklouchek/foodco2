@@ -1,0 +1,128 @@
+{
+    "url": "https://rachelschultz.com/2012/10/16/skillet-chicken-zucchini-parmesan/",
+    "title": "skillet chicken & zucchini parmesan",
+    "total_CO2": 6.5853563200628,
+    "servings": 3,
+    "CO2_per_portion": 2.1951187733542668,
+    "E.Mission coefficient": 3.6113369860088804,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "16 ounces tomato sauce",
+            "amount": "16.0",
+            "unit": "ounces",
+            "ingredient_name": "tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.64727631199
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 boneless, skinless chicken breasts",
+            "amount": "4.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons olive oil",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/3 cup parmesan, grated",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.026813333469999995,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5695152029027999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Salt & pepper",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 zucchini, sliced",
+            "amount": "1.0",
+            "ingredient_name": "zucchini",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Fresh mozzarella, sliced",
+            "amount": "1.0",
+            "ingredient_name": "Fresh mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.02835,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.602154
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 pound pasta, prepared al dente",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.65362660517
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Season chicken with salt, pepper, and oregano."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat with half of oil in skillet over medium-low heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Brown each side of chicken for 3-5 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Sprinkle breasts with parmesan."
+        },
+        {
+            "number": 5,
+            "instruction": "Add sauce to skillet and cook on low for 30 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "When 5 minutes remain, brown zucchini with remaining oil in a separate pan."
+        },
+        {
+            "number": 7,
+            "instruction": "Arrange zucchini and mozzarella over chicken breasts and simmer for an additional 15 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve over pasta and top with parmesan."
+        }
+    ]
+}

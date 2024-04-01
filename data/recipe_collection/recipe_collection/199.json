@@ -1,0 +1,378 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/next-level-tikka-masala",
+    "title": "Next level tikka masala",
+    "total_CO2": 18.073157445,
+    "servings": 4,
+    "CO2_per_portion": 4.51828936125,
+    "E.Mission coefficient": 4.403420629844714,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8 bone-in chicken thighs",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "8 bone-in chicken thighs",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 lime, juiced",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 large pieces ginger",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "10 garlic cloves, peeled",
+            "amount": "10.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 ml Greek yogurt",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "Greek yogurt",
+            "matched_ingredient": "Greek Yogurt",
+            "kg_equivalent": 0.424,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.179144
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "pinch chilli powder",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp ground coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp garam masala",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 small green chilli",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "green chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 tbsp butter or ghee",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.020497500000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.05700354750000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "3 tbsp butter or ghee",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "ghee",
+            "matched_ingredient": "Ghee",
+            "kg_equivalent": 0.020497500000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.05700354750000001
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 large onion, finely chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 1/2 tsp cumin seeds",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0048,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.058195199999999996
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 1/2 tsp mustard seeds",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "mustard seeds",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0019500000000000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0008521500000000001
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 tsp powdered fenugreek",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "powdered fenugreek",
+            "matched_ingredient": "Fenugreek seeds",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1/2 tsp powdered paprika",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "powdered paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1/2 tsp powdered paprika",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "powdered paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "4 cardamom pods, lightly bashed",
+            "amount": "4.0",
+            "ingredient_name": "cardamom pods",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1 large piece cinnamon",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1 tbsp tomato purée",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "50 g ground almonds",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "ground almonds",
+            "matched_ingredient": "Ground ginger",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.01825
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "2 tsp soft brown sugar",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "soft brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.018704000000000002
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "2 tsp soft brown sugar",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "soft brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.018704000000000002
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "1 tbsp malt vinegar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "malt vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "680 ml passata",
+            "amount": "680.0",
+            "unit": "ml",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.68,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.9703600000000001
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "100 ml crème fraîche or double cream",
+            "amount": "50.0",
+            "unit": "ml",
+            "ingredient_name": "crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 30,
+            "original_string": "100 ml crème fraîche or double cream",
+            "amount": "50.0",
+            "unit": "ml",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.047,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13070700000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Remove the skin from the chicken and slash each thigh two or three times. Put into a bowl or plastic container and toss with the lime juice and 1/2 tsp salt. Set aside while you make the marinade."
+        },
+        {
+            "number": 2,
+            "instruction": "In a small food processor, blitz the ginger and garlic to make a paste, adding a splash of water if needed. Set aside half of the paste for the sauce. Tip the remaining marinade ingredients into the food processor, then blitz to a smooth paste."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour the paste over the chicken and marinate for at least 4 hrs (overnight or 24 hrs is even better)."
+        },
+        {
+            "number": 4,
+            "instruction": "To make the sauce, heat 2 tbsp of the ghee or butter in a large shallow pan with a lid. Cook the onions for 15 mins over a medium heat until starting to brown."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the spices and remaining garlic and ginger paste, and cook for 2 mins. Stir in the tomato pure, ground almonds, a pinch of sugar and vinegar. Cook for about 1 min."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour in the passata, then fill the jar or carton halfway up with water and add this too. Bring to a gentle simmer, then cook for 2-3 hrs until you have a thick, red sauce. Can be kept chilled in the fridge for up to 48 hrs while you marinate the chicken."
+        },
+        {
+            "number": 7,
+            "instruction": "Set the grill to its highest setting. Lift the chicken from the marinade, wiping off any excess back into the dish and reserve for the sauce. Arrange the chicken on a large baking tray cut-side up. Put under the grill for 10-15 mins until charred and starting to blacken."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove the tray from the oven and set aside with the cooking juices. Reheat the sauce, adding the reserved marinade, then tip the chicken and any pan juices with the crme frache or cream into the curry sauce. Cook for 40 mins until the chicken is completely tender. Stir the remaining butter or ghee in at the end."
+        },
+        {
+            "number": 9,
+            "instruction": "Leave the curry to sit for a few mins, then season with the garam masala and smoked salt, if using."
+        },
+        {
+            "number": 10,
+            "instruction": "Sprinkle with coriander and flaked almonds, then serve with naan bread and rice, if you like."
+        }
+    ]
+}

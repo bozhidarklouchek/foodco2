@@ -1,0 +1,224 @@
+{
+    "url": "https://cupfulofkale.com/vegan-roasted-aubergine-eggplant-chickpea-indian-curry/",
+    "title": "Vegan Roasted Aubergine and Chickpea Curry",
+    "total_CO2": 1.0265190999999998,
+    "servings": 4,
+    "CO2_per_portion": 0.25662977499999995,
+    "E.Mission coefficient": 0.6859007750902044,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 aubergines (about 500g)",
+            "amount": "2.0",
+            "ingredient_name": "aubergines",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.455
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 inch ginger",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 red onions",
+            "amount": "2.0",
+            "ingredient_name": "red onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 garlic cloves",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tsp cumin seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 dried curry leaves",
+            "amount": "3.0",
+            "unit": "leaves",
+            "ingredient_name": "dried curry",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 red chilli, deseeded",
+            "amount": "1.0",
+            "ingredient_name": "red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp ground cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp garam masala",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp medium curry powder",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "medium curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp brown sugar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0105,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.028056000000000005
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tin chopped tomatoes (400g)",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tin chickpeas (400g)",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.002,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00322
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Handful of fresh coriander",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Drizzle of vegan cream",
+            "amount": "1.0",
+            "ingredient_name": "vegan cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.011,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.030591
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pre heat the oven to 180C/350F."
+        },
+        {
+            "number": 2,
+            "instruction": "Cut the aubergines in half length ways, then again and cut into 2 inch chunks."
+        },
+        {
+            "number": 3,
+            "instruction": "Place on a baking tray and toss in some vegetable oil, salt and pepper and place in the oven. Cook for 20-25 minutes, check after 10 minutes and give them a toss, if they look a little dry just add a bit more oil."
+        },
+        {
+            "number": 4,
+            "instruction": "Heat 2 tbsp of oil in a pan on medium heat and add the cumin seeds, chopped chilli and curry leaves. Cook for a couple of minutes until fragrant."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the crushed ginger, crushed garlic and sliced onion. Cook until the onion has sweated and turns translucent."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the ground cumin, curry powder, garam masala, turmeric and sugar. Give it a good mix."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the chopped tomatoes and chickpeas and let simmer for about 10 minutes. You want it to be a thick tomato curry sauce, don't let it simmer for too long or it will be too dry."
+        },
+        {
+            "number": 8,
+            "instruction": "Check the aubergine. It should have crisped on the outside, and the flesh will be and soft and buttery."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the aubergine to the curry and chopped coriander and stir."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with chopped coriander and a drizzle of vegan cream and enjoy as a side or main. Will keep in the fridge for 3-5 days in an airtight container."
+        }
+    ]
+}

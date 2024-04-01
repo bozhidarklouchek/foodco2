@@ -1,0 +1,101 @@
+{
+    "url": "https://www.carnation.co.uk/recipes/vegan-vanilla-cheesecake",
+    "title": "404 page",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Crumbs! Nothing to see here.",
+            "amount": "1.0",
+            "ingredient_name": "Crumbs",
+            "matched_ingredient": "Monterey Jack",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "404 page | Carnation",
+            "amount": "404.0",
+            "ingredient_name": "Carnation",
+            "matched_ingredient": "Plant-based yogurt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Sorry, you need to enable JavaScript to visit this website.",
+            "amount": "1.0",
+            "ingredient_name": "sorry",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Sorry, you need to enable JavaScript to visit this website.",
+            "amount": "1.0",
+            "ingredient_name": "sorry",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "404 page not found",
+            "amount": "404.0",
+            "ingredient_name": "page not found",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

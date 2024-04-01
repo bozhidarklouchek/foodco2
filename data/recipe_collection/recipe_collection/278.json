@@ -1,0 +1,122 @@
+{
+    "url": "https://pinchofnom.com/recipes/lemongrass-and-ginger-rice-noodle-soup/",
+    "title": "Lemongrass and Ginger Rice Noodle Soup",
+    "total_CO2": 0.48455250000000005,
+    "servings": 2,
+    "CO2_per_portion": 0.24227625000000003,
+    "E.Mission coefficient": 0.44762355658198627,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 bag stir fry veg",
+            "amount": "1.0",
+            "ingredient_name": "stir fry veg",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "100 g rice noodles",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "rice noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.3839
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "750 ml vegetable stock",
+            "amount": "750.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.015
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 chilli (deseeded and chopped)",
+            "amount": "1.0",
+            "ingredient_name": "chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 lime",
+            "amount": "0.5",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 stalk lemongrass (bashed with the back of a knife until it is roughly crushed)",
+            "amount": "1.0",
+            "ingredient_name": "lemongrass",
+            "matched_ingredient": "Lemongrass",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp Lazy Garlic",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Lazy Garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tsp Lazy Ginger",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Lazy Ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.00365
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "low calorie cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "calorie cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Fry the chilli, garlic, ginger and the lemongrass stalk for a minute or so in a little low calorie cooking spray."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the veg and fry for a few more minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour in the stock and add the noodles. Stir and cook for 2 -3 minutes until the noodles are cooked."
+        },
+        {
+            "number": 4,
+            "instruction": "Transfer to serving bowls and squeeze over the juice of the lime."
+        }
+    ]
+}

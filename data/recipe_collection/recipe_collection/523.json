@@ -1,0 +1,269 @@
+{
+    "url": "https://khinskitchen.com/crispy-sweet-chilli-beef/",
+    "title": "Crispy Chilli Beef with Sweet Chilli Sauce",
+    "total_CO2": 2.0160013795279506,
+    "servings": 2,
+    "CO2_per_portion": 1.0080006897639753,
+    "E.Mission coefficient": 2.8577946222023964,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g Rump/Sirloin steak (( or any tender steak cut ))",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "Rump",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.4564000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Egg",
+            "amount": "1.0",
+            "ingredient_name": "Egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 cup Corn/Potato Starch (Flour) ",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "Potato Starch",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.13958705953499997,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.05164721202794999
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 Sweet Onion",
+            "amount": "0.5",
+            "ingredient_name": "Sweet Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 Bell Pepper",
+            "amount": "0.5",
+            "ingredient_name": "Bell Pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2-3 Spring Onions",
+            "amount": "2.0",
+            "ingredient_name": "Spring Onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2-3 Birdeye/hot chillies",
+            "amount": "2.0",
+            "ingredient_name": "Birdeye",
+            "matched_ingredient": "Blackeye bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp Light soy sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp Ginger garlic paste",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Ginger garlic paste",
+            "matched_ingredient": "Garlic ginger paste",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002275
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp Sesame oil ",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.004615,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.016646305
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp Sugar ",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0024576000000000003
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/4 tsp White Pepper ",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "White Pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0006374999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00029006249999999996
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 tbsp Sweet Chilli Sauce",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "Sweet Chilli Sauce",
+            "matched_ingredient": "Chilli sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.020475
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp Ketchup",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Ketchup",
+            "matched_ingredient": "Tomato ketchup",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tbsp Light soy sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tsp Vinegar (( white or rice ))",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.007925
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tbsp Sugar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0147456
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 tsp Salt ",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cut beef into thin strips. Marinate the beef strips with the all ingredients in the marinate list."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix well and marinate for 15 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "In a small bowl mix all the ingredients from the stir fry sauce list and set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Break one egg into the the marinated beef strips."
+        },
+        {
+            "number": 5,
+            "instruction": "Mix well."
+        },
+        {
+            "number": 6,
+            "instruction": "Coat the beef strips with corn/potato flour. Make sure all the beef strips are seperated. Toss the excess flour out before frying."
+        },
+        {
+            "number": 7,
+            "instruction": "Heat the oil into hight heat about 350 F."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the coated beef and deep fry for 1-2 mins till crispy."
+        },
+        {
+            "number": 9,
+            "instruction": "Remove from oil and transfer to paper towel or cooling rack."
+        },
+        {
+            "number": 10,
+            "instruction": "Heat the wok/pan to medium high heat."
+        },
+        {
+            "number": 11,
+            "instruction": "Drizzle a tablespoon of oil, add the cut onions and stir for few seconds. Then add the pepper slices, stir well."
+        },
+        {
+            "number": 12,
+            "instruction": "Add the fried beef strips."
+        },
+        {
+            "number": 13,
+            "instruction": "Pour the sauce mix, add the spring onions and fresh chillies. Stir well to combine all ingredients with high heat for 1- 2 mins."
+        },
+        {
+            "number": 14,
+            "instruction": "Transfer to serving plate."
+        },
+        {
+            "number": 15,
+            "instruction": "Serve immediately!"
+        },
+        {
+            "number": 16,
+            "instruction": "Match with hot steamed/cooked rice or stir fry noodle. Perfect as a savory snack too!"
+        }
+    ]
+}

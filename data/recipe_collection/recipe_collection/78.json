@@ -1,0 +1,277 @@
+{
+    "url": "https://eatmoreart.org/dhaba-style-saag-paneer-with-punjabi-tadka/",
+    "title": "Dhaba Style Saag Paneer with Punjabi Tadka",
+    "total_CO2": 5.534214469999999,
+    "servings": 4,
+    "CO2_per_portion": 1.3835536174999998,
+    "E.Mission coefficient": 11.127851667906619,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3/4 bunch Mustard greens ((substitute with Broccoli rabe if Mustard leaves not available. You won't feel any difference in taste))",
+            "amount": "0.75",
+            "unit": "bunch",
+            "ingredient_name": "Mustard greens",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.01125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00491625
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 bunch Spinach",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "Spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/4 bunch Fenugreek leaves",
+            "amount": "0.25",
+            "unit": "bunch",
+            "ingredient_name": "Fenugreek leaves",
+            "matched_ingredient": "Fenugreek leaves",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 qty Onion (medium sized)",
+            "amount": "1.0",
+            "unit": "qty",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 inch Ginger",
+            "amount": "0.5",
+            "unit": "inch",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3-4 cloves Garlic",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "Garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 qty Green chili",
+            "amount": "1.0",
+            "unit": "qty",
+            "ingredient_name": "Green chili",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 teaspoon Garam masala",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "Garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1.2 teaspoon Turmeric",
+            "amount": "1.2",
+            "unit": "teaspoon",
+            "ingredient_name": "Turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0034799999999999996,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.042191519999999996
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "to taste Salt",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1-2 tablespoons Lemon juice",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "Lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.0071325
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tablespoon Oil ((can use any oil. I used partly mustard oil, partly avocado oil))",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "Oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "a pinch Baking soda",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "Baking soda",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 teaspoons Cornmeal ((can use corn flour instead))",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "Cornmeal",
+            "matched_ingredient": "Cornmeal",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0063232
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 qty Dried red chili",
+            "amount": "1.0",
+            "unit": "qty",
+            "ingredient_name": "red chili",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "a pinch Asafetida (hing)",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "Asafetida",
+            "matched_ingredient": "Asafoetida",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "250 grams Paneer ((replace with tofu for vegan version))",
+            "amount": "250.0",
+            "unit": "grams",
+            "ingredient_name": "Paneer",
+            "matched_ingredient": "Paneer",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 5.31
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/2 teaspoon Jeera",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "jeera",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Wash all the green leafy vegetables and roughly chop it."
+        },
+        {
+            "number": 2,
+            "instruction": "Peel and finely chop onions, mince ginger, garlic, and green chili."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat water and add a pinch of baking soda.&nbsp;"
+        },
+        {
+            "number": 4,
+            "instruction": "Add the green leafy vegetables and bring it to a boil.&nbsp; Do not cover the container.&nbsp; After the first boil, let it simmer for 5-7 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove from heat and instantly put the greens in a container filled with water and ice.&nbsp; After a few minutes, drain all the water out."
+        },
+        {
+            "number": 6,
+            "instruction": "&nbsp;"
+        },
+        {
+            "number": 7,
+            "instruction": "Add lemon juice.&nbsp; Grind the greens into a smooth paste.The use of baking soda, lemon juice and putting the greens in a container filled with cold water is to maintain the rich green color of the veggies."
+        },
+        {
+            "number": 8,
+            "instruction": "Heat oil, add chopped garlic (leaving some aside for tempering), followed by ginger, green chillies, onions, each at an interval of about 30 seconds to a minute."
+        },
+        {
+            "number": 9,
+            "instruction": "Saute’ for about 5-7 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Add the garam masala, salt, turmeric powder.&nbsp;"
+        },
+        {
+            "number": 11,
+            "instruction": "Saute’ for another 2 minutes."
+        },
+        {
+            "number": 12,
+            "instruction": "Add the cornmeal/cornflour to half a cup of cold water and make a smooth paste."
+        },
+        {
+            "number": 13,
+            "instruction": "Add it to the above gravy."
+        },
+        {
+            "number": 14,
+            "instruction": "Saute’ for another 2 minutes.&nbsp;"
+        },
+        {
+            "number": 15,
+            "instruction": "Add the green vegetable paste and let it cook for 5-7 minutes. Then turn off the heat.&nbsp; &nbsp;"
+        },
+        {
+            "number": 16,
+            "instruction": "Add the paneer cubes / American cottage cheese / tofu cubes.&nbsp; &nbsp;"
+        },
+        {
+            "number": 17,
+            "instruction": "Add the subzi on to a serving plate.&nbsp;"
+        }
+    ]
+}

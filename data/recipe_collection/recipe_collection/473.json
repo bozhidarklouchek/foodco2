@@ -1,0 +1,102 @@
+{
+    "url": "https://realfood.tesco.com/recipes/easy-chicken-traybake.html",
+    "title": "Easy chicken traybake",
+    "total_CO2": 5.289549400000001,
+    "servings": 4,
+    "CO2_per_portion": 1.3223873500000003,
+    "E.Mission coefficient": 2.5215647427570347,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "750 g pack Willow Farms chicken thighs",
+            "amount": "750.0",
+            "unit": "g",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 4.569
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "750 g Redmere Farms baby potatoes",
+            "amount": "750.0",
+            "unit": "g",
+            "ingredient_name": "baby potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.27749999999999997
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 Redmere Farms brown onions, quartered",
+            "amount": "2.0",
+            "ingredient_name": "brown onions",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.044,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.117568
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 Nightingale Farms peppers, deseeded and quartered",
+            "amount": "2.0",
+            "ingredient_name": "peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 Redmere Farms courgette, ends trimmed, thickly sliced",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "100 g Creamfields Greek-style salad cheese",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "Greek-style salad cheese",
+            "matched_ingredient": "Salad",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to gas 5, 190&deg;C, fan 170&deg;C."
+        },
+        {
+            "number": 2,
+            "instruction": "Drizzle the oil over a large baking tray. Arrange the chicken and potatoes on the tray, tossing to coat in a little oil. Season well, then roast in the oven for 30 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Shake the chicken and potatoes around the tray and add the peppers, onions and courgette. Return to the oven for 30 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "Roughly crumble over the cheese before serving, or add to the tray for the last 10 mins of roasting, if you wish."
+        }
+    ]
+}

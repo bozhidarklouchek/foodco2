@@ -1,0 +1,139 @@
+{
+    "url": "https://www.allrecipes.com/recipe/270046/easy-chicken-piccata/",
+    "title": "Easy Chicken Piccata",
+    "total_CO2": 2.2751023126560104,
+    "servings": 4,
+    "CO2_per_portion": 0.5687755781640026,
+    "E.Mission coefficient": 2.816032296041896,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 large skinless, boneless chicken breasts",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.29,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.7666799999999998
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 cup all-purpose flour",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "all-purpose flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.15141647136,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.21819113522976
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 stick butter",
+            "amount": "0.5",
+            "unit": "stick",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.02781
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "salt and ground black pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 cup white wine",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.18749617742625
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 medium lemons, juiced",
+            "amount": "3.0",
+            "unit": "medium",
+            "ingredient_name": "lemons",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.195,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.061815
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tablespoons drained capers",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "drained capers",
+            "matched_ingredient": "Capers",
+            "kg_equivalent": 0.0132,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tablespoons chopped fresh parsley",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chopped fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Slice chicken breasts horizontally to yield 4 pieces."
+        },
+        {
+            "number": 2,
+            "instruction": "Place breasts between 2 sheets of plastic wrap and pound to 1/4-inch thin."
+        },
+        {
+            "number": 3,
+            "instruction": "Place flour on a plate and dredge each breast on both sides in flour."
+        },
+        {
+            "number": 4,
+            "instruction": "Melt butter in a large skillet over medium heat. Put chicken into the skillet and season tops with salt and pepper. Turn when nicely browned, about 4 minutes, and season again. Cook second side until browned, about 4 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer breasts to a plate, reserving skillet drippings."
+        },
+        {
+            "number": 6,
+            "instruction": "Add wine and lemon juice to the skillet, stirring to scrape up any browned bits. Simmer to reduce and thicken sauce, about 5 minutes more."
+        },
+        {
+            "number": 7,
+            "instruction": "Add capers and pour sauce over chicken breasts on the plate."
+        },
+        {
+            "number": 8,
+            "instruction": "Sprinkle with parsley."
+        },
+        {
+            "number": 9,
+            "instruction": "Easy Chicken Piccata."
+        },
+        {
+            "number": 10,
+            "instruction": "Allrecipes"
+        }
+    ]
+}

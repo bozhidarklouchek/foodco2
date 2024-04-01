@@ -1,0 +1,121 @@
+{
+    "url": "https://www.chefkoch.de/rezepte/1542361260522080/Spinat-Spiegelei-und-Salzkartoffeln.html",
+    "title": "Spinat, Spiegelei und Salzkartoffeln",
+    "total_CO2": 0.772305,
+    "servings": 2,
+    "CO2_per_portion": 0.3861525,
+    "E.Mission coefficient": 5.720777777777777,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 g Spinat , frischer",
+            "amount": "500.0",
+            "ingredient_name": "Spinat",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 EL Butter",
+            "amount": "3.0",
+            "ingredient_name": "Butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08343
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 EL Mehl",
+            "amount": "2.0",
+            "ingredient_name": "el mehl",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 EL Sahne , flüssige",
+            "amount": "1.0",
+            "ingredient_name": "el sahne",
+            "matched_ingredient": "Saveloy",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Salz und Pfeffer",
+            "amount": "1.0",
+            "ingredient_name": "Salz",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Muskat , gerieben",
+            "amount": "1.0",
+            "ingredient_name": "muskat",
+            "matched_ingredient": "Skate",
+            "kg_equivalent": 0.017,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.048059000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 kleine Zwiebel(n)",
+            "amount": "1.0",
+            "ingredient_name": "zwiebel)",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "evtl. Brühepulver , Aromat oder Fondor",
+            "amount": "1.0",
+            "ingredient_name": "Aromat",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 Ei(er)",
+            "amount": "4.0",
+            "ingredient_name": "ei)",
+            "matched_ingredient": "Hilsa",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 TL Öl zum Braten",
+            "amount": "1.0",
+            "ingredient_name": "tl öl zum braten",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 0.088,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.6408159999999999
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 Kartoffel(n) , geschält, geschnitten",
+            "amount": "3.0",
+            "ingredient_name": "Kartoffel",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

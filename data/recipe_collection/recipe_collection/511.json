@@ -1,0 +1,146 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/halloumi-quinoa-fattoush",
+    "title": "Halloumi & quinoa fattoush",
+    "total_CO2": 6.86789275,
+    "servings": 4,
+    "CO2_per_portion": 1.7169731875,
+    "E.Mission coefficient": 4.936047255412811,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 brown pittas , torn into pieces",
+            "amount": "2.0",
+            "ingredient_name": "brown pittas",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.044,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.117568
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "5 tbsp olive oil",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.068625,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.407907
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 lemons , juiced",
+            "amount": "2.0",
+            "ingredient_name": "lemons",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.041210000000000004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 garlic clove , crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "250 g block halloumi , sliced",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "halloumi",
+            "matched_ingredient": "Halloumi",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 5.31
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "250 g microwavable pouch quinoa",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "quinoa",
+            "matched_ingredient": "Quinoa",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.36025
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "350 g medium tomatoes , quartered",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "medium tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.49945
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 large cucumber , halved, deseeded and sliced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 spring onions , sliced",
+            "amount": "4.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0237
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 small bunch mint , chopped",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.00075,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00032775
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 small bunch dill , roughly chopped",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "dill",
+            "matched_ingredient": "Dill",
+            "kg_equivalent": 0.035,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.015295000000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the grill to high. Toss the pitta pieces with 1 tbsp oil and spread out onto a baking sheet. Grill for 3-4 mins, turning halfway, until golden and crisp. Set aside to cool."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, whisk together the remaining oil with the lemon juice and garlic, then season."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat a large griddle pan or non-stick frying pan over a high heat and cook the halloumi for 1-2 mins on each side or until lightly charred."
+        },
+        {
+            "number": 4,
+            "instruction": "Cook the quinoa following pack instructions, leave to cool, then toss with the tomatoes, cucumber, spring onion, most of the fresh herbs and the dressing. Season to taste. Tip onto a serving plate and top with the halloumi, pitta and remaining herbs."
+        }
+    ]
+}

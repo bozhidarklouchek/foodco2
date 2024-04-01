@@ -1,0 +1,126 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/simple-fish-stew",
+    "title": "Simple fish stew",
+    "total_CO2": 36.27814839999999,
+    "servings": 2,
+    "CO2_per_portion": 18.139074199999996,
+    "E.Mission coefficient": 7.046045069410387,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp fennel seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fennel seeds",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 carrots, diced",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 celery sticks, diced",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 leeks, thinly sliced",
+            "amount": "2.0",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0711
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 ml hot fish stock",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "hot fish stock",
+            "matched_ingredient": "Fish stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 1.4135
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 skinless pollock fillets (about 200g), thawed if frozen, and cut into chunks",
+            "amount": "2.0",
+            "ingredient_name": "skinless pollock fillets",
+            "matched_ingredient": "Pollock",
+            "kg_equivalent": 1.366,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 3.861682
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "85 g raw shelled king prawns",
+            "amount": "85.0",
+            "ingredient_name": "raw shelled king prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 2.55,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 30.227699999999995
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large pan, add the fennel seeds, carrots, celery and garlic, and cook for 5 mins until starting to soften. Tip in the leeks, tomatoes and stock, season and bring to the boil, then cover and simmer for 15-20 mins until the vegetables are tender and the sauce has thickened and reduced slightly."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the fish, scatter over the prawns and cook for 2 mins more until lightly cooked. Ladle into bowls and serve with a spoon."
+        }
+    ]
+}

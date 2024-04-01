@@ -1,0 +1,318 @@
+{
+    "url": "https://www.amummytoo.co.uk/quorn-meat-free-mince-moussaka/",
+    "title": "Quorn Meat Free Mince Moussaka",
+    "total_CO2": 4.7165933,
+    "servings": 4,
+    "CO2_per_portion": 1.179148325,
+    "E.Mission coefficient": 2.205174823213139,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "350 g Quorn Meat Free Mince (grounds)",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "Quorn Meat Free Mince",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 1.00485
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large onion (chopped)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 cloves garlic (finely chopped)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large carrot (finely diced)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 g canned chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "canned chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp dried oregano",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp cinnamon",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tsp dried mint",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried mint",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 large aubergine (eggplant) (or 2 small, thinly sliced)",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "410 g evaporated milk",
+            "amount": "410.0",
+            "unit": "g",
+            "ingredient_name": "evaporated milk",
+            "matched_ingredient": "Evaporated milk",
+            "kg_equivalent": 0.41,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.14021
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "40 g cornflour (cornstarch)",
+            "amount": "40.0",
+            "unit": "g",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.03952
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "25 g slightly salted butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "salted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "25 g plain white flour (all purpose flour)",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "plain white flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.036025
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "pinch grated nutmeg",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "grated nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 medium free range eggs (beaten)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "free range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "50 g grated/shredded cheddar cheese (vegetarian if required)",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "shredded cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 200C (180°C fan)."
+        },
+        {
+            "number": 2,
+            "instruction": "Make the spiced mince"
+        },
+        {
+            "number": 3,
+            "instruction": "Heat 2 tbsp of olive oil in a heavy-based saucepan."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the onion, garlic and carrots."
+        },
+        {
+            "number": 5,
+            "instruction": "Fry for 5 minutes until soft and lightly coloured."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the Quorn Meat Free Mince, tomatoes, oregano, cinnamon, mint and bay leaves."
+        },
+        {
+            "number": 7,
+            "instruction": "Season to taste. Bring to boil, reduce the heat, cover and simmer for 10 minutes, stirring occasionally."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove the bay leaves and discard."
+        },
+        {
+            "number": 9,
+            "instruction": "Prepare the aubergine"
+        },
+        {
+            "number": 10,
+            "instruction": "Place the aubergine slices on absorbent kitchen paper to soak up excess moisture."
+        },
+        {
+            "number": 11,
+            "instruction": "Pop into a bowl and drizzle with the remaining oil on both sides. Set aside."
+        },
+        {
+            "number": 12,
+            "instruction": "Note: I cut my aubergine slices very thinly and find that, as per the original Quorn recipe, they do not need cooking ahead of being used in the moussaka. However, if you prefer thicker 1-1.5cm (half inch) slices, I recommend frying or gridding them in a hot pan for 30-60 seconds per side to soften."
+        },
+        {
+            "number": 13,
+            "instruction": "Make the white sauce"
+        },
+        {
+            "number": 14,
+            "instruction": "Pour the evaporated milk into a measuring jug and make-up to 1 litre with water."
+        },
+        {
+            "number": 15,
+            "instruction": "Put the cornflour in a small bowl, add 6 tbsp of the milk mixture and stir until lump-free. Set aside."
+        },
+        {
+            "number": 16,
+            "instruction": "Put the butter, remaining milk mixture and flour in a saucepan over a low heat."
+        },
+        {
+            "number": 17,
+            "instruction": "Whisk and slowly bring to the boil, stirring constantly with a whisk until all the lumps have gone."
+        },
+        {
+            "number": 18,
+            "instruction": "Reduce the heat and simmer for 3 minutes, then pour in the cornflour paste and continue to cook over a low heat until the sauce thickens."
+        },
+        {
+            "number": 19,
+            "instruction": "Remove from the heat and add the nutmeg."
+        },
+        {
+            "number": 20,
+            "instruction": "Season to taste then stir in the beaten egg."
+        },
+        {
+            "number": 21,
+            "instruction": "Assemble the vegetarian moussaka"
+        },
+        {
+            "number": 22,
+            "instruction": "Grease a large roasting tray. Arrange the mince and aubergine slices in alternating layers."
+        },
+        {
+            "number": 23,
+            "instruction": "Finish with a final layer of aubergine slices, then pour the white sauce evenly over the top."
+        },
+        {
+            "number": 24,
+            "instruction": "Sprinkle with the grated cheese."
+        },
+        {
+            "number": 25,
+            "instruction": "Bake, uncovered, in a hot oven for about 30 minutes until the top is a rich golden brown and the filling is piping hot."
+        },
+        {
+            "number": 26,
+            "instruction": "Leave to stand at room temperature for 15 minutes before serving. This allows everything to firm up."
+        },
+        {
+            "number": 27,
+            "instruction": "Serve warm."
+        }
+    ]
+}

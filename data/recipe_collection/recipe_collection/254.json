@@ -1,0 +1,78 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/versatile-veg-soup",
+    "title": "Versatile veg soup",
+    "total_CO2": 17.3453264,
+    "servings": 2,
+    "CO2_per_portion": 8.6726632,
+    "E.Mission coefficient": 14.290102488054046,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g chopped vegetables such as onions, celery and carrots",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "chopped vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "300 g potatoes, cubed",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.111
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "700 ml stock",
+            "amount": "700.0",
+            "unit": "ml",
+            "ingredient_name": "stock",
+            "matched_ingredient": "Lamb stock",
+            "kg_equivalent": 0.7000000000000001,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 17.090500000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "crème fraîche and fresh herbs, to serve",
+            "amount": "1.0",
+            "ingredient_name": "crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Fry the vegetables and potatoes in a pan with the oil for a few minutes until beginning to soften."
+        },
+        {
+            "number": 2,
+            "instruction": "Cover with the stock and simmer for 10-15 mins until the veg is tender. Blend until smooth, then season."
+        },
+        {
+            "number": 3,
+            "instruction": "Serve with a dollop of crème fraîche and some fresh herbs. Will freeze for up to one month."
+        }
+    ]
+}

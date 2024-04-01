@@ -1,0 +1,174 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/vegan-mushroom-risotto",
+    "title": "Vegan mushroom risotto",
+    "total_CO2": 1.6226727600000002,
+    "servings": 4,
+    "CO2_per_portion": 0.40566819000000004,
+    "E.Mission coefficient": 0.8389764594568045,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "20 g dried porcini mushrooms or dried wild mushrooms",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "dried porcini mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00455
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "20 g dried porcini mushrooms or dried wild mushrooms",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "dried wild mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00455
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1.2 l vegan vegetable stock",
+            "amount": "1.2",
+            "unit": "l",
+            "ingredient_name": "vegan vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 1.2,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.024
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 tbsp vegan butter",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegan butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05466000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.15200946000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 long shallot, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "long shallot",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "250 g chestnut mushrooms or mixed mushrooms, sliced",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.056875
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "250 g chestnut mushrooms or mixed mushrooms, sliced",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "mixed mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.056875
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "250 g risotto rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "risotto rice",
+            "matched_ingredient": "Risotto rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "125 ml vegan white wine",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "vegan white wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.198125
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 small bunch parsley or chives, finely chopped",
+            "amount": "0.25",
+            "unit": "bunch",
+            "ingredient_name": "parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.00025,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00010925
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 small bunch parsley or chives, finely chopped",
+            "amount": "0.25",
+            "unit": "bunch",
+            "ingredient_name": "chives",
+            "matched_ingredient": "Chives",
+            "kg_equivalent": 0.00075,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00029625
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put the dried mushrooms and stock in a saucepan over a high heat and bring to a boil, then lower the heat and keep warm while you start the risotto."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat 2 tbsp vegan butter and oil in a wide, shallow pan over a medium heat, and fry the shallot for 6-8 mins or until tender. Stir in the garlic for a minute, then add the chestnut mushrooms. Strain the rehydrated mushrooms from the stock with a slotted spoon and add those, too. Fry for 8-10 mins or until tender and golden. Stir in the rice and coat in the vegan butter and oil."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the wine and simmer for 2 mins to reduce."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the stock a ladleful at a time, stirring regularly until absorbed before adding the next ladle. Keep adding and stirring for 20-25 mins until most of the stock has been absorbed (leave the last bit of stock in the pan as this will hold any grit from the dried mushrooms) and the rice is tender."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove from the heat, stir the remaining 2 tbsp vegan butter and the herbs into the risotto, then rest, covered, for 5 mins before serving."
+        }
+    ]
+}

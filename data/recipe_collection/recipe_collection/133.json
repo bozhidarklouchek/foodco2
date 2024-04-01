@@ -1,0 +1,346 @@
+{
+    "url": "https://www.theflavorbender.com/easy-pork-ramen/#wprm-recipe-container-19467",
+    "title": "Easy Pork Ramen",
+    "total_CO2": 8.12079418917,
+    "servings": 2,
+    "CO2_per_portion": 4.060397094585,
+    "E.Mission coefficient": 5.2989681455853,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8 oz Pork tenderloin",
+            "amount": "8.0",
+            "unit": "oz",
+            "ingredient_name": "Pork tenderloin",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.65152981917
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 cloves garlic (minced)",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp Salt",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tbsp freshly cracked black pepper (please use less, if you don&#39;t like spicy food)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp soy sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 L chicken broth (or beef broth, reduced salt (just over 4 cups))",
+            "amount": "1.0",
+            "unit": "L",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.9,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 5.4828
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 inch ginger (skin removed and sliced)",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 garlic cloves (sliced)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 spring onions / scallions (cut into large sections)",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tbsp chili flakes",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "chili flakes",
+            "matched_ingredient": "Cornflakes",
+            "kg_equivalent": 0.0008775,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.00086697
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 1/2 tsp black peppercorns (either whole or coarsely ground)",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "black peppercorns",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0527394
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp soy sauce (adjust to your taste)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "115 g fresh shiitakes mushrooms",
+            "amount": "115.0",
+            "unit": "g",
+            "ingredient_name": "fresh shiitakes mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.115,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.052325
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "4 stalks of Chinese greens like baby bok choy (or yu choy)",
+            "amount": "4.0",
+            "ingredient_name": "Chinese greens",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 bunch Enoki mushrooms (optional)",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "Enoki mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.011375000000000001
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Extra chopped spring onions to garnish",
+            "amount": "1.0",
+            "ingredient_name": "chopped spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "2 ramen eggs (large eggs (to make jammy eggs))",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "ramen eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 packets dried ramen noodles ((plain noodles, without spice packets))",
+            "amount": "2.0",
+            "ingredient_name": "dried ramen noodles",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pork"
+        },
+        {
+            "number": 2,
+            "instruction": "Mix all the ingredients in the spice mix."
+        },
+        {
+            "number": 3,
+            "instruction": "4 cloves garlic, 1 tsp Salt, 1 tbsp freshly cracked black pepper, 2 tbsp vegetable oil, 1 tbsp soy sauce"
+        },
+        {
+            "number": 4,
+            "instruction": "Spread the spice mix all over the tenderloin. Cover and marinade for at least 1 hour, upto overnight (in the fridge)"
+        },
+        {
+            "number": 5,
+            "instruction": "8 oz Pork tenderloin"
+        },
+        {
+            "number": 6,
+            "instruction": "Preheat oven to 350°F / 180°C."
+        },
+        {
+            "number": 7,
+            "instruction": "When the oven is preheated, roast the pork tenderloin until the pork has an internal temperature registered at 160°F with a meat thermometer. This can take between 20 - 30 minutes depending on the thickness of the tenderloin piece."
+        },
+        {
+            "number": 8,
+            "instruction": "Once it’s cooked, remove from the oven, cover and let it rest for about 10 minutes before slicing."
+        },
+        {
+            "number": 9,
+            "instruction": "Eggs"
+        },
+        {
+            "number": 10,
+            "instruction": "Follow the recipe instructions for ramen eggs, to make ramen eggs for this recipe. The eggs require at least 2 hours or upto overnight marinating."
+        },
+        {
+            "number": 11,
+            "instruction": "2 ramen eggs"
+        },
+        {
+            "number": 12,
+            "instruction": "To make hard boiled eggs (with runny yolks) - Bring a pot of water to a boil over medium high heat (with enough water to completely cover the eggs)."
+        },
+        {
+            "number": 13,
+            "instruction": "Add some salt or vinegar to the water. Lower the eggs into the water gently. To prevent the eggs from cracking, remove the pan from the heat, and lower the eggs gently. Once the eggs are in the pot, return it back to the stove."
+        },
+        {
+            "number": 14,
+            "instruction": "2 ramen eggs"
+        },
+        {
+            "number": 15,
+            "instruction": "Cover with a lid and allow the water to come to boil. Set the timer to cook the eggs for exactly 6 minutes (set a timer). Reduce the heat to a simmer."
+        },
+        {
+            "number": 16,
+            "instruction": "When the 6 minutes are up, remove the eggs and place them in a bowl with iced water OR under cold running water for a few minutes."
+        },
+        {
+            "number": 17,
+            "instruction": "Crack and remove the egg shell carefully. Keep the eggs covered until you are ready to serve."
+        },
+        {
+            "number": 18,
+            "instruction": "Ramen Noodles and broth (make this while the pork is cooking)"
+        },
+        {
+            "number": 19,
+            "instruction": "Place all the ingredients except for the ramen noodles, mushrooms, Asian greens and chopped spring onions, in a pot."
+        },
+        {
+            "number": 20,
+            "instruction": "1 L chicken broth, 1 inch ginger, 3 garlic cloves, 2 spring onions / scallions, ½ tbsp chili flakes, 1 ½ tsp black peppercorns, 2 tbsp soy sauce"
+        },
+        {
+            "number": 21,
+            "instruction": "Bring the stock to a boil over medium high heat. Cover and let it simmer on medium - medium low heat for about 15 - 20 minutes."
+        },
+        {
+            "number": 22,
+            "instruction": "Once the pork is cooked and ready to be sliced, you can remove the garlic cloves, ginger and spring onions from the broth if you want (we like to eat it all)."
+        },
+        {
+            "number": 23,
+            "instruction": "Add the greens and blanch quickly for 1-2 minutes in the simmering water."
+        },
+        {
+            "number": 24,
+            "instruction": "Remove the greens and set aside."
+        },
+        {
+            "number": 25,
+            "instruction": "4 stalks of Chinese greens like baby bok choy"
+        },
+        {
+            "number": 26,
+            "instruction": "Add the ramen noodles, and sliced shiitake mushrooms and let it simmer for 3 - 5 minutes until the noodles are done."
+        },
+        {
+            "number": 27,
+            "instruction": "2 packets dried ramen noodles, 115 g fresh shiitakes mushrooms"
+        },
+        {
+            "number": 28,
+            "instruction": "Assembly"
+        },
+        {
+            "number": 29,
+            "instruction": "Slice the pork tenderloin into thin slices."
+        },
+        {
+            "number": 30,
+            "instruction": "Divide the ramen noodles and broth into two bowls."
+        },
+        {
+            "number": 31,
+            "instruction": "Add the enoki mushrooms and blanched greens over the hot broth, followed by the pork slices, jammy egg, cut in half and the chopped spring onions. Enjoy!"
+        },
+        {
+            "number": 32,
+            "instruction": "1 bunch Enoki mushrooms, Extra chopped spring onions to garnish"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "url": "https://cooking.nytimes.com/recipes/1020515-southern-macaroni-and-cheese?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=27",
+    "title": "Southern Macaroni and Cheese",
+    "total_CO2": 11.133829712151032,
+    "servings": 10,
+    "CO2_per_portion": 1.113382971215103,
+    "E.Mission coefficient": 7.0922566323208995,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Kosher salt and black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 pound elbow macaroni",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "elbow macaroni",
+            "matched_ingredient": "Egg pasta",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 2.04434081159
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 cups whole milk",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "whole milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.49210353192000006,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.3685399222695203
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 large eggs",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 cups shredded extra-sharp Cheddar (about 16 ounces)",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "shredded extra-sharp Cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.32176000164000007,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 6.834182434833601
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 cup unsalted butter (1 stick), melted",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.10776594172575,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.29969708393931077
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cups shredded Colby Jack (about 8 ounces)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "shredded Colby Jack",
+            "matched_ingredient": "Shredded Wheat",
+            "kg_equivalent": 0.09463529460000002,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.13636945951860002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 350 degrees. Bring a large pot of generously salted water to a boil."
+        },
+        {
+            "number": 2,
+            "instruction": "Add macaroni and cook according to package directions until a little under al dente, about 4 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Transfer to a colander and rinse under cold water to stop cooking. Set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "In a large bowl, whisk milk and eggs."
+        },
+        {
+            "number": 5,
+            "instruction": "Add cooked macaroni, 2 cups extra-sharp Cheddar, melted butter, 1 1/2 teaspoons salt and 1/2 teaspoon pepper, and stir until well combined."
+        },
+        {
+            "number": 6,
+            "instruction": "Add half the macaroni mixture to a 9-by-13-inch baking dish in an even layer."
+        },
+        {
+            "number": 7,
+            "instruction": "Sprinkle 1 1/2 cups Colby Jack evenly on top."
+        },
+        {
+            "number": 8,
+            "instruction": "Spread the remaining macaroni mixture on top in an even layer. Cover with aluminum foil, transfer to the middle rack of the oven and bake for 30 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Remove from oven. Carefully remove and discard the aluminum foil. Top the macaroni mixture with the remaining 2 cups Cheddar and 1/2 cup Colby Jack. Broil on top rack until cheese is browned in spots, 3 to 5 minutes. (The broiled cheese can go from golden to burnt fairly quickly, so keep a close eye on it.)"
+        },
+        {
+            "number": 10,
+            "instruction": "Remove from oven and let cool until the macaroni and cheese is fully set, 10 to 15 minutes. (The mixture may first appear jiggly, but it will firm up as it cools.)"
+        },
+        {
+            "number": 11,
+            "instruction": "Serve warm."
+        }
+    ]
+}

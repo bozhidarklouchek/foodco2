@@ -1,0 +1,178 @@
+{
+    "url": "https://en.julskitchen.com/main/eggplant-parmigiana",
+    "title": "Melanzane alla Parmigiana - Eggplant parmigiana",
+    "total_CO2": 7.7198799000000005,
+    "servings": 8,
+    "CO2_per_portion": 0.9649849875000001,
+    "E.Mission coefficient": 2.6116850705368924,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 eggplants",
+            "amount": "4.0",
+            "ingredient_name": "eggplants",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 2.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.91
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 tablespoons flour (to coat the eggplants)",
+            "amount": "4.0",
+            "unit": "tablespoons",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0384,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0553344
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "vegetable oil ( for frying)",
+            "amount": "1.0",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.053592
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "500 ml tomato purée",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "extra virgin olive oil",
+            "amount": "1.0",
+            "ingredient_name": "virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 clove of garlic",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "a few basil leaves",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.0005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0002185
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "150 grams mozzarella fiordilatte (cubed)",
+            "amount": "150.0",
+            "unit": "grams",
+            "ingredient_name": "mozzarella fiordilatte",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.1859999999999995
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 eggs (beaten)",
+            "amount": "3.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.15000000000000002,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.67605
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "100 grams Parmigiano Reggiano (grated)",
+            "amount": "100.0",
+            "unit": "grams",
+            "ingredient_name": "Parmigiano Reggiano",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.124
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Rinse the eggplants and slice them into 5 mm thick slices."
+        },
+        {
+            "number": 2,
+            "instruction": "Arrange the eggplant slices in a colander with a good sprinkle of coarse sea salt between the layers. Put a plate on top of the eggplants, then place a weight over the plate. Leave the eggplants in the sink for about 30 minutes: they will release the bitter water, and will be sweeter."
+        },
+        {
+            "number": 3,
+            "instruction": "After this time, rinse all your slices under running water and arrange them on a towel. Pat them dry."
+        },
+        {
+            "number": 4,
+            "instruction": "Scoop some flour into a bowl and coat the eggplant slices, shaking off the excess flour from each slice."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, heat the frying oil in a large pan: the best ones are shaped like a wok: you will use less frying oil."
+        },
+        {
+            "number": 6,
+            "instruction": "Check if the temperature is right by dipping the handle of a wooden spoon in it: if it is immediately surrounded by tiny bubbles, the oil is ready to fry the eggplant slices."
+        },
+        {
+            "number": 7,
+            "instruction": "Deep fry the eggplants in batches."
+        },
+        {
+            "number": 8,
+            "instruction": "Let them brown on both sides, it takes about 5 minutes. When the eggplants are golden and crisp, place them on a plate lined with kitchen paper, so that the excess oil is absorbed."
+        },
+        {
+            "number": 9,
+            "instruction": "Make the tomato sauce."
+        },
+        {
+            "number": 10,
+            "instruction": "Heat a few tablespoons of extra virgin olive oil in a saucepan with a clove of garlic. When the garlic turns golden, pour the tomato purée, add half a cup of water and some fresh basil leaves—season with a pinch of salt. Cook the tomato purée for about ten minutes, until it has lost the taste of raw tomatoes and has become a savoury and thick sauce."
+        },
+        {
+            "number": 11,
+            "instruction": "Finally, the time has come to make the melanzane alla parmigiana. Take a 30 x 20 cm baking dish and spread a few tablespoons of tomato sauce on the bottom."
+        },
+        {
+            "number": 12,
+            "instruction": "Arrange a layer of fried eggplants, pour over a part of the beaten eggs, top with some mozzarella and a generous layer of grated Parmigiano."
+        },
+        {
+            "number": 13,
+            "instruction": "Spread the tomato sauce on top and keep making layers, until you run out of ingredients. You should be able to make four layers. Top with tomato sauce, a few pieces of mozzarella and a lot of Parmigiano."
+        },
+        {
+            "number": 14,
+            "instruction": "Bake in the preheated oven to 180°C (350°F) for about 35 minutes, until golden brown on the top."
+        },
+        {
+            "number": 15,
+            "instruction": "Serve the parmigiana warm or, even better, let it cool down completely and warm it again in the evening or the next day, it will be even tastier."
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "url": "https://www.meatfreemondays.com/recipes/vegetarian-shepherds-pie-with-cheddar-and-lentils/",
+    "title": "Vegetarian Shepherd's Pie - Meat Free Monday",
+    "total_CO2": 1.1759529999999998,
+    "servings": 4,
+    "CO2_per_portion": 0.29398824999999995,
+    "E.Mission coefficient": 0.6801347599768651,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Artichoke",
+            "amount": "1.0",
+            "ingredient_name": "Artichoke",
+            "matched_ingredient": "Globe artichoke",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Asparagus",
+            "amount": "1.0",
+            "ingredient_name": "Asparagus",
+            "matched_ingredient": "Asparagus",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006992
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Aubergine",
+            "amount": "1.0",
+            "ingredient_name": "Aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Avocado",
+            "amount": "1.0",
+            "ingredient_name": "Avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Beans",
+            "amount": "1.0",
+            "ingredient_name": "Beans",
+            "matched_ingredient": "Bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Broccoli",
+            "amount": "1.0",
+            "ingredient_name": "Broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01748
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Cauliflower",
+            "amount": "1.0",
+            "ingredient_name": "Cauliflower",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.005680999999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Coconut",
+            "amount": "1.0",
+            "ingredient_name": "Coconut",
+            "matched_ingredient": "Coconut",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Corn",
+            "amount": "1.0",
+            "ingredient_name": "Corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Jackfruit",
+            "amount": "1.0",
+            "ingredient_name": "Jackfruit",
+            "matched_ingredient": "Jackfruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Peas",
+            "amount": "1.0",
+            "ingredient_name": "Peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "Peppers",
+            "amount": "1.0",
+            "ingredient_name": "Peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "Plantain",
+            "amount": "1.0",
+            "ingredient_name": "Plantain",
+            "matched_ingredient": "Plantain",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.678,
+            "ingredient_carbon": 0.15933
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "Pomegranate",
+            "amount": "1.0",
+            "ingredient_name": "Pomegranate",
+            "matched_ingredient": "Pomegranate",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.1875
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "Potatoes",
+            "amount": "1.0",
+            "ingredient_name": "Potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "Spinach",
+            "amount": "1.0",
+            "ingredient_name": "Spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "Sweet potatoes",
+            "amount": "1.0",
+            "ingredient_name": "Sweet potatoes",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08695
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "Tofu",
+            "amount": "1.0",
+            "ingredient_name": "Tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.34452
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Peel and roughly chop the onions and carrots."
+        },
+        {
+            "number": 2,
+            "instruction": "Trim and roughly chop the celery."
+        },
+        {
+            "number": 3,
+            "instruction": "Peel and finely chop the garlic cloves."
+        },
+        {
+            "number": 4,
+            "instruction": "Pick the rosemary leaves, discard the stalks. Finely chop half of leaves, put the rest to one side."
+        },
+        {
+            "number": 5,
+            "instruction": "Drain the lentils."
+        },
+        {
+            "number": 6,
+            "instruction": "Heat a large pan on a medium heat."
+        },
+        {
+            "number": 7,
+            "instruction": "Add a good lug of olive oil and the onions, carrots, celery and garlic. Cook gently with the lid on for 8 to 10 minutes, stirring occasionally, or until softened."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the chopped rosemary leaves, tinned tomatoes and stock and stir well. Bring to the boil, then add the drained lentils, reduce to a low heat and simmer gently for 30 minutes, or until thick and delicious."
+        },
+        {
+            "number": 9,
+            "instruction": "Peel the potatoes, cut them into halves and quarters depending on their size, and put them into a pan of salted, boiling water. Boil for about 10 minutes until tender. Stick a knife into them to check they’re soft all the way through."
+        },
+        {
+            "number": 10,
+            "instruction": "Drain in a colander and return them to the pan."
+        },
+        {
+            "number": 11,
+            "instruction": "Grate the cheese."
+        },
+        {
+            "number": 12,
+            "instruction": "Add the milk, butter, most of the cheese and a pinch of salt and pepper to the pan. Finely grate in a few scrapings of nutmeg. Mash until smooth and creamy."
+        },
+        {
+            "number": 13,
+            "instruction": "Preheat the oven to 190ºC/375ºF/gas mark"
+        },
+        {
+            "number": 14,
+            "instruction": "Transfer the lentil mixture to a large ovenproof baking dish. Spoon the mash evenly over the top, poke the remaining rosemary leaves into it to decorate and drizzle with olive oil."
+        },
+        {
+            "number": 15,
+            "instruction": "Sprinkle with the remaining grated cheese, then cook in the hot oven for 30 minutes, or until golden and bubbling."
+        },
+        {
+            "number": 16,
+            "instruction": "Serve with broccoli or some lovely peas."
+        }
+    ]
+}

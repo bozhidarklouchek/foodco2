@@ -1,0 +1,103 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/easy-white-bread",
+    "title": "Easy white bread",
+    "total_CO2": 1.2348856,
+    "servings": 8,
+    "CO2_per_portion": 0.1543607,
+    "E.Mission coefficient": 1.419775919059527,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 g strong white flour, plus extra for dusting",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "strong white flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.7205
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tsp salt",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0216,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2618784
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "7 g sachet fast-action yeast",
+            "amount": "7.0",
+            "unit": "g",
+            "ingredient_name": "fast-action yeast",
+            "matched_ingredient": "Yeast",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.007763
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "300 ml water",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Mix 500g strong white flour, 2 tsp salt and a 7g sachet of fast-action yeast in a large bowl."
+        },
+        {
+            "number": 2,
+            "instruction": "Make a well in the centre, then add 3 tbsp olive oil and 300ml water, and mix well. If the dough seems a little stiff, add another 1-2 tbsp water and mix well."
+        },
+        {
+            "number": 3,
+            "instruction": "Tip onto a lightly floured work surface and knead for around 10 mins."
+        },
+        {
+            "number": 4,
+            "instruction": "Once the dough is satin-smooth, place it in a lightly oiled bowl and cover with cling film. Leave to rise for 1 hour until doubled in size or place in the fridge overnight."
+        },
+        {
+            "number": 5,
+            "instruction": "Line a baking tray with baking parchment. Knock back the dough (punch the air out and pull the dough in on itself) then gently mould the dough into a ball."
+        },
+        {
+            "number": 6,
+            "instruction": "Place it on the baking parchment to prove for a further hour until doubled in size."
+        },
+        {
+            "number": 7,
+            "instruction": "Heat oven to 220C/fan 200C/gas"
+        },
+        {
+            "number": 8,
+            "instruction": "Dust the loaf with some extra flour and cut a cross about 6cm long into the top of the loaf with a sharp knife."
+        },
+        {
+            "number": 9,
+            "instruction": "Bake for 25-30 mins until golden brown and the loaf sounds hollow when tapped underneath. Cool on a wire rack."
+        }
+    ]
+}

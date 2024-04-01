@@ -1,0 +1,286 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/sweet_and_sour_pork_with_22016",
+    "title": "Sweet and sour pork stir-fry",
+    "total_CO2": 5.408575449999997,
+    "servings": 4,
+    "CO2_per_portion": 1.3521438624999993,
+    "E.Mission coefficient": 3.7140177234834417,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp soy sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp sake or dry sherry",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "sake",
+            "matched_ingredient": "Sake",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp sake or dry sherry",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "dry sherry",
+            "matched_ingredient": "Sherry",
+            "kg_equivalent": 0.00741,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.01174485
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "21/2 tbsp cornflour",
+            "amount": "10.5",
+            "unit": "tbsp",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.12915000000000001,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.12760020000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "500 g/1 lb 2 oz pork fillet, cut into 2 cm/¾in cubes",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "pork fillet",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 3.641
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tbsp groundnut oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "groundnut oil",
+            "matched_ingredient": "Groundnut oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.1587552
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 garlic cloves, crushed",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 onion, finely sliced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 green pepper, seeds removed, finely sliced",
+            "amount": "1.0",
+            "ingredient_name": "green pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 carrot, finely sliced",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "4 cm/11/2 in piece fresh root ginger, peeled and cut into matchsticks",
+            "amount": "4.0",
+            "unit": "cm",
+            "ingredient_name": "fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 tbsp soft brown sugar",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "soft brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0315,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.084168
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "6 tbsp rice vinegar or white wine vinegar",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "rice vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.071325
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "6 tbsp rice vinegar or white wine vinegar",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "white wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.071325
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 spring onions, finely sliced",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 fresh red chilli, seeds removed, finely sliced",
+            "amount": "0.5",
+            "ingredient_name": "fresh red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "sea salt and black pepper",
+            "amount": "1.0",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "225 g/8 oz jasmine rice",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "jasmine rice",
+            "matched_ingredient": "Jasmine rice",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.863775
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 tbsp groundnut oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "groundnut oil",
+            "matched_ingredient": "Groundnut oil",
+            "kg_equivalent": 0.027600000000000003,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.1587552
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 free-range eggs, beaten with ½ tsp sea salt",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.027042
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large bowl, combine the soy sauce, sake (or dry sherry) and a tablespoon of the cornflour."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the pork and stir to coat. Leave to stand for 10 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "For the egg-fried rice, cook the rice according to the packet instructions."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain, then spread out on a plate to cool."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat one tablespoon of the oil in a frying pan over a medium–high heat, add the pork and stir-fry for 5–7 minutes until golden-brown."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the pork from the pan and set aside."
+        },
+        {
+            "number": 7,
+            "instruction": "Return the pan to the heat and add another tablespoon of oil."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the garlic, onion, green pepper, carrot and ginger and stir fry over a medium–high heat for 2 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Meanwhile, in a bowl, whisk together the sugar, vinegar, 170ml/6fl oz water, the remaining cornflour and a pinch of salt."
+        },
+        {
+            "number": 10,
+            "instruction": "Add to the pan and bring to the boil, then reduce the heat slightly and simmer, stirring frequently, for 5 minutes until thickened."
+        },
+        {
+            "number": 11,
+            "instruction": "Remove from the heat and stir in the cooked pork. Season to taste with salt and pepper and set aside."
+        },
+        {
+            "number": 12,
+            "instruction": "For the rice, heat the oil in a wok or large non-stick pan over a high heat."
+        },
+        {
+            "number": 13,
+            "instruction": "Add the cooled rice and beaten eggs and stir-fry for 4–6 minutes until some of the rice begins to colour and the egg is cooked."
+        },
+        {
+            "number": 14,
+            "instruction": "Spoon the rice onto a serving plate and top with the pork and vegetables."
+        },
+        {
+            "number": 15,
+            "instruction": "Garnish with the sliced spring onions and red chilli."
+        }
+    ]
+}

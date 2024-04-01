@@ -1,0 +1,263 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/brown_stew_chicken_22517",
+    "title": "Brown stew chicken",
+    "total_CO2": 8.505351699999999,
+    "servings": 4,
+    "CO2_per_portion": 2.1263379249999996,
+    "E.Mission coefficient": 4.6791834186059305,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8 chicken thighs, skin removed",
+            "amount": "8.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.24,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.55408
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp sea salt flakes",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "sea salt flakes",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp freshly ground black pepper",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tbsp all-purpose seasoning",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "all-purpose seasoning",
+            "matched_ingredient": "All purpose seasoning",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2109576
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "5 garlic cloves, finely chopped",
+            "amount": "5.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "5 pimento berries, crushed",
+            "amount": "5.0",
+            "ingredient_name": "pimento berries",
+            "matched_ingredient": "Pimento",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp browning or dark soy sauce",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00457
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tbsp brown sugar",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0315,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.084168
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 red pepper, sliced",
+            "amount": "0.5",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 green or yellow pepper, sliced",
+            "amount": "0.25",
+            "ingredient_name": "green",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 green or yellow pepper, sliced",
+            "amount": "0.25",
+            "ingredient_name": "yellow pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 spring onions, thinly sliced",
+            "amount": "2.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.01185
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 brown onion, chopped",
+            "amount": "1.0",
+            "ingredient_name": "brown onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tbsp cornflour",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.024599999999999997,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.024304799999999998
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "handful fresh thyme",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tsp hot pepper sauce or 1 whole Scotch bonnet chilli",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "hot pepper sauce",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 tsp hot pepper sauce or 1 whole Scotch bonnet chilli",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "whole Scotch bonnet chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 large tomato, chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "2 tbsp tomato ketchup",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato ketchup",
+            "matched_ingredient": "Tomato ketchup",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 Scotch bonnet chilli, seeds removed, chopped",
+            "amount": "1.0",
+            "ingredient_name": "Scotch bonnet chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the chicken in a bowl and add the salt, black pepper, all-purpose seasoning, garlic, pimento berries, browning, sugar, peppers, spring onion and onion."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix together, put cling film over the bowl and marinate in the fridge for at least 30 minutes (or overnight if possible)."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the oil in a large frying pan over a medium heat, add the chicken mixture and cook the vegetables and chicken for about 5 minutes on each side, or until the chicken is brown."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix the cornflour with 500ml/18fl oz water and add to the pan."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the thyme, hot pepper sauce, tomato, ketchup and chilli."
+        },
+        {
+            "number": 6,
+            "instruction": "Mix well, cover with a lid and simmer for 30 minutes, until the chicken is tender and cooked through."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove the whole Scotch bonnet, if using, before serving."
+        }
+    ]
+}

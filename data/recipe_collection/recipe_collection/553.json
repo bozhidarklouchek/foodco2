@@ -1,0 +1,138 @@
+{
+    "url": "https://www.olivemagazine.com/recipes/family/ratatouille-with-crisp-garlic-sourdough/",
+    "title": "Ratatouille",
+    "total_CO2": 1.5381920000000002,
+    "servings": 4,
+    "CO2_per_portion": 0.38454800000000006,
+    "E.Mission coefficient": 0.8341605206073753,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 large onion, finely chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cloves garlic, 1 halved and 2 crushed",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 large aubergine, diced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 courgettes, diced",
+            "amount": "2.0",
+            "ingredient_name": "courgettes",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.18200000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 red pepper, diced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g tin chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "250 g cherry tomatoes",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "a small bunch basil, chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "8 thin slices sourdough bread",
+            "amount": "8.0",
+            "ingredient_name": "sourdough bread",
+            "matched_ingredient": "Sourdough",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cook the onion and crushed garlic in 1 tbsp olive oil in a non-stick pan for 5 minutes."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the aubergines and cook for 10 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the courgettes and pepper and cook for 2 minutes, then add the tomatoes and simmer for 15 minutes. Stir through the basil."
+        },
+        {
+            "number": 4,
+            "instruction": "Toast the sourdough, rub with the garlic halves and drizzle with 1 tbsp olive oil."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve with the ratatouille."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/vegetarian-thai-green-curry",
+    "title": "Vegetarian Thai green curry",
+    "total_CO2": 1.06464,
+    "servings": 4,
+    "CO2_per_portion": 0.26616,
+    "E.Mission coefficient": 0.6868645161290322,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp vegetable oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 shallots, finely sliced",
+            "amount": "3.0",
+            "ingredient_name": "shallots",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 tbsp Thai green curry paste",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "Thai green curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 red chilli, deseeded and finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "350 g butternut squash, peeled and cut into 1.5 cm cubes",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "butternut squash",
+            "matched_ingredient": "Butternut squash",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.15925
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large red pepper, deseeded and cut into thick slices",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g can full fat coconut milk",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.36560000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "5 lime leaves",
+            "amount": "5.0",
+            "unit": "leaves",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.103025
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "150 g mangetout",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "mangetout",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.1344
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "100 g baby corn. halved lengthways",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "baby corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0988
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 small bunch coriander, roughly chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "cooked rice and lime wedges, to serve",
+            "amount": "1.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large flameproof casserole dish with a tight-fitting lid."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the shallots with a generous pinch of salt and fry for 7-10 mins over a medium heat until softened and beginning to caramelise."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the curry paste and chilli to the dish and fry for 2 mins. Tip in the squash and pepper, then stir through the coconut milk along with 200ml water."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the lime leaves, cover and cook for 15-20 mins or until the squash is tender."
+        },
+        {
+            "number": 5,
+            "instruction": "Stir the mangetout and baby corn through the curry, then re-cover, cooking over a medium-low heat for a further 5 mins or until the veg is just cooked. Season and stir through half the coriander."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the lime leaves and discard. Spoon the curry into deep bowls, scatter with the remaining coriander and serve with rice and lime wedges for squeezing over."
+        }
+    ]
+}

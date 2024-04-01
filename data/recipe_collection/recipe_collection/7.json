@@ -1,0 +1,137 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/bananabread_85720",
+    "title": "Easy banana bread",
+    "total_CO2": 2.1780265500000002,
+    "servings": 10,
+    "CO2_per_portion": 0.217802655,
+    "E.Mission coefficient": 1.6567349104324347,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "285 g/10 oz plain flour",
+            "amount": "285.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.285,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.41068499999999997
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tsp bicarbonate of soda",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "soda",
+            "matched_ingredient": "Club soda",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.00768
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "110 g/4 oz butter, plus extra for greasing",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.30591
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "225 g/8 oz caster sugar",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.3456
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 free-range eggs",
+            "amount": "2.0",
+            "ingredient_name": "free-range eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 ripe bananas, mashed",
+            "amount": "4.0",
+            "ingredient_name": "ripe bananas",
+            "matched_ingredient": "Banana",
+            "kg_equivalent": 0.504,
+            "carbon_per_kg": 0.678,
+            "ingredient_carbon": 0.341712
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "85 ml/3 fl oz buttermilk (or normal milk mixed with 1½ tsp lemon juice or vinegar)",
+            "amount": "85.0",
+            "unit": "ml",
+            "ingredient_name": "buttermilk",
+            "matched_ingredient": "Buttermilk",
+            "kg_equivalent": 0.07735000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.21511035000000006
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp vanilla extract",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "vanilla extract",
+            "matched_ingredient": "Vanilla",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 180C/350F/Gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Sift the flour, bicarbonate of soda and salt into a large mixing bowl."
+        },
+        {
+            "number": 3,
+            "instruction": "In a separate bowl, cream the butter and sugar together until light and fluffy."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the eggs, mashed bananas, buttermilk and vanilla extract to the butter and sugar mixture and mix well. Fold in the flour mixture."
+        },
+        {
+            "number": 5,
+            "instruction": "Grease a 20cm x 12.5cm/8in x 5in loaf tin (2lb) and pour the banana bread mixture into the tin."
+        },
+        {
+            "number": 6,
+            "instruction": "Transfer to the oven and bake for about an hour, or until well-risen and golden-brown."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove from the oven and cool in the tin for a few minutes, then turn out onto a wire rack to cool completely before serving."
+        }
+    ]
+}

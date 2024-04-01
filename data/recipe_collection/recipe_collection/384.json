@@ -1,0 +1,186 @@
+{
+    "url": "https://www.olivemagazine.com/recipes/one-pots/sausage-fennel-one-pan-pasta/",
+    "title": "One-pan sausage pasta",
+    "total_CO2": 54.49942565,
+    "servings": 2,
+    "CO2_per_portion": 27.249712825,
+    "E.Mission coefficient": 1.4299028810222998,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 pork sausages, skinned",
+            "amount": "4.0",
+            "ingredient_name": "pork sausages",
+            "matched_ingredient": "Quorn sausage",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.555,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 clove garlic, sliced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp fennel seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fennel seeds",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 tsp hot-smoked paprika",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "hot-smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "a pinch dried chilli flakes",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "400 g tin chopped or plum tomatoes",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "chopped",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.07900000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g tin chopped or plum tomatoes",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.15000000000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp tomato purée",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "450 ml light chicken stock",
+            "amount": "450.0",
+            "unit": "ml",
+            "ingredient_name": "light chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.45,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.135
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "175 g rigatoni or penne pasta",
+            "amount": "87.5",
+            "ingredient_name": "rigatoni",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "175 g rigatoni or penne pasta",
+            "amount": "87.5",
+            "ingredient_name": "penne pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 37.1875,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 53.5871875
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp soft cheese (or use double cream or crème fraîche)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "soft cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.0102,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.216648
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp parmesan, finely grated, plus extra to serve",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0102,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.216648
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "a bunch basil, torn",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a non-stick pan then pinch in nuggets of the sausage and fry until browned all over, breaking up the sausage into smaller nuggets as you fry."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the garlic, fennel seeds, smoked paprika and chilli flakes, and cook for 2 minutes. Tip in the tomatoes, tomato purée and stock, and bring to a simmer. Stir in the pasta, put on a lid and cook on a gentle simmer for 12-15 minutes, stirring now and again. When the pasta is almost cooked, stir in the cheeses and basil, and leave to sit off the heat for 2 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Serve in warm bowls with extra parmesan, if you like."
+        }
+    ]
+}

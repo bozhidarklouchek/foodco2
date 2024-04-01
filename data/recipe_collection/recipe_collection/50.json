@@ -1,0 +1,189 @@
+{
+    "url": "https://learntocook.com/cookies/how-to-make-peanut-butter-cookies/",
+    "title": "How To Make Peanut Butter Cookies",
+    "total_CO2": 3.605480419502975,
+    "servings": 2,
+    "CO2_per_portion": 1.8027402097514875,
+    "E.Mission coefficient": 2.9901818836213865,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "in cookies",
+            "amount": "1.0",
+            "ingredient_name": "cookies",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "How To Make Peanut Butter Cookies",
+            "amount": "1.0",
+            "ingredient_name": "Peanut Butter Cookies",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12485
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 cup light brown sugar",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "light brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.16561176554999998,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.44251463754959997
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup sugar",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.15141647136,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.23257570000896
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 cup shortening",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "shortening",
+            "matched_ingredient": "Shortening",
+            "kg_equivalent": 0.1419529419,
+            "carbon_per_kg": 7.605,
+            "ingredient_carbon": 1.0795521231495
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 cup peanut butter",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "peanut butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.149050588995,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.372179320720515
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 eggs",
+            "amount": "2.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 1/2 cups all-purpose flour",
+            "amount": "2.5",
+            "unit": "cups",
+            "ingredient_name": "all-purpose flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.3785411784,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.5454778380744001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 1/2 teaspoon baking soda",
+            "amount": "1.5",
+            "unit": "teaspoon",
+            "ingredient_name": "baking soda",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0165,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.20004600000000003
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 teaspoon salt",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "If you have questions or comments about this video or recipe please leave them below.",
+            "amount": "1.0",
+            "ingredient_name": "recipe please leave them below",
+            "matched_ingredient": "Saveloy",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "How To Make Gingerbread Cookies",
+            "amount": "1.0",
+            "ingredient_name": "Gingerbread Cookies",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "How to Make Ladyfingers",
+            "amount": "1.0",
+            "ingredient_name": "Ladyfingers",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "How To Make Chocolate Chip Cookies",
+            "amount": "1.0",
+            "ingredient_name": "Chocolate Chip Cookies",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Tags: peanut butter cookies",
+            "amount": "1.0",
+            "ingredient_name": "peanut butter cookies",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12485
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Sift the dry ingredients together and set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "Mix the brown sugar and sugar together and add the shortening, add the peanut butter and once incorporated scrape down the bowl and add the eggs."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the dry ingredients and mix on medium speed until well incorporated and scrape down the bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Drop or scoop onto a lined cookie sheet, flatten, sprinkle with sugar and make criss-cross indents with a fork."
+        },
+        {
+            "number": 5,
+            "instruction": "Bake at 350 degrees for about 10-12 minutes or until the edges start to turn golden brown in color."
+        }
+    ]
+}

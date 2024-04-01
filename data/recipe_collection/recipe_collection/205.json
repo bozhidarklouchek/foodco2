@@ -1,0 +1,242 @@
+{
+    "url": "https://realfood.tesco.com/recipes/simple-lasagne.html",
+    "title": "Simple lasagne",
+    "total_CO2": 24.072473400000003,
+    "servings": 6,
+    "CO2_per_portion": 4.012078900000001,
+    "E.Mission coefficient": 9.786652329020523,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, diced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 carrot, diced",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 celery stalk, diced",
+            "amount": "1.0",
+            "ingredient_name": "celery stalk",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0182
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, finely sliced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "250 g beef mince",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 14.8925
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "250 g pork mince",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "pork mince",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.8205
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp tomato purée",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "400 g tin chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "200 ml beef stock",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "beef stock",
+            "matched_ingredient": "Beef stock",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.05,
+            "ingredient_carbon": 0.21000000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "200 ml red wine",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.317
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tsp Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.007925
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "9-12 lasagne sheets (depending on the size of your baking dish)",
+            "amount": "10.5",
+            "ingredient_name": "lasagne sheets",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "50 g Parmesan, grated",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "150 g pack mozzarella, shredded",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 3.1859999999999995
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "50 g butter",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "50 g plain flour",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.07205
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "550 ml semi-skimmed milk",
+            "amount": "550.0",
+            "unit": "ml",
+            "ingredient_name": "semi-skimmed milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.5720000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.5907320000000003
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large pan, heat the olive oil over a low heat. Fry the onion, carrot, celery and garlic for 5 mins, or until softened."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the mince and fry on a medium heat until golden. Turn up the heat, pour in the wine and bubble until reduced. Stir in the tomato pur&eacute;e, chopped tomatoes and stock."
+        },
+        {
+            "number": 3,
+            "instruction": "Add in the Worcestershire sauce and simmer for 15 mins, or until the liquid has reduced. Season."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, make the white sauce. Melt the butter in a small saucepan over a low heat and add the flour."
+        },
+        {
+            "number": 5,
+            "instruction": "Whisk until combined and cook on low for 1-2 mins."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove from the heat and gradually whisk in the milk until you have a loose sauce. Season. Return to a gentle heat and whisk constantly until the sauce thickens."
+        },
+        {
+            "number": 7,
+            "instruction": "Preheat the oven to gas 6, 200&deg;C, fan 180&deg;C."
+        },
+        {
+            "number": 8,
+            "instruction": "Layer up the lasagne in a baking dish, starting with a third each of the ragu, then the pasta, then the white sauce. Repeat twice. Top with the Parmesan and mozzarella then bake in the oven for 40-45 mins, until piping hot and crisp and bubbling on top."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "url": "https://joyfoodsunshine.com/pesto-pasta-recipe/",
+    "title": "Pesto Pasta",
+    "total_CO2": 2.35424074191195,
+    "servings": 10,
+    "CO2_per_portion": 0.235424074191195,
+    "E.Mission coefficient": 1.6664186793008924,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cups basil",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/4 cup toasted pine nuts (toasted)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "toasted pine nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.01644288243675
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4-5 TBS olive oil",
+            "amount": "4.5",
+            "unit": "TBS",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.063,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.374472
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp lemon juice",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.001585
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 1/2 TBS minced garlic",
+            "amount": "1.5",
+            "unit": "TBS",
+            "ingredient_name": "minced garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0029625
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 cup parmesan cheese",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.04022000020500001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8542728043542002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/8 tsp pepper",
+            "amount": "0.125",
+            "unit": "tsp",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.00031874999999999997,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00014503124999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Salted Water",
+            "amount": "1.0",
+            "ingredient_name": "Salted Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 TBS toasted pine nuts",
+            "amount": "2.0",
+            "ingredient_name": "toasted pine nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.0004,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.00011120000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Baby tomatoes, fresh basil, parmesan cheese, etc. (optional garnishes)",
+            "amount": "1.0",
+            "ingredient_name": "Baby tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "16 oz bucatini spaghetti ((or your preferred pasta))",
+            "amount": "16.0",
+            "unit": "oz",
+            "ingredient_name": "bucatini spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.65362660517
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cook pasta according to package instructions, be sure to use salted water."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain (do not rinse), return to dry pot, cover with a lid and set aside."
+        }
+    ]
+}

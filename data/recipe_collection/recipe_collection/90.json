@@ -1,0 +1,168 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/pumpkin-risotto",
+    "title": "Pumpkin risotto",
+    "total_CO2": 2.12827,
+    "servings": 4,
+    "CO2_per_portion": 0.5320675,
+    "E.Mission coefficient": 1.4975952150584926,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 small pumpkin or butternut squash- after peeling and scraping out the seeds, you need about 400g/14oz",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "pumpkin",
+            "matched_ingredient": "Pumpkin",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 small pumpkin or butternut squash- after peeling and scraping out the seeds, you need about 400g/14oz",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "butternut squash",
+            "matched_ingredient": "Butternut squash",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp olive oil, plus a drizzle for the pumpkin",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 garlic cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "8 spring onions",
+            "amount": "8.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0474
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "200 g risotto rice",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "risotto rice",
+            "matched_ingredient": "Risotto rice",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.7678
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tsp ground cumin",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 l hot vegetable stock, plus extra splash if needed",
+            "amount": "1.0",
+            "unit": "l",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.02
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "50 g grated parmesan (or vegetarian alternative)",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "grated parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "small handful coriander, roughly chopped",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 180C/160C fan/ gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Chop up the pumpkin or squash into 1.5cm cubes (kids- ask for help if it’s slippery). Put it on a baking tray, drizzle over some oil, then roast for 30 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "While the pumpkin is roasting, you can make the risotto."
+        },
+        {
+            "number": 4,
+            "instruction": "Put the garlic in a sandwich bag, then bash lightly with a rolling pin until it’s crushed."
+        },
+        {
+            "number": 5,
+            "instruction": "Cut up the spring onions with your scissors."
+        },
+        {
+            "number": 6,
+            "instruction": "Heat 1 tbsp oil with the butter in your pan over a medium heat – not too hot."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the spring onions and garlic. Once the onions are soft but not getting brown, add the rice and cumin. Stir well to coat in the buttery mix for about 1 min."
+        },
+        {
+            "number": 8,
+            "instruction": "Now add half a cup of the stock, and stir every now and then until it has all disappeared into the rice. Carry on adding and stirring in a large splash of stock at a time, until you have used up all the stock – this will take about 20 mins."
+        },
+        {
+            "number": 9,
+            "instruction": "Check the rice is cooked. If it isn’t, add a splash more stock, and carry on cooking for a bit. Once the rice is soft enough to eat, gently stir in the grated cheese, chopped coriander and roasted pumpkin."
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/bubble-squeak",
+    "title": "Bubble & squeak",
+    "total_CO2": 4.251665182499999,
+    "servings": 4,
+    "CO2_per_portion": 1.0629162956249998,
+    "E.Mission coefficient": 0.4899031820576689,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp duck fat, goose fat or butter",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "duck fat",
+            "matched_ingredient": "Duck",
+            "kg_equivalent": 0.00675,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.041121
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp duck fat, goose fat or butter",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.006832500000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.019001182500000005
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 rashers of streaky bacon, chopped",
+            "amount": "4.0",
+            "ingredient_name": "streaky bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.064,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.466048
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 onion, finely sliced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 garlic clove, chopped",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "15-20 cooked brussels sprouts, sliced, or leftover boiled cabbage, shredded",
+            "amount": "8.75",
+            "ingredient_name": "cooked brussels sprouts",
+            "matched_ingredient": "Brussels Sprouts",
+            "kg_equivalent": 0.17500000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.076475
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "15-20 cooked brussels sprouts, sliced, or leftover boiled cabbage, shredded",
+            "amount": "8.75",
+            "ingredient_name": "boiled cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 7.875,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 3.441375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "400 g cold leftover mashed potato, or cold crushed boiled potatoes",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "cold leftover mashed potato",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.074
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "400 g cold leftover mashed potato, or cold crushed boiled potatoes",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "cold crushed boiled potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.074
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Melt 1 tbsp duck fat, goose fat or butter in a non-stick pan, allow it to get nice and hot, then add 4 chopped streaky bacon rashers. As it begins to brown, add 1 finely sliced onion and 1 chopped garlic clove."
+        },
+        {
+            "number": 2,
+            "instruction": "Next, add 15-20 sliced cooked brussels sprouts or shredded boiled cabbage and let it colour slightly. All this will take 5-6 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Add 400g cold mashed potato. Work everything together in the pan and push it down so that the mixture covers the base of the pan."
+        },
+        {
+            "number": 4,
+            "instruction": "Allow the mixture to catch slightly on the base of the pan before turning it over and doing the same again. It’s the bits of potato that catch in the pan that define the term ‘bubble and squeak’, so be brave and let the mixture colour."
+        },
+        {
+            "number": 5,
+            "instruction": "Cut into wedges and serve."
+        }
+    ]
+}

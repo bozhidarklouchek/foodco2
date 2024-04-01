@@ -1,0 +1,142 @@
+{
+    "url": "https://www.vegkitchen.com/ginger-tempeh-vegetable-stir-fry/",
+    "title": "Ginger Tempeh Vegetable Stir Fry",
+    "total_CO2": 1.4801039002170002,
+    "servings": 4,
+    "CO2_per_portion": 0.37002597505425006,
+    "E.Mission coefficient": 0.9970748077295849,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tablespoons organic red palm oil or extra-virgin coconut oil",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "organic red palm oil",
+            "matched_ingredient": "Palm oil",
+            "kg_equivalent": 0.0207,
+            "carbon_per_kg": 7.605,
+            "ingredient_carbon": 0.1574235
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tablespoons organic red palm oil or extra-virgin coconut oil",
+            "amount": "1.5",
+            "unit": "tablespoons",
+            "ingredient_name": "extra-virgin coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.020790000000000003,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.11958408000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tablespoons grated ginger",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "grated ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.016425
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons tamari",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tamari",
+            "matched_ingredient": "Tamarind",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tablespoon mirin (water or wine)",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "mirin",
+            "matched_ingredient": "Mirin",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 cup chopped onions",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "chopped onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.05204941203,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.020559517751850002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 cup carrots (sliced into match sticks)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12775764771,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.04663154141415
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "8 ounce soy tempeh (cut into ½ inch cubes)",
+            "amount": "8.0",
+            "unit": "ounce",
+            "ingredient_name": "soy tempeh",
+            "matched_ingredient": "Tempeh",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.651131847135
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 cups sliced summer squash (in half moons)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "summer squash",
+            "matched_ingredient": "Summer squash",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.215295295215
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 cups coarsely chopped bok choy",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "bok choy",
+            "matched_ingredient": "Pak choi",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat and melt the oil in a wok or large skillet over medium-high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add ginger, mirin, and tamari and fry for a minute to blend flavors."
+        },
+        {
+            "number": 3,
+            "instruction": "Add onions, carrots and tempeh and stir fry for 5 minutes, or until the carrots turn bright orange."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the summer squash and continue to stir fry for 3 minutes, or until it turns bright yellow."
+        },
+        {
+            "number": 5,
+            "instruction": "Turn off the heat and stir in bok choy, which will wilt and turn bright green quickly. Taste and adjust the seasonings; add more tamari for a saltier taste, if you like."
+        }
+    ]
+}

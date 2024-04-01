@@ -1,0 +1,202 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/veggie-fajitas",
+    "title": "Vegetarian fajitas",
+    "total_CO2": 1.01456995,
+    "servings": 4,
+    "CO2_per_portion": 0.2536424875,
+    "E.Mission coefficient": 1.136200179181365,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "400 g can black beans, drained",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "small bunch coriander, finely chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 large or 8-12 small flour tortillas",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "small flour tortillas",
+            "matched_ingredient": "Flour tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 avocado, sliced, or 1 small tub guacamole",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.056249999999999994
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 avocado, sliced, or 1 small tub guacamole",
+            "amount": "0.5",
+            "unit": "small",
+            "ingredient_name": "guacamole",
+            "matched_ingredient": "Guacamole",
+            "kg_equivalent": 0.035,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.026250000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tbsp soured cream or crème fraîche",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soured cream",
+            "matched_ingredient": "Soured cream",
+            "kg_equivalent": 0.01365,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.037960650000000005
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp soured cream or crème fraîche",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.041715
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 red and 1 yellow pepper, cut into strips",
+            "amount": "1.0",
+            "ingredient_name": "yellow pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 red onion, cut into thin wedges",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 garlic clove, crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 tsp chilli powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 tsp smoked paprika",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 tsp ground cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 lime, juiced",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the fajita mix, take two or three strips from each colour of pepper and finely chop them. Set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the oil in a frying pan and fry the remaining pepper strips and the onion until soft and starting to brown at the edges. Cool slightly and mix in the chopped raw peppers."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic and cook for 1 min, then add the spices and stir. Cook for a couple of mins more until the spices become aromatic, then add half the lime juice and season."
+        },
+        {
+            "number": 4,
+            "instruction": "Transfer to a dish, leaving any juices behind, and keep warm."
+        },
+        {
+            "number": 5,
+            "instruction": "Tip the black beans into the same pan, then add the remaining lime juice and plenty of seasoning. Stir the beans around the pan to warm them through and help them absorb any flavours of the fajita mix, then stir through the coriander."
+        },
+        {
+            "number": 6,
+            "instruction": "Warm the tortillas in a microwave or in a low oven, then wrap them so they don’t dry out."
+        },
+        {
+            "number": 7,
+            "instruction": "Serve the tortillas with the fajita mix, beans, avocado and soured cream for everyone to help themselves."
+        }
+    ]
+}

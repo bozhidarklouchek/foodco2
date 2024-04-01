@@ -1,0 +1,338 @@
+{
+    "url": "https://www.simplyleb.com/recipe/lamb-kabsa/",
+    "title": "Lamb Kabsa",
+    "total_CO2": 13.161198983188841,
+    "servings": 4,
+    "CO2_per_portion": 3.2902997457972103,
+    "E.Mission coefficient": 8.776001308648015,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 lb. Lamb Loins ((or Lamb Shanks or Thighs))",
+            "amount": "1.0",
+            "unit": "lb",
+            "ingredient_name": "Lamb Loins",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 11.07445771355
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1.5 cups Basmati Rice",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "Basmati Rice",
+            "matched_ingredient": "Basmati rice",
+            "kg_equivalent": 0.22712470704,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.87193175032656
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 cup Tomato Puree ((or Crushed Tomatoes))",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "Tomato Puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.3376114134855
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 lg. Onion",
+            "amount": "1.0",
+            "unit": "lg",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 Carrots ((Shredded))",
+            "amount": "2.0",
+            "ingredient_name": "Carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 cup Avocado Oil ((or Ghee or Butter))",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "Avocado Oil",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.08872058868749999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tsp. Kabsa Spice",
+            "amount": "3.0",
+            "unit": "tsp",
+            "ingredient_name": "Kabsa Spice",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tsp. Salt",
+            "amount": "3.0",
+            "unit": "tsp",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.032400000000000005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.3928176000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 Bay Leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 Cinnamon Stick",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "Cinnamon Stick",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 Dried Lemon",
+            "amount": "1.0",
+            "ingredient_name": "Dried Lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "4 Cardamom Pods",
+            "amount": "4.0",
+            "ingredient_name": "Cardamom Pods",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tb. Pine Nuts",
+            "amount": "2.0",
+            "ingredient_name": "Pine Nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.0004,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.00011120000000000002
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 cup Cashews",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "Cashews",
+            "matched_ingredient": "Cashew nut",
+            "kg_equivalent": 0.0295735295625,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.008221441218375
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/4 cup Sliced Almonds",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "Sliced Almonds",
+            "matched_ingredient": "Almond",
+            "kg_equivalent": 0.027207647197500004,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.007563725920905002
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tsp. Turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tsp. Coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 tsp. Fennel",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fennel",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1/2 tsp. Ginger",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0009125
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1/2 tsp. All Spice",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Spice",
+            "matched_ingredient": "Spice",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1/2 tsp. Cinnamon",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "1/2 tsp. Chili Powder",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Chili Powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "1/2 tsp. Cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "1 tsp. Black Pepper",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Black Pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "1 tsp. Black Cardamom",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Black Cardamom",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "1/2 tsp. Cloves",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Cloves",
+            "matched_ingredient": "Cloves",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Finely chop the large onion and wash, peel and grate the carrots. Set aside.**Prepare the kabsa spice by grinding all the whole spices and mixing together very well. Spice mix makes about 7 teaspoons of kabsa. Store the unused kabsa spice in an airtight container or baggie."
+        },
+        {
+            "number": 2,
+            "instruction": "In a large deep pot, add ¼ cup of the oil and chopped onion and sauté until the onion has softened, about 5 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Sprinkle 1 teaspoon of salt on the lamb and add to the pot. Sauté for about 2 minutes on each side."
+        },
+        {
+            "number": 4,
+            "instruction": "Add enough water to cover the lamb and let simmer for 10 minutes. Strain the water from the pot, leaving behind the lamb and onions."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 2 tablespoons of oil, the shredded carrots, 2 tsp. of the kabsa spice, 1 tsp of salt, and all the aromatics (Bay leaves, cardamom pods, cloves, cinnamon stick and dried lemon). Sauté for 5 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the cup of tomato puree and 4 cups of water. Cook over high heat until it comes to a boil, lower to medium heat and cover with the lid."
+        },
+        {
+            "number": 7,
+            "instruction": "Let cook for about 45-60 minutes until the lamb has fully cooked and become tender. Make sure to mix every now and then and add more water as needed."
+        },
+        {
+            "number": 8,
+            "instruction": "Wash the rice until it runs clear."
+        },
+        {
+            "number": 9,
+            "instruction": "Add over the cooked lamb, along with the remaining 2 teaspoons of kabsa spice blend, 1 teaspoon of salt, and 2 ½ cups of water."
+        },
+        {
+            "number": 10,
+            "instruction": "Mix everything together very well and let come to a boil over high heat. After 5 minutes, lower the heat, cover and let the rice cook over low heat for about 15 minutes until fully cooked and fluffy."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the remaining 2 tablespoons of oil to a small skillet and sauté the nuts for about 2 minutes until slightly browned. Set aside to serve over the prepared rice and lamb."
+        }
+    ]
+}

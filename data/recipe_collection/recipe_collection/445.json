@@ -1,0 +1,155 @@
+{
+    "url": "https://www.karissasvegankitchen.com/vegan-black-bean-tacos/",
+    "title": "Black Bean Tacos",
+    "total_CO2": 0.13977640000000002,
+    "servings": 8,
+    "CO2_per_portion": 0.017472050000000003,
+    "E.Mission coefficient": 1.7187383953273903,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cloves garlic (minced)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/4 teaspoon salt (or to taste)",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/4 teaspoon black pepper",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon cumin",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 teaspoon onion powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "onion powder",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.0011,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00043450000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 teaspoons chili powder",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 (15-ounce) cans black beans (drained and rinsed)",
+            "amount": "2.0",
+            "unit": "cans",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 tablespoons water (or tomato sauce)",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "8 tortillas (or hard taco shells)",
+            "amount": "8.0",
+            "ingredient_name": "tortillas",
+            "matched_ingredient": "Corn tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "your favorite toppings",
+            "amount": "1.0",
+            "ingredient_name": "toppings",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oil in a skillet on medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add oil and garlic."
+        },
+        {
+            "number": 3,
+            "instruction": "Saute for 2 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Add spices (cumin, chili powder, onion powder, pepper, and salt) and saute for another 2 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the black beans and water to the skillet. Cook until warm, about 6-8 minutes. Leave the beans whole if you prefer, or mash them up a bit."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve beans in warmed tortillas or taco shells with your favorite toppings."
+        }
+    ]
+}

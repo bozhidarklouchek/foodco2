@@ -1,0 +1,103 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/mexican-style-stuffed-peppers",
+    "title": "Mexican-style stuffed peppers",
+    "total_CO2": 1.0024600000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.5012300000000001,
+    "E.Mission coefficient": 0.8871327433628321,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 large mixed peppers , halved",
+            "amount": "3.0",
+            "unit": "large",
+            "ingredient_name": "mixed peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1638
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "oil , for drizzling",
+            "amount": "1.0",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 x 250g pouches lime & coriander rice , cooked",
+            "amount": "2.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.041210000000000004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "400 g can black beans , drained and rinsed",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "6 Mexican-style chilli cheese slices (use regular cheddar or monterey jack, if you like)",
+            "amount": "6.0",
+            "ingredient_name": "Mexican-style chilli cheese slices",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.04095
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "150 g fresh guacamole",
+            "amount": "150.0",
+            "unit": "g",
+            "ingredient_name": "fresh guacamole",
+            "matched_ingredient": "Guacamole",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.11249999999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oven to 220C/200C fan/gas 7 or preheat the air fryer to 180C for 4 mins."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove the seeds and any white pith from the peppers and arrange them, cut-side up, in a roasting tin for the oven or in the air fryer basket for the air fryer. In both cases, brush the peppers with oil and season them."
+        },
+        {
+            "number": 3,
+            "instruction": "If using the oven, bake the peppers for 20 mins. If using the air-fryer, cook the peppers in a single layer for 8-10 mins until they are softened and starting to caramelise."
+        },
+        {
+            "number": 4,
+            "instruction": "Combine the rice and beans."
+        },
+        {
+            "number": 5,
+            "instruction": "For the oven method, remove the peppers from the oven and fill them with the rice mixture. Top each with a slice of cheese and bake for an additional 10-15 mins, until the cheese has melted, and the filling is hot."
+        },
+        {
+            "number": 6,
+            "instruction": "For the air-fryer method, remove the peppers from the air-fryer and fill them with the rice mixture. Top each with a slice of cheese and air-fry for 3 mins more, until the cheese has melted and the filling is hot."
+        },
+        {
+            "number": 7,
+            "instruction": "Top the stuffed peppers with spoonfuls of guacamole."
+        }
+    ]
+}

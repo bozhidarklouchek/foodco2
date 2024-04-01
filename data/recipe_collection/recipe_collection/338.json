@@ -1,0 +1,222 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/thai-prawn-ginger-noodles",
+    "title": "Thai prawn & ginger noodles (426)",
+    "total_CO2": 3.2365690999999996,
+    "servings": 2,
+    "CO2_per_portion": 1.6182845499999998,
+    "E.Mission coefficient": 3.0658038268447476,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "100 g folded rice noodles (sen lek)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "folded rice noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.3839
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "100 g folded rice noodles (sen lek)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "folded rice noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.3839
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "zest and juice 1 small orange",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "orange",
+            "matched_ingredient": "Orange",
+            "kg_equivalent": 0.154,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.048818
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "11/2-2 tbsp red curry paste",
+            "amount": "7.5",
+            "unit": "tbsp",
+            "ingredient_name": "red curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.1125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.051187500000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1-2 tsp fish sauce",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fish sauce",
+            "matched_ingredient": "Fish sauce",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.014135
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tsp light brown soft sugar",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "soft sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.009830400000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp light brown soft sugar",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "soft sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.009830400000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp sunflower oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0144,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.0519408
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "25 g ginger, scraped and shredded",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.009125
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 large garlic cloves, sliced",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "large garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 red pepper, deseeded and sliced",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "85 g sugar snap peas, halved lengthways",
+            "amount": "85.0",
+            "unit": "g",
+            "ingredient_name": "sugar snap peas",
+            "matched_ingredient": "Sugar snap peas",
+            "kg_equivalent": 0.085,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.07616
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "140 g beansprouts",
+            "amount": "140.0",
+            "unit": "g",
+            "ingredient_name": "beansprouts",
+            "matched_ingredient": "Beansprouts",
+            "kg_equivalent": 0.14,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0637
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "175 g pack raw king prawns",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "raw king prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 2.0744499999999997
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "handful chopped basil",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "handful chopped basil",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "handful chopped coriander",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put the noodles in a bowl and pour over boiling water to cover them. Set aside to soak for 10 mins. Stir together the orange juice and zest, curry paste, fish sauce, sugar and 3 tbsp water to make a sauce."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the oil in a large wok and add half the ginger and the garlic. Cook, stirring, for 1 min."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the pepper and stir-fry for 3 mins more. Toss in the sugar snaps, cook briefly, then pour in the curry sauce."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the beansprouts and prawns, and continue cooking until the prawns just turn pink."
+        },
+        {
+            "number": 5,
+            "instruction": "Drain the noodles, then toss these into the pan with the herbs and remaining ginger."
+        },
+        {
+            "number": 6,
+            "instruction": "Mix until the noodles are well coated in the sauce, then serve."
+        }
+    ]
+}

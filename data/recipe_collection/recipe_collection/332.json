@@ -1,0 +1,183 @@
+{
+    "url": "https://www.deliciousmagazine.co.uk/recipes/vegan-minestrone-soup/",
+    "title": "Vegan minestrone soup",
+    "total_CO2": 0.9795864000000001,
+    "servings": 4,
+    "CO2_per_portion": 0.24489660000000002,
+    "E.Mission coefficient": 0.5197503084004298,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion or leek, finely sliced",
+            "amount": "0.5",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 onion or leek, finely sliced",
+            "amount": "0.5",
+            "ingredient_name": "leek",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.017775
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 carrots, finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 celery sticks, finely chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 garlic cloves, crushed",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp tomato purée",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 woody herb sprigs, leaves stripped - we used thyme and rosemary",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "woody herb",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "400 g tin chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 litre hot vegetable stock",
+            "amount": "1.0",
+            "unit": "litre",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 1.0,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.02
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "100 g dried pasta shapes (see Don’t Waste It)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "dried pasta shapes",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.1441
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "100 g or so green veg, chopped - we used kale and green beans",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "green veg",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Small handful soft herbs such as fresh parsley and basil, finely chopped",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "soft herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a deep saucepan over a medium heat, then fry the onion/leek, carrots and celery for 10 minutes until softened."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the garlic, tomato purée, woody herbs and bay leaves, then cook for 1 minute more."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour the tomatoes and stock into the pan, add the pasta, then bring to the boil. Reduce the heat to a simmer, season well, then cook for 8-10 minutes until the pasta is nearly cooked."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the green vegetables to the soup and simmer for 2-3 minutes more until wilted and heated through. Scoop out and discard the bay leaves (see Make Ahead)."
+        },
+        {
+            "number": 5,
+            "instruction": "Ladle into warm bowls, then scatter over the chopped fresh herbs to serve."
+        }
+    ]
+}

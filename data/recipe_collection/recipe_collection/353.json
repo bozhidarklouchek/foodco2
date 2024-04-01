@@ -1,0 +1,301 @@
+{
+    "url": "https://www.theguardian.com/lifeandstyle/wordofmouth/2014/sep/25/how-to-cook-perfect-pasta-puttanesca-recipe",
+    "title": "How to cook the perfect pasta puttanesca",
+    "total_CO2": 0.0,
+    "servings": 2,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "to bottom,",
+            "amount": "1.0",
+            "ingredient_name": "to bottom",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": ");-moz-transform:translateX(",
+            "amount": "1.0",
+            "ingredient_name": "moz-transform:translatex",
+            "matched_ingredient": "Bele",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": ");-ms-transform:translateX(",
+            "amount": "1.0",
+            "ingredient_name": "ms-transform:translatex",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": ");transform:translateX(",
+            "amount": "1.0",
+            "ingredient_name": "transform:translatex",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": ");}}@media (max-width: 979px){.dcr-mebke{-webkit-transform:translateX(",
+            "amount": "979.0",
+            "ingredient_name": "}}@media {.dcr-mebke{-webkit-transform:translatex",
+            "matched_ingredient": "Amla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": ");-moz-transform:translateX(",
+            "amount": "1.0",
+            "ingredient_name": "moz-transform:translatex",
+            "matched_ingredient": "Bele",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": ");-ms-transform:translateX(",
+            "amount": "1.0",
+            "ingredient_name": "ms-transform:translatex",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": ");transform:translateX(",
+            "amount": "1.0",
+            "ingredient_name": "transform:translatex",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "var(--sub-meta-background) 0px,",
+            "amount": "0.0",
+            "ingredient_name": "var) 0px",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "var(--sub-meta-background) 36px,",
+            "amount": "36.0",
+            "ingredient_name": "var) 36px",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "transparent 36 px,",
+            "amount": "36.0",
+            "ingredient_name": "transparent px",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "transparent 37 px,",
+            "amount": "37.0",
+            "ingredient_name": "transparent px",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "var(--sub-meta-background) 37px,",
+            "amount": "37.0",
+            "ingredient_name": "var) 37px",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "var(--sub-meta-background) 48px",
+            "amount": "48.0",
+            "ingredient_name": "var) 48px",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "),repeating-linear-gradient(",
+            "amount": "1.0",
+            "ingredient_name": "repeating-linear-gradient",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "to right,",
+            "amount": "1.0",
+            "ingredient_name": "to right",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "#DCDCDC 0px,",
+            "amount": "0.0",
+            "ingredient_name": "dcdcdc 0px",
+            "matched_ingredient": "Danish blue",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "#DCDCDC 3px,",
+            "amount": "3.0",
+            "ingredient_name": "dcdcdc 3px",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "transparent 3 px,",
+            "amount": "3.0",
+            "ingredient_name": "transparent px",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "transparent 5 px",
+            "amount": "5.0",
+            "ingredient_name": "transparent px",
+            "matched_ingredient": "Bamboo shoots",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "to right,",
+            "amount": "1.0",
+            "ingredient_name": "to right",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "#EDEDED 4%,",
+            "amount": "4.0",
+            "ingredient_name": "ededed",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "#EDEDED 36%",
+            "amount": "36.0",
+            "ingredient_name": "ededed",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 24,
+            "original_string": "to right,",
+            "amount": "1.0",
+            "ingredient_name": "to right",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 25,
+            "original_string": "#EDEDED 4%,",
+            "amount": "4.0",
+            "ingredient_name": "ededed",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 26,
+            "original_string": "#EDEDED 36%",
+            "amount": "36.0",
+            "ingredient_name": "ededed",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 27,
+            "original_string": "to right,",
+            "amount": "1.0",
+            "ingredient_name": "to right",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 28,
+            "original_string": "#EDEDED 4%,",
+            "amount": "4.0",
+            "ingredient_name": "ededed",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 29,
+            "original_string": "#EDEDED 36%",
+            "amount": "36.0",
+            "ingredient_name": "ededed",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

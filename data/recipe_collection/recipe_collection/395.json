@@ -1,0 +1,205 @@
+{
+    "url": "https://therecipecritic.com/vegetable-stir-fry/",
+    "title": "The Easiest Vegetable Stir Fry",
+    "total_CO2": 1.8276228912745802,
+    "servings": 6,
+    "CO2_per_portion": 0.30460381521243,
+    "E.Mission coefficient": 0.9206546136439531,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 red bell pepper, (sliced)",
+            "amount": "1.0",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 yellow bell pepper, (sliced)",
+            "amount": "1.0",
+            "ingredient_name": "yellow bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup sugar snap peas",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "sugar snap peas",
+            "matched_ingredient": "Sugar snap peas",
+            "kg_equivalent": 0.17270941264499998,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.15474763372991998
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 cup carrots, (sliced)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12775764771,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.04663154141415
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 cup mushrooms, (sliced)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.37854117840000007,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.17223623617200004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 cups broccoli",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 cup baby corn",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "baby corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.17034353028,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.16829940791664
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 cup water chestnuts",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "water chestnuts",
+            "matched_ingredient": "Water chestnut",
+            "kg_equivalent": 0.03785411784,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.01052344475952
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 cup soy sauce",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.05406041204025
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 garlic cloves, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "3 tablespoons brown sugar",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0315,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.084168
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 teaspoon sesame oil",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.004615,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.016646305
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 cup chicken broth",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.106464706425,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.6485829915411
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tablespoon cornstarch",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "cornstarch",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.012299999999999998,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.012152399999999999
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "chopped green onions and sesame seeds for garnish (optional)",
+            "amount": "1.0",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Add 1 tablespoon olive oil over medium-high heat in a wok or large skillet."
+        },
+        {
+            "number": 2,
+            "instruction": "Add bell pepper, peas, carrots, mushrooms, broccoli, baby corn, and water chestnuts.  Sauté 2-3 minutes until veggies are almost tender."
+        },
+        {
+            "number": 3,
+            "instruction": "In a small whisk together soy sauce, garlic,  brown sugar, sesame oil, chicken broth, and cornstarch."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour over veggies and cook until the sauce has thickened."
+        },
+        {
+            "number": 5,
+            "instruction": "Garnish with chopped green onions and sesame seeds if desired"
+        }
+    ]
+}

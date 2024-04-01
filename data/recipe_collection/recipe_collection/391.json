@@ -1,0 +1,127 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/grannys-victoria-sponge",
+    "title": "Granny's Victoria sponge",
+    "total_CO2": 2.8127946,
+    "servings": 8,
+    "CO2_per_portion": 0.351599325,
+    "E.Mission coefficient": 2.49383331855661,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g unsalted butter, softened, plus extra for greasing",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.5562
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "200 g caster sugar",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.30720000000000003
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp vanilla extract",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "vanilla extract",
+            "matched_ingredient": "Vanilla",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 medium eggs",
+            "amount": "4.0",
+            "unit": "medium",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "200 g self-raising flour, plus extra for dusting",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "self-raising flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.2882
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "about 6 tbsp raspberry jam",
+            "amount": "6.0",
+            "unit": "tbsp",
+            "ingredient_name": "raspberry jam",
+            "matched_ingredient": "Jam",
+            "kg_equivalent": 0.09,
+            "carbon_per_kg": 0.79,
+            "ingredient_carbon": 0.0711
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "250 ml double cream, whipped",
+            "amount": "250.0",
+            "unit": "ml",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.23500000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6535350000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "icing sugar, for dusting",
+            "amount": "1.0",
+            "ingredient_name": "icing sugar",
+            "matched_ingredient": "Icing sugar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 190C/170C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Grease and flour two 20cm sandwich tins."
+        },
+        {
+            "number": 3,
+            "instruction": "Place 200g softened unsalted butter, 200g caster sugar and 1 tsp vanilla extract into a bowl and beat well to a creamy consistency."
+        },
+        {
+            "number": 4,
+            "instruction": "Slowly beat in 4 medium eggs, one by one, then fold in 200g self-raising flour and mix well."
+        },
+        {
+            "number": 5,
+            "instruction": "Divide the mix between the cake tins, place into the oven and bake for about 20 mins until risen and golden brown. The cakes should spring back when gently pushed in the middle."
+        },
+        {
+            "number": 6,
+            "instruction": "When ready, remove from the oven and allow to cool for 5 mins in the tin, before turning out onto a wire rack and cooling completely."
+        },
+        {
+            "number": 7,
+            "instruction": "Spread about 6 tbsp raspberry jam onto one cake and top with 250ml whipped double cream. Sandwich the cakes together and dust with icing sugar."
+        }
+    ]
+}

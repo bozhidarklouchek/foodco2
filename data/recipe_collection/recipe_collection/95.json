@@ -1,0 +1,237 @@
+{
+    "url": "https://feelgoodfoodie.net/recipe/molokhia/",
+    "title": "Molokhia (Mloukhieh)",
+    "total_CO2": 5.504588694286812,
+    "servings": 12,
+    "CO2_per_portion": 0.458715724523901,
+    "E.Mission coefficient": 1.493917233383996,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 1/2 pounds chicken breast or thighs",
+            "amount": "1.5",
+            "unit": "pounds",
+            "ingredient_name": "chicken breast",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.680388555,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 4.144927077059999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 medium onion (halved)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 cinnamon sticks",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.008400000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0038220000000000007
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "8 cups water",
+            "amount": "8.0",
+            "unit": "cups",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 1.892705892,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 medium onions (cut into chunks)",
+            "amount": "3.0",
+            "unit": "medium",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 tablespoons olive oil (divided)",
+            "amount": "4.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.054900000000000004,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.32632560000000005
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 cup chopped cilantro",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "chopped cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "6 garlic cloves (minced)",
+            "amount": "6.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.018000000000000002,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.007110000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tablespoon 7 Spice",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "Spice",
+            "matched_ingredient": "Spice",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tablespoon dried coriander",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "dried coriander",
+            "matched_ingredient": "Dried coriander",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 teaspoon salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 teaspoon black pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 lemon (juiced)",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 lemon (sliced)",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "3-4 ounces dried molokhia",
+            "amount": "3.5",
+            "unit": "ounces",
+            "ingredient_name": "dried molokhia",
+            "matched_ingredient": "Molokhia",
+            "kg_equivalent": 0.0992233309375,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.04514661557656251
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Bring 8 cups of water to boil, add the chicken along with the bay leaves, salt and onion. Cook for 20 minutes until chicken is tender and no longer pink."
+        },
+        {
+            "number": 2,
+            "instruction": "Remove chicken and set aside. Sift the chicken broth and set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Preheat the oven to 400°F, place the onions on a baking sheet and drizzle 2 tablespoons of the olive oil on top of the onions. Roast in the oven until browned, about 30 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Pick through molokhia to remove any stems or debris. Soak for 15 minutes and rinse a few times. Squeeze out any liquid and set aside."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat the remaining 2 tablespoons olive oil in the pot used to make the chicken broth."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the cilantro and garlic and cook until fragrant, about one minute."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the molokhia to the mixture along with the 7 Spice, coriander, salt and pepper, and saute until the molokhia softens and becomes fragrant, about 5 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour the chicken broth on top of the molokhia and cook on medium heat covered for 30 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Lower the heat to simmer, add the roasted onions, shredded chicken, lemon juice and lemon slices, and simmer for 20 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve warm over Lebanese rice, if desired."
+        }
+    ]
+}

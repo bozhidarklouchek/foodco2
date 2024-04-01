@@ -1,0 +1,191 @@
+{
+    "url": "https://www.eatyourselfskinny.com/turkey-taco-lettuce-wraps/",
+    "title": "Turkey Taco Lettuce Wraps",
+    "total_CO2": 2.25759364817932,
+    "servings": 6,
+    "CO2_per_portion": 0.3762656080298867,
+    "E.Mission coefficient": 2.0828422192535587,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 1/4 lb 99% fat-free lean ground turkey",
+            "amount": "1.25",
+            "unit": "lb",
+            "ingredient_name": "fat",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.5669904625000001,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.9128546446250002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 1/2 tsp chili powder",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tsp cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tsp dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 tsp salt",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 (15 oz) can diced tomatoes, drained",
+            "amount": "0.0",
+            "unit": "oz",
+            "ingredient_name": "diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 (4.5 oz) can chopped green chiles",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "chopped green chiles",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 cup fresh or frozen corn",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "fresh",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.32897594285325
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 cup fresh or frozen corn",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "frozen corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.08517176514,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.08414970395832
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 (15 oz) can black beans, drained and rinsed",
+            "amount": "0.0",
+            "unit": "oz",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 cup (or more) chunky salsa",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "salsa",
+            "matched_ingredient": "Salsa",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.16880570674275
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 Tbsp chopped cilantro",
+            "amount": "2.0",
+            "unit": "Tbsp",
+            "ingredient_name": "chopped cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.025500000000000002,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.04105500000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Juice of half a lime",
+            "amount": "0.5",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "12 butter lettuce leaves",
+            "amount": "12.0",
+            "unit": "leaves",
+            "ingredient_name": "butter lettuce",
+            "matched_ingredient": "Lettuce",
+            "kg_equivalent": 0.096,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.041952
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Toppings (optional): shredded cheese, avocado, sour cream",
+            "amount": "1.0",
+            "ingredient_name": "shredded cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a large skillet over medium heat, cook ground turkey until it begins to crumble and brown."
+        },
+        {
+            "number": 2,
+            "instruction": "Add chili powder, cumin and oregano and continue cooking until turkey is browned and completely cooked."
+        },
+        {
+            "number": 3,
+            "instruction": "Stir in tomatoes, green chiles, corn, black beans, salsa and cilantro. Cook about 5 more minutes until heated through then mix in lime juice."
+        },
+        {
+            "number": 4,
+            "instruction": "Add about 1/4 cup turkey mixture to each lettuce cup, add desired toppings and enjoy!"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "url": "https://pinchofnom.com/recipes/diet-coke-pepsi-max-chicken/",
+    "title": "Diet Coke / Pepsi Max Chicken",
+    "total_CO2": 2.2211745,
+    "servings": 4,
+    "CO2_per_portion": 0.555293625,
+    "E.Mission coefficient": 2.4693435241801,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 chicken breasts (diced)",
+            "amount": "2.0",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.31,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.88852
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 tsp Chinese 5 spice",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "Chinese",
+            "matched_ingredient": "Wheat noodle",
+            "kg_equivalent": 0.002,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.002882
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "sea salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 red onion (sliced)",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "6 mushrooms (quartered)",
+            "amount": "6.0",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.078,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.03549
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 cloves garlic (finely chopped)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1.5 cm fresh ginger (finely chopped)",
+            "amount": "1.5",
+            "unit": "cm",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp tomato puree",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tbsp dark soy sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tbsp sherry vinegar (or you can use balsamic, white wine, red wine or rice vinegar, just not standard vinegar.)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sherry vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 red pepper (cut into strips)",
+            "amount": "0.5",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 green pepper (cut into strips)",
+            "amount": "0.5",
+            "ingredient_name": "green pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 yellow pepper (cut into strips)",
+            "amount": "0.5",
+            "ingredient_name": "yellow pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0273
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "6 baby corn (cut in half lengthways)",
+            "amount": "6.0",
+            "ingredient_name": "baby corn",
+            "matched_ingredient": "Sweetcorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 chicken stock pot",
+            "amount": "1.0",
+            "ingredient_name": "chicken stock pot",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/2 chicken stock cubes",
+            "amount": "0.5",
+            "ingredient_name": "chicken stock cubes",
+            "matched_ingredient": "Chicken stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 can Diet Coke or Pepsi Max",
+            "amount": "0.5",
+            "unit": "can",
+            "ingredient_name": "Diet Coke",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "1 can Diet Coke or Pepsi Max",
+            "amount": "0.5",
+            "unit": "can",
+            "ingredient_name": "Pepsi Max",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0029625
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "5 spring onions (roughly chopped)",
+            "amount": "5.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.029625
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "low calorie cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "calorie cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Spray a frying pan with low calorie cooking spray and heat gently"
+        },
+        {
+            "number": 2,
+            "instruction": "Add the chicken, sprinkle with the 5 spice and season. Stir and cook until the chicken has started to brown"
+        },
+        {
+            "number": 3,
+            "instruction": "Remove the chicken from the pan, add a few more sprays of low calorie cooking spray then fry off the onions, ginger, garlic and mushrooms"
+        },
+        {
+            "number": 4,
+            "instruction": "Cook until they start to soften"
+        },
+        {
+            "number": 5,
+            "instruction": "Add peppers, baby corn, tomato puree, soy sauce, Worcestershire sauce and vinegar. Stir then add the Coke/Pepsi. Stir and bring to the boil."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in the half a stock cube and the stock pot and simmer, uncovered, for 10 minutes"
+        },
+        {
+            "number": 7,
+            "instruction": "When the sauce has started to thicken and go a bit syrupy, return the chicken to the pan and stir in the spring onions"
+        },
+        {
+            "number": 8,
+            "instruction": "Simmer for another 10 minutes. Check the consistency and if it's not quite thick enough simmer for a bit longer, until the required consistency is reached"
+        }
+    ]
+}

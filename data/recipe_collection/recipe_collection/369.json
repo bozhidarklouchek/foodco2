@@ -1,0 +1,163 @@
+{
+    "url": "https://food52.com/recipes/77869-gnocchetti-with-lemon-and-goat-cheese",
+    "title": "Gnocchetti with Lemon and Goat Cheese",
+    "total_CO2": 8.533081000000001,
+    "servings": 4,
+    "CO2_per_portion": 2.1332702500000003,
+    "E.Mission coefficient": 6.120413857409267,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 grams starchy potatoes (russets, Dutch creams, or king Edwards, for example)",
+            "amount": "500.0",
+            "unit": "grams",
+            "ingredient_name": "starchy potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.185
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "300 grams rock salt",
+            "amount": "300.0",
+            "unit": "grams",
+            "ingredient_name": "rock salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 3.6372
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "50 grams potato starch",
+            "amount": "50.0",
+            "unit": "grams",
+            "ingredient_name": "potato starch",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 egg yolk, beaten",
+            "amount": "1.0",
+            "ingredient_name": "egg yolk",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 teaspoon salt",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 large organic lemons",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "organic lemons",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.13,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.041210000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "50 grams butter",
+            "amount": "50.0",
+            "unit": "grams",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tablespoon extra-virgin olive oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "125 grams fresh or young goat cheese",
+            "amount": "125.0",
+            "unit": "grams",
+            "ingredient_name": "young goat cheese",
+            "matched_ingredient": "Goat",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 3.051875
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "50 grams (a handful) of grated Parmesan cheese, plus more for serving",
+            "amount": "50.0",
+            "unit": "grams",
+            "ingredient_name": "grated Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Optional: red pepper flakes; fresh parsley",
+            "amount": "1.0",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Rinse and pat dry the potatoes, but leave them whole, skins on. It helps for cooking time if they are roughly of similar sizes."
+        },
+        {
+            "number": 2,
+            "instruction": "Place the rock salt in a baking tray in an even layer."
+        },
+        {
+            "number": 3,
+            "instruction": "Place the potatoes on top of the salt layer and bake at 350°F for 1 hour, or until a fork can easily pierce the potatoes."
+        },
+        {
+            "number": 4,
+            "instruction": "Remove from the oven and let cool ever so slightly so they are warm, but can be handled, and remove the skin with a small sharp knife."
+        },
+        {
+            "number": 5,
+            "instruction": "Place the potato flesh in a large bowl and, while hot, mash or put through a potato ricer so you have a smooth, fluffy consistency."
+        },
+        {
+            "number": 6,
+            "instruction": "Spread the mixture out with a fork to allow the heat (and steam) to escape and allow to cool without covering (this ensures the mixture does not retain too much liquid)."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the egg yolk and ½ teaspoon of salt to the cooled potato and and mix to combine. Then, fold through flour until you have a soft dough. Pinch off fist-sized portions and with the palm of your hand, roll into a 1 centimeter-thick log, then cut the log into 1 centimeter pieces and roll each one until round. If needed, dust surface with potato starch."
+        },
+        {
+            "number": 8,
+            "instruction": "*Note: Baking the potatoes with the salt layer helps to absorb any excess moisture, all helping to make that fluffy, airy potato filling. Using potato starch (note, not potato flour; you can substitute cornstarch) helps makes these not only fluffy and light, but also happens to be gluten-free. You can use regular wheat flour if you don't have a problem with wheat, although you will likely need to use more—double and even up to 250 grams, depending on the humidity of your dough."
+        }
+    ]
+}

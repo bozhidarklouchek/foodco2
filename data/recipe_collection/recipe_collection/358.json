@@ -1,0 +1,252 @@
+{
+    "url": "https://www.daringgourmet.com/frikadeller-frikadellen/",
+    "title": "Authentic Frikadellen (German Meatballs)",
+    "total_CO2": 16.22202308459947,
+    "servings": 4,
+    "CO2_per_portion": 4.055505771149868,
+    "E.Mission coefficient": 17.07901511001311,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 pound ground beef (, 80% recommended for moist Frikadellen; no leaner than 92%)",
+            "amount": "0.5",
+            "unit": "pound",
+            "ingredient_name": "ground beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 13.51024874045
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 pound ground pork",
+            "amount": "0.5",
+            "unit": "pound",
+            "ingredient_name": "ground pork",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.65152981917
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 medium yellow onion (, very finely chopped)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 slices slightly stale white bread (about 2 oz or 50 g) ((can also use fresh croutons and let them sit out a day))",
+            "amount": "2.0",
+            "unit": "can",
+            "ingredient_name": "stale white bread",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.086,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.123926
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/4 cup warm water or milk",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "warm water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.0295735295625,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 cup warm water or milk",
+            "amount": "0.125",
+            "unit": "cup",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.030756470745000004,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08553374514184502
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 large egg",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 clove garlic (, minced)",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/4 cup chopped fresh parsley",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chopped fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.025847264837625
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 1/2 teaspoons salt",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.016200000000000003,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.19640880000000005
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3/4 teaspoon freshly ground black pepper",
+            "amount": "0.75",
+            "unit": "teaspoon",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.002175,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0263697
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 teaspoon prepared yellow mustard",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "prepared yellow mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 teaspoon dried marjoram",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried marjoram",
+            "matched_ingredient": "Marjoram",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0032775
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 teaspoon sweet Hungarian paprika",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sweet Hungarian paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 teaspoon ground ginger",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0009125
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/4 teaspoon ground mace",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "ground mace",
+            "matched_ingredient": "Mace",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/4 teaspoon ground coriander",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.015155000000000002
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1/8 teaspoon ground cardamom",
+            "amount": "0.125",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cardamom",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.0003625,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.00439495
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "3 tablespoons olive oil",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1 tablespoon butter",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Break the bread up into small pieces, place them in a small bowl and pour water/milk over them and let them soak for 15 minutes while you&#039;re preparing the other ingredients.  Squeeze out any excess liquid."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat some oil or butter in a frying and saute the onions until soft and translucent, 5-7 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the garlic and cook for another minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Place all of the ingredients (except for the olive oil and butter) in a large bowl along with the onion mixture and the soaked bread.  Use your hands to thoroughly knead the mixture until well blended and the meat is smooth.  The more you knead it, the better the results.  Form the meat mixture into balls according to desired size and slightly flatten them.  Cover and chill the patties in the fridge for at least 30 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat the olive oil and butter in a frying pan.  Once hot add the Frikadellen / Frikadeller and fry on both sides on higher heat until nicely browned, then lower the heat and continue to fry over medium heat until cooked through according to desired doneness.  Traditionally served with potato salad or a crusty bread roll slathered with mustard.  See blog post for other serving ideas."
+        }
+    ]
+}

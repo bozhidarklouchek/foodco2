@@ -1,0 +1,230 @@
+{
+    "url": "https://pinchofyum.com/caramelized-pork-tacos-with-pineapple-salsa",
+    "title": "Caramelized Pork Tacos with Pineapple Salsa",
+    "total_CO2": 4.438368681254562,
+    "servings": 6,
+    "CO2_per_portion": 0.739728113542427,
+    "E.Mission coefficient": 3.0898393517252405,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tablespoon oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 shallot, minced",
+            "amount": "1.0",
+            "ingredient_name": "shallot",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 clove garlic, minced",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 jalapeño, diced with ribs and seeds removed",
+            "amount": "1.0",
+            "ingredient_name": "jalapeño",
+            "matched_ingredient": "Hilsa",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 teaspoons fish sauce",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "fish sauce",
+            "matched_ingredient": "Fish sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.02827
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "18 ounces boneless pork loin, sliced into thin strips",
+            "amount": "18.0",
+            "unit": "ounces",
+            "ingredient_name": "boneless pork loin",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.51029141625,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 3.7159420931324996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tablespoons sugar",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0294912
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tablespoons water",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 cup chopped pineapple",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "chopped pineapple",
+            "matched_ingredient": "Pineapple",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.17744117737499998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 cup chopped cucumber",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "chopped cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1076476476075
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 cup chopped cilantro",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "chopped cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.10055000051249999,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.16188550082512498
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 red onion or shallot, chopped",
+            "amount": "0.25",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.037,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.014615
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 red onion or shallot, chopped",
+            "amount": "0.25",
+            "ingredient_name": "shallot",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "a squeeze of lime juice",
+            "amount": "1.0",
+            "ingredient_name": "lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "a pinch of salt",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "8 tortillas",
+            "amount": "8.0",
+            "ingredient_name": "tortillas",
+            "matched_ingredient": "Corn tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1/4 cup cilantro",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.050275000256249994,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.08094275041256249
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 lime, sliced into sections ",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "chili sauce (1/4 cup mayo and 2 teaspoons hot sauce like sriracha)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "chili sauce",
+            "matched_ingredient": "Chilli sauce",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.026911911901875
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a heavy pan over medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the shallot, garlic, and jalapeño &#8211; saute until fragrant, about 2 minutes. Turn the heat to high and add the pork and the fish sauce &#8211; stir fry for a few minutes until the pork is no longer pink. With the heat very high, add the sugar and water and stir once &#8211; then let the pork caramelize by not stirring it for about 1 minute. Repeat this process until the pork is nice and golden brown."
+        },
+        {
+            "number": 3,
+            "instruction": "Toss everything together in a medium bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Warm the tortillas quickly in a skillet with a little bit of oil. Arrange the pork between 6 tortillas and top with the salsa and the chili sauce."
+        }
+    ]
+}

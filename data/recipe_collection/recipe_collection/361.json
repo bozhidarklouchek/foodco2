@@ -1,0 +1,218 @@
+{
+    "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/slow-cooked-crackling-pork-with-sweet-and-sour-cabbage-and-creamy-mustard-mash/",
+    "title": "Slow-cooked pork belly with red cabbage and mash",
+    "total_CO2": 15.5394117,
+    "servings": 6,
+    "CO2_per_portion": 2.5899019500000002,
+    "E.Mission coefficient": 2.9514552136752146,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1.75 kg boneless pork belly, skin scored heavily",
+            "amount": "1.75",
+            "unit": "kg",
+            "ingredient_name": "boneless pork belly",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 1.75,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 12.743500000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp sea salt",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.06480000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.7856352000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 onion, chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 red cabbage, sliced",
+            "amount": "1.0",
+            "ingredient_name": "red cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 0.9,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.3933
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp fennel seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "fennel seeds",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp dried chilli flakes (optional)",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 bramley apples, peeled and diced",
+            "amount": "2.0",
+            "ingredient_name": "bramley apples",
+            "matched_ingredient": "Apple",
+            "kg_equivalent": 0.59,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.21062999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tbsp red wine vinegar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "red wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp soft light brown or demerara sugar",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "demerara sugar",
+            "matched_ingredient": "Demerara sugar",
+            "kg_equivalent": 0.0315,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.084168
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1.5 kg King Edward potatoes, peeled and quartered",
+            "amount": "1.5",
+            "unit": "kg",
+            "ingredient_name": "King Edward potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.5549999999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "50 g butter",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp Dijon mustard",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0078000000000000005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0034086000000000003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "100 ml milk",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.10400000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.28922400000000004
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "4 tbsp double cream",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.0564,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.1568484
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Rub the pork all over with 1 tbsp sea salt then put on a metal rack over a dish. Put uncovered in the bottom of the fridge and leave overnight."
+        },
+        {
+            "number": 2,
+            "instruction": "The next day put the whole dish in the sink and pour a kettle of boiling water over the skin. Leave to cool and drain."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the oven to 150C/fan 130C/gas"
+        },
+        {
+            "number": 4,
+            "instruction": "Lift the pork on its rack and put over a roasting tin. Pat the skin dry with kitchen paper and sprinkle with more sea salt. Roast for 3 hours."
+        },
+        {
+            "number": 5,
+            "instruction": "To make the cabbage, heat the butter in a non-stick lidded pan. Cook the onion for 5 minutes then add the cabbage and cook for another 5 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the remaining ingredients, season and stir well, then add a splash of water and cook for 45 minutes over a medium heat, stirring occasionally, until the cabbage is tender and glossy."
+        },
+        {
+            "number": 7,
+            "instruction": "To make the mash, boil the potatoes in salted water until tender then drain well and push through a ricer back into the pan. Season then beat in the butter, mustard, milk and cream over a gentle heat. Cover and reheat to serve (add a little more milk when reheating if it gets too dry)."
+        },
+        {
+            "number": 8,
+            "instruction": "After 3 hours take the pork from the oven and turn it up to 200C/fan 180C/gas"
+        },
+        {
+            "number": 9,
+            "instruction": "Use a sharp knife to separate the skin from the pork then trim any excess fat. Cover the pork with foil and rest."
+        },
+        {
+            "number": 10,
+            "instruction": "Put the skin on a baking tray and return to the oven for 20-25 minutes or until the crackling is puffed and crisp."
+        },
+        {
+            "number": 11,
+            "instruction": "Cut the pork into large squares and serve with the cabbage, crackling and mash."
+        }
+    ]
+}

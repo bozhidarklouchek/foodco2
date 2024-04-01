@@ -1,0 +1,162 @@
+{
+    "url": "https://www.allrecipes.com/recipe/244272/perfect-grilled-tofu/",
+    "title": "Perfect Grilled Tofu",
+    "total_CO2": 0.8025629972223297,
+    "servings": 12,
+    "CO2_per_portion": 0.06688024976852748,
+    "E.Mission coefficient": 2.4776377959691906,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 (14 ounce) packages extra-firm tofu, drained",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "extra-firm tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2 cup sherry vinegar",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "sherry vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.18749617742625
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 cup low-sodium soy sauce",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "low-sodium soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.1081208240805
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/3 cup olive oil",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.07215941213249999,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.42891554571557994
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon garlic powder",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "garlic powder",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 teaspoon kosher salt",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 teaspoon cayenne pepper (Optional)",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 teaspoon dried marjoram or thyme (Optional)",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "dried marjoram",
+            "matched_ingredient": "Marjoram",
+            "kg_equivalent": 0.001875,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000819375
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 teaspoon dried marjoram or thyme (Optional)",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00031682499999999996
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 teaspoon black pepper",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place tofu onto a plate and place another plate on top. Set a 3- to 5-pound weight on top. Press tofu for 20 to 30 minutes; drain and discard the accumulated liquid."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, mix vinegar, soy sauce, olive oil, garlic powder, salt, cayenne, marjoram, and black pepper together in a small bowl."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut each piece of tofu crosswise into 6 thick slices; place in a baking dish."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour marinade over tofu, turning to coat, and chill, covered, turning occasionally, for at least 30 minutes or up to 48 hours. Longer is better, but shorter is totally fine."
+        },
+        {
+            "number": 5,
+            "instruction": "Preheat an outdoor grill or charcoal grill for high heat. Reduce heat to medium and lightly oil the grate."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove tofu slices from marinade and shake off excess; reserve remaining marinade to make the sauce."
+        },
+        {
+            "number": 7,
+            "instruction": "Cook tofu on preheated grill, turning once, until well browned but before grill marks get black, 10 to 15 minutes total."
+        },
+        {
+            "number": 8,
+            "instruction": "Transfer tofu to a platter and cover with foil to keep warm."
+        },
+        {
+            "number": 9,
+            "instruction": "Bring reserved marinade to a boil in a saucepan; simmer until it reduces to about 1 cup, about 2 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Pour over tofu and serve hot, warm, or at room temperature."
+        }
+    ]
+}

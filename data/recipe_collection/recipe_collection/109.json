@@ -1,0 +1,133 @@
+{
+    "url": "https://www.hungrypaprikas.com/fasolia/",
+    "title": "Fasolia Yabsa (Iraqi White Bean Stew)",
+    "total_CO2": 45.562159226651204,
+    "servings": 6,
+    "CO2_per_portion": 7.593693204441867,
+    "E.Mission coefficient": 34.56572453417301,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cups dry white beans",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "dry white beans",
+            "matched_ingredient": "Bean",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.5713605911475
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "0.5-1 kg diced boneless stewing veal (amount per preference. see notes)",
+            "amount": "0.75",
+            "unit": "kg",
+            "ingredient_name": "diced boneless stewing veal",
+            "matched_ingredient": "Veal",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 44.6775
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 onions (roughly 2 cups when diced)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.10409882406,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.041119035503700004
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons vegetable oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "5 tablespoons tomato paste",
+            "amount": "5.0",
+            "unit": "tablespoons",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.107025
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 and 1/4 teaspoons salt",
+            "amount": "0.25",
+            "unit": "teaspoons",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 teaspoon black pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Start by soaking the white beans in a bowl overnight in 5 cups of water. They should roughly double in size the next day and yield close to 4 cups of beans"
+        },
+        {
+            "number": 2,
+            "instruction": "Season the meat with 1/2 teaspoon of salt and 1/4 teaspoon black pepper"
+        },
+        {
+            "number": 3,
+            "instruction": "Add the vegetable oil to the instant pot (or a regular pot if you're using stovetop directions) along with the meat and sear for 5-6 minutes on sauté mode, flipping on all sides until browned"
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile finely dice the onions, then add them to the pot and continue to cook for 5 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 1/2 teaspoon of salt to help the onions cook down"
+        },
+        {
+            "number": 6,
+            "instruction": "Add 5 tablespoons of tomato paste and stir with the onions and the meat, allowing it to caramelize for 2-3 minutes"
+        },
+        {
+            "number": 7,
+            "instruction": "Add the drained beans along with 5.5 cups of water, 1 and 1/4 teaspoon salt, and 1/4 teaspoon pepper."
+        },
+        {
+            "number": 8,
+            "instruction": "Mix everything together"
+        },
+        {
+            "number": 9,
+            "instruction": "Pressure cook on high for 8 minutes. If you're using the stovetop, boil everything for 1 to 1.5 hours until meat and beans are tender. You may need to replenish the water as the level goes down, so check on it every 20 minutes or so adjust"
+        },
+        {
+            "number": 10,
+            "instruction": "Manually release the pressure and open the lid. Check the stew for seasoning and simmer it for 10-15 minutes on sauté mode. This step will help thicken the stew broth and balance all the flavours"
+        },
+        {
+            "number": 11,
+            "instruction": "Serve with white rice, salad, and some yogurt and enjoy"
+        }
+    ]
+}

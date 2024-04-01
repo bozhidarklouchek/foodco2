@@ -1,0 +1,218 @@
+{
+    "url": "https://thewanderlustkitchen.com/indian-red-lentil-dal/",
+    "title": "Indian Red Lentil Dal",
+    "total_CO2": 0.8143981694021,
+    "servings": 4,
+    "CO2_per_portion": 0.203599542350525,
+    "E.Mission coefficient": 0.6221224425680364,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cup red lentils (rinsed)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cups room temperature water",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "room temperature water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.7097647095,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tablespoon vegetable oil",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 teaspoon cumin seeds",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 2-inch cinnamon stick",
+            "amount": "3.0",
+            "unit": "inch",
+            "ingredient_name": "cinnamon stick",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.012600000000000002,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005733000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 cup diced yellow onion",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "diced yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.05204941203,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.020559517751850002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 green chili pepper (stemmed, seeded, and minced (serrano for spicy, jalapeno for more mild))",
+            "amount": "1.0",
+            "ingredient_name": "green chili pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "4 garlic cloves (minced)",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tablespoon finely minced ginger root",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "minced ginger root",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 teaspoon ground turmeric",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 teaspoon ground cardamom",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "ground cardamom",
+            "matched_ingredient": "Cardamon",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 teaspoon paprika",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3/4 teaspoon kosher salt",
+            "amount": "0.75",
+            "unit": "teaspoon",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.008100000000000001,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.09820440000000003
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 medium tomato (diced)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 lemon (juice of)",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Chopped cilantro leaves for garnish",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Place the rinsed lentils in a large saucepan along with room temperature water. Turn the heat to medium and allow the lentils to cook for 20 minutes. You can cook them covered or uncovered, just make sure that you turn down the heat if needed to keep them at a gentle simmer."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, heat the oil in a medium skillet set over medium heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the cumin seeds and cinnamon stick; cook for 60 to 90 seconds, until fragrant."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the onion, green chili pepper, garlic, and ginger; cook for 4 to 5 minutes, until the onions are turning translucent."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the turmeric, cardamom, paprika, salt, and tomato to the pan. Cook until the tomato begins to fall apart, about 2 to 3 minutes. Discard the cinnamon stick."
+        },
+        {
+            "number": 6,
+            "instruction": "Once the lentils are cooked, drain off any excess water that is on top of the lentils, but do not drain off all the water. Stir the spiced onion mixture into the pot of lentils."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the lemon juice and stir well. Taste and add salt as needed. If it is too dry, then add some water. If it is too wet, then cook on low until it thickens to your liking."
+        },
+        {
+            "number": 8,
+            "instruction": "Garnish with cilantro; serve with basmati rice and naan."
+        }
+    ]
+}

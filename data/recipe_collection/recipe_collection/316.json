@@ -1,0 +1,147 @@
+{
+    "url": "https://pinchofnom.com/recipes/creamy-lemon-chicken/",
+    "title": "Creamy Lemon Chicken",
+    "total_CO2": 4.9060524999999995,
+    "servings": 4,
+    "CO2_per_portion": 1.2265131249999999,
+    "E.Mission coefficient": 3.939022480931353,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 medium chicken breasts (approx 150g each)",
+            "amount": "4.0",
+            "unit": "medium",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.52,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.16784
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 small onion (finely chopped)",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 chicken stock cube",
+            "amount": "1.0",
+            "ingredient_name": "chicken stock cube",
+            "matched_ingredient": "Chicken stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "300 ml boiling water",
+            "amount": "300.0",
+            "unit": "ml",
+            "ingredient_name": "boiling water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 lemon (juice only)",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "75 g low fat cream cheese",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "low fat cream cheese",
+            "matched_ingredient": "Cream cheese",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.5929999999999997
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "50 g spinach",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.02185
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "black pepper",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "low calorie cooking spray",
+            "amount": "1.0",
+            "ingredient_name": "calorie cooking spray",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Spray the frying pan with low calorie cooking spray and place over a medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "When the pan is hot, place the chicken breasts in and cook for 2 minutes each side to seal and colour."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove to a plate and place to one side."
+        },
+        {
+            "number": 4,
+            "instruction": "Give the pan another spray with low calorie cooking spray then add the onions and sauté for 5 minutes until soft."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the stock cube to the boiling water and pour into the pan along with the lemon juice and bring to a simmer."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in the low fat cream cheese, then return the chicken to the pan."
+        },
+        {
+            "number": 7,
+            "instruction": "Allow to simmer for 10-15 minutes, stirring occasionally until the chicken is cooked through."
+        },
+        {
+            "number": 8,
+            "instruction": "The sauce should have reduced and thickened slightly, but if it is too runny turn up the heat and allow to bubble until you reach the consistency of single cream."
+        },
+        {
+            "number": 9,
+            "instruction": "Stir in the spinach and cook for a couple more minutes until it has wilted."
+        },
+        {
+            "number": 10,
+            "instruction": "Season with a little freshly ground black pepper and serve with your choice of accompaniment."
+        }
+    ]
+}

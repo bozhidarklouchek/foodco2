@@ -1,0 +1,195 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/makhani-dhal",
+    "title": "Makhani dhal",
+    "total_CO2": 1.26434063,
+    "servings": 8,
+    "CO2_per_portion": 0.15804257875,
+    "E.Mission coefficient": 1.6195376210483168,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "225 g black lentils",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "black lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.36225
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 onions , finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 green chillies , deseeded and sliced",
+            "amount": "2.0",
+            "ingredient_name": "green chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "50 g butter , plus a small chunk",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13905
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp grated fresh root ginger",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "grated fresh root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 garlic cloves , thinly sliced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp ground turmeric",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tsp ground cumin",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tsp ground coriander",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.12124000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 x 400g cans red kidney beans , rinsed",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "red kidney beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "142 ml pot double cream",
+            "amount": "142.0",
+            "unit": "ml",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.13348,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.37120788
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 tsp garam masala",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "handful chopped coriander",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "chopped coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 tsp hot chilli powder (optional)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "hot chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Boil the lentils in 800ml water for 15 mins until almost tender. Meanwhile, fry the onions and chillies in the 50g butter for about 7 mins until starting to soften. Stir in the ginger, garlic and spices and cook over a low heat for 1 min more."
+        },
+        {
+            "number": 2,
+            "instruction": "Pour in 800ml boiling water followed by the cooked lentils and any liquid."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the bay leaves and beans, then simmer for 20 mins more until thickened. This can be made 2 days ahead and chilled, or frozen for up to 1 month."
+        },
+        {
+            "number": 4,
+            "instruction": "To serve, return to the heat if necessary and stir in the cream. Season well."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour into a bowl, dot with the remaining butter, dust with garam masala and scatter with coriander."
+        }
+    ]
+}

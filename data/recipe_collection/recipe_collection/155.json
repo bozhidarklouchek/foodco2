@@ -1,0 +1,265 @@
+{
+    "url": "https://mypizzacorner.com/pizza-recipes/authentic-neapolitan-pizza-recipe-how-to-make-the-perfect-neapolitan-pizza/",
+    "title": "Authentic Neapolitan Pizza",
+    "total_CO2": 8.0796764,
+    "servings": 4,
+    "CO2_per_portion": 2.0199191,
+    "E.Mission coefficient": 0.12338529670923733,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Flour - 640g",
+            "amount": "640.0",
+            "ingredient_name": "Flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Water - 360g",
+            "amount": "360.0",
+            "ingredient_name": "Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 64.8,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Salt - 14g",
+            "amount": "14.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Yeast - 0.3g",
+            "amount": "0.3",
+            "ingredient_name": "yeast",
+            "matched_ingredient": "Yeast",
+            "kg_equivalent": 0.0036,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.0039924
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "300 g tin of plum tomatoes",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.22499999999999998
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Salt - sprinkling of table salt or sea salt",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Salt - sprinkling of table salt or sea salt",
+            "amount": "1",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Pepper - freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "Pepper - freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Mozzarella - 2 x 125g bags of fresh Mozzarella balls",
+            "amount": "2.0",
+            "ingredient_name": "Mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.0567,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.204308
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Parmesan - about 30g",
+            "amount": "30.0",
+            "ingredient_name": "Parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.309,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 6.56316
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Olive Oil - a few glugs",
+            "amount": "1.0",
+            "ingredient_name": "Olive Oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Basil - hand full of fresh leaves",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "fresh",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Tomato puree (optional) - a tablespoon",
+            "amount": "0.0",
+            "unit": "a tablespoon",
+            "ingredient_name": "Tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Mix all the ingredients into a shaggy mass in a large bowl"
+        },
+        {
+            "number": 2,
+            "instruction": "Cover the bowl with cling film"
+        },
+        {
+            "number": 3,
+            "instruction": "Leave the dough to rest for around 1 hour"
+        },
+        {
+            "number": 4,
+            "instruction": "Turn the dough out onto the counter and knead for around 5 minutes"
+        },
+        {
+            "number": 5,
+            "instruction": "Place the dough back into the bowl and cover"
+        },
+        {
+            "number": 6,
+            "instruction": "Leave the dough to prove for around 20 hours"
+        },
+        {
+            "number": 7,
+            "instruction": "About 4 hours before you intend to cook the pizza, divide the dough into 4 equal parts"
+        },
+        {
+            "number": 8,
+            "instruction": "Place each dough ball into a small bowl and cover"
+        },
+        {
+            "number": 9,
+            "instruction": "Leave the dough balls to prove again for about 4 hours"
+        },
+        {
+            "number": 10,
+            "instruction": "Blend a tin of quality plum tomatoes into a smooth sauce"
+        },
+        {
+            "number": 11,
+            "instruction": "Cook the sauce until it reaches the desired thickness"
+        },
+        {
+            "number": 12,
+            "instruction": "Add a tablespoon or 2 of tomato puree"
+        },
+        {
+            "number": 13,
+            "instruction": "Season with salt and pepper to taste"
+        },
+        {
+            "number": 14,
+            "instruction": "Ensure that you baking stone/tray is inside your oven"
+        },
+        {
+            "number": 15,
+            "instruction": "Get your oven up to temperature"
+        },
+        {
+            "number": 16,
+            "instruction": "Dust a dough ball with plenty of flour and remove from the container"
+        },
+        {
+            "number": 17,
+            "instruction": "In the bowl, press down from the centre of the dough towards the edges"
+        },
+        {
+            "number": 18,
+            "instruction": "Keep turning the dough as you work the air towards the edges"
+        },
+        {
+            "number": 19,
+            "instruction": "Turn the dough over and repeat this process in the bowl"
+        },
+        {
+            "number": 20,
+            "instruction": "Remove from the bowl and place on the counter"
+        },
+        {
+            "number": 21,
+            "instruction": "Stretch the dough outwards"
+        },
+        {
+            "number": 22,
+            "instruction": "Repeat this until you have a base which is about 9 to 10 inches in diameter"
+        },
+        {
+            "number": 23,
+            "instruction": "Top the base with around 2 soup spoons of tomato sauce"
+        },
+        {
+            "number": 24,
+            "instruction": "Spread about a handful of Mozzarella evenly across the pizza"
+        },
+        {
+            "number": 25,
+            "instruction": "Slide the pizza onto a peel"
+        },
+        {
+            "number": 26,
+            "instruction": "Load straight onto baking stone/tray"
+        },
+        {
+            "number": 27,
+            "instruction": "Cook pizza"
+        },
+        {
+            "number": 28,
+            "instruction": "Remove pizza from the oven and place on a chopping board"
+        },
+        {
+            "number": 29,
+            "instruction": "Grate parmesan on top and add some torn basil. Finish with a drizzle of olive oil and a sprinkling of black pepper"
+        },
+        {
+            "number": 30,
+            "instruction": "Let the pizza cool a little and tuck in!"
+        }
+    ]
+}

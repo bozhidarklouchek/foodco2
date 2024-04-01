@@ -1,0 +1,216 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/pasta-recipes/scruffy-aubergine-lasagne/",
+    "title": "Scruffy aubergine lasagne",
+    "total_CO2": 4.613248499999999,
+    "servings": 6,
+    "CO2_per_portion": 0.7688747499999998,
+    "E.Mission coefficient": 1.7063985574255593,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 x 400 g aubergines",
+            "amount": "3.0",
+            "ingredient_name": "aubergines",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 1.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.6825
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 onions",
+            "amount": "3.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.44399999999999995,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.17537999999999998
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "6 cloves of garlic",
+            "amount": "6.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.018000000000000002,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.007110000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 bunch of fresh sage (30g)",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "fresh sage",
+            "matched_ingredient": "Sage",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 teaspoon dried chilli flakes",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 x 400 g tins of quality plum tomatoes",
+            "amount": "2.0",
+            "unit": "x 400 g",
+            "ingredient_name": "quality plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.11249999999999999
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "80 g mature Cheddar cheese",
+            "amount": "80.0",
+            "unit": "g",
+            "ingredient_name": "mature Cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.6991999999999998
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "80 g Parmesan cheese",
+            "amount": "80.0",
+            "unit": "g",
+            "ingredient_name": "Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.6991999999999998
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "300 g fresh lasagne sheets",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "lasagne",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.1185
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "50 g blanched almonds",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "blanched almonds",
+            "matched_ingredient": "Almond",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.013900000000000003
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Place a large shallow casserole pan on a medium heat with 250ml of water."
+        },
+        {
+            "number": 3,
+            "instruction": "Prick the whole aubergines all over with a fork, halve lengthways and place in the pan. Peel, quarter and add the onions, then cover with a lid and cook for 20 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Meanwhile, peel and finely slice the garlic, and pick the sage leaves."
+        },
+        {
+            "number": 5,
+            "instruction": "Preheat the oven to 200ºC/400ºF/gas"
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the lid, and once most of the liquid has cooked away, make a well in the middle."
+        },
+        {
+            "number": 7,
+            "instruction": "Add 3 tablespoons of oil, the garlic, chilli flakes and most of the sage leaves, then finely grate in the lemon zest. Once golden, scrunch in the tomatoes, pour in 2 tins' worth of water, and simmer for 20 minutes, stirring occasionally."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove the pan from the heat, grate in the cheeses, then season to absolute perfection with sea salt and black pepper."
+        },
+        {
+            "number": 9,
+            "instruction": "Tear in the pasta sheets and mix up really well to coat and separate, then pull some of the sheets to the top to create a top layer."
+        },
+        {
+            "number": 10,
+            "instruction": "Bash the almonds until fine and rub the remaining sage leaves with oil, then sprinkle on top."
+        },
+        {
+            "number": 11,
+            "instruction": "Use the back of a spoon to create some dips and wells, and bake for 25 minutes, or until golden and bubbling. I love this served with a big crunchy green salad dressed with balsamic vinegar."
+        },
+        {
+            "number": 12,
+            "instruction": "Tips"
+        },
+        {
+            "number": 13,
+            "instruction": "Two of my girls are gluten-intolerant, so I often I often turn this into a pasta bake and use gluten-free pasta. Feel free to use any pasta shape. Simply parboil before adding."
+        },
+        {
+            "number": 14,
+            "instruction": "EASY SWAPS"
+        },
+        {
+            "number": 15,
+            "instruction": "- Not an aubergine lover? Try courgettes, peppers, portobello mushrooms, or even squash in its place."
+        },
+        {
+            "number": 16,
+            "instruction": "- If you don’t have fresh lasagne sheets, you can use dried. Simply cook them according to the packet instructions, then drain and refresh under cold water, so they’re cool when you come to use them."
+        },
+        {
+            "number": 17,
+            "instruction": "- I’m using sage, but rosemary or thyme would work a treat, too."
+        },
+        {
+            "number": 18,
+            "instruction": "- No almonds? Try peanuts or cashew nuts instead."
+        },
+        {
+            "number": 19,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

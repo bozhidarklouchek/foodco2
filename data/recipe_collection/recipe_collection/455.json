@@ -1,0 +1,186 @@
+{
+    "url": "https://www.recipetineats.com/my-very-best-vanilla-cake/",
+    "title": "My best Vanilla Cake - stays moist 4 days",
+    "total_CO2": 10.69929843160772,
+    "servings": 10,
+    "CO2_per_portion": 1.069929843160772,
+    "E.Mission coefficient": 2.6160872901516696,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cups plain / all purpose flour ((cake flour OK too, Note 1))",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.30283294272,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.43638227045952
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 1/2 teaspoons baking powder",
+            "amount": "2.5",
+            "unit": "teaspoons",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.01125,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.136395
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/4 tsp salt",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0027,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0327348
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "4 large eggs ((50 - 55g / 2 oz each), at room temp (Note 3))",
+            "amount": "4.0",
+            "unit": "large",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 1/2 cups caster / superfine sugar ((granulated/regular ok too, Note 2))",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.22712470704,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.34886355001344005
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 tsp vanilla extract (, the best you can afford (Note 6))",
+            "amount": "3.0",
+            "unit": "tsp",
+            "ingredient_name": "vanilla extract",
+            "matched_ingredient": "Vanilla",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tsp vegetable or canola oil ((Note 7))",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.00375,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00170625
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tsp vegetable or canola oil ((Note 7))",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "canola oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.006900000000000001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0264132
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "225 g / 2 sticks unsalted butter (, softened)",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6257250000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "500 g / 1 lb soft icing sugar / powdered sugar (, SIFTED)",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "soft icing sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.768
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "3 tsp vanilla extract",
+            "amount": "3.0",
+            "unit": "tsp",
+            "ingredient_name": "vanilla extract",
+            "matched_ingredient": "Vanilla",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 - 4 tbsp milk (, to adjust thickeness)",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.04680000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.13015080000000004
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "115 g / 1/2 cup unsalted butter (, cut into 1.5 cm / 1/2” cubes (or so))",
+            "amount": "115.0",
+            "unit": "g ",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 2.3000000000000003,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 6.396300000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 cup milk (, full fat (Note 5))",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.24605176596000003,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6842699611347601
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to 180°C/350°F (160°C fan) for 20 minutes before starting the batter (Note 8)."
+        },
+        {
+            "number": 2,
+            "instruction": "Place shelf in the middle of the oven."
+        },
+        {
+            "number": 3,
+            "instruction": "Grease 2 x 20cm / 8” cake pans with butter, then line with parchment / baking paper. (Note 9 more pan sizes) Best to use cake pan without loose base, if you can."
+        },
+        {
+            "number": 4,
+            "instruction": "Combine Dry Ingredients"
+        },
+        {
+            "number": 5,
+            "instruction": "Whisk flour, baking powder and salt in a large bowl. Set aside."
+        }
+    ]
+}

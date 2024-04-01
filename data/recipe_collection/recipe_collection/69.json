@@ -1,0 +1,233 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/curried-vegetable-pie",
+    "title": "Curried vegetable pie",
+    "total_CO2": 0.6607502000000001,
+    "servings": 4,
+    "CO2_per_portion": 0.16518755000000002,
+    "E.Mission coefficient": 0.671767181781212,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp sunflower oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0288,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.1038816
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion , finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 garlic cloves , chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 green chilli , deseeded and finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "green chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp garam masala",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1054788
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp ground turmeric and ground cumin",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ground turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 carrots , cubed",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 parsnip , cubed",
+            "amount": "1.0",
+            "ingredient_name": "parsnip",
+            "matched_ingredient": "Parsnip",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0365
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "225 g cauliflower florets",
+            "amount": "225.0",
+            "unit": "g",
+            "ingredient_name": "cauliflower florets",
+            "matched_ingredient": "Cauliflower",
+            "kg_equivalent": 0.225,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.098325
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 courgette , cubed",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "75 g frozen peas",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0672
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "25 g butter",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.069525
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "25 g plain flour",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.036025
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "4 tbsp Greek-style yogurt",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "Greek-style yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": -0.0564,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": -0.1568484
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "3 tbsp chopped fresh coriander",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.019665
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "half a quantity shortcrust pastry (see 'Goes well with' below)",
+            "amount": "0.5",
+            "ingredient_name": "shortcrust pastry",
+            "matched_ingredient": "Pastry",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.605,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tbsp milk , to glaze",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.015600000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.04338360000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/fan 180C/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Heat oil in a large pan, then cook the onion, garlic and chilli for 2-3 mins until tender. Stir in the garam masala, turmeric and cumin, then cook for a further 2-3 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Add carrots, parsnip, cauliflower and courgette to the pan with 300ml/1/2pt water, bring to the boil, then simmer for 5 mins until the vegetables are almost tender."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain, reserving the cooking liquid, then mix with the peas."
+        },
+        {
+            "number": 5,
+            "instruction": "Melt butter in a small pan, stir in flour, then cook for 1 min."
+        },
+        {
+            "number": 6,
+            "instruction": "Add reserved vegetable cooking liquid, then cook, stirring, until it forms a thick sauce. Simmer for 3 mins, stirring, then remove from heat and stir in the yogurt, coriander, vegetables and seasoning. Leave to cool."
+        },
+        {
+            "number": 7,
+            "instruction": "Spoon the mixture into a 900ml pie dish."
+        },
+        {
+            "number": 8,
+            "instruction": "Brush the rim of the dish with water."
+        },
+        {
+            "number": 9,
+            "instruction": "Roll out pastry and use to cover the pie, pressing firmly on to the rim. Trim edges and press firmly to seal. Make a hole in the centre of the pie to allow steam to escape."
+        },
+        {
+            "number": 10,
+            "instruction": "Brush with the milk, place on a baking sheet and bake for 25-30 mins."
+        }
+    ]
+}

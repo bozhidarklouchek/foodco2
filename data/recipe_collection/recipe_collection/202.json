@@ -1,0 +1,226 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/normandy-pork-apples-cider",
+    "title": "Normandy pork with apples & cider",
+    "total_CO2": 6.383770450000001,
+    "servings": 4,
+    "CO2_per_portion": 1.5959426125000002,
+    "E.Mission coefficient": 3.2314298477619876,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp rapeseed oil or olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp rapeseed oil or olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "600 g pork shoulder or pork cheeks, fat and sinew trimmed, cut into chunky pieces",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "pork shoulder",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 2.1846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "600 g pork shoulder or pork cheeks, fat and sinew trimmed, cut into chunky pieces",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "pork cheeks",
+            "matched_ingredient": "Pork",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 2.1846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large onion, chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 carrots, cut into chunky pieces",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 celery sticks, cut into chunky pieces",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "200 g pack smoked bacon lardons",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "smoked bacon lardons",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.4564000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "250 ml dry cider (or use 100 ml apple juice mixed with 3 tbsp cider vinegar and 100 ml water)",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "dry cider",
+            "matched_ingredient": "Cider",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.0357
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 eating apples (we used Braeburn), cored and cut into chunky pieces",
+            "amount": "2.0",
+            "ingredient_name": "apples",
+            "matched_ingredient": "Apple",
+            "kg_equivalent": 0.59,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.21062999999999998
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 chicken stock cube",
+            "amount": "1.0",
+            "ingredient_name": "chicken stock cube",
+            "matched_ingredient": "Chicken stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3-4 thyme sprigs, plus extra to serve (optional)",
+            "amount": "3.5",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "140 g crème fraîche",
+            "amount": "140.0",
+            "ingredient_name": "crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1-2 tbsp Dijon mustard, plus extra to serve (optional)",
+            "amount": "1.5",
+            "unit": "tbsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.005850000000000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025564500000000005
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1-2 tsp cornflour, optional",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.006149999999999999,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0060761999999999995
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "mashed potato and greens, to serve",
+            "amount": "1.0",
+            "ingredient_name": "mashed potato",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.17,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.0629
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat half the oil in a large pan and brown the meat in batches. Dont overcrowd the pan, and only turn the meat when it has a deep brown crust on the underside, as this will add lots of flavour to the stew. When one batch is cooked, tip it into the slow cooker and continue with the next batch, adding more oil as you need it."
+        },
+        {
+            "number": 2,
+            "instruction": "When all the meat has been transferred to the slow cooker, add the onion, carrots and celery to the pan and cook for 5-10 mins to just soften, scraping any meaty bits up from the bottom of the pan. Tip the veg into the slow cooker."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the lardons to the pan and fry until crispy."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour in the cider, bubble for 1 min, again scraping the bottom of the pan, then tip the cider and lardons into the slow cooker too."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the apples, stock cube and herbs to the slow cooker, pour in 400ml water, season well and turn the heat to Low. Cover with the lid and cook for 6-8 hrs until the meat is very tender. (If you dont have a slow cooker, tip all the ingredients back into the pan, cover with a lid and cook for 3 hrs over a low heat, stirring every now and then to prevent it from catching on the bottom. You may have to add a splash of water during cooking if the sauce looks dry.)"
+        },
+        {
+            "number": 6,
+            "instruction": "Turn your slow cooker up to High."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the crme frache and mustard to the stew and check the seasoning. If the sauce is thin, you can thicken it with the cornflour  ladle 2 spoonfuls of the sauce into a pan and bring to a simmer, mix the cornflour with 1-2 tsp cold water to make a paste, then stir it into the sauce. Once thickened, return the sauce to the slow cooker and cook for 10 mins more on High, stirring occasionally (or for 5 mins on the hob)."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve with mashed potato, greens and extra mustard and thyme, if you like."
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/lentil-ragu",
+    "title": "Lentil bolognese",
+    "total_CO2": 3.1774657999999993,
+    "servings": 6,
+    "CO2_per_portion": 0.5295776333333332,
+    "E.Mission coefficient": 1.7062280275469517,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 onions, finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 carrots, finely chopped",
+            "amount": "3.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0657
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 celery sticks, finely chopped",
+            "amount": "3.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0054600000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 garlic cloves, crushed",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "500 g bag dried red lentils",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "dried red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.805
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 x 400g cans chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tsp each dried oregano and thyme",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 bay leaves",
+            "amount": "3.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 l vegetable stock",
+            "amount": "1.0",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "500 g spaghetti",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.7205
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "parmesan or vegetarian cheese, grated, to serve",
+            "amount": "1.0",
+            "ingredient_name": "parmesan",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "parmesan or vegetarian cheese, grated, to serve",
+            "amount": "1",
+            "ingredient_name": "vegetarian cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large saucepan and add the onions, carrots, celery and garlic. Cook gently for 15-20 mins until everything is softened. Stir in the lentils, chopped tomatoes, tomato purée, herbs and stock. Bring to a simmer, then cook for 40-50 mins until the lentils are tender and saucy – splash in water if you need. Season."
+        },
+        {
+            "number": 2,
+            "instruction": "If eating straight away, keep on a low heat while you cook the spaghetti, following pack instructions."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain well, divide between pasta bowls or plates, spoon sauce over the top and grate over some cheese. Alternatively, cool the sauce and chill for up to 3 days. Or freeze for up to 3 months. Simply defrost portions overnight at room temperature, then reheat gently to serve."
+        }
+    ]
+}

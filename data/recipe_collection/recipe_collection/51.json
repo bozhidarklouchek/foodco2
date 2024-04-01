@@ -1,0 +1,177 @@
+{
+    "url": "https://learntocook.com/sandwiches/healthy-shrimp-po-boy-sandwich/",
+    "title": "Healthy Shrimp Po' Boy Sandwich",
+    "total_CO2": 1.095976122810225,
+    "servings": 2,
+    "CO2_per_portion": 0.5479880614051125,
+    "E.Mission coefficient": 2.670124399635007,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp fresh parsley, finely chopped",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "fresh parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.006555
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1/2  medium shallot, finely chopped",
+            "amount": "0.5",
+            "unit": "medium",
+            "ingredient_name": "shallot",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 cup vegan mayonnaise",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "vegan mayonnaise",
+            "matched_ingredient": "Mayonnaise",
+            "kg_equivalent": 0.22475882467499997,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 1.0129880228102248
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tbsp Dijon mustard",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0078000000000000005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0034086000000000003
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp horseradish",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "horseradish",
+            "matched_ingredient": "Horseradish",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.01095
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp paprika",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp cayenne pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp lemon juice",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.001585
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tsp Louisiana hot sauce",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Louisiana hot sauce",
+            "matched_ingredient": "Liquid Aminos",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00457
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "Salt & pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Prepare remoulade first."
+        },
+        {
+            "number": 2,
+            "instruction": "Add all the ingredients in a food processor and pulse until no large pieces are present and consistency is creamy. Cover and chill for at least 30 minutes before serving to let flavors marinade together."
+        },
+        {
+            "number": 3,
+            "instruction": "While the remoulade is chilling, prepare the shrimp and vegetables. Peel, devein, rinse and pat dry shrimp and place in a medium size bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the Cajun seasoning and toss well so every piece is coated."
+        },
+        {
+            "number": 5,
+            "instruction": "Let sit for 5 minutes."
+        },
+        {
+            "number": 6,
+            "instruction": "Shred cabbage and slice tomato thinly."
+        },
+        {
+            "number": 7,
+            "instruction": "Cut sandwich loaves in half horizontally. If desired, you can toast bread in oven for added texture."
+        },
+        {
+            "number": 8,
+            "instruction": "In a large frying pan, heat olive oil over medium high heat."
+        },
+        {
+            "number": 9,
+            "instruction": "Add shrimp and cook about 5 minutes, tossing frequently. Shrimp is done cooking when pink in coloring and firm to touch."
+        },
+        {
+            "number": 10,
+            "instruction": "To serve, slather the bread generously with the remoulade sauce."
+        },
+        {
+            "number": 11,
+            "instruction": "Add shrimp and top with shredded cabbage and tomato slices. Enjoy immediately!"
+        },
+        {
+            "number": 12,
+            "instruction": "For more great cooking demonstration videos, subscribe to the Learn"
+        },
+        {
+            "number": 13,
+            "instruction": "ToCook"
+        },
+        {
+            "number": 14,
+            "instruction": "Online YouTube channel."
+        }
+    ]
+}

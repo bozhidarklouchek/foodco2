@@ -1,0 +1,157 @@
+{
+    "url": "https://www.aldi.us/en/recipes/lunch-dinner/beef-lamb/zesty-beef-round-roast/",
+    "title": "Homepage",
+    "total_CO2": 32.533564,
+    "servings": 6,
+    "CO2_per_portion": 5.422260666666666,
+    "E.Mission coefficient": 47.70317302052785,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Zesty Beef Round Roast",
+            "amount": "1.0",
+            "ingredient_name": "Roast",
+            "matched_ingredient": "Nut roast",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.531,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Looking for an easy and delicious dish to serve at your next dinner party? Try this Zesty Beef Round Roast recipe that will leave your guests impressed and asking for seconds. ",
+            "amount": "1.0",
+            "ingredient_name": "Zesty Beef Round Roast",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "To start, heat your cast iron pot over medium heat and add olive oil. Next, sauté the onion and peppers, which release more flavors for the dish. ",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Time to sear the roast in a cast iron pot, sear the roast on all sides to develop a crispy and rich crust on the meat, adding more flavor and texture to the dish. Afterwards, cover, and place in oven.",
+            "amount": "1.0",
+            "ingredient_name": "rich crust",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Roast for 1-1 1/2 hours or for 20 minutes per pound for a medium rare roast. Remember to baste the roast with drippings every 15 minutes to moisten and flavor the surface of the meat.  ",
+            "amount": "0.0",
+            "unit": "medium",
+            "ingredient_name": "rare roast",
+            "matched_ingredient": "Nut roast",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.531,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Finishing off the dish, squeeze juice from 1 lime over the roast and add your desired garnishes, like cilantro, onions and cilantro. Lime juice adds even more tenderness to the beef. ",
+            "amount": "1.0",
+            "ingredient_name": "juice",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.124,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.044267999999999995
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Enjoy this Zesty Beef Round Roast recipe today, it’s not only juicy and flavorful, but highly versatile and the roast can be used for many recipes, such as tacos, beef sandwiches and more.",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "Zesty Beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.272,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 16.20304
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "10 minutes",
+            "amount": "10.0",
+            "ingredient_name": "minutes",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 hour, 30 minutes",
+            "amount": "1.0",
+            "ingredient_name": "hour",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 hour, 40 minutes",
+            "amount": "1.0",
+            "ingredient_name": "hour",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "6",
+            "amount": "6.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat oven to  375°."
+        },
+        {
+            "number": 2,
+            "instruction": "In a cast iron pot, over medium-high heat, heat olive oil."
+        },
+        {
+            "number": 3,
+            "instruction": "Add onion and peppers, sauté and reserve."
+        },
+        {
+            "number": 4,
+            "instruction": "Combine all spices and rub onto roast."
+        },
+        {
+            "number": 5,
+            "instruction": "In a cast iron pot, sear roast on all sides. "
+        },
+        {
+            "number": 6,
+            "instruction": "Remove from heat, cover and place in oven."
+        },
+        {
+            "number": 7,
+            "instruction": "Roast for 1-1 1/2 hours or for 20 minutes per pound for a medium rare roast. Baste roast with drippings every 15 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove roast from oven and cover loosely with foil. Allow for meat to rest for at least 10 minutes before slicing.  Squeeze juice from 1 lime over roast, garnish with lime zest, lime quarters, peppers, onions and cilantro."
+        }
+    ]
+}

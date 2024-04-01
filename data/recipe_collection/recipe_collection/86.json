@@ -1,0 +1,94 @@
+{
+    "url": "https://www.marmiton.org/recettes/recette_pate-de-paques-berrichon_55659.aspx",
+    "title": "Pâté de Pâques berrichon",
+    "total_CO2": 0.0,
+    "servings": 6,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 2,
+            "original_string": "1 pâtes feuilletées",
+            "amount": "1.0",
+            "ingredient_name": "pâtes feuilletées",
+            "matched_ingredient": "Hilsa",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "150 g de viande hachée porc et veau",
+            "amount": "150.0",
+            "ingredient_name": "viande hachée porc",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 oeufs",
+            "amount": "3.0",
+            "ingredient_name": "oeufs",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "brin de persil",
+            "amount": "1.0",
+            "ingredient_name": "brin de persil",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "muscade",
+            "amount": "1.0",
+            "ingredient_name": "muscade",
+            "matched_ingredient": "Fromage frais",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Faire cuire les oeufs pour qu'ils soient durs."
+        },
+        {
+            "number": 2,
+            "instruction": "Etaler la pâte feuilletée."
+        },
+        {
+            "number": 3,
+            "instruction": "Mélanger la viande, le persil et les épices."
+        },
+        {
+            "number": 4,
+            "instruction": "Faire un boudin de viande au milieu de la pâte."
+        },
+        {
+            "number": 5,
+            "instruction": "Une fois que les oeufs sont froids, les couper en deux et les disposer sur la viande."
+        },
+        {
+            "number": 6,
+            "instruction": "Refermer la pâte feuilletée sur le côté, pour que ce soit bien hermétique."
+        },
+        {
+            "number": 7,
+            "instruction": "Vous pouvez badigeonner le pâté avec du jaune d'oeuf."
+        },
+        {
+            "number": 8,
+            "instruction": "Percer quelques trous sur le dessus et faire cuire 30 minutes à 200°C (thermostat 6-7)."
+        }
+    ]
+}

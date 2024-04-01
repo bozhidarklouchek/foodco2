@@ -1,0 +1,213 @@
+{
+    "url": "https://www.modernhoney.com/homemade-chicken-ramen/",
+    "title": "Homemade Chicken Ramen",
+    "total_CO2": 11.975884257264699,
+    "servings": 5,
+    "CO2_per_portion": 2.39517685145294,
+    "E.Mission coefficient": 4.4541054054658185,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 Tablespoon Oil",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "Oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Medium Onion (finely diced)",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "6 Garlic Cloves (finely diced)",
+            "amount": "6.0",
+            "unit": "cloves",
+            "ingredient_name": "Garlic Cloves",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.018000000000000002,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.007110000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 Tablespoon Fresh Ginger (diced)",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "Fresh Ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "6 cups Chicken Broth or Stock",
+            "amount": "6.0",
+            "unit": "cups",
+            "ingredient_name": "Chicken Broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.2775764771,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 7.7829958984931995
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 Tablespoon Chili Garlic Sauce",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "Chili Garlic Sauce",
+            "matched_ingredient": "Chili garlic sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/4 cup Soy Sauce (Tamari for GF)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "Soy Sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.05406041204025
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1-2 cups Bok Choy (Asian Cabbage, finely chopped)",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "Asian Cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.15508358902575
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 1/2 cups Shredded Chicken (from a rotisserie chicken or poached chicken)",
+            "amount": "2.5",
+            "unit": "cups",
+            "ingredient_name": "Shredded Chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.532323532125,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.2429149577055
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 15-16-ounce pkg. Ramen or Udon Noodles, cooked according to pkg. instructions",
+            "amount": "0.5",
+            "ingredient_name": "Ramen",
+            "matched_ingredient": "Frankfurter",
+            "kg_equivalent": 0.044,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.32040799999999997
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 15-16-ounce pkg. Ramen or Udon Noodles, cooked according to pkg. instructions",
+            "amount": "0.5",
+            "ingredient_name": "Udon Noodles",
+            "matched_ingredient": "Wheat noodle",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Green Onions (garnish)",
+            "amount": "1.0",
+            "ingredient_name": "Green Onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Sliced Mushrooms (add last minute of cooking)",
+            "amount": "1.0",
+            "ingredient_name": "Mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Cilantro (garnish)",
+            "amount": "1.0",
+            "ingredient_name": "Cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "Boiled Egg",
+            "amount": "1.0",
+            "ingredient_name": "Egg",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.22535
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Optional:",
+            "amount": "1.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat a heavy-bottomed stockpot over medium-high heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add oil and onions and let cook for 5-6 minutes, or until onions begin to soften. Stir in garlic and ginger. Cook for only 1 minute longer."
+        },
+        {
+            "number": 3,
+            "instruction": "Add chicken broth. Stir in chili garlic sauce and soy sauce."
+        },
+        {
+            "number": 4,
+            "instruction": "Let simmer for at least 20 minutes on medium-low heat."
+        },
+        {
+            "number": 5,
+            "instruction": "While simmering, prepare noodles according to package instructions."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in bok choy and chicken. Season to taste."
+        },
+        {
+            "number": 7,
+            "instruction": "To serve, place cooked noodles on the bottom of the bowl. Ladle in chicken ramen over noodles."
+        },
+        {
+            "number": 8,
+            "instruction": "Garnish with green onions, cilantro, and any other favorite toppings."
+        }
+    ]
+}

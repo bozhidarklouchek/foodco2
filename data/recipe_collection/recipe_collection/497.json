@@ -1,0 +1,126 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/tarka-dhal",
+    "title": "Tarka dhal",
+    "total_CO2": 0.6841820650000001,
+    "servings": 2,
+    "CO2_per_portion": 0.34209103250000006,
+    "E.Mission coefficient": 1.3341043307854306,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g red lentils",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32200000000000006
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp ghee, or vegetable oil if you're vegan",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "ghee",
+            "matched_ingredient": "Ghee",
+            "kg_equivalent": 0.013665000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.03800236500000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp ghee, or vegetable oil if you're vegan",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.05742
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 small onion, finely chopped",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 garlic cloves, finely chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/4 tsp turmeric",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp garam masala",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "coriander, to serve",
+            "amount": "1.0",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 small tomato, chopped",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Rinse the lentils several times until the water runs clear, then tip into a saucepan with 1 litre water and a pinch of salt. Bring to the boil, then reduce the heat and simmer for 25 mins, skimming the froth from the top. Cover with a lid and cook for a further 40 mins, stirring occasionally, until its a thick, soupy consistency."
+        },
+        {
+            "number": 2,
+            "instruction": "While the lentils are cooking, heat the ghee or oil in a non-stick frying pan over a medium heat, then fry the onion and garlic until the onion is softened, so around 8 mins."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the turmeric and garam masala, then cook for a further minute. Set aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Tip the lentils into bowls and spoon half the onion mixture on top. Top with the coriander and tomato to serve."
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "url": "https://damndelicious.net/2020/01/25/homestyle-chicken-noodle-soup/",
+    "title": "Homestyle Chicken Noodle Soup",
+    "total_CO2": 10.390976247463747,
+    "servings": 8,
+    "CO2_per_portion": 1.2988720309329684,
+    "E.Mission coefficient": 2.5483772743085935,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tablespoons unsalted butter",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "unsalted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.027330000000000004,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.07600473000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, diced",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 carrots, peeled and diced",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 stalks celery, diced",
+            "amount": "2.0",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0364
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "8 cups chicken stock",
+            "amount": "8.0",
+            "unit": "cups",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 1.892705892,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.5678117676
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Kosher salt freshly ground black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 1/2 pounds bone-in, skinless chicken breasts",
+            "amount": "2.5",
+            "unit": "pounds",
+            "ingredient_name": "skinless chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 1.1339809250000001,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 6.908211795100001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 1/2 cups wide egg noodles",
+            "amount": "2.5",
+            "unit": "cups",
+            "ingredient_name": "egg noodles",
+            "matched_ingredient": "Egg noodle",
+            "kg_equivalent": 0.59147059125,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 2.66575795476375
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tablespoons chopped fresh parsley leaves",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chopped fresh parsley leaves",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tablespoons chopped fresh dill",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chopped fresh dill",
+            "matched_ingredient": "Dill",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.01311
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tablespoon freshly squeezed lemon juice, or more, to taste",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "freshly squeezed lemon juice",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Melt butter in a large stockpot or Dutch oven over medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add onion, carrots and celery. Cook, stirring occasionally, until tender, about 3-4 minutes. Stir in garlic until fragrant, about 1 minute."
+        },
+        {
+            "number": 3,
+            "instruction": "Whisk in chicken stock and bay leaves; season with salt and pepper, to taste."
+        },
+        {
+            "number": 4,
+            "instruction": "Add chicken and bring to boil; reduce heat and simmer, covered, until the chicken is cooked through, about 30-40 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove chicken and let cool before dicing into bite-size pieces, discarding bones."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in chicken and pasta and cook until tender, about 6-7 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Remove from heat; stir in parsley, dill and lemon juice; season with salt and pepper, to taste."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve immediately."
+        }
+    ]
+}

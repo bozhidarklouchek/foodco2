@@ -1,0 +1,249 @@
+{
+    "url": "https://pinchofnom.com/recipes/slow-cooker-chilli/",
+    "title": "Slow Cooker Chilli",
+    "total_CO2": 30.770800750000003,
+    "servings": 6,
+    "CO2_per_portion": 5.128466791666667,
+    "E.Mission coefficient": 15.929801335645692,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 g 5% Fat Minced Beef",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "Fat Minced Beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 29.785
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Onion (diced)",
+            "amount": "1.0",
+            "ingredient_name": "Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 Bell Peppers (deseeded and diced)",
+            "amount": "2.0",
+            "ingredient_name": "Bell Peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 cloves Garlic (crushed)",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "Garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 - 2 tsp Chilli Powder (you can add more or less depending on how hot you like it)",
+            "amount": "1.5",
+            "unit": "tsp",
+            "ingredient_name": "Chilli Powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00197925
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 - 2 Fresh Chillies (deseeded and diced. You can add more or less depending on how hot you like it)",
+            "amount": "1.5",
+            "unit": "can",
+            "ingredient_name": "Fresh Chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0225,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0102375
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 Mushrooms (sliced)",
+            "amount": "4.0",
+            "ingredient_name": "Mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.052,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.02366
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Courgette (diced)",
+            "amount": "1.0",
+            "ingredient_name": "Courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 Carrots (diced)",
+            "amount": "3.0",
+            "ingredient_name": "Carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0657
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tins Chopped Tomatoes",
+            "amount": "2.0",
+            "unit": "tins",
+            "ingredient_name": "Chopped Tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 Beef stock cubes",
+            "amount": "2.0",
+            "ingredient_name": "Beef stock cubes",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "200 ml Boiling Water (to make up stock cubes)",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "Boiling Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tsp Italian Mixed Herbs",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "Italian Mixed Herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp Tomato Puree",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Tomato Puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tin Kidney Beans",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "Kidney Beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 tbsp Worcestershire Sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Worcestershire Sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.047549999999999995
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 dash Franks Hot Sauce",
+            "amount": "1.0",
+            "ingredient_name": "Franks Hot Sauce",
+            "matched_ingredient": "Liquid Aminos",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "Low Calorie Cooking Spray",
+            "amount": "1.0",
+            "ingredient_name": "Calorie Cooking",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 tbsp Bovril (optional (you could use any beef or yeast extract))",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "Bovril",
+            "matched_ingredient": "Plant-based yogurt",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.17226
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "If you have a slow cooker that has a sauté function, spray with some low calorie cooking spray, allow to heat up and add the onions, garlic, chopped chilli, carrots and peppers. If your slow cooker doesn&#x27;t have this function then sauté the veg in a large frying pan"
+        },
+        {
+            "number": 2,
+            "instruction": "When the veg starts to soften add the mince and cook until it starts to brown"
+        },
+        {
+            "number": 3,
+            "instruction": "Stir in the chilli powder, Worcestershire sauce, Italian herbs and cook for another minute or so"
+        },
+        {
+            "number": 4,
+            "instruction": "Add the tomato puree and chopped tomatoes, stir well"
+        },
+        {
+            "number": 5,
+            "instruction": "Pour in the made up stock, then throw in the remaining veg and stir"
+        },
+        {
+            "number": 6,
+            "instruction": "If you&#x27;re using the sauté function on your slow cooker, turn it to slow cook, put the lid on and leave it for 3 or so hours (on medium to high). If you&#x27;re using a pan then transfer it to your slow cooker and cook for about 3 hours (on medium to high)"
+        },
+        {
+            "number": 7,
+            "instruction": "After 3 hours taste it, add a few drops of hot sauce and Bovril if you&#x27;re using it and some more chilli if it&#x27;s not hot enough."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the washed and drained kidney beans and adjust the seasoning if required."
+        },
+        {
+            "number": 9,
+            "instruction": "Allow to cook for another hour or so, then serve with whatever you fancy, we had ours with some Hasselback Potatoes and Tabbouleh Salad"
+        }
+    ]
+}

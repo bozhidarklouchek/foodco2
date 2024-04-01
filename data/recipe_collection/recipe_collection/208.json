@@ -1,0 +1,210 @@
+{
+    "url": "https://cooking.nytimes.com/recipes/1020631-thai-inspired-chicken-meatball-soup?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=31",
+    "title": "Thai-Inspired Chicken Meatball Soup",
+    "total_CO2": 8.407517930272522,
+    "servings": 6,
+    "CO2_per_portion": 1.4012529883787537,
+    "E.Mission coefficient": 5.335561876718952,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 (4-inch) piece fresh ginger, peeled",
+            "amount": "0.0",
+            "unit": "inch",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "6 garlic cloves, peeled",
+            "amount": "6.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.018000000000000002,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.007110000000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 jalapeño",
+            "amount": "1.0",
+            "ingredient_name": "jalapeño",
+            "matched_ingredient": "Hilsa",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 pounds ground chicken",
+            "amount": "2.0",
+            "unit": "pounds",
+            "ingredient_name": "ground chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.90718474,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 5.52656943608
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 large bunch cilantro, leaves and stems finely chopped, a few whole leaves reserved for serving",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 tablespoons fish sauce",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "fish sauce",
+            "matched_ingredient": "Fish sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.127215
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Kosher salt",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tablespoons vegetable or coconut oil, plus more as needed",
+            "amount": "1.0",
+            "unit": "tablespoons",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0034125
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tablespoons vegetable or coconut oil, plus more as needed",
+            "amount": "1.0",
+            "unit": "tablespoons",
+            "ingredient_name": "coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.01386,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.07972272
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 cups chicken broth",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.4258588257,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.5943319661644
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 (14-ounce) can full-fat coconut milk",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "full-fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 teaspoon granulated sugar",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "granulated sugar",
+            "matched_ingredient": "Granulated sugar",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0024576000000000003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "5 ounces baby spinach",
+            "amount": "5.0",
+            "unit": "ounces",
+            "ingredient_name": "baby spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.14174761562500002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.06194370802812501
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tablespoon lime juice, plus lime wedges for serving",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Steamed white or brown rice, for serving",
+            "amount": "1.0",
+            "ingredient_name": "brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Using the small holes of a box grater, or a Microplane, grate the ginger, garlic and jalapeño (or finely chop them by hand)."
+        },
+        {
+            "number": 2,
+            "instruction": "Transfer half to a large bowl and set the rest aside. To the large bowl, add the chicken, finely chopped cilantro, 2 tablespoons fish sauce and 1 teaspoon salt. Use your hands or a fork to fully combine but do not overmix."
+        },
+        {
+            "number": 3,
+            "instruction": "Use your hands or an ice cream scoop to form 2-inch meatballs (about 2 ounces each). In a large Dutch oven or pot, heat the oil over medium-high heat. Working in batches, add the meatballs in a single layer and cook, flipping halfway through, until golden brown on two sides, 5 to 8 minutes."
+        },
+        {
+            "number": 4,
+            "instruction": "Transfer to a plate and repeat, adding oil as needed."
+        },
+        {
+            "number": 5,
+            "instruction": "Once all the meatballs are browned and out of the pot, if the oil is burned, wipe it out and add a bit more to the pot. Reduce the heat to medium, add the reserved ginger mixture and sauté until fragrant, about 1 minute."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the chicken broth, coconut milk, sugar and the remaining 1 tablespoon fish sauce, and bring to a simmer."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the meatballs and any juices from the plate, and simmer until the flavors come together and the meatballs are cooked through, 5 to 8 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove from heat, and stir in the spinach and lime juice. Divide rice among bowls, then top with meatballs, broth and cilantro."
+        },
+        {
+            "number": 9,
+            "instruction": "Serve with lime wedges."
+        }
+    ]
+}

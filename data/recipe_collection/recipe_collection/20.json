@@ -1,0 +1,130 @@
+{
+    "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/posh-fish-finger-sandwiches/",
+    "title": "Posh fish finger sandwiches",
+    "total_CO2": 1.3013885250000001,
+    "servings": 2,
+    "CO2_per_portion": 0.6506942625000001,
+    "E.Mission coefficient": 1.860654859348751,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "200 g pack haddock or cod goujons",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "haddock",
+            "matched_ingredient": "Haddock",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.2827
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "200 g pack haddock or cod goujons",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "cod goujons",
+            "matched_ingredient": "Cod",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.2827
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 brioche-style buns, toasted",
+            "amount": "2.0",
+            "ingredient_name": "brioche-style buns",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.056,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.080696
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "50 g rocket",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "rocket",
+            "matched_ingredient": "Rocket",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.02185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 shallot, diced",
+            "amount": "1.0",
+            "ingredient_name": "shallot",
+            "matched_ingredient": "Shallot",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp capers, chopped",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "capers",
+            "matched_ingredient": "Capers",
+            "kg_equivalent": 0.0066,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "6 cornichons, finely diced",
+            "amount": "6.0",
+            "ingredient_name": "cornichons",
+            "matched_ingredient": "Gherkin",
+            "kg_equivalent": 0.24,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1092
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 tsp Dijon mustard",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "Dijon mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.00032500000000000004,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00014202500000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 tbsp mayonnaise",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "mayonnaise",
+            "matched_ingredient": "Mayonnaise",
+            "kg_equivalent": 0.114,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.513798
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 lemon",
+            "amount": "0.5",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the tartare sauce, mix everything with a squeeze of lemon and season well."
+        },
+        {
+            "number": 2,
+            "instruction": "Grill or bake the goujons following the pack instructions."
+        },
+        {
+            "number": 3,
+            "instruction": "Spread the bottom of the buns with half the sauce then add the rocket. Pile on the goujons then top with the rest of the tartare sauce and the bun tops."
+        }
+    ]
+}

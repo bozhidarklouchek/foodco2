@@ -1,0 +1,219 @@
+{
+    "url": "https://ashleyparamore.com/manti-vegan-kazakh-dumplings-week-66-kazakhstan/",
+    "title": "Manti – Vegan Kazakh Dumplings (Week 66, Kazakhstan)",
+    "total_CO2": 28.58304495731147,
+    "servings": 36,
+    "CO2_per_portion": 0.7939734710364297,
+    "E.Mission coefficient": 19.65997272427978,
+    "ingredients": [
+        {
+            "ingredient_number": 2,
+            "original_string": "3 cups All Purpose Flour",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "Purpose Flour",
+            "matched_ingredient": "Wheat flour",
+            "kg_equivalent": 0.475542355365,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.685256534080965
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 cup Water, cold",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/4 cup Vegetable Oil",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "Vegetable Oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.2264149423305
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon Salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 pound Vegan Beef (I used Beyond Beef)",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "Vegan Beef",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 27.0204974809
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 Pie Pumpkin",
+            "amount": "1.0",
+            "ingredient_name": "Pie Pumpkin",
+            "matched_ingredient": "Pumpkin",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Yellow Onion",
+            "amount": "1.0",
+            "ingredient_name": "Yellow Onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "4 Cloves Garlic",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "Cloves Garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tablespoons Vegetable Oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "Vegetable Oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tablespoons Black Pepper, ground",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "Black Pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.2109576
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 teaspoon Salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Roast Pumpkin"
+        },
+        {
+            "number": 2,
+            "instruction": "Preheat oven to 350F. Slice pie pumpkin in half and scoop out seeds."
+        },
+        {
+            "number": 3,
+            "instruction": "Oil a baking sheet and place each open side of the pumpkin down. Roast for 50 minutes or until fork tender. (Prepare dough and filling while cooking.)"
+        },
+        {
+            "number": 4,
+            "instruction": "Once cooked, allow to cool enough to remove skin. Discard skin."
+        },
+        {
+            "number": 5,
+            "instruction": "Prepare Dough"
+        },
+        {
+            "number": 6,
+            "instruction": "In a bowl or stand mixer mix salt and flour together."
+        },
+        {
+            "number": 7,
+            "instruction": "Add water and oil and knead until it forms a dough. Dough should be shiny but not sticky."
+        },
+        {
+            "number": 8,
+            "instruction": "Add small amounts of additional flour or water as needed to get the right consistency. Set aside until ready to assemble."
+        },
+        {
+            "number": 9,
+            "instruction": "Add pumpkin to a large bowl and mash until smooth. Set aside."
+        },
+        {
+            "number": 10,
+            "instruction": "Prepare Filling"
+        },
+        {
+            "number": 11,
+            "instruction": "Mince garlic and dice onions."
+        },
+        {
+            "number": 12,
+            "instruction": "Heat up a large pan to medium heat. Once up to temperature, add oil, garlic, and onions. Sauté until onions start to turn translucent."
+        },
+        {
+            "number": 13,
+            "instruction": "Add vegan beef to onions and garlic. Sauté until browned or fully cooked."
+        },
+        {
+            "number": 14,
+            "instruction": "Remove from heat and add to bowl with mashed pumpkin."
+        },
+        {
+            "number": 15,
+            "instruction": "Add salt and pepper to the bowl and thoroughly mix the contents."
+        },
+        {
+            "number": 16,
+            "instruction": "Add additional salt and pepper as needed to taste."
+        },
+        {
+            "number": 17,
+            "instruction": "Assembly"
+        },
+        {
+            "number": 18,
+            "instruction": "Roll out dough on a lightly floured surface until it’s about 1 to 2 millimeters thick."
+        },
+        {
+            "number": 19,
+            "instruction": "Cut dough into circles with a cookie cutter (mine are about 3 to 4 inches) until you run out of dough."
+        },
+        {
+            "number": 20,
+            "instruction": "In each dough circle add about a tablespoon of filling to each one. Use the sealing method of your choice. I chose to fold and pinch into rounds see in the photo. Repeat this process until you run out of dough and/or filling."
+        },
+        {
+            "number": 21,
+            "instruction": "Bring a pot of water to a rolling boil. Lightly oil your steamer basket and add the manti. Work in batches, allowing each batch to steam for at least 6 minutes or until dough is fully cooked."
+        },
+        {
+            "number": 22,
+            "instruction": "Enjoy immediately hot or save for a comforting lunch."
+        }
+    ]
+}

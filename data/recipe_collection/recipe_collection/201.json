@@ -1,0 +1,163 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/best-apple-crumble",
+    "title": "The best apple crumble",
+    "total_CO2": 1.2527935000000001,
+    "servings": 4,
+    "CO2_per_portion": 0.31319837500000003,
+    "E.Mission coefficient": 1.0783211396109487,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "575 g Bramley apple (3 medium apples), peeled, cored and sliced to 1 cm thick (see tip)",
+            "amount": "575.0",
+            "unit": "g",
+            "ingredient_name": "Bramley apple",
+            "matched_ingredient": "Apple",
+            "kg_equivalent": 0.575,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.20527499999999999
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp golden caster sugar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.027,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.041472
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tbsp golden caster sugar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.027,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.041472
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "175 g plain flour",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.252175
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "110 g golden caster sugar",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.16896
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "110 g golden caster sugar",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "caster sugar",
+            "matched_ingredient": "Caster sugar",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.16896
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "110 g cold butter",
+            "amount": "110.0",
+            "unit": "g",
+            "ingredient_name": "cold butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.11,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.30591
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp rolled oats",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "rolled oats",
+            "matched_ingredient": "Oat",
+            "kg_equivalent": 0.0063,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.009922499999999999
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp demerara sugar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "demerara sugar",
+            "matched_ingredient": "Demerara sugar",
+            "kg_equivalent": 0.0105,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.028056000000000005
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "double cream, clotted cream or custard, to serve",
+            "amount": "1.0",
+            "ingredient_name": "cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.011,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.030591
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "double cream, clotted cream or custard, to serve",
+            "amount": "1",
+            "ingredient_name": "custard",
+            "matched_ingredient": "Custard",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oven to 190C/170 fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Toss 575g peeled, cored and sliced Bramley apples with 2 tbsp golden caster sugar and put in a 23cm round baking dish at least 5cm deep, or a 20cm square dish. Flatten down with your hand to prevent too much crumble falling through."
+        },
+        {
+            "number": 3,
+            "instruction": "Put 175g plain flour and 110g golden caster sugar in a bowl with a good pinch of salt."
+        },
+        {
+            "number": 4,
+            "instruction": "Slice in 110g cold butter and rub it in with your fingertips until the mixture looks like moist breadcrumbs. Shake the bowl and any big bits will come to the surface  rub them in. Alternatively, pulse in a processor until sandy (dont over-process)."
+        },
+        {
+            "number": 5,
+            "instruction": "Pour the crumb mix over the apples to form a pile in the centre, then use a fork to even out."
+        },
+        {
+            "number": 6,
+            "instruction": "Gently press the surface with the back of the fork so the crumble holds together and goes crisp, then lightly drag the fork over the top for a decorative finish."
+        },
+        {
+            "number": 7,
+            "instruction": "Sprinkle 1 tbsp rolled oats and 1 tbsp demerara sugar over evenly, if you wish."
+        },
+        {
+            "number": 8,
+            "instruction": "Set on a baking tray and put in the preheated oven for 35-40 minutes, until the top is golden and the apples feel very soft when you insert a small, sharp knife. Leave to cool for 10 minutes before serving."
+        }
+    ]
+}

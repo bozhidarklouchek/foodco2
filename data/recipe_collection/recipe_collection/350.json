@@ -1,0 +1,269 @@
+{
+    "url": "https://www.kitchensanctuary.com/crispy-sesame-chicken-sticky-asian-sauce/",
+    "title": "Crispy Sesame Chicken with a Sticky Asian Sauce",
+    "total_CO2": 4.12885214,
+    "servings": 4,
+    "CO2_per_portion": 1.032213035,
+    "E.Mission coefficient": 3.952113618960104,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "5 tbsp vegetable oil",
+            "amount": "5.0",
+            "unit": "tbsp",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.28709999999999997
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 eggs (lightly beaten)",
+            "amount": "2.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.4507
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 tbsp cornflour (cornstarch)",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "cornflour",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.0369,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0364572
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "10 tbsp plain (all-purpose) flour",
+            "amount": "10.0",
+            "unit": "tbsp",
+            "ingredient_name": "flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.096,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.13833600000000001
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 tsp pepper",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0012749999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0005801249999999999
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp garlic salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garlic salt",
+            "matched_ingredient": "Garlic salt",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 tsp paprika",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "3 chicken breast fillets (chopped into bite-size chunks)",
+            "amount": "3.0",
+            "ingredient_name": "chicken breast fillets",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.46499999999999997,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.8327799999999996
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tbsp sesame oil (optional - you can leave out and just sprinkle with plenty of sesame seeds at the end if you prefer)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.013845000000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.04993891500000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 cloves garlic (peeled and minced)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 tbsp Chinese rice vinegar (white wine vinegar will work too)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "Chinese rice vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp honey",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.040158
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tbsp sweet chilli sauce (use more or less depending on the brand and how spicy you like it)",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sweet chilli sauce",
+            "matched_ingredient": "Chilli sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "3 tbsp ketchup",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "ketchup",
+            "matched_ingredient": "Tomato ketchup",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 tbsp brown sugar",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.021,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.05611200000000001
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "4 tbsp soy sauce",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.05484
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "boiled rice",
+            "amount": "1.0",
+            "ingredient_name": "rice",
+            "matched_ingredient": "Rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "2 tbsp sesame seeds",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0026688
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "small bunch spring onions/scallions (chopped)",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a wok or large frying pan until very hot."
+        },
+        {
+            "number": 2,
+            "instruction": "Whilst the oil is heating, place the egg in one shallow bowl and the cornflour in another shallow bowl."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the flour, salt, pepper, garlic salt and paprika to another shallow bowl and mix together."
+        },
+        {
+            "number": 4,
+            "instruction": "Dredge the chicken in the cornflour, then dip in the egg (make sure all of the chicken is covered in egg wash), and finally dredge it in the seasoned flour."
+        },
+        {
+            "number": 5,
+            "instruction": "Add to the wok and cook on a high heat for 6-7 minutes, turning two or three times during cooking, until well browned. You may need to cook in two batches (I find I can do it in one batch so long as it's no more than 3 chicken breasts)."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove from the pan and place in a bowl lined with kitchen towels."
+        },
+        {
+            "number": 7,
+            "instruction": "Add all of the sauce ingredients to the hot wok, stir and bubble on a high heat until the sauce reduces by about a third (should take 2-3 minutes)."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the chicken back in and toss in the sauce to coat. Cook for 1-2 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Turn off the heat and divide between four bowls."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with boiled rice and top with sesame seeds and spring onions."
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "url": "https://tasty.co/recipe/slow-cooker-queso-de-cerveza",
+    "title": "Slow Cooker Queso De Cerveza by Tasty",
+    "total_CO2": 32.26621561280852,
+    "servings": 18,
+    "CO2_per_portion": 1.7925675340449179,
+    "E.Mission coefficient": 10.920260238183097,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 lb easy melt processed cheese, cut into 1-inch (2.54 cm) cubes",
+            "amount": "3.0",
+            "unit": "lb",
+            "ingredient_name": "processed cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 1.36077711,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 28.902905816399997
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 3/4 cups green chile, canned, drained",
+            "amount": "2.75",
+            "unit": "cups",
+            "ingredient_name": "green chile",
+            "matched_ingredient": "Spring green",
+            "kg_equivalent": 0.6506176503750001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.284319913213875
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tablespoons ground cumin",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.23278079999999998
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons chili powder",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "chili powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.007917
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tablespoon ground coriander",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.18186
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "4 cloves garlic, minced",
+            "amount": "4.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.012,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00474
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 can fire-roasted diced tomatoes, drained",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "roasted diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 bottle mexican beer",
+            "amount": "1.0",
+            "ingredient_name": "mexican beer",
+            "matched_ingredient": "Beer",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.109,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 cup pico de gallo, drained",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "pico de gallo",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.3376114134855
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 cup scallions, thinly sliced",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "scallions",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 cup fresh cilantro, finely chopped",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "fresh cilantro",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.1033890593505
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 cup shredded monterey jack cheese",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "shredded monterey jack cheese",
+            "matched_ingredient": "Monterey Jack",
+            "kg_equivalent": 0.08044000041000002,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.7085456087084003
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "tortilla chip, for serving",
+            "amount": "1.0",
+            "ingredient_name": "tortilla chip",
+            "matched_ingredient": "Corn tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Combine the easy melt processed cheese, green chiles, cumin, chili powder, coriander, garlic, tomatoes, and beer in a 6-quart slow cooker and stir evenly to incorporate. Cover and cook on high for 2 hours."
+        },
+        {
+            "number": 2,
+            "instruction": "Uncover and stir in the pico de gallo, scallions, and cilantro."
+        },
+        {
+            "number": 3,
+            "instruction": "Sprinkle the Monterey Jack cheese over the top. Cover and cook on high for 30 minutes more."
+        },
+        {
+            "number": 4,
+            "instruction": "Switch the slow cooker setting to Warm and serve the queso with tortilla chips."
+        },
+        {
+            "number": 5,
+            "instruction": "Enjoy!"
+        }
+    ]
+}

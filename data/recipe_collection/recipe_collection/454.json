@@ -1,0 +1,318 @@
+{
+    "url": "https://www.hairybikers.com/recipes/view/moroccan-pastilla",
+    "title": "Moroccan Pastilla",
+    "total_CO2": 6.35084185,
+    "servings": 4,
+    "CO2_per_portion": 1.5877104625,
+    "E.Mission coefficient": 3.0081312271311687,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4-6 boneless chicken thighs (about 750g)",
+            "amount": "5.0",
+            "ingredient_name": "boneless chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.775,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 4.7213
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "10 g butter",
+            "amount": "10.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.02781
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 onions, finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tsp ground ginger",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.001825
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp cinnamon",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp turmeric",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "pinch of saffron",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "saffron",
+            "matched_ingredient": "Saffron",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "500 ml chicken stock",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.15
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "4 eggs, beaten",
+            "amount": "4.0",
+            "ingredient_name": "eggs",
+            "matched_ingredient": "Egg",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.9014
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "75 g ground almonds or pistachios",
+            "amount": "37.5",
+            "unit": "g",
+            "ingredient_name": "ground almonds",
+            "matched_ingredient": "Ground ginger",
+            "kg_equivalent": 0.0375,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0136875
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "75 g ground almonds or pistachios",
+            "amount": "37.5",
+            "unit": "g",
+            "ingredient_name": "pistachios",
+            "matched_ingredient": "Pistachio",
+            "kg_equivalent": 0.0375,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.010425
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "75 g dried dates, finely chopped",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "dried dates",
+            "matched_ingredient": "Date",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.09104999999999999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tbsp orange blossom water",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "orange blossom water",
+            "matched_ingredient": "Orange",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tsp orange zest",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "orange zest",
+            "matched_ingredient": "Orange",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.001585
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "4 tbsp finely chopped parsley",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "chopped parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.02622
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "sea salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "6 large slices of filo pastry",
+            "amount": "6.0",
+            "unit": "large",
+            "ingredient_name": "filo pastry",
+            "matched_ingredient": "Pastry",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 7.605,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "60 g butter, melted",
+            "amount": "60.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.16686
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "1 tbsp icing sugar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "icing sugar",
+            "matched_ingredient": "Icing sugar",
+            "kg_equivalent": 0.008400000000000001,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.012902400000000001
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "pinch of cinnamon",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large frying pan."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the chicken and fry it skin-side down, until crisped up and brown. Turn the thighs over and cook for a couple more minutes, then remove them from the pan."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the butter to the pan and when it has melted, add the onions and fry them gently until soft."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the garlic and spices and fry for a couple more minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Put the chicken back in the pan and pour in the stock or 500ml of water. Season, then cover the pan and simmer for about half an hour or until the chicken is tender."
+        },
+        {
+            "number": 6,
+            "instruction": "Remove the chicken and set it aside. When it is cool enough to handle, finely chop the meat – it’s up to you whether you keep the skin or not."
+        },
+        {
+            "number": 7,
+            "instruction": "Put the liquid back over the heat and reduce it by half."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the eggs to the cooking liquid and continue to cook over a low heat until you have a mixture that resembles loose scrambled eggs."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the ground nuts and stir, then add the dates, orange blossom water, zest and finally, the chicken."
+        },
+        {
+            "number": 10,
+            "instruction": "Remove the pan from the heat and allow to cool."
+        },
+        {
+            "number": 11,
+            "instruction": "Preheat the oven to 180°C/Fan 160°C/Gas"
+        },
+        {
+            "number": 12,
+            "instruction": "To assemble the pie, you need a large ovenproof dish about 28cm in diameter."
+        },
+        {
+            "number": 13,
+            "instruction": "Take a sheet of filo pastry and brush it with melted butter. Drape it over the dish, making sure it is gently pushed into the corners without any tearing. Repeat with another sheet of filo, this time placing it at a right angle to the first. Repeat with a further 2 sheets of filo, this time placing them on the diagonal."
+        },
+        {
+            "number": 14,
+            "instruction": "Spread the filling over the pastry. Fold over the overhanging pieces of filo in reverse order – they should just about cover the filling. Take the remaining 2 pieces of filo and cut them to fit the dish."
+        },
+        {
+            "number": 15,
+            "instruction": "Brush them with butter, then cover the pie, tucking under any corners."
+        },
+        {
+            "number": 16,
+            "instruction": "Bake the pie in the oven for about 30 minutes until the pastry is a crisp, golden brown. "
+        },
+        {
+            "number": 17,
+            "instruction": "Remove from the oven and allow to cool a little before dusting it with the icing sugar and cinnamon."
+        }
+    ]
+}

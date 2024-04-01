@@ -1,0 +1,194 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/vegetarian-bolognese/",
+    "title": "Vegetarian bolognese",
+    "total_CO2": 2.8450977999999996,
+    "servings": 4,
+    "CO2_per_portion": 0.7112744499999999,
+    "E.Mission coefficient": 2.202897969454714,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp olive oil, or another cooking oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tbsp olive oil, or another cooking oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "cooking oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.013800000000000002,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0528264
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 medium onion, finely chopped",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 carrots, very finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 celery sticks , very finely chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 garlic clove , crushed",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "350 g frozen vegetarian mince",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "frozen vegetarian mince",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 1.00485
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 bay leaf",
+            "amount": "1.0",
+            "unit": "leaf",
+            "ingredient_name": "bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "500 ml passata",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 vegetable stock cube",
+            "amount": "1.0",
+            "ingredient_name": "vegetable stock cube",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "100 ml milk",
+            "amount": "100.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.10400000000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.28922400000000004
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "small bunch basil , chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "600 g cooked spaghetti or other pasta shape (about 250 g dried)",
+            "amount": "0.0",
+            "unit": "about 250 g",
+            "ingredient_name": "cooked spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "600 g cooked spaghetti or other pasta shape (about 250 g dried)",
+            "amount": "0.0",
+            "unit": "about 250 g",
+            "ingredient_name": "pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "vegetarian hard cheese, to serve, optional",
+            "amount": "1.0",
+            "ingredient_name": "vegetarian hard cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.5947199999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a saucepan and gently fry the onion, carrots and celery until the onion is starting to soften. Stir in the garlic and the vegetarian mince (there’s no need to defrost it) and fry for a couple of mins."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the bay leaf, passata, vegetable stock cube and 200ml water, then bring everything to the boil."
+        },
+        {
+            "number": 3,
+            "instruction": "Turn down the heat and simmer for 30 mins or until all the pieces of veg are tender and disappearing into the tomato sauce."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the milk, then cover with a lid and cook for 10 mins. Season to taste. If the sauce is a bit thin, keep bubbling until it thickens. Stir through the basil."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve with the spaghetti and grate the cheese over the top, if you like. Can be frozen into portions and reheated."
+        }
+    ]
+}

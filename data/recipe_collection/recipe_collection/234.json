@@ -1,0 +1,123 @@
+{
+    "url": "https://www.quorn.co.uk/recipes/chicken-red-pesto-sauce",
+    "title": "Quorn Fillets in Red Pesto Sauce",
+    "total_CO2": 0.37789967676,
+    "servings": 4,
+    "CO2_per_portion": 0.09447491919,
+    "E.Mission coefficient": 0.12798839856348082,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "6 Quorn Fillets",
+            "amount": "6.0",
+            "ingredient_name": "Quorn Fillets",
+            "matched_ingredient": "Quorn",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.555,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tablespoons olive oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "&frac12; cup of vegetable stock",
+            "amount": "12.0",
+            "unit": "cup",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 2.839058838,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.05678117676
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 tablespoon tomato paste",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "tomato paste",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tablespoons high quality vegetarian red pesto",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "vegetarian red pesto",
+            "matched_ingredient": "Pesto",
+            "kg_equivalent": 0.0174,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.007603799999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tablespoon fresh thyme, chopped",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "fresh thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0038018999999999996
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tablespoons light cream",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "light cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.125145
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Basil leaves to garnish.",
+            "amount": "1.0",
+            "unit": "leaves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a shallow pan and lightly brown the frozen Quorn Fillets"
+        },
+        {
+            "number": 2,
+            "instruction": "In a bowl, mix together the stock, tomato paste, vegetarian pesto and thyme."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour over the Fillets."
+        },
+        {
+            "number": 4,
+            "instruction": "Cover and simmer for 10 minutes"
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer the Fillets to warmed plates."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir the light cream into the sauce; add seasoning to taste and spoon over the sauce"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "url": "https://www.onceuponachef.com/recipes/chinese-vegetable-stir-fry.html",
+    "title": "Chinese Vegetable Stir-Fry",
+    "total_CO2": 3.3882152279361253,
+    "servings": 4,
+    "CO2_per_portion": 0.8470538069840313,
+    "E.Mission coefficient": 0.8358284003819896,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "&frac13; cup soy sauce (use gluten-free if needed)",
+            "amount": "13.0",
+            "unit": "cup",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 3.0756470745,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 2.811141426093
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tablespoons water",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 tablespoons dry sherry or Chinese rice wine",
+            "amount": "1.0",
+            "unit": "tablespoons",
+            "ingredient_name": "dry sherry",
+            "matched_ingredient": "Sherry",
+            "kg_equivalent": 0.01482,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.0234897
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tablespoons dry sherry or Chinese rice wine",
+            "amount": "1.0",
+            "unit": "tablespoons",
+            "ingredient_name": "Chinese rice wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon Asian/toasted sesame oil",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "toasted sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.004615,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.016646305
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 teaspoons sugar",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.009830400000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tablespoon cornstarch",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "cornstarch",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.012299999999999998,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.012152399999999999
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "&frac14; teaspoon red pepper flakes",
+            "amount": "14.0",
+            "unit": "teaspoon",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0357,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0162435
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "&frac14; teaspoon dry mustard",
+            "amount": "14.0",
+            "unit": "teaspoon",
+            "ingredient_name": "dry mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0182,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.007953400000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tablespoons vegetable oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.11484
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 pound broccoli, cut into 1-inch florets (or &frac34; pound florets)",
+            "amount": "1.0",
+            "unit": "pound",
+            "ingredient_name": "broccoli",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.45359237,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.19821986569
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "7 ounces shiitake mushrooms, stems removed and thinly sliced",
+            "amount": "7.0",
+            "unit": "ounces",
+            "ingredient_name": "shiitake mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.198446661875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09029323115312501
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 red bell pepper, thinly sliced",
+            "amount": "1.0",
+            "ingredient_name": "red bell pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "3 cloves garlic, finely chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "3 scallions, thinly sliced, white/light green and dark green parts separated",
+            "amount": "3.0",
+            "ingredient_name": "scallions",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tablespoon grated fresh ginger (see note)",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "grated fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "In a small bowl, whisk the soy sauce, water, dry sherry, sesame oil, sugar, cornstarch, red pepper flakes and dry mustard together. Set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "In a large nonstick skillet, bring 1 inch of water to a rapid boil."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the broccoli and cook for 2-3 minutes, or until tender-crisp. Strain the broccoli in a colander and then run under cold water to stop the cooking process. Set aside and allow to fully drain."
+        },
+        {
+            "number": 4,
+            "instruction": "Wipe the skillet dry."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 2 tablespoons of vegetable oil and heat over high heat."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the shiitake mushrooms and red peppers and cook, stirring occasionally, for 5-6 minutes, until the mushrooms are browned and the peppers are softened."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the garlic, white/light green scallions, and ginger; cook, stirring constantly, until fragrant, about 30 seconds. Return the broccoli to the pan and cook until warmed through, about 1 minute."
+        },
+        {
+            "number": 8,
+            "instruction": "Add the reserved sauce. Toss and cook until the sauce is thickened and the vegetables are evenly coated, about 30 seconds."
+        },
+        {
+            "number": 9,
+            "instruction": "Transfer to serving dish and sprinkle with dark green scallions."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with rice, if desired."
+        },
+        {
+            "number": 11,
+            "instruction": "Note: Check out easy guidance on how to peel, grate, and chop fresh ginger here."
+        }
+    ]
+}

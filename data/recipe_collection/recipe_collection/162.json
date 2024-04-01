@@ -1,0 +1,147 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/smoky-sweet-potato-bean-cakes-citrus-salad",
+    "title": "Smoky sweet potato & bean cakes with citrus salad",
+    "total_CO2": 1.4398786000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.7199393000000001,
+    "E.Mission coefficient": 0.932080916623511,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 sweet potato (about 200g), cut into cubes",
+            "amount": "1.0",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08695
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "400 g can red kidney beans, drained and rinsed",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "red kidney beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3 spring onions, finely sliced",
+            "amount": "3.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.017775
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "small bunch of coriander, chopped",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp chipotle paste",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "chipotle paste",
+            "matched_ingredient": "Chilli paste",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 tbsp sunflower oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sunflower oil",
+            "matched_ingredient": "Sunflower oil",
+            "kg_equivalent": 0.0288,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.1038816
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tbsp mayonnaise",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "mayonnaise",
+            "matched_ingredient": "Mayonnaise",
+            "kg_equivalent": 0.057,
+            "carbon_per_kg": 4.507,
+            "ingredient_carbon": 0.256899
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "juice 1 lime",
+            "amount": "1.0",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 Little Gem lettuce, torn",
+            "amount": "1.0",
+            "ingredient_name": "Gem lettuce",
+            "matched_ingredient": "Lettuce",
+            "kg_equivalent": 0.539,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.235543
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 cucumber, halved lengthways and sliced on the diagonal",
+            "amount": "0.5",
+            "ingredient_name": "cucumber",
+            "matched_ingredient": "Cucumber",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 carrot, halved lengthways and sliced on the diagonal",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Microwave the sweet potato on High for 6 mins until tender. Lightly mash the beans, then add the potatoes, 2 spring onions, coriander, chipotle paste and seasoning. Mash a little more until the potato is combined. Shape into 4 cakes."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat the oil in a non-stick frying pan, then fry the bean cakes for 4-5 mins each side."
+        },
+        {
+            "number": 3,
+            "instruction": "Meanwhile, mix the mayo, lime juice and seasoning in a bowl."
+        },
+        {
+            "number": 4,
+            "instruction": "Add remaining onion and salad ingredients and toss well."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve alongside the bean cakes."
+        }
+    ]
+}

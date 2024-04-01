@@ -1,0 +1,201 @@
+{
+    "url": "https://veganuary.com/recipes/spaghetti-bolognese/",
+    "title": "Vegan Spaghetti Bolognese",
+    "total_CO2": 1.8481366000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.9240683000000001,
+    "E.Mission coefficient": 1.6927428100384685,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 medium onion",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 large carrot",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2-3 cloves of garlic",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 teaspoons of dried rosemary",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "dried rosemary",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00437
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 teaspoons of dried thyme",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Pinch of basil (fresh, frozen, or dried will do)",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Dash of olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 g of vegan mince, you can use a 400 g tin of lentils instead of the mince if you prefer",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "vegan mince",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 1.1484
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Tin of chopped tomatoes",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Spaghetti (75g-100g per person)",
+            "amount": "75.0",
+            "ingredient_name": "Spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Salt & pepper to taste",
+            "amount": "1.0",
+            "ingredient_name": "pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Glass of red wine (optional)",
+            "amount": "1.0",
+            "unit": "glass",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2853
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Sweat off the chopped onion and carrot in the oil until they begin to soften"
+        },
+        {
+            "number": 2,
+            "instruction": "Add the garlic and stir well"
+        },
+        {
+            "number": 3,
+            "instruction": "Add the herbs"
+        },
+        {
+            "number": 4,
+            "instruction": "Add the mince, mix well ensuring the mince is completely coated with the herbs and evenly mixed with the other ingredients"
+        },
+        {
+            "number": 5,
+            "instruction": "Once the mince is warm, add the wine, bring to the boil then simmer"
+        },
+        {
+            "number": 6,
+            "instruction": "Add the tin of tomatoes and stir well"
+        },
+        {
+            "number": 7,
+            "instruction": "Fill the tomato tin with water and add to the mixture before bringing to the boil"
+        },
+        {
+            "number": 8,
+            "instruction": "Leave to simmer on a low heat for 20 minutes, stirring regularly to ensure it does not stick to the pan"
+        },
+        {
+            "number": 9,
+            "instruction": "Taste to check the carrot is cooked through, if not keep on the low heat for another 10 minutes"
+        },
+        {
+            "number": 10,
+            "instruction": "If needs be, add more water to ensure the mixture doesn't dry out"
+        },
+        {
+            "number": 11,
+            "instruction": "Add salt and pepper to your taste"
+        },
+        {
+            "number": 12,
+            "instruction": "Once the bolognese is almost cooked, bring the pasta water pan to the boil, and add the spaghetti"
+        },
+        {
+            "number": 13,
+            "instruction": "Cook the spaghetti for 11-12 minutes, until al dente"
+        },
+        {
+            "number": 14,
+            "instruction": "Once the spaghetti is cooked, drain and add to the bolognese and mix well"
+        },
+        {
+            "number": 15,
+            "instruction": "Serve with a sprinkling of basil if you like"
+        }
+    ]
+}

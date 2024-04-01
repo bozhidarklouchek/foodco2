@@ -1,0 +1,212 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/rice-recipes/chicken-chorizo-paella/",
+    "title": "Chicken & chorizo paella",
+    "total_CO2": 42.843514000000006,
+    "servings": 4,
+    "CO2_per_portion": 10.710878500000002,
+    "E.Mission coefficient": 6.809853768636552,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cloves of garlic",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 carrot",
+            "amount": "1.0",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.06,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0219
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 a bunch of fresh flat-leaf parsley (15g)",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "fresh flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.0005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0002185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "70 g quality chorizo",
+            "amount": "70.0",
+            "ingredient_name": "chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 5.25,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 38.2305
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 free-range chicken thighs skin off, bone out",
+            "amount": "2.0",
+            "ingredient_name": "free-range chicken thighs skin",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.31,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.88852
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "olive oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 teaspoon sweet smoked paprika",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "sweet smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 red pepper",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 tablespoon tomato purée",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 organic chicken stock cube",
+            "amount": "1.0",
+            "ingredient_name": "organic chicken stock cube",
+            "matched_ingredient": "Chicken stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "300 g paella rice",
+            "amount": "300.0",
+            "ingredient_name": "paella rice",
+            "matched_ingredient": "Paella rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "100 g frozen peas",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.08960000000000001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "200 g frozen peeled cooked prawns from sustainable sources",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "frozen peeled cooked prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 2.3708
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Peel and finely slice the garlic, peel and roughly chop the onion and carrot. Finely chop the parsley stalks, then roughly chop the chorizo and chicken thighs."
+        },
+        {
+            "number": 3,
+            "instruction": "Put a lug of oil into a large lidded shallow casserole or paella pan on a medium heat, add the garlic, onion, carrot, parsley stalks, chorizo, chicken and paprika, and fry for around 5 minutes, stirring regularly."
+        },
+        {
+            "number": 4,
+            "instruction": "Deseed and chop the pepper, then add to the pan for a further 5 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Stir through the tomato purée and crumble in the stock cube, then add the rice and stir for a couple of minutes so it starts to suck up all that lovely flavour."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour in 750ml of boiling water and add a pinch of sea salt and black pepper. Pop the lid on and bring to the boil, then reduce to a simmer for 15 minutes, stirring regularly from the outside in and from the inside out, and adding a splash of water if needed."
+        },
+        {
+            "number": 7,
+            "instruction": "Stir in the peas and prawns, replace the lid, and cook for a further 5 minutes, or until hot through."
+        },
+        {
+            "number": 8,
+            "instruction": "Season to perfection, then chop the parsley leaves, scatter them over the paella, and serve with lemon wedges on the side for squeezing over."
+        },
+        {
+            "number": 9,
+            "instruction": "Tips"
+        },
+        {
+            "number": 10,
+            "instruction": "My advice here is simple – delicious as this dish is, if you’re feeling a bit flush, adding six mussels, six clams and any extra bits of fish you can afford is only going to make it even more of a celebration."
+        },
+        {
+            "number": 11,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "url": "https://drivemehungry.com/yaki-udon-stir-fried-udon-noodles/",
+    "title": "Yaki Udon",
+    "total_CO2": 2.5031364691093754,
+    "servings": 2,
+    "CO2_per_portion": 1.2515682345546877,
+    "E.Mission coefficient": 1.4760065189647964,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 packets udon noodles (total 13 oz vacuum packed noodles; see Note 1)",
+            "amount": "2.0",
+            "ingredient_name": "udon noodles",
+            "matched_ingredient": "Wheat noodle",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "21/2 cups stir fry vegetables (chopped (I used mushrooms, bok choy, onions))",
+            "amount": "10.5",
+            "unit": "cups",
+            "ingredient_name": "vegetables",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 1.2420882416249999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.565150149939375
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 stalks scallions (cut 2 inches long)",
+            "amount": "2.0",
+            "ingredient_name": "scallions",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 lb ground meat (beef, chicken, turkey, pork, shrimp)",
+            "amount": "0.5",
+            "unit": "lb",
+            "ingredient_name": "ground meat",
+            "matched_ingredient": "Luncheon meat",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 1.65152981917
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 Tablespoon avocado oil",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "avocado oil",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.01125
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "21/2 Tablespoons dark soy sauce (see Note 2)",
+            "amount": "10.5",
+            "unit": "Tablespoons",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.1575,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.143955
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 Tablespoons oyster sauce (see Note 3)",
+            "amount": "2.0",
+            "unit": "Tablespoons",
+            "ingredient_name": "oyster sauce",
+            "matched_ingredient": "Oyster sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.08481
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 Tablespoon mirin (see Note 4)",
+            "amount": "1.0",
+            "unit": "Tablespoon",
+            "ingredient_name": "mirin",
+            "matched_ingredient": "Mirin",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 teaspoons brown sugar",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.007,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.018704000000000002
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 teaspoon rice wine vinegar",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "rice wine vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.0039625
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Mix all the ingredients for the sauce in a small bowl and set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "2½ Tablespoons dark soy sauce, 2 Tablespoons oyster sauce, 1 Tablespoon mirin, 2 teaspoons brown sugar, ½ teaspoon rice wine vinegar"
+        },
+        {
+            "number": 3,
+            "instruction": "Cook the Udon Noodles"
+        },
+        {
+            "number": 4,
+            "instruction": "Remove your udon noodles from its package and add it to a pot of boiling water. Frozen udon noodles can be added directly to the pot of boiling water. Stir gently until your udon noodles are separated and pliable. This should take 1 - 2 minutes. They come precooked so avoid overcooking them as they can get too soft."
+        },
+        {
+            "number": 5,
+            "instruction": "2 packets udon noodles"
+        },
+        {
+            "number": 6,
+            "instruction": "Rinse and drain your noodles under cold water. If not using right away, drizzle on a little bit of oil to keep them from sticking."
+        },
+        {
+            "number": 7,
+            "instruction": "Stir Fry"
+        },
+        {
+            "number": 8,
+            "instruction": "Heat your pan over high heat and add the oil."
+        },
+        {
+            "number": 9,
+            "instruction": "Add in the ground meat and stir fry until almost cooked."
+        },
+        {
+            "number": 10,
+            "instruction": "Add the vegetables and stir fry until meat is fully cooked and vegetables are soft. Next add in the noodles, sauce, and scallions."
+        },
+        {
+            "number": 11,
+            "instruction": "Add less sauce if you prefer. Continue stir frying for about 3 minutes or until well combined."
+        },
+        {
+            "number": 12,
+            "instruction": "Serve immediately."
+        },
+        {
+            "number": 13,
+            "instruction": "2½ cups stir fry vegetables, ½ lb ground meat, 1 Tablespoon avocado oil, 2 stalks scallions"
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/best_vegetable_lasagne_50381",
+    "title": "Veggie lasagne",
+    "total_CO2": 7.05173235,
+    "servings": 6,
+    "CO2_per_portion": 1.175288725,
+    "E.Mission coefficient": 2.980192861972783,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 yellow or red peppers, seeds removed, cut into roughly 2cm/¾in chunks",
+            "amount": "1.0",
+            "ingredient_name": "yellow",
+            "matched_ingredient": "Porridge oat",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 yellow or red peppers, seeds removed, cut into roughly 2cm/¾in chunks",
+            "amount": "1.0",
+            "ingredient_name": "red peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 courgette, about 300g/10½oz, quartered lengthways and cut into roughly 2cm/¾in chunks",
+            "amount": "1.0",
+            "ingredient_name": "courgette",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 large sweet potato, peeled and cut into roughly 2cm/¾in chunks",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.235,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.08695
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 tbsp extra virgin olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "extra virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.1584792
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large onion, finely chopped",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp dried chilli flakes",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 x 400g tins chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tsp Italian seasoning or dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "Italian seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tsp Italian seasoning or dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 vegetable stock cube",
+            "amount": "1.0",
+            "ingredient_name": "vegetable stock cube",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "200 ml/7 fl oz cold water",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "cold water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "100 g/31/2 oz young spinach leaves (optional)",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "young spinach leaves",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "9-10 dried lasagne sheets",
+            "amount": "9.5",
+            "ingredient_name": "dried lasagne",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "75 g/21/2 oz plain flour",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.108075
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "75 g/21/2 oz butter, cubed",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.208575
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "750 ml/11/4 pint milk, semi-skimmed or full-fat",
+            "amount": "375.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.39,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.0845900000000002
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "750 ml/11/4 pint milk, semi-skimmed or full-fat",
+            "amount": "375.0",
+            "unit": "ml",
+            "ingredient_name": "fat",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.31875000000000003,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.5131875000000001
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "125 g/41/2 oz mature cheddar, coarsely grated",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "mature cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.655
+        },
+        {
+            "ingredient_number": 22,
+            "original_string": "75 g/21/2 oz grated mozzarella, or extra cheddar",
+            "amount": "37.5",
+            "unit": "g",
+            "ingredient_name": "grated mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.0375,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.7964999999999999
+        },
+        {
+            "ingredient_number": 23,
+            "original_string": "75 g/21/2 oz grated mozzarella, or extra cheddar",
+            "amount": "37.5",
+            "unit": "g",
+            "ingredient_name": "cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.0375,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.7964999999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 200C/180C Fan/Gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Put the peppers, courgette and sweet potato into a large baking tray."
+        },
+        {
+            "number": 3,
+            "instruction": "Drizzle with 2 tablespoons of the oil, season with salt and pepper and toss together."
+        },
+        {
+            "number": 4,
+            "instruction": "Roast for 30 minutes, or until softened and lightly browned."
+        },
+        {
+            "number": 5,
+            "instruction": "While the vegetables are roasting, heat the remaining oil in a large saucepan and gently fry the onion for 5 minutes, stirring regularly."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the chilli and garlic and cook for a few seconds more. Stir in the tomatoes, Italian seasoning (or dried oregano) and crumbled stock cube."
+        },
+        {
+            "number": 7,
+            "instruction": "Pour over the water and bring to a gentle simmer. Cook for 10 minutes, stirring regularly. Set aside."
+        },
+        {
+            "number": 8,
+            "instruction": "For the cheese sauce, put the flour, butter and milk in a large saucepan and place over a medium heat."
+        },
+        {
+            "number": 9,
+            "instruction": "Whisk constantly with a large metal whisk until the sauce is thickened and smooth. (Use a silicone covered whisk if cooking in a non-stick pan.) Stir in roughly two-thirds of the cheeses and season to taste."
+        },
+        {
+            "number": 10,
+            "instruction": "Take the vegetables out of the oven and add to the pan with the tomato sauce. Stir in the spinach and cook together for 3 minutes. Season with salt and lots of ground black pepper."
+        },
+        {
+            "number": 11,
+            "instruction": "Spoon a third of the vegetable mixture over the base of a 2½–3 litre/4½–5¼  pint ovenproof lasagne dish and cover with a single layer of lasagne. Top with another third of the vegetable mixture (don’t worry if it doesn’t cover evenly) and a second layer of lasagne."
+        },
+        {
+            "number": 12,
+            "instruction": "Pour over just under half of the cheese sauce and very gently top with the remaining vegetable mixture. Finish with a final layer of lasagne and the rest of the cheese sauce."
+        },
+        {
+            "number": 13,
+            "instruction": "Sprinkle the reserved cheese over the top."
+        },
+        {
+            "number": 14,
+            "instruction": "Bake for 35–40 minutes, or until the pasta has softened and the topping is golden brown and bubbling. Stand for 5 minutes before cutting to allow the filling to settle."
+        }
+    ]
+}

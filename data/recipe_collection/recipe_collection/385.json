@@ -1,0 +1,131 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/red_lentil_squash_and_72513",
+    "title": "Red lentil and butternut squash soup",
+    "total_CO2": 0.80960155,
+    "servings": 4,
+    "CO2_per_portion": 0.2024003875,
+    "E.Mission coefficient": 0.4412718973129122,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 fat garlic cloves, finely chopped (optional)",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "fat garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "7.5 cm/3 inch piece root ginger, peeled and finely grated",
+            "amount": "7.5",
+            "unit": "cm",
+            "ingredient_name": "root ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "300 g/101/2 oz red lentils",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.483
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1.2 litres/2 pints hot vegetable stock",
+            "amount": "1.2",
+            "unit": "litres",
+            "ingredient_name": "hot vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 1.2,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.024
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "300 g/101/2 oz butternut squash, cut into 1 cm/½-inch cubes",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "butternut squash",
+            "matched_ingredient": "Butternut squash",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1365
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "salt and freshly ground black pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp red chilli flakes (optional)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "red chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.00125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00056875
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat half the oil over a medium heat in a large, heavy-based saucepan."
+        },
+        {
+            "number": 2,
+            "instruction": "Add half the garlic, if using, half the ginger and all the chilli flakes, if using. Fry, stirring all the time, for 1 minute."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the lentils and fry, stirring, for a further minute."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour in the stock and bring to the boil. Simmer, with the lid off, for 10–12 minutes, or until the lentils are soft."
+        },
+        {
+            "number": 5,
+            "instruction": "Meanwhile, heat the remaining oil in a heavy-based frying pan."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the remaining garlic and ginger and the butternut squash and cook, stirring, for 12 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the butternut squash to the lentils and cook for a further 5 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove from the heat and blitz using a stick blender until smooth. Season to taste with salt and pepper."
+        }
+    ]
+}

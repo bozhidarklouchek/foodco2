@@ -1,0 +1,260 @@
+{
+    "url": "https://cupfulofkale.com/easy-vegan-chickpea-and-spinach-curry/",
+    "title": "Creamy Chickpea and Spinach Curry",
+    "total_CO2": 0.6731747,
+    "servings": 2,
+    "CO2_per_portion": 0.33658735,
+    "E.Mission coefficient": 0.8205694956574736,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 red onion",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 garlic cloves",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 inch fresh ginger",
+            "amount": "1.0",
+            "unit": "inch",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 large tomatoes",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 tbsp tomato puree",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato puree",
+            "matched_ingredient": "Tomato puree",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp curry powder, medium",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 tsp garam masala",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "garam masala",
+            "matched_ingredient": "Garam masala",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 tsp ground ginger",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0009125
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 tsp ground cumin",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0016,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.019398400000000003
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 tsp turmeric",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0087899
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 tsp salt",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Pinch of hot chilli powder (or more if you like it spicy)",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "hot chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tin (400ml) full fat coconut milk",
+            "amount": "1.0",
+            "unit": "tin",
+            "ingredient_name": "fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "200 ml water",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tins (800g) chickpeas, drained",
+            "amount": "2.0",
+            "unit": "tins",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.004,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.00644
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "3 handfuls spinach",
+            "amount": "3.0",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "Fresh coriander",
+            "amount": "1.0",
+            "ingredient_name": "Fresh coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "Drizzle vegan cream",
+            "amount": "1.0",
+            "ingredient_name": "vegan cream",
+            "matched_ingredient": "Cream",
+            "kg_equivalent": 0.011,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.030591
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "Thinly sliced red onion",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat a tbsp of oil in a large frying pan on medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Finely chop the onion and add to the pan. Fry for a few minutes before adding minced garlic and grated ginger."
+        },
+        {
+            "number": 3,
+            "instruction": "Fry for a minute until fragrant and the onion is soft."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the chopped tomatoes and fry until the tomatoes have broken down. Help by squishing them with the back of a spoon when soft."
+        },
+        {
+            "number": 5,
+            "instruction": "Add the tomato puree, all the spices, salt and a drizzle of oil. Stir and cook for a minute until fragrant and it resembles a paste."
+        },
+        {
+            "number": 6,
+            "instruction": "Now add the coconut milk and water (fill the empty tin halfway for 200ml). Stir and leave to simmer for 10 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Drain the chickpeas and add after 10 minutes. Leave for a further 20 minutes."
+        },
+        {
+            "number": 8,
+            "instruction": "Cook the spinach."
+        },
+        {
+            "number": 9,
+            "instruction": "Add to a bowl of boiled water and when wilted, pour into a sieve and squeeze out any excess water from the spinach."
+        },
+        {
+            "number": 10,
+            "instruction": "Roughly chop and add the the curry when it's ready."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve and top with fresh coriander, chilli flakes, thinly sliced onion and vegan cream!"
+        }
+    ]
+}

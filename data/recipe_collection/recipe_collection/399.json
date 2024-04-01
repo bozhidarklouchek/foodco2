@@ -1,0 +1,133 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/honey-mustard-chicken-thighs-spring-veg?utm_source=app",
+    "title": "Honey & mustard chicken thighs with spring veg",
+    "total_CO2": 4.1713427,
+    "servings": 2,
+    "CO2_per_portion": 2.08567135,
+    "E.Mission coefficient": 3.2378031164496535,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp honey",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0207,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.020079
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp wholegrain mustard",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "wholegrain mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0039000000000000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0017043000000000002
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 garlic cloves, crushed",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "zest and juice 1 lemon",
+            "amount": "1.0",
+            "ingredient_name": "juice",
+            "matched_ingredient": "Apple juice",
+            "kg_equivalent": 0.124,
+            "carbon_per_kg": 0.357,
+            "ingredient_carbon": 0.044267999999999995
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 chicken thighs, skin on",
+            "amount": "4.0",
+            "ingredient_name": "chicken thighs",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.62,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.77704
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "300 g new potatoes, unpeeled, smaller left whole, bigger halved",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "new potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.111
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "100 g spinach",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0437
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "100 g frozen peas",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.08960000000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat oven to 200C/180C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "In a small bowl, mix together the honey, mustard, garlic and the lemon zest and juice."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour the marinade over the chicken thighs and season."
+        },
+        {
+            "number": 4,
+            "instruction": "Put the chicken, skin-side up, on a large baking tray, then dot the new potatoes in between them."
+        },
+        {
+            "number": 5,
+            "instruction": "Drizzle the oil over the potatoes and sprinkle with sea salt. Roast in the oven for 35 mins until the chicken skin caramelises and is charred in places."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the spinach and peas to the roasting tray. Return to the oven for 2-3 mins until the spinach has begun to wilt and the peas are hot and covered in the mustardy sauce."
+        }
+    ]
+}

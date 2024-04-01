@@ -1,0 +1,197 @@
+{
+    "url": "https://www.budgetbytes.com/cold-peanut-noodle-salad/",
+    "title": "Cold Peanut Noodle Salad",
+    "total_CO2": 1.31212554018494,
+    "servings": 4,
+    "CO2_per_portion": 0.328031385046235,
+    "E.Mission coefficient": 0.7840765155360064,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 Tbsp natural-style peanut butter ($0.21)",
+            "amount": "3.0",
+            "unit": "Tbsp",
+            "ingredient_name": "natural-style peanut butter",
+            "matched_ingredient": "Peanut butter",
+            "kg_equivalent": 0.028350000000000004,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.07078995
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 Tbsp brown sugar ($0.04)",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0105,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.028056000000000005
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 Tbsp brown sugar ($0.04)",
+            "amount": "1.0",
+            "unit": "Tbsp",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.0105,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.028056000000000005
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 clove garlic, minced ($0.08)",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 tsp grated fresh ginger ($0.05)",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "grated fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0009125
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 medium lime, juiced (2 Tbsp juice) ($0.69)",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "medium lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.004755
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 tsp soy sauce ($0.08)",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.01,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.00914
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 cup neutral oil* ($0.82)",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "neutral oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.05441529439500001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.20830174694406003
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "8 oz. whole wheat spaghetti ($0.55)",
+            "amount": "8.0",
+            "unit": "oz",
+            "ingredient_name": "whole wheat spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.326813302585
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "4 cups finely shredded red cabbage ($1.12)",
+            "amount": "4.0",
+            "unit": "cups",
+            "ingredient_name": "shredded red cabbage",
+            "matched_ingredient": "Cabbage",
+            "kg_equivalent": 0.946352946,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.413556237402
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 carrots ($0.22)",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 bunch cilantro (about 1/2 cup chopped) ($0.75)",
+            "amount": "0.5",
+            "unit": "bunch",
+            "ingredient_name": "cilantro",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "4 green onions (about 1/2 cup sliced) ($0.45)",
+            "amount": "4.0",
+            "unit": "cup",
+            "ingredient_name": "green onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.20819764812,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.08223807100740001
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 cup peanuts, chopped ($0.24)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "peanuts",
+            "matched_ingredient": "Peanut",
+            "kg_equivalent": 0.03785411784,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.09452173224648
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the peanut lime dressing, combine all the ingredients in a bowl or blender."
+        },
+        {
+            "number": 2,
+            "instruction": "Whisk or blend until smooth. Set the dressing aside."
+        },
+        {
+            "number": 3,
+            "instruction": "Bring a pot of water to a boil for the whole wheat spaghetti. Break the spaghetti in half to make it easier to stir into the salad ingredients later. Once the water is boiling, add the spaghetti, and continue to boil until the pasta is tender."
+        },
+        {
+            "number": 4,
+            "instruction": "Drain in a colander and rinse it briefly with cold water to cool it off."
+        },
+        {
+            "number": 5,
+            "instruction": "Let the pasta drain well."
+        },
+        {
+            "number": 6,
+            "instruction": "Meanwhile, shred the cabbage as finely as possible using either a knife or the shredding attachment of a food processor. Shred the carrots using a large-holed cheese grater. Roughly chop the cilantro and peanuts. Slice the green onion."
+        },
+        {
+            "number": 7,
+            "instruction": "Combine the cooled and well drained pasta in a large bowl with the cabbage, carrots, cilantro, green onion, and peanuts. Toss the salad until the ingredients are evenly combined."
+        },
+        {
+            "number": 8,
+            "instruction": "Serve the salad and peanut lime dressing immediately, or divide the undressed salad between four containers (about 2 cups each) and divide the dressing between four smaller containers (about 2 Tbsp or slightly more each). Refrigerate up to 4-5 days."
+        }
+    ]
+}

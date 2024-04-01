@@ -1,0 +1,7079 @@
+[
+    {
+        "ingredient": "Apple",
+        "foodon_ids": [
+            "FOODON_00002473"
+        ],
+        "alternate_names": [
+            "apple (whole)",
+            "apple"
+        ],
+        "foodon_foodex2_id": "FOODON_03541473"
+    },
+    {
+        "ingredient": "Apple juice",
+        "foodon_ids": [
+            "FOODON_00001059"
+        ],
+        "alternate_names": [
+            "apple juice"
+        ],
+        "foodon_foodex2_id": "FOODON_03543171"
+    },
+    {
+        "ingredient": "Apple sauce",
+        "foodon_ids": [
+            "FOODON_03301126"
+        ],
+        "alternate_names": [
+            "applesauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544148"
+    },
+    {
+        "ingredient": "Cider",
+        "foodon_ids": [
+            "FOODON_00001276"
+        ],
+        "alternate_names": [
+            "apple cider (alcoholic)",
+            "cider"
+        ],
+        "foodon_foodex2_id": "FOODON_03543357"
+    },
+    {
+        "ingredient": "Pear",
+        "foodon_ids": [
+            "FOODON_03301724"
+        ],
+        "alternate_names": [
+            "pear (whole, raw)",
+            "pear"
+        ],
+        "foodon_foodex2_id": "FOODON_03541477"
+    },
+    {
+        "ingredient": "Capers",
+        "foodon_ids": [
+            "FOODON_00001681",
+            "FOODON_00003493"
+        ],
+        "alternate_names": [
+            "caper food product",
+            "caper",
+            "capers",
+            "caper (whole)",
+            "Flinders rose",
+            "caper bush"
+        ],
+        "foodon_foodex2_id": "FOODON_03541329"
+    },
+    {
+        "ingredient": "Laverbread",
+        "foodon_ids": [
+            "NCBITaxon_2786"
+        ],
+        "alternate_names": [
+            "Porphyra umbilicalis"
+        ],
+        "foodon_foodex2_id": "FOODON_03540766"
+    },
+    {
+        "ingredient": "Nori",
+        "foodon_ids": [
+            "FOODON_03315448"
+        ],
+        "alternate_names": [
+            "nori"
+        ],
+        "foodon_foodex2_id": "FOODON_03540766"
+    },
+    {
+        "ingredient": "Salsify",
+        "foodon_ids": [
+            "NCBITaxon_114289"
+        ],
+        "alternate_names": [
+            "Scorzonera hispanica ",
+            "black oysterplant",
+            "spanish salsify",
+            "common viper's-grass",
+            "black salsify",
+            "scorzonera hispanica"
+        ],
+        "foodon_foodex2_id": "FOODON_03540406"
+    },
+    {
+        "ingredient": "Seaweed",
+        "foodon_ids": [
+            "FOODON_03412266"
+        ],
+        "alternate_names": [
+            "seaweed",
+            "macroalgae"
+        ],
+        "foodon_foodex2_id": "FOODON_03540759"
+    },
+    {
+        "ingredient": "Banana",
+        "foodon_ids": [
+            "FOODON_03316257"
+        ],
+        "alternate_names": [
+            "banana (whole)",
+            "banana"
+        ],
+        "foodon_foodex2_id": "FOODON_03541736"
+    },
+    {
+        "ingredient": "Matoki",
+        "foodon_ids": [
+            "NCBITaxon_4641"
+        ],
+        "alternate_names": [
+            "Musa acuminata",
+            "dwarf banana",
+            "dessert bananas",
+            "sweet banana"
+        ],
+        "foodon_foodex2_id": "FOODON_03541737"
+    },
+    {
+        "ingredient": "Plantain",
+        "foodon_ids": [
+            "FOODON_03310126"
+        ],
+        "alternate_names": [
+            "plantain (whole, raw)",
+            "plantain"
+        ],
+        "foodon_foodex2_id": "FOODON_03541741"
+    },
+    {
+        "ingredient": "Ale",
+        "foodon_ids": [
+            "FOODON_03302111"
+        ],
+        "alternate_names": [
+            "ale"
+        ],
+        "foodon_foodex2_id": "FOODON_03543338"
+    },
+    {
+        "ingredient": "Beer",
+        "foodon_ids": [
+            "FOODON_00001260"
+        ],
+        "alternate_names": [
+            "beer beverage"
+        ],
+        "foodon_foodex2_id": "FOODON_03543332"
+    },
+    {
+        "ingredient": "Lager",
+        "foodon_ids": [
+            "FOODON_00001260"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543333"
+    },
+    {
+        "ingredient": "Nutritional yeast",
+        "foodon_ids": [
+            "FOODON_03401307"
+        ],
+        "alternate_names": [
+            "yeast supplement"
+        ],
+        "foodon_foodex2_id": "FOODON_03543823"
+    },
+    {
+        "ingredient": "Stout",
+        "foodon_ids": [
+            "FOODON_03315635"
+        ],
+        "alternate_names": [
+            "stout (fish, food product)"
+        ],
+        "foodon_foodex2_id": "FOODON_03543341"
+    },
+    {
+        "ingredient": "Yeast",
+        "foodon_ids": [
+            "FOODON_03411345"
+        ],
+        "alternate_names": [
+            "yeast"
+        ],
+        "foodon_foodex2_id": "FOODON_03544455"
+    },
+    {
+        "ingredient": "Yeast extract",
+        "foodon_ids": [
+            "FOODON_03315426"
+        ],
+        "alternate_names": [
+            "yeast extract"
+        ],
+        "foodon_foodex2_id": "FOODON_03544084"
+    },
+    {
+        "ingredient": "Barbeque sauce",
+        "foodon_ids": [
+            "FOODON_03302062"
+        ],
+        "alternate_names": [
+            "barbeque sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544196"
+    },
+    {
+        "ingredient": "Caster sugar",
+        "foodon_ids": [
+            "FOODON_03316271"
+        ],
+        "alternate_names": [
+            "sugar product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542985"
+    },
+    {
+        "ingredient": "Chutney",
+        "foodon_ids": [
+            "FOODON_03317544"
+        ],
+        "alternate_names": [
+            "chutney"
+        ],
+        "foodon_foodex2_id": "FOODON_03544133"
+    },
+    {
+        "ingredient": "Club soda",
+        "foodon_ids": [
+            "FOODON_03304065"
+        ],
+        "alternate_names": [
+            "club soda"
+        ],
+        "foodon_foodex2_id": "FOODON_03543271"
+    },
+    {
+        "ingredient": "Cola",
+        "foodon_ids": [
+            "FOODON_03302254"
+        ],
+        "alternate_names": [
+            "cola carbonated beverage (artificially sweetened)"
+        ],
+        "foodon_foodex2_id": "FOODON_03543317"
+    },
+    {
+        "ingredient": "Golden syrup",
+        "foodon_ids": [
+            "FOODON_03307582"
+        ],
+        "alternate_names": [
+            "treacle"
+        ],
+        "foodon_foodex2_id": "FOODON_03543010"
+    },
+    {
+        "ingredient": "Granulated sugar",
+        "foodon_ids": [
+            "FOODON_03301073"
+        ],
+        "alternate_names": [
+            "sugar (granulated)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542985"
+    },
+    {
+        "ingredient": "Icing",
+        "foodon_ids": [
+            "FOODON_03301932"
+        ],
+        "alternate_names": [
+            "icing (food product)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542993"
+    },
+    {
+        "ingredient": "Icing sugar",
+        "foodon_ids": [
+            "FOODON_03301932"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03542993"
+    },
+    {
+        "ingredient": "Marshmallow",
+        "foodon_ids": [
+            "FOODON_03305639"
+        ],
+        "alternate_names": [
+            "marshmallow"
+        ],
+        "foodon_foodex2_id": "FOODON_03543051"
+    },
+    {
+        "ingredient": "Sugar",
+        "foodon_ids": [
+            "FOODON_03420108"
+        ],
+        "alternate_names": [
+            "sugar"
+        ],
+        "foodon_foodex2_id": "FOODON_03542984"
+    },
+    {
+        "ingredient": "Amla",
+        "foodon_ids": [
+            "NCBITaxon_296036"
+        ],
+        "alternate_names": [
+            "Phyllanthus emblica",
+            "emblic",
+            "amla",
+            "Indian gooseberry"
+        ],
+        "foodon_foodex2_id": "FOODON_03541609"
+    },
+    {
+        "ingredient": "Blackberries",
+        "foodon_ids": [
+            "FOODON_00003487"
+        ],
+        "alternate_names": [
+            "blackberry (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541543"
+    },
+    {
+        "ingredient": "Blackcurrant",
+        "foodon_ids": [
+            "FOODON_03311604"
+        ],
+        "alternate_names": [
+            "black currant (whole, raw)",
+            "black currant",
+            "blackcurrant"
+        ],
+        "foodon_foodex2_id": "FOODON_03541608"
+    },
+    {
+        "ingredient": "Blueberries",
+        "foodon_ids": [
+            "FOODON_00003541"
+        ],
+        "alternate_names": [
+            "blueberry (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541564"
+    },
+    {
+        "ingredient": "Cherry",
+        "foodon_ids": [
+            "FOODON_03301240"
+        ],
+        "alternate_names": [
+            "cherry (whole, raw)",
+            "cherry"
+        ],
+        "foodon_foodex2_id": "FOODON_03541495"
+    },
+    {
+        "ingredient": "Cranberries",
+        "foodon_ids": [
+            "FOODON_03301723"
+        ],
+        "alternate_names": [
+            "cranberry (whole, raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541595"
+    },
+    {
+        "ingredient": "Cranberry sauce",
+        "foodon_ids": [
+            "FOODON_03301244"
+        ],
+        "alternate_names": [
+            "cranberry sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03541874"
+    },
+    {
+        "ingredient": "Currant",
+        "foodon_ids": [
+            "FOODON_03303397"
+        ],
+        "alternate_names": [
+            "currant food product",
+            "currant"
+        ],
+        "foodon_foodex2_id": "FOODON_03541605"
+    },
+    {
+        "ingredient": "Damson",
+        "foodon_ids": [
+            "FOODON_03305782"
+        ],
+        "alternate_names": [
+            "damson plum jam"
+        ],
+        "foodon_foodex2_id": "FOODON_03541517"
+    },
+    {
+        "ingredient": "Date",
+        "foodon_ids": [
+            "FOODON_03304506"
+        ],
+        "alternate_names": [
+            "date (whole, raw)",
+            "date"
+        ],
+        "foodon_foodex2_id": "FOODON_03541642"
+    },
+    {
+        "ingredient": "Elderberries",
+        "foodon_ids": [
+            "FOODON_03311347"
+        ],
+        "alternate_names": [
+            "elderberry (whole, raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541623"
+    },
+    {
+        "ingredient": "Gooseberries",
+        "foodon_ids": [
+            "FOODON_00001914"
+        ],
+        "alternate_names": [
+            "gooseberry food product",
+            "gooseberry"
+        ],
+        "foodon_foodex2_id": "FOODON_03541610"
+    },
+    {
+        "ingredient": "Grape",
+        "foodon_ids": [
+            "FOODON_03301123"
+        ],
+        "alternate_names": [
+            "grape (whole, raw)",
+            "grape"
+        ],
+        "foodon_foodex2_id": "FOODON_03541528"
+    },
+    {
+        "ingredient": "Grape leaves",
+        "foodon_ids": [
+            "FOODON_03540454"
+        ],
+        "alternate_names": [
+            "grape leaves"
+        ],
+        "foodon_foodex2_id": "FOODON_03540454"
+    },
+    {
+        "ingredient": "Greengage",
+        "foodon_ids": [
+            "FOODON_03306393"
+        ],
+        "alternate_names": [
+            "greengage preserves"
+        ],
+        "foodon_foodex2_id": "FOODON_03541518"
+    },
+    {
+        "ingredient": "Jam",
+        "foodon_ids": [
+            "FOODON_03309973"
+        ],
+        "alternate_names": [
+            "jam"
+        ],
+        "foodon_foodex2_id": "FOODON_03541805"
+    },
+    {
+        "ingredient": "Loganberries",
+        "foodon_ids": [
+            "FOODON_03302049"
+        ],
+        "alternate_names": [
+            "loganberry (whole, raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541547"
+    },
+    {
+        "ingredient": "Mixed fruit",
+        "foodon_ids": [
+            "FOODON_03307162"
+        ],
+        "alternate_names": [
+            "mixed fruit preserves"
+        ],
+        "foodon_foodex2_id": "FOODON_03541856"
+    },
+    {
+        "ingredient": "Mulberries",
+        "foodon_ids": [
+            "FOODON_00003135"
+        ],
+        "alternate_names": [
+            "mulberry (whole, raw)",
+            "mulberry"
+        ],
+        "foodon_foodex2_id": "FOODON_03541617"
+    },
+    {
+        "ingredient": "Physalis",
+        "foodon_ids": [
+            "NCBITaxon_24663"
+        ],
+        "alternate_names": [
+            "Physalis"
+        ],
+        "foodon_foodex2_id": "FOODON_03540640"
+    },
+    {
+        "ingredient": "Pimento",
+        "foodon_ids": [
+            "FOODON_00003484"
+        ],
+        "alternate_names": [
+            "pimiento (whole)",
+            "pimento",
+            "cherry pepper"
+        ],
+        "foodon_foodex2_id": "FOODON_03540650"
+    },
+    {
+        "ingredient": "Raisin",
+        "foodon_ids": [
+            "FOODON_03301283"
+        ],
+        "alternate_names": [
+            "raisin (whole)",
+            "raisin"
+        ],
+        "foodon_foodex2_id": "FOODON_03541798"
+    },
+    {
+        "ingredient": "Raspberries",
+        "foodon_ids": [
+            "FOODON_03307119"
+        ],
+        "alternate_names": [
+            "raspberry (whole, raw)",
+            "raspberry"
+        ],
+        "foodon_foodex2_id": "FOODON_03541554"
+    },
+    {
+        "ingredient": "Redcurrant jelly",
+        "foodon_ids": [
+            "FOODON_00002192"
+        ],
+        "alternate_names": [
+            "red currant preserve or jam"
+        ],
+        "foodon_foodex2_id": "FOODON_03541828"
+    },
+    {
+        "ingredient": "Redcurrants",
+        "foodon_ids": [
+            "FOODON_00003008"
+        ],
+        "alternate_names": [
+            "red currant (whole, raw)",
+            "redcurrant",
+            "red currant"
+        ],
+        "foodon_foodex2_id": "FOODON_03541607"
+    },
+    {
+        "ingredient": "Strawberries",
+        "foodon_ids": [
+            "FOODON_03301722"
+        ],
+        "alternate_names": [
+            "strawberry (whole, raw)",
+            "strawberry"
+        ],
+        "foodon_foodex2_id": "FOODON_03541538"
+    },
+    {
+        "ingredient": "Sultanas",
+        "foodon_ids": [
+            "FOODON_03305819"
+        ],
+        "alternate_names": [
+            "sultana raisin (whole, dried)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541528"
+    },
+    {
+        "ingredient": "Whitecurrant",
+        "foodon_ids": [
+            "FOODON_03412752"
+        ],
+        "alternate_names": [
+            "white currant plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03541606"
+    },
+    {
+        "ingredient": "Beef",
+        "foodon_ids": [
+            "FOODON_00001041"
+        ],
+        "alternate_names": [
+            "beef food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03541916"
+    },
+    {
+        "ingredient": "Dripping",
+        "foodon_ids": [
+            "FOODON_03315430"
+        ],
+        "alternate_names": [
+            "dripping from food",
+            "Beef Dripping"
+        ],
+        "foodon_foodex2_id": "FOODON_03543122"
+    },
+    {
+        "ingredient": "Oxtail",
+        "foodon_ids": [
+            "FOODON_00003251"
+        ],
+        "alternate_names": [
+            "ox"
+        ],
+        "foodon_foodex2_id": "FOODON_03542079"
+    },
+    {
+        "ingredient": "Pastrami",
+        "foodon_ids": [
+            "FOODON_00003884"
+        ],
+        "alternate_names": [
+            "pastrami"
+        ],
+        "foodon_foodex2_id": "FOODON_03542121"
+    },
+    {
+        "ingredient": "Suet",
+        "foodon_ids": [
+            "FOODON_03305811"
+        ],
+        "alternate_names": [
+            "suet (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541989"
+    },
+    {
+        "ingredient": "Sweetbread",
+        "foodon_ids": [
+            "FOODON_00003155"
+        ],
+        "alternate_names": [
+            "sweatbread food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542054"
+    },
+    {
+        "ingredient": "Tongue",
+        "foodon_ids": [
+            "FOODON_03315582"
+        ],
+        "alternate_names": [
+            "tongue food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542075"
+    },
+    {
+        "ingredient": "Tripe",
+        "foodon_ids": [
+            "FOODON_03420192"
+        ],
+        "alternate_names": [
+            "tripe"
+        ],
+        "foodon_foodex2_id": "FOODON_03542077"
+    },
+    {
+        "ingredient": "Veal",
+        "foodon_ids": [
+            "FOODON_00001678"
+        ],
+        "alternate_names": [
+            "calf meat food product",
+            "veal"
+        ],
+        "foodon_foodex2_id": "FOODON_03541917"
+    },
+    {
+        "ingredient": "Beef extract",
+        "foodon_ids": [
+            "FOODON_03302088"
+        ],
+        "alternate_names": [
+            "beef extract"
+        ],
+        "foodon_foodex2_id": "FOODON_03544199"
+    },
+    {
+        "ingredient": "Beef stock",
+        "foodon_ids": [
+            "FOODON_03304945"
+        ],
+        "alternate_names": [
+            "beef stock base (meatless)"
+        ],
+        "foodon_foodex2_id": "FOODON_03544075"
+    },
+    {
+        "ingredient": "Beef stock cube",
+        "foodon_ids": [
+            "FOODON_03301432"
+        ],
+        "alternate_names": [
+            "beef bouillon cube"
+        ],
+        "foodon_foodex2_id": "FOODON_03544075"
+    },
+    {
+        "ingredient": "Amaranth",
+        "foodon_ids": [
+            "FOODON_00001167"
+        ],
+        "alternate_names": [
+            "amaranthaceous food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540010"
+    },
+    {
+        "ingredient": "Arugula",
+        "foodon_ids": [
+            "FOODON_00002426"
+        ],
+        "alternate_names": [
+            "arugula greens (raw)",
+            "rocket lettuce",
+            "arugula greens",
+            "arugula",
+            "rucola",
+            "colewort",
+            "rocket",
+            "rocket salad",
+            "rucoli",
+            "roquette",
+            "rugula"
+        ],
+        "foodon_foodex2_id": "FOODON_03540382"
+    },
+    {
+        "ingredient": "Asparagus",
+        "foodon_ids": [
+            "FOODON_03311349"
+        ],
+        "alternate_names": [
+            "asparagus spear (whole, raw)",
+            "asparagus"
+        ],
+        "foodon_foodex2_id": "FOODON_03540539"
+    },
+    {
+        "ingredient": "Basil",
+        "foodon_ids": [
+            "FOODON_00003044"
+        ],
+        "alternate_names": [
+            "basil food product",
+            "basil"
+        ],
+        "foodon_foodex2_id": "FOODON_03540878"
+    },
+    {
+        "ingredient": "Bay leaf",
+        "foodon_ids": [
+            "FOODON_03301173"
+        ],
+        "alternate_names": [
+            "bay leaf (whole, dried)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541264"
+    },
+    {
+        "ingredient": "Beetroot",
+        "foodon_ids": [
+            "FOODON_03317254"
+        ],
+        "alternate_names": [
+            "beetroot (whole)",
+            "beet",
+            "beetroot"
+        ],
+        "foodon_foodex2_id": "FOODON_03540710"
+    },
+    {
+        "ingredient": "Bele",
+        "foodon_ids": [
+            "NCBITaxon_183220"
+        ],
+        "alternate_names": [
+            "Abelmoschus manihot",
+            "mbele",
+            "aibika",
+            "sunset hibiscus"
+        ],
+        "foodon_foodex2_id": "FOODON_03540480"
+    },
+    {
+        "ingredient": "Broccoli",
+        "foodon_ids": [
+            "FOODON_03301713"
+        ],
+        "alternate_names": [
+            "broccoli floret (whole, raw)",
+            "broccoli"
+        ],
+        "foodon_foodex2_id": "FOODON_03540525"
+    },
+    {
+        "ingredient": "Brussels Sprouts",
+        "foodon_ids": [
+            "FOODON_03311885"
+        ],
+        "alternate_names": [
+            "brussels sprout (whole)",
+            "brussels sprouts"
+        ],
+        "foodon_foodex2_id": "FOODON_03540472"
+    },
+    {
+        "ingredient": "Cabbage",
+        "foodon_ids": [
+            "FOODON_03301326"
+        ],
+        "alternate_names": [
+            "cabbage head (raw)",
+            "cabbage"
+        ],
+        "foodon_foodex2_id": "FOODON_03540474"
+    },
+    {
+        "ingredient": "Cauliflower",
+        "foodon_ids": [
+            "FOODON_03302732"
+        ],
+        "alternate_names": [
+            "cauliflower (whole, raw)",
+            "cauliflower"
+        ],
+        "foodon_foodex2_id": "FOODON_03540531"
+    },
+    {
+        "ingredient": "Cauliflower rice",
+        "foodon_ids": [
+            "FOODON_00001703"
+        ],
+        "alternate_names": [
+            "cauliflower food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540531"
+    },
+    {
+        "ingredient": "Chard",
+        "foodon_ids": [
+            "FOODON_03306698"
+        ],
+        "alternate_names": [
+            "swiss chard leaf (whole, raw)",
+            "swiss chard",
+            "chard"
+        ],
+        "foodon_foodex2_id": "FOODON_03540446"
+    },
+    {
+        "ingredient": "Chervil",
+        "foodon_ids": [
+            "FOODON_03411444"
+        ],
+        "alternate_names": [
+            "chervil plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03540827"
+    },
+    {
+        "ingredient": "Chicory",
+        "foodon_ids": [
+            "FOODON_00001730"
+        ],
+        "alternate_names": [
+            "chicory food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03543421"
+    },
+    {
+        "ingredient": "Coriander",
+        "foodon_ids": [
+            "FOODON_03310370"
+        ],
+        "alternate_names": [
+            "coriander (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540837"
+    },
+    {
+        "ingredient": "Dill",
+        "foodon_ids": [
+            "FOODON_00001811"
+        ],
+        "alternate_names": [
+            "dill food product",
+            "dill"
+        ],
+        "foodon_foodex2_id": "FOODON_03540839"
+    },
+    {
+        "ingredient": "Dried basil",
+        "foodon_ids": [
+            "FOODON_00003044"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03541263"
+    },
+    {
+        "ingredient": "Dried coriander",
+        "foodon_ids": [
+            "FOODON_03310370"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540837"
+    },
+    {
+        "ingredient": "Endive",
+        "foodon_ids": [
+            "FOODON_00002439"
+        ],
+        "alternate_names": [
+            "endive"
+        ],
+        "foodon_foodex2_id": "FOODON_03540373"
+    },
+    {
+        "ingredient": "Globe artichoke",
+        "foodon_ids": [
+            "FOODON_03301369"
+        ],
+        "alternate_names": [
+            "globe artichoke (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540549"
+    },
+    {
+        "ingredient": "Kale",
+        "foodon_ids": [
+            "FOODON_03304859"
+        ],
+        "alternate_names": [
+            "kale leaf (whole, raw)",
+            "kale"
+        ],
+        "foodon_foodex2_id": "FOODON_03540489"
+    },
+    {
+        "ingredient": "Kimchi",
+        "foodon_ids": [
+            "FOODON_00002946"
+        ],
+        "alternate_names": [
+            "kimchi",
+            "kimchee"
+        ],
+        "foodon_foodex2_id": "FOODON_03540482"
+    },
+    {
+        "ingredient": "Lettuce",
+        "foodon_ids": [
+            "FOODON_00001998"
+        ],
+        "alternate_names": [
+            "lettuce head food product",
+            "lettuce"
+        ],
+        "foodon_foodex2_id": "FOODON_03540365"
+    },
+    {
+        "ingredient": "Mache",
+        "foodon_ids": [
+            "NCBITaxon_59166"
+        ],
+        "alternate_names": [
+            "Valerianella locusta",
+            "European cornsalad",
+            "lamb's lettuce"
+        ],
+        "foodon_foodex2_id": "FOODON_03540362"
+    },
+    {
+        "ingredient": "Marjoram",
+        "foodon_ids": [
+            "FOODON_00002023"
+        ],
+        "alternate_names": [
+            "marjoram food product",
+            "marjoram"
+        ],
+        "foodon_foodex2_id": "FOODON_03540871"
+    },
+    {
+        "ingredient": "Mint",
+        "foodon_ids": [
+            "FOODON_00002432"
+        ],
+        "alternate_names": [
+            "mint food product",
+            "mint"
+        ],
+        "foodon_foodex2_id": "FOODON_03540879"
+    },
+    {
+        "ingredient": "Mustard",
+        "foodon_ids": [
+            "FOODON_00002052"
+        ],
+        "alternate_names": [
+            "mustard condiment food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03541197"
+    },
+    {
+        "ingredient": "Oregano",
+        "foodon_ids": [
+            "FOODON_03301482"
+        ],
+        "alternate_names": [
+            "oregano (ground)",
+            "oregano"
+        ],
+        "foodon_foodex2_id": "FOODON_03540873"
+    },
+    {
+        "ingredient": "Pak choi",
+        "foodon_ids": [
+            "FOODON_03412077"
+        ],
+        "alternate_names": [
+            "bok choy plant",
+            "brassica chinensis",
+            "brassica rapa var. chinensis",
+            "pok choi",
+            "pak choi"
+        ],
+        "foodon_foodex2_id": "FOODON_03540487"
+    },
+    {
+        "ingredient": "Parsley",
+        "foodon_ids": [
+            "FOODON_00002942"
+        ],
+        "alternate_names": [
+            "parsley leaf (whole)",
+            "parsley"
+        ],
+        "foodon_foodex2_id": "FOODON_03540853"
+    },
+    {
+        "ingredient": "Peppermint",
+        "foodon_ids": [
+            "FOODON_03303920"
+        ],
+        "alternate_names": [
+            "peppermint"
+        ],
+        "foodon_foodex2_id": "FOODON_03540885"
+    },
+    {
+        "ingredient": "Pesto",
+        "foodon_ids": [
+            "FOODON_03310218"
+        ],
+        "alternate_names": [
+            "pesto sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544123"
+    },
+    {
+        "ingredient": "Raddiccio",
+        "foodon_ids": [
+            "NCBITaxon_13427"
+        ],
+        "alternate_names": [
+            "Cichorium intybus",
+            "chicory",
+            "succory",
+            "radicchio",
+            "witloof"
+        ],
+        "foodon_foodex2_id": "FOODON_03540376"
+    },
+    {
+        "ingredient": "Rape leaves",
+        "foodon_ids": [
+            "FOODON_03411248"
+        ],
+        "alternate_names": [
+            "rapeseed plant",
+            "brassica napus",
+            "rape plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03540394"
+    },
+    {
+        "ingredient": "Rocket",
+        "foodon_ids": [
+            "FOODON_00002426"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540383"
+    },
+    {
+        "ingredient": "Rosemary",
+        "foodon_ids": [
+            "FOODON_00002212"
+        ],
+        "alternate_names": [
+            "rosemary food product",
+            "rosemary"
+        ],
+        "foodon_foodex2_id": "FOODON_03540863"
+    },
+    {
+        "ingredient": "Sage",
+        "foodon_ids": [
+            "FOODON_00002217"
+        ],
+        "alternate_names": [
+            "sage food product",
+            "sage"
+        ],
+        "foodon_foodex2_id": "FOODON_03540856"
+    },
+    {
+        "ingredient": "Salad",
+        "foodon_ids": [
+            "FOODON_03316042"
+        ],
+        "alternate_names": [
+            "salad"
+        ],
+        "foodon_foodex2_id": "FOODON_03544020"
+    },
+    {
+        "ingredient": "Sauerkraut",
+        "foodon_ids": [
+            "FOODON_03301397"
+        ],
+        "alternate_names": [
+            "sauerkraut"
+        ],
+        "foodon_foodex2_id": "FOODON_03540942"
+    },
+    {
+        "ingredient": "Spinach",
+        "foodon_ids": [
+            "FOODON_03301716"
+        ],
+        "alternate_names": [
+            "spinach leaf (whole, raw)",
+            "spinach"
+        ],
+        "foodon_foodex2_id": "FOODON_03540421"
+    },
+    {
+        "ingredient": "Spring green",
+        "foodon_ids": [
+            "FOODON_03411566"
+        ],
+        "alternate_names": [
+            "leafy vegetable plant",
+            "leafy green"
+        ],
+        "foodon_foodex2_id": "FOODON_03540359"
+    },
+    {
+        "ingredient": "Tarragon",
+        "foodon_ids": [
+            "FOODON_00003036"
+        ],
+        "alternate_names": [
+            "tarragon leaf (whole, fresh)",
+            "tarragon"
+        ],
+        "foodon_foodex2_id": "FOODON_03540907"
+    },
+    {
+        "ingredient": "Thyme",
+        "foodon_ids": [
+            "FOODON_00002312"
+        ],
+        "alternate_names": [
+            "thyme food product",
+            "thyme"
+        ],
+        "foodon_foodex2_id": "FOODON_03540866"
+    },
+    {
+        "ingredient": "Turnip",
+        "foodon_ids": [
+            "FOODON_03307633"
+        ],
+        "alternate_names": [
+            "turnip (whole, raw)",
+            "turnip"
+        ],
+        "foodon_foodex2_id": "FOODON_03540752"
+    },
+    {
+        "ingredient": "Watercress",
+        "foodon_ids": [
+            "FOODON_00003064"
+        ],
+        "alternate_names": [
+            "watercress"
+        ],
+        "foodon_foodex2_id": "FOODON_03540458"
+    },
+    {
+        "ingredient": "Buffalo",
+        "foodon_ids": [
+            "FOODON_03411476"
+        ],
+        "alternate_names": [
+            "buffalo"
+        ],
+        "foodon_foodex2_id": "FOODON_03541918"
+    },
+    {
+        "ingredient": "Butter",
+        "foodon_ids": [
+            "FOODON_03310351"
+        ],
+        "alternate_names": [
+            "butter"
+        ],
+        "foodon_foodex2_id": "FOODON_03543148"
+    },
+    {
+        "ingredient": "Cream",
+        "foodon_ids": [
+            "FOODON_03305284"
+        ],
+        "alternate_names": [
+            "cream (sterilized)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542681"
+    },
+    {
+        "ingredient": "Crème fraiche",
+        "foodon_ids": [
+            "FOODON_03317381"
+        ],
+        "alternate_names": [
+            "cream (pasteurized, fresh)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542717"
+    },
+    {
+        "ingredient": "Double cream",
+        "foodon_ids": [
+            "FOODON_03310795"
+        ],
+        "alternate_names": [
+            "heavy cream"
+        ],
+        "foodon_foodex2_id": "FOODON_03542680"
+    },
+    {
+        "ingredient": "Ghee",
+        "foodon_ids": [
+            "FOODON_03310185"
+        ],
+        "alternate_names": [
+            "ghee"
+        ],
+        "foodon_foodex2_id": "FOODON_03543141"
+    },
+    {
+        "ingredient": "Greek Yogurt",
+        "foodon_ids": [
+            "FOODON_00003258"
+        ],
+        "alternate_names": [
+            "sack yoghurt",
+            "Greek yogurt",
+            "yogurt cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542703"
+    },
+    {
+        "ingredient": "Mushroom sauce",
+        "foodon_ids": [
+            "FOODON_03302590"
+        ],
+        "alternate_names": [
+            "mushroom sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544131"
+    },
+    {
+        "ingredient": "Natural Yogurt",
+        "foodon_ids": [
+            "FOODON_03301502"
+        ],
+        "alternate_names": [
+            "yogurt (plain)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542701"
+    },
+    {
+        "ingredient": "Single cream",
+        "foodon_ids": [
+            "FOODON_03305284"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03542680"
+    },
+    {
+        "ingredient": "Soured cream",
+        "foodon_ids": [
+            "FOODON_03302515"
+        ],
+        "alternate_names": [
+            "sour cream"
+        ],
+        "foodon_foodex2_id": "FOODON_03542716"
+    },
+    {
+        "ingredient": "Yogurt",
+        "foodon_ids": [
+            "FOODON_00001014"
+        ],
+        "alternate_names": [
+            "yogurt food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542693"
+    },
+    {
+        "ingredient": "Brown sugar",
+        "foodon_ids": [
+            "FOODON_03420156"
+        ],
+        "alternate_names": [
+            "brown sugar"
+        ],
+        "foodon_foodex2_id": "FOODON_03542988"
+    },
+    {
+        "ingredient": "Demerara sugar",
+        "foodon_ids": [
+            "FOODON_00002847"
+        ],
+        "alternate_names": [
+            "demerara sugar"
+        ],
+        "foodon_foodex2_id": "FOODON_03542990"
+    },
+    {
+        "ingredient": "Jaggery",
+        "foodon_ids": [
+            "FOODON_00002291"
+        ],
+        "alternate_names": [
+            "sugar cane food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03543004"
+    },
+    {
+        "ingredient": "Molasses",
+        "foodon_ids": [
+            "CHEBI_83163"
+        ],
+        "alternate_names": [
+            "molasses"
+        ],
+        "foodon_foodex2_id": "FOODON_03543001"
+    },
+    {
+        "ingredient": "Palm sugar",
+        "foodon_ids": [
+            "FOODON_03304565"
+        ],
+        "alternate_names": [
+            "palm sugar"
+        ],
+        "foodon_foodex2_id": "FOODON_03542991"
+    },
+    {
+        "ingredient": "Syrup",
+        "foodon_ids": [
+            "FOODON_03303225"
+        ],
+        "alternate_names": [
+            "syrup"
+        ],
+        "foodon_foodex2_id": "FOODON_03543006"
+    },
+    {
+        "ingredient": "Treacle",
+        "foodon_ids": [
+            "FOODON_03307582"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543010"
+    },
+    {
+        "ingredient": "Cassava",
+        "foodon_ids": [
+            "FOODON_03302304"
+        ],
+        "alternate_names": [
+            "cassava (whole, raw)",
+            "cassava"
+        ],
+        "foodon_foodex2_id": "FOODON_03540966"
+    },
+    {
+        "ingredient": "Cassava flour",
+        "foodon_ids": [
+            "FOODON_03310125"
+        ],
+        "alternate_names": [
+            "cassava flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540966"
+    },
+    {
+        "ingredient": "Gari flour",
+        "foodon_ids": [
+            "FOODON_03310125"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540966"
+    },
+    {
+        "ingredient": "Sago",
+        "foodon_ids": [
+            "FOODON_03310136"
+        ],
+        "alternate_names": [
+            "sago"
+        ],
+        "foodon_foodex2_id": "FOODON_03544162"
+    },
+    {
+        "ingredient": "Blue Cheese",
+        "foodon_ids": [
+            "FOODON_03316725"
+        ],
+        "alternate_names": [
+            "blue-veined cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542908"
+    },
+    {
+        "ingredient": "Brie",
+        "foodon_ids": [
+            "FOODON_03303508"
+        ],
+        "alternate_names": [
+            "brie cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542770"
+    },
+    {
+        "ingredient": "Caerphilly",
+        "foodon_ids": [
+            "FOODON_03302979"
+        ],
+        "alternate_names": [
+            "caerphilly cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542803"
+    },
+    {
+        "ingredient": "Camembert",
+        "foodon_ids": [
+            "FOODON_03302995"
+        ],
+        "alternate_names": [
+            "camembert cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542771"
+    },
+    {
+        "ingredient": "Cheddar",
+        "foodon_ids": [
+            "FOODON_03302458"
+        ],
+        "alternate_names": [
+            "cheddar cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542872"
+    },
+    {
+        "ingredient": "Cheese",
+        "foodon_ids": [
+            "FOODON_00001013"
+        ],
+        "alternate_names": [
+            "cheese food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542731"
+    },
+    {
+        "ingredient": "Cottage cheese",
+        "foodon_ids": [
+            "FOODON_03301605"
+        ],
+        "alternate_names": [
+            "cottage cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542733"
+    },
+    {
+        "ingredient": "Cream cheese",
+        "foodon_ids": [
+            "FOODON_03301889"
+        ],
+        "alternate_names": [
+            "cream cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542750"
+    },
+    {
+        "ingredient": "Danish blue",
+        "foodon_ids": [
+            "FOODON_03316728"
+        ],
+        "alternate_names": [
+            "cheese danablu"
+        ],
+        "foodon_foodex2_id": "FOODON_03542782"
+    },
+    {
+        "ingredient": "Derby cheese",
+        "foodon_ids": [
+            "FOODON_03303666"
+        ],
+        "alternate_names": [
+            "derby cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542811"
+    },
+    {
+        "ingredient": "Dolcelatte",
+        "foodon_ids": [
+            "FOODON_03316725"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03542780"
+    },
+    {
+        "ingredient": "Double Gloucester",
+        "foodon_ids": [
+            "FOODON_03303665"
+        ],
+        "alternate_names": [
+            "gloucester cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542812"
+    },
+    {
+        "ingredient": "Edam",
+        "foodon_ids": [
+            "FOODON_03302971"
+        ],
+        "alternate_names": [
+            "edam cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542814"
+    },
+    {
+        "ingredient": "Emmental",
+        "foodon_ids": [
+            "FOODON_03316148"
+        ],
+        "alternate_names": [
+            "semihard cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542874"
+    },
+    {
+        "ingredient": "Feta",
+        "foodon_ids": [
+            "FOODON_03307280"
+        ],
+        "alternate_names": [
+            "feta cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542753"
+    },
+    {
+        "ingredient": "Fromage frais",
+        "foodon_ids": [
+            "FOODON_00002252"
+        ],
+        "alternate_names": [
+            "soft cheese food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542736"
+    },
+    {
+        "ingredient": "Goats cheese",
+        "foodon_ids": [
+            "FOODON_03303655"
+        ],
+        "alternate_names": [
+            "goat milk cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542744"
+    },
+    {
+        "ingredient": "Gouda",
+        "foodon_ids": [
+            "FOODON_03303514"
+        ],
+        "alternate_names": [
+            "gouda cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542818"
+    },
+    {
+        "ingredient": "Grana Padano",
+        "foodon_ids": [
+            "FOODON_00002920"
+        ],
+        "alternate_names": [
+            "grana padano"
+        ],
+        "foodon_foodex2_id": "FOODON_03542899"
+    },
+    {
+        "ingredient": "Gruyere",
+        "foodon_ids": [
+            "FOODON_03303686"
+        ],
+        "alternate_names": [
+            "gruyere cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542876"
+    },
+    {
+        "ingredient": "Halloumi",
+        "foodon_ids": [
+            "FOODON_00001030"
+        ],
+        "alternate_names": [
+            "halloumi cheese food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542754"
+    },
+    {
+        "ingredient": "Lancashire",
+        "foodon_ids": [
+            "FOODON_03303668"
+        ],
+        "alternate_names": [
+            "lancashire cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542826"
+    },
+    {
+        "ingredient": "Mascarpone",
+        "foodon_ids": [
+            "FOODON_00003255"
+        ],
+        "alternate_names": [
+            "mascarpone"
+        ],
+        "foodon_foodex2_id": "FOODON_03542734"
+    },
+    {
+        "ingredient": "Monterey Jack",
+        "foodon_ids": [
+            "FOODON_03311068"
+        ],
+        "alternate_names": [
+            "monterey jack cheese made from raw milk"
+        ],
+        "foodon_foodex2_id": "FOODON_03542792"
+    },
+    {
+        "ingredient": "Mozzarella",
+        "foodon_ids": [
+            "FOODON_03303578"
+        ],
+        "alternate_names": [
+            "mozzarella cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542735"
+    },
+    {
+        "ingredient": "Paneer",
+        "foodon_ids": [
+            "FOODON_03315601"
+        ],
+        "alternate_names": [
+            "cream cheese (acid coagulated)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542737"
+    },
+    {
+        "ingredient": "Parmesan",
+        "foodon_ids": [
+            "FOODON_00003247"
+        ],
+        "alternate_names": [
+            "parmesan cheese",
+            "parmesan"
+        ],
+        "foodon_foodex2_id": "FOODON_03542892"
+    },
+    {
+        "ingredient": "Pecorino",
+        "foodon_ids": [
+            "FOODON_00001295"
+        ],
+        "alternate_names": [
+            "pecorino cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542902"
+    },
+    {
+        "ingredient": "Port Salut",
+        "foodon_ids": [
+            "FOODON_03303537"
+        ],
+        "alternate_names": [
+            "port salut cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542858"
+    },
+    {
+        "ingredient": "Quark",
+        "foodon_ids": [
+            "FOODON_03310352"
+        ],
+        "alternate_names": [
+            "cheese curd"
+        ],
+        "foodon_foodex2_id": "FOODON_03542736"
+    },
+    {
+        "ingredient": "Red Leicester",
+        "foodon_ids": [
+            "FOODON_03303667"
+        ],
+        "alternate_names": [
+            "leicester cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542828"
+    },
+    {
+        "ingredient": "Red Windsor",
+        "foodon_ids": [
+            "FOODON_03302458"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03542872"
+    },
+    {
+        "ingredient": "Ricotta",
+        "foodon_ids": [
+            "FOODON_03302908"
+        ],
+        "alternate_names": [
+            "ricotta cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542738"
+    },
+    {
+        "ingredient": "Roquefort",
+        "foodon_ids": [
+            "FOODON_00002424"
+        ],
+        "alternate_names": [
+            "roquefort cheese",
+            "roquefort"
+        ],
+        "foodon_foodex2_id": "FOODON_03542916"
+    },
+    {
+        "ingredient": "Sage Derby",
+        "foodon_ids": [
+            "FOODON_03317582"
+        ],
+        "alternate_names": [
+            "sage derby cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542811"
+    },
+    {
+        "ingredient": "Stilton",
+        "foodon_ids": [
+            "FOODON_03303870"
+        ],
+        "alternate_names": [
+            "stilton cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542918"
+    },
+    {
+        "ingredient": "Wensleydale",
+        "foodon_ids": [
+            "FOODON_03303669"
+        ],
+        "alternate_names": [
+            "wensleydale cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03542864"
+    },
+    {
+        "ingredient": "Grapefruit",
+        "foodon_ids": [
+            "FOODON_03301702"
+        ],
+        "alternate_names": [
+            "grapefruit (whole, raw)",
+            "grapefruit"
+        ],
+        "foodon_foodex2_id": "FOODON_03541425"
+    },
+    {
+        "ingredient": "Lemon",
+        "foodon_ids": [
+            "FOODON_03301441"
+        ],
+        "alternate_names": [
+            "lemon (whole, raw)",
+            "lemon"
+        ],
+        "foodon_foodex2_id": "FOODON_03541446"
+    },
+    {
+        "ingredient": "Lime",
+        "foodon_ids": [
+            "FOODON_03305086"
+        ],
+        "alternate_names": [
+            "lime (whole, raw)",
+            "lime"
+        ],
+        "foodon_foodex2_id": "FOODON_03541450"
+    },
+    {
+        "ingredient": "Lime leaves",
+        "foodon_ids": [
+            "FOODON_03411067"
+        ],
+        "alternate_names": [
+            "lime (citrus) plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03540903"
+    },
+    {
+        "ingredient": "Mandarin",
+        "foodon_ids": [
+            "FOODON_00003555"
+        ],
+        "alternate_names": [
+            "mandarine (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541456"
+    },
+    {
+        "ingredient": "Mixed peel",
+        "foodon_ids": [
+            "FOODON_03302021"
+        ],
+        "alternate_names": [
+            "candied citrus peel"
+        ],
+        "foodon_foodex2_id": "FOODON_03541845"
+    },
+    {
+        "ingredient": "Nardicots",
+        "foodon_ids": [
+            "FOODON_03303079"
+        ],
+        "alternate_names": [
+            "clementine (whole, raw)",
+            "clementine"
+        ],
+        "foodon_foodex2_id": "FOODON_03541459"
+    },
+    {
+        "ingredient": "Orange",
+        "foodon_ids": [
+            "FOODON_03315106"
+        ],
+        "alternate_names": [
+            "orange (whole)",
+            "orange"
+        ],
+        "foodon_foodex2_id": "FOODON_03541435"
+    },
+    {
+        "ingredient": "Ortaniques",
+        "foodon_ids": [
+            "FOODON_03412468"
+        ],
+        "alternate_names": [
+            "king orange plant",
+            "king mandarin orange",
+            "tangor"
+        ],
+        "foodon_foodex2_id": "FOODON_03541464"
+    },
+    {
+        "ingredient": "Coffee",
+        "foodon_ids": [
+            "FOODON_03301036"
+        ],
+        "alternate_names": [
+            "coffee (liquid drink)",
+            "coffee"
+        ],
+        "foodon_foodex2_id": "FOODON_03543404"
+    },
+    {
+        "ingredient": "Tea",
+        "foodon_ids": [
+            "FOODON_03315081"
+        ],
+        "alternate_names": [
+            "tea food product",
+            "tea"
+        ],
+        "foodon_foodex2_id": "FOODON_03543440"
+    },
+    {
+        "ingredient": "Cockles",
+        "foodon_ids": [
+            "FOODON_03412113"
+        ],
+        "alternate_names": [
+            "bivalve"
+        ],
+        "foodon_foodex2_id": "FOODON_03542552"
+    },
+    {
+        "ingredient": "Crab",
+        "foodon_ids": [
+            "FOODON_03411335"
+        ],
+        "alternate_names": [
+            "crab"
+        ],
+        "foodon_foodex2_id": "FOODON_03542500"
+    },
+    {
+        "ingredient": "Crayfish",
+        "foodon_ids": [
+            "FOODON_00001789"
+        ],
+        "alternate_names": [
+            "crayfish food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542487"
+    },
+    {
+        "ingredient": "Langoustine",
+        "foodon_ids": [
+            "FOODON_00002059"
+        ],
+        "alternate_names": [
+            "norway lobster food product",
+            "dublin bay prawn",
+            "scampi"
+        ],
+        "foodon_foodex2_id": "FOODON_03542505"
+    },
+    {
+        "ingredient": "Lobster",
+        "foodon_ids": [
+            "FOODON_03411505"
+        ],
+        "alternate_names": [
+            "lobster"
+        ],
+        "foodon_foodex2_id": "FOODON_03542502"
+    },
+    {
+        "ingredient": "Mussel",
+        "foodon_ids": [
+            "FOODON_03411223"
+        ],
+        "alternate_names": [
+            "mussel",
+            "mytilidae"
+        ],
+        "foodon_foodex2_id": "FOODON_03542534"
+    },
+    {
+        "ingredient": "Oyster",
+        "foodon_ids": [
+            "FOODON_03411224"
+        ],
+        "alternate_names": [
+            "oyster",
+            "ostreidae"
+        ],
+        "foodon_foodex2_id": "FOODON_03542529"
+    },
+    {
+        "ingredient": "Prawn",
+        "foodon_ids": [
+            "FOODON_00002239"
+        ],
+        "alternate_names": [
+            "shrimp food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542511"
+    },
+    {
+        "ingredient": "Shrimp",
+        "foodon_ids": [
+            "FOODON_03411237"
+        ],
+        "alternate_names": [
+            "shrimp"
+        ],
+        "foodon_foodex2_id": "FOODON_03542515"
+    },
+    {
+        "ingredient": "Whelk",
+        "foodon_ids": [
+            "FOODON_03411633"
+        ],
+        "alternate_names": [
+            "whelk"
+        ],
+        "foodon_foodex2_id": "FOODON_03542528"
+    },
+    {
+        "ingredient": "Winkle",
+        "foodon_ids": [
+            "FOODON_03412925"
+        ],
+        "alternate_names": [
+            "periwinkle family"
+        ],
+        "foodon_foodex2_id": "FOODON_03542525"
+    },
+    {
+        "ingredient": "Chocolate Spread",
+        "foodon_ids": [
+            "FOODON_00003187"
+        ],
+        "alternate_names": [
+            "chocolate spread"
+        ],
+        "foodon_foodex2_id": "FOODON_03543044"
+    },
+    {
+        "ingredient": "Cocoa",
+        "foodon_ids": [
+            "FOODON_03301072"
+        ],
+        "alternate_names": [
+            "cocoa",
+            "cocoa powder"
+        ],
+        "foodon_foodex2_id": "FOODON_03543428"
+    },
+    {
+        "ingredient": "Dark chocolate",
+        "foodon_ids": [
+            "FOODON_03303588"
+        ],
+        "alternate_names": [
+            "dark chocolate"
+        ],
+        "foodon_foodex2_id": "FOODON_03543035"
+    },
+    {
+        "ingredient": "Drinking chocolate",
+        "foodon_ids": [
+            "FOODON_00001246"
+        ],
+        "alternate_names": [
+            "hot chocolate food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03543723"
+    },
+    {
+        "ingredient": "Milk chocolate",
+        "foodon_ids": [
+            "FOODON_03302806"
+        ],
+        "alternate_names": [
+            "milk chocolate"
+        ],
+        "foodon_foodex2_id": "FOODON_03543037"
+    },
+    {
+        "ingredient": "White chocolate",
+        "foodon_ids": [
+            "FOODON_03301329"
+        ],
+        "alternate_names": [
+            "white chocolate"
+        ],
+        "foodon_foodex2_id": "FOODON_03543041"
+    },
+    {
+        "ingredient": "Egg",
+        "foodon_ids": [
+            "FOODON_03316061"
+        ],
+        "alternate_names": [
+            "hen egg (whole)",
+            "chicken egg",
+            "hen egg"
+        ],
+        "foodon_foodex2_id": "FOODON_03542950"
+    },
+    {
+        "ingredient": "Egg noodle",
+        "foodon_ids": [
+            "FOODON_03301006"
+        ],
+        "alternate_names": [
+            "noodle (egg)",
+            "egg noodle"
+        ],
+        "foodon_foodex2_id": "FOODON_03540179"
+    },
+    {
+        "ingredient": "Egg pasta",
+        "foodon_ids": [
+            "FOODON_03306347"
+        ],
+        "alternate_names": [
+            "pasta"
+        ],
+        "foodon_foodex2_id": "FOODON_03540179"
+    },
+    {
+        "ingredient": "Mayonnaise",
+        "foodon_ids": [
+            "FOODON_03301440"
+        ],
+        "alternate_names": [
+            "mayonnaise"
+        ],
+        "foodon_foodex2_id": "FOODON_03544093"
+    },
+    {
+        "ingredient": "Anchovy",
+        "foodon_ids": [
+            "FOODON_03411854"
+        ],
+        "alternate_names": [
+            "anchovy"
+        ],
+        "foodon_foodex2_id": "FOODON_03542405"
+    },
+    {
+        "ingredient": "Boal",
+        "foodon_ids": [
+            "NCBITaxon_36718"
+        ],
+        "alternate_names": [
+            "Wallago attu"
+        ],
+        "foodon_foodex2_id": "FOODON_03542243"
+    },
+    {
+        "ingredient": "Bream",
+        "foodon_ids": [
+            "FOODON_03412388",
+            "NCBITaxon_38527"
+        ],
+        "alternate_names": [
+            "sea bream",
+            "Abramis brama",
+            "common bream",
+            "bream"
+        ],
+        "foodon_foodex2_id": "FOODON_03542368"
+    },
+    {
+        "ingredient": "Calamari",
+        "foodon_ids": [
+            "FOODON_00002897"
+        ],
+        "alternate_names": [
+            "calamari"
+        ],
+        "foodon_foodex2_id": "FOODON_03542561"
+    },
+    {
+        "ingredient": "Chital",
+        "foodon_ids": [
+            "FOODON_03411583"
+        ],
+        "alternate_names": [
+            "deer"
+        ],
+        "foodon_foodex2_id": "FOODON_03541946"
+    },
+    {
+        "ingredient": "Cod",
+        "foodon_ids": [
+            "FOODON_03411423"
+        ],
+        "alternate_names": [
+            "cod"
+        ],
+        "foodon_foodex2_id": "FOODON_03542346"
+    },
+    {
+        "ingredient": "Cod roe",
+        "foodon_ids": [
+            "FOODON_03302873"
+        ],
+        "alternate_names": [
+            "cod roe"
+        ],
+        "foodon_foodex2_id": "FOODON_03542471"
+    },
+    {
+        "ingredient": "Coley",
+        "foodon_ids": [
+            "FOODON_03413876"
+        ],
+        "alternate_names": [
+            "pollock",
+            "pollacchius spp"
+        ],
+        "foodon_foodex2_id": "FOODON_03542355"
+    },
+    {
+        "ingredient": "Dab",
+        "foodon_ids": [
+            "FOODON_03309265"
+        ],
+        "alternate_names": [
+            "dab (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542329"
+    },
+    {
+        "ingredient": "Dogfish",
+        "foodon_ids": [
+            "FOODON_03411912"
+        ],
+        "alternate_names": [
+            "dogfish shark family"
+        ],
+        "foodon_foodex2_id": "FOODON_03542462"
+    },
+    {
+        "ingredient": "Dover sole",
+        "foodon_ids": [
+            "FOODON_03308230"
+        ],
+        "alternate_names": [
+            "dover sole (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542340"
+    },
+    {
+        "ingredient": "Fish",
+        "foodon_ids": [
+            "FOODON_03411222"
+        ],
+        "alternate_names": [
+            "fish"
+        ],
+        "foodon_foodex2_id": "FOODON_03542212"
+    },
+    {
+        "ingredient": "Fish sauce",
+        "foodon_ids": [
+            "FOODON_03317197"
+        ],
+        "alternate_names": [
+            "fish sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544114"
+    },
+    {
+        "ingredient": "Fish stock",
+        "foodon_ids": [
+            "FOODON_03311638"
+        ],
+        "alternate_names": [
+            "fish broth"
+        ],
+        "foodon_foodex2_id": "FOODON_03544072"
+    },
+    {
+        "ingredient": "Flounder",
+        "foodon_ids": [
+            "FOODON_00002442"
+        ],
+        "alternate_names": [
+            "flounder food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542330"
+    },
+    {
+        "ingredient": "Haddock",
+        "foodon_ids": [
+            "FOODON_00001941"
+        ],
+        "alternate_names": [
+            "haddock food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542350"
+    },
+    {
+        "ingredient": "Hake",
+        "foodon_ids": [
+            "FOODON_03413878"
+        ],
+        "alternate_names": [
+            "hake"
+        ],
+        "foodon_foodex2_id": "FOODON_03542351"
+    },
+    {
+        "ingredient": "Halibut",
+        "foodon_ids": [
+            "FOODON_03411532"
+        ],
+        "alternate_names": [
+            "halibut",
+            "reinhardtius spp.",
+            "hippoglossus spp."
+        ],
+        "foodon_foodex2_id": "FOODON_03542328"
+    },
+    {
+        "ingredient": "Hering roe",
+        "foodon_ids": [
+            "FOODON_03308006"
+        ],
+        "alternate_names": [
+            "herring roe (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542474"
+    },
+    {
+        "ingredient": "Herring",
+        "foodon_ids": [
+            "FOODON_03411414"
+        ],
+        "alternate_names": [
+            "herring"
+        ],
+        "foodon_foodex2_id": "FOODON_03542406"
+    },
+    {
+        "ingredient": "Hilsa",
+        "foodon_ids": [
+            "NCBITaxon_373995"
+        ],
+        "alternate_names": [
+            "Tenualosa ilisha",
+            "palla fish",
+            "modar",
+            "sboor",
+            "ilish",
+            "terubok",
+            "terubok umno",
+            "pulasa",
+            "ellis",
+            "jatka",
+            "ilih",
+            "hilsa",
+            "hilsha",
+            "ilisha",
+            "pallo machhi",
+            "ulla mean",
+            "Hilsa shad",
+            "ilihi",
+            "palva",
+            "ilishi hilsa",
+            "herring\r"
+        ],
+        "foodon_foodex2_id": "FOODON_03542321"
+    },
+    {
+        "ingredient": "Hoki",
+        "foodon_ids": [
+            "FOODON_03309206"
+        ],
+        "alternate_names": [
+            "hoki (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542316"
+    },
+    {
+        "ingredient": "John Dory",
+        "foodon_ids": [
+            "NCBITaxon_64108"
+        ],
+        "alternate_names": [
+            "Zeus faber",
+            "doorkeeper's fish",
+            "Atlantic John dory",
+            "John dory"
+        ],
+        "foodon_foodex2_id": "FOODON_03542362"
+    },
+    {
+        "ingredient": "Kalabasu",
+        "foodon_ids": [
+            "NCBITaxon_177615"
+        ],
+        "alternate_names": [
+            "calbasu",
+            "orange-fin labeo"
+        ],
+        "foodon_foodex2_id": "FOODON_03542228"
+    },
+    {
+        "ingredient": "Katla",
+        "foodon_ids": [
+            "NCBITaxon_72446"
+        ],
+        "alternate_names": [
+            "major Indian carp",
+            "Gibelion catla",
+            "catla",
+            "major carp"
+        ],
+        "foodon_foodex2_id": "FOODON_03542230"
+    },
+    {
+        "ingredient": "Kippers",
+        "foodon_ids": [
+            "FOODON_03308382"
+        ],
+        "alternate_names": [
+            "kipper"
+        ],
+        "foodon_foodex2_id": "FOODON_03542407"
+    },
+    {
+        "ingredient": "Lemon sole",
+        "foodon_ids": [
+            "NCBITaxon_106175"
+        ],
+        "alternate_names": [
+            "Microstomus kitt",
+            "lemon sole"
+        ],
+        "foodon_foodex2_id": "FOODON_03542340"
+    },
+    {
+        "ingredient": "Ling",
+        "foodon_ids": [
+            "FOODON_03308649"
+        ],
+        "alternate_names": [
+            "ling (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542352"
+    },
+    {
+        "ingredient": "Mackerel",
+        "foodon_ids": [
+            "FOODON_03411043"
+        ],
+        "alternate_names": [
+            "mackerel"
+        ],
+        "foodon_foodex2_id": "FOODON_03542449"
+    },
+    {
+        "ingredient": "Monkfish",
+        "foodon_ids": [
+            "NCBITaxon_472767"
+        ],
+        "alternate_names": [
+            "Lophius gastrophysus"
+        ],
+        "foodon_foodex2_id": "FOODON_03542396"
+    },
+    {
+        "ingredient": "Mullet",
+        "foodon_ids": [
+            "FOODON_03413916"
+        ],
+        "alternate_names": [
+            "mullet"
+        ],
+        "foodon_foodex2_id": "FOODON_03542363"
+    },
+    {
+        "ingredient": "Octopus",
+        "foodon_ids": [
+            "FOODON_03316989"
+        ],
+        "alternate_names": [
+            "octopus food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542558"
+    },
+    {
+        "ingredient": "Oyster sauce",
+        "foodon_ids": [
+            "FOODON_03317654"
+        ],
+        "alternate_names": [
+            "oyster sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544112"
+    },
+    {
+        "ingredient": "Pangasius",
+        "foodon_ids": [
+            "NCBITaxon_8000"
+        ],
+        "alternate_names": [
+            "Pangasius"
+        ],
+        "foodon_foodex2_id": "FOODON_03542245"
+    },
+    {
+        "ingredient": "Parrot fish",
+        "foodon_ids": [
+            "NCBITaxon_8247"
+        ],
+        "alternate_names": [
+            "Labridae",
+            "parrotfishes",
+            "wrasses"
+        ],
+        "foodon_foodex2_id": "FOODON_03542433"
+    },
+    {
+        "ingredient": "Pilchard",
+        "foodon_ids": [
+            "FOODON_03413853"
+        ],
+        "alternate_names": [
+            "pilchard"
+        ],
+        "foodon_foodex2_id": "FOODON_03542402"
+    },
+    {
+        "ingredient": "Plaice",
+        "foodon_ids": [
+            "FOODON_03412570"
+        ],
+        "alternate_names": [
+            "plaice"
+        ],
+        "foodon_foodex2_id": "FOODON_03542337"
+    },
+    {
+        "ingredient": "Pollock",
+        "foodon_ids": [
+            "FOODON_03413876"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03542354"
+    },
+    {
+        "ingredient": "Pomfret",
+        "foodon_ids": [
+            "FOODON_03412571"
+        ],
+        "alternate_names": [
+            "pomfret"
+        ],
+        "foodon_foodex2_id": "FOODON_03542435"
+    },
+    {
+        "ingredient": "Red snapper",
+        "foodon_ids": [
+            "FOODON_00002194"
+        ],
+        "alternate_names": [
+            "red snapper food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542371"
+    },
+    {
+        "ingredient": "Redfish",
+        "foodon_ids": [
+            "FOODON_03411153"
+        ],
+        "alternate_names": [
+            "redfish or ocean perch"
+        ],
+        "foodon_foodex2_id": "FOODON_03542371"
+    },
+    {
+        "ingredient": "Rohu",
+        "foodon_ids": [
+            "NCBITaxon_84645"
+        ],
+        "alternate_names": [
+            "Labeo rohita",
+            "Jayanti rohu",
+            "rohu"
+        ],
+        "foodon_foodex2_id": "FOODON_03542229"
+    },
+    {
+        "ingredient": "Sardine",
+        "foodon_ids": [
+            "FOODON_03411558"
+        ],
+        "alternate_names": [
+            "sardine"
+        ],
+        "foodon_foodex2_id": "FOODON_03542402"
+    },
+    {
+        "ingredient": "Scallops",
+        "foodon_ids": [
+            "FOODON_03411489"
+        ],
+        "alternate_names": [
+            "scallop",
+            "pectinidae"
+        ],
+        "foodon_foodex2_id": "FOODON_03542538"
+    },
+    {
+        "ingredient": "Seafood",
+        "foodon_ids": [
+            "FOODON_03310116"
+        ],
+        "alternate_names": [
+            "seafood (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542641"
+    },
+    {
+        "ingredient": "Shark",
+        "foodon_ids": [
+            "FOODON_03411342"
+        ],
+        "alternate_names": [
+            "shark"
+        ],
+        "foodon_foodex2_id": "FOODON_03542455"
+    },
+    {
+        "ingredient": "Skate",
+        "foodon_ids": [
+            "FOODON_03411340"
+        ],
+        "alternate_names": [
+            "skate"
+        ],
+        "foodon_foodex2_id": "FOODON_03542463"
+    },
+    {
+        "ingredient": "Sole",
+        "foodon_ids": [
+            "FOODON_03411025"
+        ],
+        "alternate_names": [
+            "sole family",
+            "soleidae",
+            "true sole"
+        ],
+        "foodon_foodex2_id": "FOODON_03542340"
+    },
+    {
+        "ingredient": "Sprat",
+        "foodon_ids": [
+            "FOODON_03411235"
+        ],
+        "alternate_names": [
+            "sprat"
+        ],
+        "foodon_foodex2_id": "FOODON_03542410"
+    },
+    {
+        "ingredient": "Squid",
+        "foodon_ids": [
+            "FOODON_03411205"
+        ],
+        "alternate_names": [
+            "squid"
+        ],
+        "foodon_foodex2_id": "FOODON_03542562"
+    },
+    {
+        "ingredient": "Swordfish",
+        "foodon_ids": [
+            "FOODON_00002307"
+        ],
+        "alternate_names": [
+            "swordfish food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542428"
+    },
+    {
+        "ingredient": "Tuna",
+        "foodon_ids": [
+            "FOODON_03411269"
+        ],
+        "alternate_names": [
+            "tuna",
+            "true tuna",
+            "thunnini"
+        ],
+        "foodon_foodex2_id": "FOODON_03542417"
+    },
+    {
+        "ingredient": "Turbot",
+        "foodon_ids": [
+            "FOODON_00002321"
+        ],
+        "alternate_names": [
+            "turbot food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542342"
+    },
+    {
+        "ingredient": "White fish",
+        "foodon_ids": [
+            "FOODON_00003281"
+        ],
+        "alternate_names": [
+            "whitefish (fisheries term)",
+            "white fish"
+        ],
+        "foodon_foodex2_id": "FOODON_03542316"
+    },
+    {
+        "ingredient": "Whitebait",
+        "foodon_ids": [
+            "FOODON_03308295"
+        ],
+        "alternate_names": [
+            "whitebait fish (raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542410"
+    },
+    {
+        "ingredient": "Whiting",
+        "foodon_ids": [
+            "FOODON_03411640"
+        ],
+        "alternate_names": [
+            "whiting"
+        ],
+        "foodon_foodex2_id": "FOODON_03542357"
+    },
+    {
+        "ingredient": "Bass",
+        "foodon_ids": [
+            "FOODON_03412180"
+        ],
+        "alternate_names": [
+            "sea bass",
+            "centropristis spp."
+        ],
+        "foodon_foodex2_id": "FOODON_03542366"
+    },
+    {
+        "ingredient": "Carp",
+        "foodon_ids": [
+            "FOODON_03412617"
+        ],
+        "alternate_names": [
+            "carp"
+        ],
+        "foodon_foodex2_id": "FOODON_03542220"
+    },
+    {
+        "ingredient": "Catfish",
+        "foodon_ids": [
+            "FOODON_03412620"
+        ],
+        "alternate_names": [
+            "catfish"
+        ],
+        "foodon_foodex2_id": "FOODON_03542243"
+    },
+    {
+        "ingredient": "Caviar",
+        "foodon_ids": [
+            "FOODON_03301080"
+        ],
+        "alternate_names": [
+            "caviar"
+        ],
+        "foodon_foodex2_id": "FOODON_03542469"
+    },
+    {
+        "ingredient": "Cuttlefish",
+        "foodon_ids": [
+            "FOODON_03411644"
+        ],
+        "alternate_names": [
+            "cuttlefish"
+        ],
+        "foodon_foodex2_id": "FOODON_03542554"
+    },
+    {
+        "ingredient": "Eel",
+        "foodon_ids": [
+            "FOODON_03411278"
+        ],
+        "alternate_names": [
+            "eel"
+        ],
+        "foodon_foodex2_id": "FOODON_03542293"
+    },
+    {
+        "ingredient": "Salmon",
+        "foodon_ids": [
+            "FOODON_00003473"
+        ],
+        "alternate_names": [
+            "salmon"
+        ],
+        "foodon_foodex2_id": "FOODON_03542296"
+    },
+    {
+        "ingredient": "Tilapia",
+        "foodon_ids": [
+            "FOODON_03412434"
+        ],
+        "alternate_names": [
+            "tilapia"
+        ],
+        "foodon_foodex2_id": "FOODON_03542238"
+    },
+    {
+        "ingredient": "Trout",
+        "foodon_ids": [
+            "FOODON_03411258"
+        ],
+        "alternate_names": [
+            "trout"
+        ],
+        "foodon_foodex2_id": "FOODON_03542305"
+    },
+    {
+        "ingredient": "Apricot",
+        "foodon_ids": [
+            "FOODON_03301701"
+        ],
+        "alternate_names": [
+            "apricot (whole, raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541492"
+    },
+    {
+        "ingredient": "Arrowhead",
+        "foodon_ids": [
+            "FOODON_03411716"
+        ],
+        "alternate_names": [
+            "arrowhead plant",
+            "sagittaria latifolia",
+            "broadleaf arrowhead",
+            "wapato",
+            "Indian potato",
+            "duck potato"
+        ],
+        "foodon_foodex2_id": "FOODON_03540756"
+    },
+    {
+        "ingredient": "Avocado",
+        "foodon_ids": [
+            "FOODON_03305236"
+        ],
+        "alternate_names": [
+            "avocado (whole, raw)",
+            "avocado"
+        ],
+        "foodon_foodex2_id": "FOODON_03541733"
+    },
+    {
+        "ingredient": "Babaco",
+        "foodon_ids": [
+            "FOODON_03412797"
+        ],
+        "alternate_names": [
+            "babaco plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03541664"
+    },
+    {
+        "ingredient": "Breadfruit",
+        "foodon_ids": [
+            "FOODON_03305285"
+        ],
+        "alternate_names": [
+            "breadfruit (whole, raw)",
+            "breadfruit"
+        ],
+        "foodon_foodex2_id": "FOODON_03541779"
+    },
+    {
+        "ingredient": "Breadnut",
+        "foodon_ids": [
+            "FOODON_03305165"
+        ],
+        "alternate_names": [
+            "breadnut tree seed"
+        ],
+        "foodon_foodex2_id": "FOODON_03541646"
+    },
+    {
+        "ingredient": "Coconut",
+        "foodon_ids": [
+            "FOODON_03303085"
+        ],
+        "alternate_names": [
+            "coconut (whole, raw)",
+            "coconut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541139"
+    },
+    {
+        "ingredient": "Coconut cream",
+        "foodon_ids": [
+            "FOODON_03303088"
+        ],
+        "alternate_names": [
+            "coconut cream"
+        ],
+        "foodon_foodex2_id": "FOODON_03543839"
+    },
+    {
+        "ingredient": "Dried apricot",
+        "foodon_ids": [
+            "FOODON_03301756"
+        ],
+        "alternate_names": [
+            "apricot (dried)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541797"
+    },
+    {
+        "ingredient": "Durian",
+        "foodon_ids": [
+            "FOODON_00003121"
+        ],
+        "alternate_names": [
+            "durian (whole, raw)",
+            "durian"
+        ],
+        "foodon_foodex2_id": "FOODON_03541783"
+    },
+    {
+        "ingredient": "Feijoa",
+        "foodon_ids": [
+            "FOODON_03412767"
+        ],
+        "alternate_names": [
+            "pineapple guava plant",
+            "feijoa sellowiana",
+            "acca sellowiana",
+            "orthostemon sellowiana",
+            "feijoa",
+            "brazilian guava"
+        ],
+        "foodon_foodex2_id": "FOODON_03541750"
+    },
+    {
+        "ingredient": "Fig",
+        "foodon_ids": [
+            "FOODON_00003266"
+        ],
+        "alternate_names": [
+            "fig (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541647"
+    },
+    {
+        "ingredient": "Grenadillas",
+        "foodon_ids": [
+            "NCBITaxon_237863"
+        ],
+        "alternate_names": [
+            "Passiflora ligularis",
+            "sweet granadilla"
+        ],
+        "foodon_foodex2_id": "FOODON_03541714"
+    },
+    {
+        "ingredient": "Guacamole",
+        "foodon_ids": [
+            "FOODON_03310550"
+        ],
+        "alternate_names": [
+            "guacamole"
+        ],
+        "foodon_foodex2_id": "FOODON_03541732"
+    },
+    {
+        "ingredient": "Guava",
+        "foodon_ids": [
+            "FOODON_03305317"
+        ],
+        "alternate_names": [
+            "guava (whole, raw)",
+            "guava"
+        ],
+        "foodon_foodex2_id": "FOODON_03541770"
+    },
+    {
+        "ingredient": "Jackfruit",
+        "foodon_ids": [
+            "FOODON_00003087"
+        ],
+        "alternate_names": [
+            "jackfruit (whole, raw)",
+            "langka",
+            "jakfruit",
+            "jack fruit",
+            "jack",
+            "jackfruit"
+        ],
+        "foodon_foodex2_id": "FOODON_03541780"
+    },
+    {
+        "ingredient": "Jambu",
+        "foodon_ids": [
+            "FOODON_00003626"
+        ],
+        "alternate_names": [
+            "java apple (whole)",
+            "Java apple",
+            "wax apple",
+            "Semarang rose-apple",
+            "wax jambu"
+        ],
+        "foodon_foodex2_id": "FOODON_03541690"
+    },
+    {
+        "ingredient": "Jujube",
+        "foodon_ids": [
+            "FOODON_00002487"
+        ],
+        "alternate_names": [
+            "jujube fruit (whole, raw)",
+            "Jujube",
+            "jujube fruit"
+        ],
+        "foodon_foodex2_id": "FOODON_03541516"
+    },
+    {
+        "ingredient": "Kiwi",
+        "foodon_ids": [
+            "FOODON_03414363"
+        ],
+        "alternate_names": [
+            "kiwi"
+        ],
+        "foodon_foodex2_id": "FOODON_03541701"
+    },
+    {
+        "ingredient": "Kumquats",
+        "foodon_ids": [
+            "FOODON_03306597"
+        ],
+        "alternate_names": [
+            "kumquat (whole, raw)",
+            "kumquat"
+        ],
+        "foodon_foodex2_id": "FOODON_03541655"
+    },
+    {
+        "ingredient": "Longan",
+        "foodon_ids": [
+            "FOODON_00003168"
+        ],
+        "alternate_names": [
+            "longan (whole, raw)",
+            "lungan",
+            "longan",
+            "dragon eyes"
+        ],
+        "foodon_foodex2_id": "FOODON_03541706"
+    },
+    {
+        "ingredient": "Loquat",
+        "foodon_ids": [
+            "FOODON_00003181"
+        ],
+        "alternate_names": [
+            "loquat (whole, raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541488"
+    },
+    {
+        "ingredient": "Mango",
+        "foodon_ids": [
+            "FOODON_03301813"
+        ],
+        "alternate_names": [
+            "mango (whole, raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541746"
+    },
+    {
+        "ingredient": "Mangosteen",
+        "foodon_ids": [
+            "FOODON_00003110"
+        ],
+        "alternate_names": [
+            "mangosteen food product",
+            "mangosteen",
+            "purple mangosteen"
+        ],
+        "foodon_foodex2_id": "FOODON_03541752"
+    },
+    {
+        "ingredient": "Medlar",
+        "foodon_ids": [
+            "FOODON_00003133"
+        ],
+        "alternate_names": [
+            "medlar (whole, raw)",
+            "Medlar"
+        ],
+        "foodon_foodex2_id": "FOODON_03541486"
+    },
+    {
+        "ingredient": "Melon",
+        "foodon_ids": [
+            "FOODON_03301593"
+        ],
+        "alternate_names": [
+            "melon (whole, raw)",
+            "melon"
+        ],
+        "foodon_foodex2_id": "FOODON_03540694"
+    },
+    {
+        "ingredient": "Nectarine",
+        "foodon_ids": [
+            "FOODON_03301107"
+        ],
+        "alternate_names": [
+            "nectarine (whole, raw)",
+            "nectarine"
+        ],
+        "foodon_foodex2_id": "FOODON_03541508"
+    },
+    {
+        "ingredient": "Papaya",
+        "foodon_ids": [
+            "FOODON_03301830"
+        ],
+        "alternate_names": [
+            "papaya (whole, raw)",
+            "papaya"
+        ],
+        "foodon_foodex2_id": "FOODON_03541748"
+    },
+    {
+        "ingredient": "Passion fruit",
+        "foodon_ids": [
+            "FOODON_03309552"
+        ],
+        "alternate_names": [
+            "passion fruit (whole, raw)",
+            "passion fruit"
+        ],
+        "foodon_foodex2_id": "FOODON_03541711"
+    },
+    {
+        "ingredient": "Peach",
+        "foodon_ids": [
+            "FOODON_03301719"
+        ],
+        "alternate_names": [
+            "peach (whole, raw)",
+            "peach"
+        ],
+        "foodon_foodex2_id": "FOODON_03541506"
+    },
+    {
+        "ingredient": "Pineapple",
+        "foodon_ids": [
+            "FOODON_03301831"
+        ],
+        "alternate_names": [
+            "pineapple (whole, raw)",
+            "pineapple"
+        ],
+        "foodon_foodex2_id": "FOODON_03541777"
+    },
+    {
+        "ingredient": "Plum",
+        "foodon_ids": [
+            "FOODON_03301580"
+        ],
+        "alternate_names": [
+            "plum (whole, raw)",
+            "plum"
+        ],
+        "foodon_foodex2_id": "FOODON_03541511"
+    },
+    {
+        "ingredient": "Pomegranate",
+        "foodon_ids": [
+            "FOODON_00003066"
+        ],
+        "alternate_names": [
+            "pomegranate (whole, raw)",
+            "pomegranate"
+        ],
+        "foodon_foodex2_id": "FOODON_03541757"
+    },
+    {
+        "ingredient": "Pomelo",
+        "foodon_ids": [
+            "FOODON_00003027"
+        ],
+        "alternate_names": [
+            "pomelo fruit",
+            "pumello",
+            "pumelo",
+            "pummelo",
+            "pomello",
+            "shaddock",
+            "pommelo"
+        ],
+        "foodon_foodex2_id": "FOODON_03541428"
+    },
+    {
+        "ingredient": "Prickly pear",
+        "foodon_ids": [
+            "FOODON_03412019"
+        ],
+        "alternate_names": [
+            "indian fig plant",
+            "tuberous prickly-pear",
+            "Indian fig opuntia",
+            "smooth mountain prickly-pear",
+            "opuntia occidentalis",
+            "spineless cactus",
+            "Barbary fig",
+            "cactus pear",
+            "smooth prickly-pear",
+            "opuntia ficus-indica",
+            "prickly pear",
+            "mission prickly-pear"
+        ],
+        "foodon_foodex2_id": "FOODON_03541718"
+    },
+    {
+        "ingredient": "Prune",
+        "foodon_ids": [
+            "FOODON_00003537"
+        ],
+        "alternate_names": [
+            "prune (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541795"
+    },
+    {
+        "ingredient": "Pumpkin",
+        "foodon_ids": [
+            "FOODON_03301697"
+        ],
+        "alternate_names": [
+            "pumpkin (whole, raw)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540697"
+    },
+    {
+        "ingredient": "Pumpkin seed",
+        "foodon_ids": [
+            "FOODON_03304870"
+        ],
+        "alternate_names": [
+            "pumpkin seed (shell off)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541206"
+    },
+    {
+        "ingredient": "Rambutan",
+        "foodon_ids": [
+            "FOODON_00003720"
+        ],
+        "alternate_names": [
+            "rambutan (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541765"
+    },
+    {
+        "ingredient": "Sapodilla",
+        "foodon_ids": [
+            "NCBITaxon_3741"
+        ],
+        "alternate_names": [
+            "Manilkara zapota",
+            "chicle",
+            "sapota",
+            "manilkara zapota",
+            "naseberry",
+            "nispero tree",
+            "sapote",
+            "achras sapota",
+            "chicle tree",
+            "sapodilla",
+            "nispero",
+            "chicozapote",
+            "chikoo"
+        ],
+        "foodon_foodex2_id": "FOODON_03541766"
+    },
+    {
+        "ingredient": "Sharon fruit",
+        "foodon_ids": [
+            "FOODON_03412766"
+        ],
+        "alternate_names": [
+            "common kaki plant",
+            "japanese persimmon",
+            "date plum",
+            "diospyros chinensis",
+            "sharon fruit",
+            "diospyros kaki",
+            "kaki persimmon",
+            "keg fig"
+        ],
+        "foodon_foodex2_id": "FOODON_03541679"
+    },
+    {
+        "ingredient": "Star fruit",
+        "foodon_ids": [
+            "FOODON_00003101"
+        ],
+        "alternate_names": [
+            "star fruit (whole)",
+            "star fruit"
+        ],
+        "foodon_foodex2_id": "FOODON_03541661"
+    },
+    {
+        "ingredient": "Tamarillo",
+        "foodon_ids": [
+            "FOODON_03304886"
+        ],
+        "alternate_names": [
+            "tamarillo (whole, raw)",
+            "tree tomato"
+        ],
+        "foodon_foodex2_id": "FOODON_03541755"
+    },
+    {
+        "ingredient": "Tamarind",
+        "foodon_ids": [
+            "FOODON_03309932"
+        ],
+        "alternate_names": [
+            "tamarind (whole, raw)",
+            "tamarind"
+        ],
+        "foodon_foodex2_id": "FOODON_03541403"
+    },
+    {
+        "ingredient": "Peanut",
+        "foodon_ids": [
+            "FOODON_00003206"
+        ],
+        "alternate_names": [
+            "peanut (whole)",
+            "peanut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541181"
+    },
+    {
+        "ingredient": "Peanut butter",
+        "foodon_ids": [
+            "FOODON_03306867"
+        ],
+        "alternate_names": [
+            "peanut butter"
+        ],
+        "foodon_foodex2_id": "FOODON_03541415"
+    },
+    {
+        "ingredient": "Tigernut",
+        "foodon_ids": [
+            "FOODON_03310864"
+        ],
+        "alternate_names": [
+            "yellow nutsedge tuber (whole, raw)",
+            "tiger nut",
+            "earth almond"
+        ],
+        "foodon_foodex2_id": "FOODON_03540741"
+    },
+    {
+        "ingredient": "Goat",
+        "foodon_ids": [
+            "FOODON_03411328"
+        ],
+        "alternate_names": [
+            "goat",
+            "caprine"
+        ],
+        "foodon_foodex2_id": "FOODON_03541932"
+    },
+    {
+        "ingredient": "Kidney",
+        "foodon_ids": [
+            "FOODON_03310898"
+        ],
+        "alternate_names": [
+            "kidney (whole, raw)",
+            "kidney"
+        ],
+        "foodon_foodex2_id": "FOODON_03542031"
+    },
+    {
+        "ingredient": "Lamb",
+        "foodon_ids": [
+            "FOODON_03411669"
+        ],
+        "alternate_names": [
+            "lamb"
+        ],
+        "foodon_foodex2_id": "FOODON_03541930"
+    },
+    {
+        "ingredient": "Lamb stock",
+        "foodon_ids": [
+            "FOODON_03420170"
+        ],
+        "alternate_names": [
+            "broth or stock"
+        ],
+        "foodon_foodex2_id": "FOODON_03544073"
+    },
+    {
+        "ingredient": "Mutton",
+        "foodon_ids": [
+            "FOODON_00002912"
+        ],
+        "alternate_names": [
+            "mutton"
+        ],
+        "foodon_foodex2_id": "FOODON_03541929"
+    },
+    {
+        "ingredient": "Venison",
+        "foodon_ids": [
+            "FOODON_00002935"
+        ],
+        "alternate_names": [
+            "venison"
+        ],
+        "foodon_foodex2_id": "FOODON_03541946"
+    },
+    {
+        "ingredient": "Corn flour",
+        "foodon_ids": [
+            "FOODON_03302500"
+        ],
+        "alternate_names": [
+            "corn flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540073"
+    },
+    {
+        "ingredient": "Corn tortilla",
+        "foodon_ids": [
+            "FOODON_03307668"
+        ],
+        "alternate_names": [
+            "tortilla"
+        ],
+        "foodon_foodex2_id": "FOODON_03540143"
+    },
+    {
+        "ingredient": "Cornflakes",
+        "foodon_ids": [
+            "FOODON_03302904"
+        ],
+        "alternate_names": [
+            "corn flakes"
+        ],
+        "foodon_foodex2_id": "FOODON_03540342"
+    },
+    {
+        "ingredient": "Cornmeal",
+        "foodon_ids": [
+            "FOODON_03317557"
+        ],
+        "alternate_names": [
+            "cornmeal porridge (processed, canned)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540323"
+    },
+    {
+        "ingredient": "Polenta",
+        "foodon_ids": [
+            "FOODON_03317508"
+        ],
+        "alternate_names": [
+            "polenta"
+        ],
+        "foodon_foodex2_id": "FOODON_03544005"
+    },
+    {
+        "ingredient": "Semolina",
+        "foodon_ids": [
+            "FOODON_03303411"
+        ],
+        "alternate_names": [
+            "semolina (durum wheat)",
+            "semolina"
+        ],
+        "foodon_foodex2_id": "FOODON_03540104"
+    },
+    {
+        "ingredient": "Sweetcorn",
+        "foodon_ids": [
+            "FOODON_03301422"
+        ],
+        "alternate_names": [
+            "sweet corn kernel (raw)",
+            "sweetcorn",
+            "sugar corn",
+            "pole corn"
+        ],
+        "foodon_foodex2_id": "FOODON_03540705"
+    },
+    {
+        "ingredient": "Advocaat",
+        "foodon_ids": [
+            "FOODON_03316144"
+        ],
+        "alternate_names": [
+            "liquer (egg based)"
+        ],
+        "foodon_foodex2_id": "FOODON_03543396"
+    },
+    {
+        "ingredient": "Buttermilk",
+        "foodon_ids": [
+            "FOODON_00001067"
+        ],
+        "alternate_names": [
+            "buttermilk food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542688"
+    },
+    {
+        "ingredient": "Condensed milk",
+        "foodon_ids": [
+            "FOODON_03304384"
+        ],
+        "alternate_names": [
+            "sweetened condensed milk"
+        ],
+        "foodon_foodex2_id": "FOODON_03542722"
+    },
+    {
+        "ingredient": "Custard",
+        "foodon_ids": [
+            "FOODON_03302946"
+        ],
+        "alternate_names": [
+            "custard"
+        ],
+        "foodon_foodex2_id": "FOODON_03542938"
+    },
+    {
+        "ingredient": "Evaporated milk",
+        "foodon_ids": [
+            "FOODON_03301505"
+        ],
+        "alternate_names": [
+            "evaporated milk"
+        ],
+        "foodon_foodex2_id": "FOODON_03542721"
+    },
+    {
+        "ingredient": "Milk",
+        "foodon_ids": [
+            "FOODON_03307455"
+        ],
+        "alternate_names": [
+            "cow milk (raw)",
+            "milk"
+        ],
+        "foodon_foodex2_id": "FOODON_03542651"
+    },
+    {
+        "ingredient": "Whey",
+        "foodon_ids": [
+            "FOODON_03305064"
+        ],
+        "alternate_names": [
+            "cow whey"
+        ],
+        "foodon_foodex2_id": "FOODON_03542684"
+    },
+    {
+        "ingredient": "Almond",
+        "foodon_ids": [
+            "FOODON_03301355"
+        ],
+        "alternate_names": [
+            "almond (whole, raw)",
+            "almond"
+        ],
+        "foodon_foodex2_id": "FOODON_03541120"
+    },
+    {
+        "ingredient": "Almond butter",
+        "foodon_ids": [
+            "FOODON_03310875"
+        ],
+        "alternate_names": [
+            "almond butter"
+        ],
+        "foodon_foodex2_id": "FOODON_03541412"
+    },
+    {
+        "ingredient": "Almond milk",
+        "foodon_ids": [
+            "FOODON_00003157"
+        ],
+        "alternate_names": [
+            "almond milk"
+        ],
+        "foodon_foodex2_id": "FOODON_03543833"
+    },
+    {
+        "ingredient": "Betel nut",
+        "foodon_ids": [
+            "FOODON_03302124"
+        ],
+        "alternate_names": [
+            "betel nut (whole, raw)",
+            "betel nut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541140"
+    },
+    {
+        "ingredient": "Brazil nut",
+        "foodon_ids": [
+            "FOODON_03301821"
+        ],
+        "alternate_names": [
+            "brazilnut (whole, raw)",
+            "brazil nut",
+            "brazilnut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541129"
+    },
+    {
+        "ingredient": "Cashew cream",
+        "foodon_ids": [
+            "FOODON_00001688"
+        ],
+        "alternate_names": [
+            "cashew nut food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03543839"
+    },
+    {
+        "ingredient": "Cashew milk",
+        "foodon_ids": [
+            "FOODON_03315427"
+        ],
+        "alternate_names": [
+            "milk substitute of vegetable origin"
+        ],
+        "foodon_foodex2_id": "FOODON_03543831"
+    },
+    {
+        "ingredient": "Cashew nut",
+        "foodon_ids": [
+            "FOODON_03301357"
+        ],
+        "alternate_names": [
+            "cashew nut (whole, raw)",
+            "cashew nut",
+            "cashew"
+        ],
+        "foodon_foodex2_id": "FOODON_03541131"
+    },
+    {
+        "ingredient": "Chestnut",
+        "foodon_ids": [
+            "FOODON_03310978"
+        ],
+        "alternate_names": [
+            "chestnut (whole, raw)",
+            "chestnut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541133"
+    },
+    {
+        "ingredient": "Hazelnut",
+        "foodon_ids": [
+            "FOODON_00002933"
+        ],
+        "alternate_names": [
+            "hazelnut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541142"
+    },
+    {
+        "ingredient": "Macadamia nut",
+        "foodon_ids": [
+            "FOODON_03306521"
+        ],
+        "alternate_names": [
+            "macadamia nut (whole, raw)",
+            "macadamia nut",
+            "macadamia"
+        ],
+        "foodon_foodex2_id": "FOODON_03541146"
+    },
+    {
+        "ingredient": "Marzipan",
+        "foodon_ids": [
+            "FOODON_03315555"
+        ],
+        "alternate_names": [
+            "marzipan"
+        ],
+        "foodon_foodex2_id": "FOODON_03543059"
+    },
+    {
+        "ingredient": "Nougat",
+        "foodon_ids": [
+            "FOODON_03316438"
+        ],
+        "alternate_names": [
+            "nougat"
+        ],
+        "foodon_foodex2_id": "FOODON_03543064"
+    },
+    {
+        "ingredient": "Nut",
+        "foodon_ids": [
+            "FOODON_03303171"
+        ],
+        "alternate_names": [
+            "nut (whole)",
+            "nut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541118"
+    },
+    {
+        "ingredient": "Nut loaf",
+        "foodon_ids": [
+            "FOODON_00001172"
+        ],
+        "alternate_names": [
+            "nut food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03541118"
+    },
+    {
+        "ingredient": "Pecan nut",
+        "foodon_ids": [
+            "FOODON_03315232"
+        ],
+        "alternate_names": [
+            "pecan (whole, raw)",
+            "pecan",
+            "pecan nut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541150"
+    },
+    {
+        "ingredient": "Pine nut",
+        "foodon_ids": [
+            "FOODON_03309360"
+        ],
+        "alternate_names": [
+            "pine nut kernel (raw)",
+            "pine nut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541153"
+    },
+    {
+        "ingredient": "Pistachio",
+        "foodon_ids": [
+            "FOODON_03301825"
+        ],
+        "alternate_names": [
+            "pistachio nut (whole, raw)",
+            "pistachio",
+            "pistachio nut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541164"
+    },
+    {
+        "ingredient": "Poppy seed",
+        "foodon_ids": [
+            "FOODON_03301928"
+        ],
+        "alternate_names": [
+            "poppyseed"
+        ],
+        "foodon_foodex2_id": "FOODON_03541183"
+    },
+    {
+        "ingredient": "Seed",
+        "foodon_ids": [
+            "FOODON_00001173"
+        ],
+        "alternate_names": [
+            "plant seed food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03541177"
+    },
+    {
+        "ingredient": "Sesame seed",
+        "foodon_ids": [
+            "FOODON_03310306"
+        ],
+        "alternate_names": [
+            "sesame seed",
+            "sesame"
+        ],
+        "foodon_foodex2_id": "FOODON_03541185"
+    },
+    {
+        "ingredient": "Sunflower seed",
+        "foodon_ids": [
+            "FOODON_03304869"
+        ],
+        "alternate_names": [
+            "sunflower seed (whole kernel, raw)",
+            "sunflower seed"
+        ],
+        "foodon_foodex2_id": "FOODON_03541187"
+    },
+    {
+        "ingredient": "Tahini",
+        "foodon_ids": [
+            "FOODON_00003855"
+        ],
+        "alternate_names": [
+            "tahini"
+        ],
+        "foodon_foodex2_id": "FOODON_03541414"
+    },
+    {
+        "ingredient": "Walnut",
+        "foodon_ids": [
+            "FOODON_03315233"
+        ],
+        "alternate_names": [
+            "walnut (whole, raw)",
+            "walnut"
+        ],
+        "foodon_foodex2_id": "FOODON_03541166"
+    },
+    {
+        "ingredient": "Water chestnut",
+        "foodon_ids": [
+            "FOODON_03302970"
+        ],
+        "alternate_names": [
+            "water chestnut (whole, raw)",
+            "chinese water chestnut",
+            "water chestnut"
+        ],
+        "foodon_foodex2_id": "FOODON_03540990"
+    },
+    {
+        "ingredient": "Oat",
+        "foodon_ids": [
+            "FOODON_03309855"
+        ],
+        "alternate_names": [
+            "whole oats (raw)",
+            "oat"
+        ],
+        "foodon_foodex2_id": "FOODON_03540314"
+    },
+    {
+        "ingredient": "Oat milk",
+        "foodon_ids": [
+            "FOODON_03315427"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543834"
+    },
+    {
+        "ingredient": "Porridge oat",
+        "foodon_ids": [
+            "FOODON_03302888"
+        ],
+        "alternate_names": [
+            "oatmeal (instant, dry)",
+            "quick oats"
+        ],
+        "foodon_foodex2_id": "FOODON_03540324"
+    },
+    {
+        "ingredient": "Coconut oil",
+        "foodon_ids": [
+            "FOODON_03310046"
+        ],
+        "alternate_names": [
+            "coconut oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543113"
+    },
+    {
+        "ingredient": "Grapeseed oil",
+        "foodon_ids": [
+            "FOODON_03316687"
+        ],
+        "alternate_names": [
+            "grape seed oil (edible)",
+            "grape oil",
+            "grapeseed oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543108"
+    },
+    {
+        "ingredient": "Groundnut oil",
+        "foodon_ids": [
+            "FOODON_03309857"
+        ],
+        "alternate_names": [
+            "peanut oil",
+            "arachis oil",
+            "groundnut oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543103"
+    },
+    {
+        "ingredient": "Hazelnut oil",
+        "foodon_ids": [
+            "FOODON_00003220"
+        ],
+        "alternate_names": [
+            "hazelnut oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543098"
+    },
+    {
+        "ingredient": "Peanut oil",
+        "foodon_ids": [
+            "FOODON_03309857"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543103"
+    },
+    {
+        "ingredient": "Walnut oil",
+        "foodon_ids": [
+            "FOODON_00003218"
+        ],
+        "alternate_names": [
+            "walnut oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543111"
+    },
+    {
+        "ingredient": "Dressing",
+        "foodon_ids": [
+            "FOODON_03315498"
+        ],
+        "alternate_names": [
+            "dressing"
+        ],
+        "foodon_foodex2_id": "FOODON_03544145"
+    },
+    {
+        "ingredient": "Olive oil",
+        "foodon_ids": [
+            "FOODON_03306633"
+        ],
+        "alternate_names": [
+            "olive oil (virgin)",
+            "virgin olive oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543094"
+    },
+    {
+        "ingredient": "Truffle oil",
+        "foodon_ids": [
+            "FOODON_00003286"
+        ],
+        "alternate_names": [
+            "truffle food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03543094"
+    },
+    {
+        "ingredient": "Allium",
+        "foodon_ids": [
+            "FOODON_03414302"
+        ],
+        "alternate_names": [
+            "allium species"
+        ],
+        "foodon_foodex2_id": "FOODON_03540575"
+    },
+    {
+        "ingredient": "Chives",
+        "foodon_ids": [
+            "FOODON_03311167"
+        ],
+        "alternate_names": [
+            "chive leaf (whole, raw)",
+            "chive",
+            "chives"
+        ],
+        "foodon_foodex2_id": "FOODON_03540829"
+    },
+    {
+        "ingredient": "Fennel",
+        "foodon_ids": [
+            "FOODON_03309953"
+        ],
+        "alternate_names": [
+            "fennel (food product)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540547"
+    },
+    {
+        "ingredient": "Garlic",
+        "foodon_ids": [
+            "FOODON_03305208"
+        ],
+        "alternate_names": [
+            "garlic bulb (whole, raw)",
+            "garlic"
+        ],
+        "foodon_foodex2_id": "FOODON_03540576"
+    },
+    {
+        "ingredient": "Leek",
+        "foodon_ids": [
+            "FOODON_03311757"
+        ],
+        "alternate_names": [
+            "leek (whole, raw)",
+            "leek"
+        ],
+        "foodon_foodex2_id": "FOODON_03540555"
+    },
+    {
+        "ingredient": "Onion",
+        "foodon_ids": [
+            "FOODON_03316347"
+        ],
+        "alternate_names": [
+            "onion (whole)",
+            "bulb onion",
+            "common onion"
+        ],
+        "foodon_foodex2_id": "FOODON_03540579"
+    },
+    {
+        "ingredient": "Shallot",
+        "foodon_ids": [
+            "FOODON_00003019"
+        ],
+        "alternate_names": [
+            "shallot (whole, raw)",
+            "shallot"
+        ],
+        "foodon_foodex2_id": "FOODON_03540585"
+    },
+    {
+        "ingredient": "Spring onion",
+        "foodon_ids": [
+            "FOODON_03311340"
+        ],
+        "alternate_names": [
+            "scallion (whole, raw)",
+            "spring onion",
+            "green onion",
+            "scallion"
+        ],
+        "foodon_foodex2_id": "FOODON_03540589"
+    },
+    {
+        "ingredient": "Vegetable stock",
+        "foodon_ids": [
+            "FOODON_03315835"
+        ],
+        "alternate_names": [
+            "vegetable stock"
+        ],
+        "foodon_foodex2_id": "FOODON_03544076"
+    },
+    {
+        "ingredient": "Vegetable stock cube",
+        "foodon_ids": [
+            "FOODON_03301435"
+        ],
+        "alternate_names": [
+            "vegetable protein bouillon cube"
+        ],
+        "foodon_foodex2_id": "FOODON_03544076"
+    },
+    {
+        "ingredient": "Palm oil",
+        "foodon_ids": [
+            "FOODON_03310232"
+        ],
+        "alternate_names": [
+            "palm oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543114"
+    },
+    {
+        "ingredient": "Pastry",
+        "foodon_ids": [
+            "FOODON_03315272"
+        ],
+        "alternate_names": [
+            "pastry"
+        ],
+        "foodon_foodex2_id": "FOODON_03540297"
+    },
+    {
+        "ingredient": "Shortening",
+        "foodon_ids": [
+            "FOODON_03301314"
+        ],
+        "alternate_names": [
+            "shortening"
+        ],
+        "foodon_foodex2_id": "FOODON_03543156"
+    },
+    {
+        "ingredient": "Mange-tout",
+        "foodon_ids": [
+            "FOODON_03311801"
+        ],
+        "alternate_names": [
+            "sugar pea pod (edible, fresh)",
+            "snap pea",
+            "sugar pea",
+            "sugar snap pea"
+        ],
+        "foodon_foodex2_id": "FOODON_03540620"
+    },
+    {
+        "ingredient": "Pea",
+        "foodon_ids": [
+            "FOODON_03301300"
+        ],
+        "alternate_names": [
+            "pea (whole)",
+            "pea"
+        ],
+        "foodon_foodex2_id": "FOODON_03541093"
+    },
+    {
+        "ingredient": "Sugar snap peas",
+        "foodon_ids": [
+            "FOODON_03412467"
+        ],
+        "alternate_names": [
+            "sugar snap pea plant",
+            "Pisum sativum L. subsp. sativum var. macrocarpon Ser.",
+            "Pisum sativum var. macrocarpon"
+        ],
+        "foodon_foodex2_id": "FOODON_03540620"
+    },
+    {
+        "ingredient": "Bacon",
+        "foodon_ids": [
+            "FOODON_03317331"
+        ],
+        "alternate_names": [
+            "bacon (whole cut or parts)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542112"
+    },
+    {
+        "ingredient": "Black pudding",
+        "foodon_ids": [
+            "FOODON_00002557"
+        ],
+        "alternate_names": [
+            "black pudding"
+        ],
+        "foodon_foodex2_id": "FOODON_03542175"
+    },
+    {
+        "ingredient": "Brawn",
+        "foodon_ids": [
+            "FOODON_03315658"
+        ],
+        "alternate_names": [
+            "head cheese",
+            "brawn"
+        ],
+        "foodon_foodex2_id": "FOODON_03542179"
+    },
+    {
+        "ingredient": "Chorizo",
+        "foodon_ids": [
+            "FOODON_03316070"
+        ],
+        "alternate_names": [
+            "chorizo"
+        ],
+        "foodon_foodex2_id": "FOODON_03542162"
+    },
+    {
+        "ingredient": "Frankfurter",
+        "foodon_ids": [
+            "FOODON_03302012"
+        ],
+        "alternate_names": [
+            "frankfurter",
+            "frank",
+            "Wiener",
+            "Frankfurter Würstel",
+            "German wiener",
+            "frankfurter wurstl",
+            "Wienerle",
+            "hot dog",
+            "Wienerli",
+            "wiener",
+            "Saitenwurst",
+            "Würstl",
+            "Vienna sausage",
+            "Wiener Würstchen"
+        ],
+        "foodon_foodex2_id": "FOODON_03542185"
+    },
+    {
+        "ingredient": "Gelatine",
+        "foodon_ids": [
+            "FOODON_03315281"
+        ],
+        "alternate_names": [
+            "gelatin product"
+        ],
+        "foodon_foodex2_id": "FOODON_03544158"
+    },
+    {
+        "ingredient": "Ham",
+        "foodon_ids": [
+            "FOODON_00002502"
+        ],
+        "alternate_names": [
+            "ham food product",
+            "ham"
+        ],
+        "foodon_foodex2_id": "FOODON_03542125"
+    },
+    {
+        "ingredient": "Haslet",
+        "foodon_ids": [
+            "FOODON_03315662"
+        ],
+        "alternate_names": [
+            "meatloaf"
+        ],
+        "foodon_foodex2_id": "FOODON_03543853"
+    },
+    {
+        "ingredient": "Kabana",
+        "foodon_ids": [
+            "FOODON_03317295"
+        ],
+        "alternate_names": [
+            "pork sausage (smoked)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542164"
+    },
+    {
+        "ingredient": "Lard",
+        "foodon_ids": [
+            "FOODON_03302051"
+        ],
+        "alternate_names": [
+            "lard"
+        ],
+        "foodon_foodex2_id": "FOODON_03543121"
+    },
+    {
+        "ingredient": "Liver",
+        "foodon_ids": [
+            "FOODON_03309772"
+        ],
+        "alternate_names": [
+            "liver (whole, raw)",
+            "liver"
+        ],
+        "foodon_foodex2_id": "FOODON_03542010"
+    },
+    {
+        "ingredient": "Luncheon meat",
+        "foodon_ids": [
+            "FOODON_03310675"
+        ],
+        "alternate_names": [
+            "luncheon meat",
+            "cold cut",
+            "deli meat",
+            "lunch meat"
+        ],
+        "foodon_foodex2_id": "FOODON_03542209"
+    },
+    {
+        "ingredient": "Meatball",
+        "foodon_ids": [
+            "FOODON_03317284"
+        ],
+        "alternate_names": [
+            "meatball"
+        ],
+        "foodon_foodex2_id": "FOODON_03543858"
+    },
+    {
+        "ingredient": "Pancetta",
+        "foodon_ids": [
+            "FOODON_00003249"
+        ],
+        "alternate_names": [
+            "pancetta"
+        ],
+        "foodon_foodex2_id": "FOODON_03542113"
+    },
+    {
+        "ingredient": "Pepperoni",
+        "foodon_ids": [
+            "FOODON_03311003"
+        ],
+        "alternate_names": [
+            "pepperoni"
+        ],
+        "foodon_foodex2_id": "FOODON_03542161"
+    },
+    {
+        "ingredient": "Polony",
+        "foodon_ids": [
+            "FOODON_00001220"
+        ],
+        "alternate_names": [
+            "sausage (smoked)"
+        ],
+        "foodon_foodex2_id": "FOODON_03542174"
+    },
+    {
+        "ingredient": "Pork",
+        "foodon_ids": [
+            "FOODON_00001038"
+        ],
+        "alternate_names": [
+            "pork meat food product",
+            "pork"
+        ],
+        "foodon_foodex2_id": "FOODON_03541926"
+    },
+    {
+        "ingredient": "Salami",
+        "foodon_ids": [
+            "FOODON_03312067"
+        ],
+        "alternate_names": [
+            "salami"
+        ],
+        "foodon_foodex2_id": "FOODON_03542157"
+    },
+    {
+        "ingredient": "Sausage",
+        "foodon_ids": [
+            "FOODON_00001007"
+        ],
+        "alternate_names": [
+            "sausage food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03542143"
+    },
+    {
+        "ingredient": "Saveloy",
+        "foodon_ids": [
+            "FOODON_00002729"
+        ],
+        "alternate_names": [
+            "pork sausage"
+        ],
+        "foodon_foodex2_id": "FOODON_03542143"
+    },
+    {
+        "ingredient": "Gnocchi",
+        "foodon_ids": [
+            "FOODON_03317446"
+        ],
+        "alternate_names": [
+            "gnocchi"
+        ],
+        "foodon_foodex2_id": "FOODON_03540193"
+    },
+    {
+        "ingredient": "Potato",
+        "foodon_ids": [
+            "FOODON_03315354"
+        ],
+        "alternate_names": [
+            "potato (whole)",
+            "potato"
+        ],
+        "foodon_foodex2_id": "FOODON_03540958"
+    },
+    {
+        "ingredient": "Sweet potato",
+        "foodon_ids": [
+            "FOODON_00003445"
+        ],
+        "alternate_names": [
+            "sweet potato (whole)",
+            "sweet potato"
+        ],
+        "foodon_foodex2_id": "FOODON_03540976"
+    },
+    {
+        "ingredient": "Chicken",
+        "foodon_ids": [
+            "FOODON_00001040"
+        ],
+        "alternate_names": [
+            "chicken meat food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03541965"
+    },
+    {
+        "ingredient": "Chicken stock",
+        "foodon_ids": [
+            "FOODON_03304946"
+        ],
+        "alternate_names": [
+            "chicken stock base (meatless)"
+        ],
+        "foodon_foodex2_id": "FOODON_03544074"
+    },
+    {
+        "ingredient": "Chicken stock cube",
+        "foodon_ids": [
+            "FOODON_03301431"
+        ],
+        "alternate_names": [
+            "chicken bouillon cube"
+        ],
+        "foodon_foodex2_id": "FOODON_03544074"
+    },
+    {
+        "ingredient": "Duck",
+        "foodon_ids": [
+            "FOODON_03411316"
+        ],
+        "alternate_names": [
+            "duck"
+        ],
+        "foodon_foodex2_id": "FOODON_03541969"
+    },
+    {
+        "ingredient": "Giblet",
+        "foodon_ids": [
+            "FOODON_00002706"
+        ],
+        "alternate_names": [
+            "chicken giblet"
+        ],
+        "foodon_foodex2_id": "FOODON_03542066"
+    },
+    {
+        "ingredient": "Goose",
+        "foodon_ids": [
+            "FOODON_03411253"
+        ],
+        "alternate_names": [
+            "goose"
+        ],
+        "foodon_foodex2_id": "FOODON_03541971"
+    },
+    {
+        "ingredient": "Grouse",
+        "foodon_ids": [
+            "FOODON_03411251"
+        ],
+        "alternate_names": [
+            "grouse"
+        ],
+        "foodon_foodex2_id": "FOODON_03541983"
+    },
+    {
+        "ingredient": "Hare",
+        "foodon_ids": [
+            "FOODON_03412695"
+        ],
+        "alternate_names": [
+            "hare"
+        ],
+        "foodon_foodex2_id": "FOODON_03541956"
+    },
+    {
+        "ingredient": "Partridge",
+        "foodon_ids": [
+            "FOODON_03411382"
+        ],
+        "alternate_names": [
+            "partridge"
+        ],
+        "foodon_foodex2_id": "FOODON_03541976"
+    },
+    {
+        "ingredient": "Pheasant",
+        "foodon_ids": [
+            "FOODON_03411460"
+        ],
+        "alternate_names": [
+            "pheasant"
+        ],
+        "foodon_foodex2_id": "FOODON_03541977"
+    },
+    {
+        "ingredient": "Pigeon",
+        "foodon_ids": [
+            "FOODON_03411304"
+        ],
+        "alternate_names": [
+            "pigeon"
+        ],
+        "foodon_foodex2_id": "FOODON_03541978"
+    },
+    {
+        "ingredient": "Poussin",
+        "foodon_ids": [
+            "FOODON_03307069"
+        ],
+        "alternate_names": [
+            "rock cornish game bird (raw)",
+            "poussin",
+            "rock cornish hen",
+            "rock cornish",
+            "cornish game hen",
+            "cornish hen"
+        ],
+        "foodon_foodex2_id": "FOODON_03541965"
+    },
+    {
+        "ingredient": "Rabbit",
+        "foodon_ids": [
+            "FOODON_03411323"
+        ],
+        "alternate_names": [
+            "rabbit"
+        ],
+        "foodon_foodex2_id": "FOODON_03541939"
+    },
+    {
+        "ingredient": "Turkey",
+        "foodon_ids": [
+            "FOODON_00002805"
+        ],
+        "alternate_names": [
+            "turkey (whole, raw)",
+            "turkey"
+        ],
+        "foodon_foodex2_id": "FOODON_03541967"
+    },
+    {
+        "ingredient": "Aduki bean",
+        "foodon_ids": [
+            "FOODON_00002389"
+        ],
+        "alternate_names": [
+            "azuki bean paste",
+            "red mung bean paste",
+            "aduki bean paste"
+        ],
+        "foodon_foodex2_id": "FOODON_03541070"
+    },
+    {
+        "ingredient": "Alfalfa sprout",
+        "foodon_ids": [
+            "FOODON_00002670"
+        ],
+        "alternate_names": [
+            "alfalfa sprout"
+        ],
+        "foodon_foodex2_id": "FOODON_03540502"
+    },
+    {
+        "ingredient": "Baked bean",
+        "foodon_ids": [
+            "FOODON_03301946"
+        ],
+        "alternate_names": [
+            "baked beans (dish)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541417"
+    },
+    {
+        "ingredient": "Balor bean",
+        "foodon_ids": [
+            "FOODON_00002753"
+        ],
+        "alternate_names": [
+            "bean (whole)",
+            "bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03540601"
+    },
+    {
+        "ingredient": "Bean",
+        "foodon_ids": [
+            "FOODON_00002753"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03541023"
+    },
+    {
+        "ingredient": "Black bean",
+        "foodon_ids": [
+            "FOODON_00002889"
+        ],
+        "alternate_names": [
+            "black turtle bean (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541027"
+    },
+    {
+        "ingredient": "Black gram",
+        "foodon_ids": [
+            "FOODON_03309936"
+        ],
+        "alternate_names": [
+            "black gram bean (whole)",
+            "black gram bean",
+            "minapa pappu",
+            "urid bean",
+            "mungo bean",
+            "urad bean",
+            "black matpe bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541111"
+    },
+    {
+        "ingredient": "Blackeye bean",
+        "foodon_ids": [
+            "FOODON_03302068"
+        ],
+        "alternate_names": [
+            "blackeyed pea (whole, raw)",
+            "blackeyed pea"
+        ],
+        "foodon_foodex2_id": "FOODON_03541025"
+    },
+    {
+        "ingredient": "Borlotti bean",
+        "foodon_ids": [
+            "FOODON_03302067",
+            "FOODON_03411186"
+        ],
+        "alternate_names": [
+            "cranberry bean (whole)",
+            "cranberry bean",
+            "borlotti bean",
+            "shellout",
+            "shell bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541027"
+    },
+    {
+        "ingredient": "Broad bean",
+        "foodon_ids": [
+            "FOODON_03301227"
+        ],
+        "alternate_names": [
+            "broad bean (whole)",
+            "broadbean",
+            "broad bean",
+            "faba bean",
+            "fava bean",
+            "Windsor bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541072"
+    },
+    {
+        "ingredient": "Butter bean",
+        "foodon_ids": [
+            "FOODON_00003164"
+        ],
+        "alternate_names": [
+            "scarlet runner bean food product",
+            "runner bean",
+            "scarlet runner bean",
+            "scarlet bean",
+            "butter bean",
+            "multiflora bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541036"
+    },
+    {
+        "ingredient": "Cannellini bean",
+        "foodon_ids": [
+            "FOODON_03309415"
+        ],
+        "alternate_names": [
+            "white kidney bean (whole)",
+            "safaid lobia",
+            "cannellini",
+            "white kidney bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541027"
+    },
+    {
+        "ingredient": "Chickpea",
+        "foodon_ids": [
+            "FOODON_03306811"
+        ],
+        "alternate_names": [
+            "chickpea (whole)",
+            "chick pea",
+            "chickpea"
+        ],
+        "foodon_foodex2_id": "FOODON_03541099"
+    },
+    {
+        "ingredient": "Chilki urad dahl",
+        "foodon_ids": [
+            "NCBITaxon_3915"
+        ],
+        "alternate_names": [
+            "Vigna mungo",
+            "matpe bean",
+            "urad",
+            "urd",
+            "urdbean",
+            "vigna mungo",
+            "urad dal",
+            "black lentil",
+            "black gram",
+            "urd bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03543900"
+    },
+    {
+        "ingredient": "Cluster bean",
+        "foodon_ids": [
+            "NCBITaxon_3832"
+        ],
+        "alternate_names": [
+            "Cyamopsis tetragonoloba",
+            "cluster bean",
+            "guar"
+        ],
+        "foodon_foodex2_id": "FOODON_03541079"
+    },
+    {
+        "ingredient": "Duhli urad dahl",
+        "foodon_ids": [
+            "NCBITaxon_3915"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543900"
+    },
+    {
+        "ingredient": "Edamame bean",
+        "foodon_ids": [
+            "FOODON_00002809"
+        ],
+        "alternate_names": [
+            "edamame",
+            "枝豆"
+        ],
+        "foodon_foodex2_id": "FOODON_03540611"
+    },
+    {
+        "ingredient": "Gram flour",
+        "foodon_ids": [
+            "FOODON_03304537"
+        ],
+        "alternate_names": [
+            "chickpea flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03541100"
+    },
+    {
+        "ingredient": "Green bean",
+        "foodon_ids": [
+            "FOODON_03305806"
+        ],
+        "alternate_names": [
+            "green bean pod",
+            "snaps",
+            "stringless bean",
+            "haricot vert",
+            "string bean",
+            "green bean",
+            "French bean",
+            "snap bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03540600"
+    },
+    {
+        "ingredient": "Haricot bean",
+        "foodon_ids": [
+            "FOODON_00002761"
+        ],
+        "alternate_names": [
+            "kidney bean (whole)",
+            "kidney bean",
+            "haricot bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541077"
+    },
+    {
+        "ingredient": "Hummus",
+        "foodon_ids": [
+            "FOODON_00003049"
+        ],
+        "alternate_names": [
+            "hummus"
+        ],
+        "foodon_foodex2_id": "FOODON_03543899"
+    },
+    {
+        "ingredient": "Kidney bean",
+        "foodon_ids": [
+            "FOODON_00002761"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03541030"
+    },
+    {
+        "ingredient": "Lentil",
+        "foodon_ids": [
+            "FOODON_03310641"
+        ],
+        "alternate_names": [
+            "lentil (whole)",
+            "lentil"
+        ],
+        "foodon_foodex2_id": "FOODON_03541092"
+    },
+    {
+        "ingredient": "Mung bean",
+        "foodon_ids": [
+            "FOODON_03301275"
+        ],
+        "alternate_names": [
+            "mung bean (whole)",
+            "mung bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541084"
+    },
+    {
+        "ingredient": "Papri bean",
+        "foodon_ids": [
+            "FOODON_00002753"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540607"
+    },
+    {
+        "ingredient": "Pigeon pea",
+        "foodon_ids": [
+            "FOODON_00002781"
+        ],
+        "alternate_names": [
+            "pigeon pea (whole)",
+            "pigeon pea"
+        ],
+        "foodon_foodex2_id": "FOODON_03541102"
+    },
+    {
+        "ingredient": "Pinto bean",
+        "foodon_ids": [
+            "FOODON_03309759"
+        ],
+        "alternate_names": [
+            "pinto bean (whole)",
+            "pinto bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541027"
+    },
+    {
+        "ingredient": "Runner bean",
+        "foodon_ids": [
+            "FOODON_00003164"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03541086"
+    },
+    {
+        "ingredient": "Soya bean",
+        "foodon_ids": [
+            "FOODON_03301415"
+        ],
+        "alternate_names": [
+            "soybean (whole)",
+            "soybean",
+            "soya bean",
+            "soy bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03541041"
+    },
+    {
+        "ingredient": "Soya flour",
+        "foodon_ids": [
+            "FOODON_03302142"
+        ],
+        "alternate_names": [
+            "soybean flour",
+            "soy flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540067"
+    },
+    {
+        "ingredient": "Sword bean",
+        "foodon_ids": [
+            "NCBITaxon_3824"
+        ],
+        "alternate_names": [
+            "Canavalia gladiata",
+            "sword bean",
+            "Japanese jack bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03540606"
+    },
+    {
+        "ingredient": "Urad gram",
+        "foodon_ids": [
+            "FOODON_03309936"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03541046"
+    },
+    {
+        "ingredient": "Chili oil",
+        "foodon_ids": [
+            "FOODON_03302726"
+        ],
+        "alternate_names": [
+            "chili seed oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543093"
+    },
+    {
+        "ingredient": "Corn oil",
+        "foodon_ids": [
+            "FOODON_03301474"
+        ],
+        "alternate_names": [
+            "corn oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543101"
+    },
+    {
+        "ingredient": "Cottonseed oil",
+        "foodon_ids": [
+            "FOODON_03301581"
+        ],
+        "alternate_names": [
+            "cottonseed oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543102"
+    },
+    {
+        "ingredient": "Evening primrose oil",
+        "foodon_ids": [
+            "FOODON_03412109"
+        ],
+        "alternate_names": [
+            "evening primrose plant",
+            "Evening primrose"
+        ],
+        "foodon_foodex2_id": "FOODON_03541216"
+    },
+    {
+        "ingredient": "Margarine",
+        "foodon_ids": [
+            "FOODON_03301672"
+        ],
+        "alternate_names": [
+            "margarine"
+        ],
+        "foodon_foodex2_id": "FOODON_03543150"
+    },
+    {
+        "ingredient": "Oil",
+        "foodon_ids": [
+            "FOODON_03310387"
+        ],
+        "alternate_names": [
+            "oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543092"
+    },
+    {
+        "ingredient": "Rapeseed oil",
+        "foodon_ids": [
+            "FOODON_03310482"
+        ],
+        "alternate_names": [
+            "rapeseed oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543099"
+    },
+    {
+        "ingredient": "Safflower oil",
+        "foodon_ids": [
+            "FOODON_03302780"
+        ],
+        "alternate_names": [
+            "safflower oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543104"
+    },
+    {
+        "ingredient": "Vegetable oil",
+        "foodon_ids": [
+            "FOODON_03305263"
+        ],
+        "alternate_names": [
+            "vegetable oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543093"
+    },
+    {
+        "ingredient": "Vegetable Suet",
+        "foodon_ids": [
+            "FOODON_03305811"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543093"
+    },
+    {
+        "ingredient": "Wheatgerm oil",
+        "foodon_ids": [
+            "FOODON_03305046"
+        ],
+        "alternate_names": [
+            "wheat germ oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543116"
+    },
+    {
+        "ingredient": "Arborio rice",
+        "foodon_ids": [
+            "FOODON_00002575"
+        ],
+        "alternate_names": [
+            "Arborio rice"
+        ],
+        "foodon_foodex2_id": "FOODON_03540038"
+    },
+    {
+        "ingredient": "Basmati rice",
+        "foodon_ids": [
+            "FOODON_00003786"
+        ],
+        "alternate_names": [
+            "long grain rice kernel",
+            "long grain rice"
+        ],
+        "foodon_foodex2_id": "FOODON_03540040"
+    },
+    {
+        "ingredient": "Brown rice",
+        "foodon_ids": [
+            "FOODON_00003436"
+        ],
+        "alternate_names": [
+            "brown rice"
+        ],
+        "foodon_foodex2_id": "FOODON_03540039"
+    },
+    {
+        "ingredient": "Brown rice syrup",
+        "foodon_ids": [
+            "FOODON_03307722"
+        ],
+        "alternate_names": [
+            "rice syrup"
+        ],
+        "foodon_foodex2_id": "FOODON_03543006"
+    },
+    {
+        "ingredient": "Carnaroli rice",
+        "foodon_ids": [
+            "FOODON_00002575"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540038"
+    },
+    {
+        "ingredient": "Crisp rice",
+        "foodon_ids": [
+            "FOODON_03306909"
+        ],
+        "alternate_names": [
+            "rice (crisped)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540355"
+    },
+    {
+        "ingredient": "Jasmine rice",
+        "foodon_ids": [
+            "FOODON_00003786"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540040"
+    },
+    {
+        "ingredient": "Long-grain rice",
+        "foodon_ids": [
+            "FOODON_00003786"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540040"
+    },
+    {
+        "ingredient": "Paella rice",
+        "foodon_ids": [
+            "FOODON_00002575"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540038"
+    },
+    {
+        "ingredient": "Pilau rice",
+        "foodon_ids": [
+            "FOODON_03302745"
+        ],
+        "alternate_names": [
+            "rice (curried)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540040"
+    },
+    {
+        "ingredient": "Rice",
+        "foodon_ids": [
+            "FOODON_03301641"
+        ],
+        "alternate_names": [
+            "rice grain food product",
+            "rice"
+        ],
+        "foodon_foodex2_id": "FOODON_03540038"
+    },
+    {
+        "ingredient": "Rice flour",
+        "foodon_ids": [
+            "FOODON_00002207"
+        ],
+        "alternate_names": [
+            "rice flour food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540077"
+    },
+    {
+        "ingredient": "Rice milk",
+        "foodon_ids": [
+            "FOODON_03311386"
+        ],
+        "alternate_names": [
+            "rice milk beverage"
+        ],
+        "foodon_foodex2_id": "FOODON_03543835"
+    },
+    {
+        "ingredient": "Rice noodle",
+        "foodon_ids": [
+            "FOODON_03306944"
+        ],
+        "alternate_names": [
+            "noodle"
+        ],
+        "foodon_foodex2_id": "FOODON_03540195"
+    },
+    {
+        "ingredient": "Risotto rice",
+        "foodon_ids": [
+            "FOODON_00002575"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540038"
+    },
+    {
+        "ingredient": "Sushi rice",
+        "foodon_ids": [
+            "FOODON_00003352"
+        ],
+        "alternate_names": [
+            "glutinous rice"
+        ],
+        "foodon_foodex2_id": "FOODON_03540045"
+    },
+    {
+        "ingredient": "White rice",
+        "foodon_ids": [
+            "FOODON_00003787"
+        ],
+        "alternate_names": [
+            "white rice (whole)",
+            "white rice",
+            "milled white rice"
+        ],
+        "foodon_foodex2_id": "FOODON_03540043"
+    },
+    {
+        "ingredient": "Wild rice",
+        "foodon_ids": [
+            "FOODON_03301754"
+        ],
+        "alternate_names": [
+            "wild rice food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540048"
+    },
+    {
+        "ingredient": "Carrot",
+        "foodon_ids": [
+            "FOODON_00003408"
+        ],
+        "alternate_names": [
+            "carrot root (whole)",
+            "carrot"
+        ],
+        "foodon_foodex2_id": "FOODON_03540712"
+    },
+    {
+        "ingredient": "Celeriac",
+        "foodon_ids": [
+            "FOODON_03411729"
+        ],
+        "alternate_names": [
+            "celeriac plant",
+            "knob celery",
+            "celery root",
+            "turnip-rooted celery",
+            "celeriac",
+            "apium graveolens rapaceum"
+        ],
+        "foodon_foodex2_id": "FOODON_03540716"
+    },
+    {
+        "ingredient": "Ginger",
+        "foodon_ids": [
+            "FOODON_00001901"
+        ],
+        "alternate_names": [
+            "ginger food product",
+            "ginger"
+        ],
+        "foodon_foodex2_id": "FOODON_03541352"
+    },
+    {
+        "ingredient": "Ground ginger",
+        "foodon_ids": [
+            "FOODON_03310490"
+        ],
+        "alternate_names": [
+            "ginger (ground)",
+            "ground ginger"
+        ],
+        "foodon_foodex2_id": "FOODON_03544273"
+    },
+    {
+        "ingredient": "Horseradish",
+        "foodon_ids": [
+            "FOODON_03305494"
+        ],
+        "alternate_names": [
+            "horseradish (prepared)",
+            "horseradish"
+        ],
+        "foodon_foodex2_id": "FOODON_03540718"
+    },
+    {
+        "ingredient": "Jerusalem artichoke",
+        "foodon_ids": [
+            "FOODON_03301370"
+        ],
+        "alternate_names": [
+            "jerusalem artichoke (whole, raw)",
+            "jerusalem artichoke"
+        ],
+        "foodon_foodex2_id": "FOODON_03540722"
+    },
+    {
+        "ingredient": "Kohl rabi",
+        "foodon_ids": [
+            "FOODON_00002949"
+        ],
+        "alternate_names": [
+            "kohlrabi food product",
+            "German turnip",
+            "kohlrabi"
+        ],
+        "foodon_foodex2_id": "FOODON_03540573"
+    },
+    {
+        "ingredient": "Liquorice",
+        "foodon_ids": [
+            "FOODON_03301663"
+        ],
+        "alternate_names": [
+            "licorice candy",
+            "liquorice",
+            "liquorice candy",
+            "licorice"
+        ],
+        "foodon_foodex2_id": "FOODON_03541350"
+    },
+    {
+        "ingredient": "Lotus",
+        "foodon_ids": [
+            "FOODON_00003113"
+        ],
+        "alternate_names": [
+            "lotus plant food product",
+            "Egyptian bean",
+            "sacred lotus",
+            "Indian lotus",
+            "lotus bean of India"
+        ],
+        "foodon_foodex2_id": "FOODON_03540985"
+    },
+    {
+        "ingredient": "Mooli",
+        "foodon_ids": [
+            "FOODON_00003076"
+        ],
+        "alternate_names": [
+            "daikon (whole, raw)",
+            "daikon"
+        ],
+        "foodon_foodex2_id": "FOODON_03540738"
+    },
+    {
+        "ingredient": "Parsnip",
+        "foodon_ids": [
+            "FOODON_03307242"
+        ],
+        "alternate_names": [
+            "parsnip (whole, raw)",
+            "parsnip"
+        ],
+        "foodon_foodex2_id": "FOODON_03540724"
+    },
+    {
+        "ingredient": "Radish",
+        "foodon_ids": [
+            "FOODON_03304656"
+        ],
+        "alternate_names": [
+            "radish (whole, raw)",
+            "radish"
+        ],
+        "foodon_foodex2_id": "FOODON_03540736"
+    },
+    {
+        "ingredient": "Swede",
+        "foodon_ids": [
+            "FOODON_03309574"
+        ],
+        "alternate_names": [
+            "rutabaga (whole, raw)",
+            "rutabaga turnip",
+            "swedish turnip",
+            "swede"
+        ],
+        "foodon_foodex2_id": "FOODON_03540750"
+    },
+    {
+        "ingredient": "Tannia",
+        "foodon_ids": [
+            "FOODON_03411499"
+        ],
+        "alternate_names": [
+            "arrowleaf elephant ear plant",
+            "arum sagittifolium",
+            "tanyah",
+            "malanga",
+            "yautia",
+            "ocumo",
+            "tannia",
+            "tanier",
+            "xanthosoma sagittifolium",
+            "xanthosoma sagittifolia",
+            "xanthosoma"
+        ],
+        "foodon_foodex2_id": "FOODON_03540974"
+    },
+    {
+        "ingredient": "Tapioca",
+        "foodon_ids": [
+            "FOODON_03307663"
+        ],
+        "alternate_names": [
+            "tapioca"
+        ],
+        "foodon_foodex2_id": "FOODON_03544170"
+    },
+    {
+        "ingredient": "Taro",
+        "foodon_ids": [
+            "FOODON_00002310"
+        ],
+        "alternate_names": [
+            "taro food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540409"
+    },
+    {
+        "ingredient": "Yam",
+        "foodon_ids": [
+            "FOODON_03307043"
+        ],
+        "alternate_names": [
+            "yam (whole, raw)",
+            "yam"
+        ],
+        "foodon_foodex2_id": "FOODON_03540978"
+    },
+    {
+        "ingredient": "Coconut milk",
+        "foodon_ids": [
+            "FOODON_03303084"
+        ],
+        "alternate_names": [
+            "coconut milk"
+        ],
+        "foodon_foodex2_id": "FOODON_03543258"
+    },
+    {
+        "ingredient": "Hoisin",
+        "foodon_ids": [
+            "FOODON_00002526"
+        ],
+        "alternate_names": [
+            "hoisin sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544110"
+    },
+    {
+        "ingredient": "Liquid Aminos",
+        "foodon_ids": [
+            "FOODON_00001761"
+        ],
+        "alternate_names": [
+            "condiment sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544110"
+    },
+    {
+        "ingredient": "Plant milk",
+        "foodon_ids": [
+            "FOODON_03315427"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543831"
+    },
+    {
+        "ingredient": "Soy Sauce",
+        "foodon_ids": [
+            "FOODON_03301115"
+        ],
+        "alternate_names": [
+            "soy sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544111"
+    },
+    {
+        "ingredient": "Soya milk",
+        "foodon_ids": [
+            "FOODON_03305289"
+        ],
+        "alternate_names": [
+            "soybean milk",
+            "soy milk"
+        ],
+        "foodon_foodex2_id": "FOODON_03543832"
+    },
+    {
+        "ingredient": "Plant-based cream",
+        "foodon_ids": [
+            "FOODON_03305261"
+        ],
+        "alternate_names": [
+            "imitation cream"
+        ],
+        "foodon_foodex2_id": "FOODON_03543839"
+    },
+    {
+        "ingredient": "Plant-based egg",
+        "foodon_ids": [
+            "FOODON_03304501"
+        ],
+        "alternate_names": [
+            "imitation egg"
+        ],
+        "foodon_foodex2_id": "FOODON_03543791"
+    },
+    {
+        "ingredient": "All purpose seasoning",
+        "foodon_ids": [
+            "FOODON_00002376"
+        ],
+        "alternate_names": [
+            "food seasoning product"
+        ],
+        "foodon_foodex2_id": "FOODON_03544052"
+    },
+    {
+        "ingredient": "Anise seed",
+        "foodon_ids": [
+            "FOODON_03301840"
+        ],
+        "alternate_names": [
+            "anise seed (whole, dried)",
+            "anise seed"
+        ],
+        "foodon_foodex2_id": "FOODON_03541292"
+    },
+    {
+        "ingredient": "Za'atar",
+        "foodon_ids": [
+            "GENEPIO_0002240"
+        ],
+        "alternate_names": [
+            "za'atar",
+            "zaatar"
+        ],
+        "foodon_foodex2_id": "FOODON_03540875"
+    },
+    {
+        "ingredient": "Baking powder",
+        "foodon_ids": [
+            "FOODON_03301940"
+        ],
+        "alternate_names": [
+            "baking powder"
+        ],
+        "foodon_foodex2_id": "FOODON_03544446"
+    },
+    {
+        "ingredient": "Bicarbonate of soda",
+        "foodon_ids": [
+            "NCIT_C29457"
+        ],
+        "alternate_names": [
+            "Sodium Bicarbonate",
+            "NaHCO3",
+            "SODIUM BICARBONATE",
+            "Sodium Hydrogen",
+            "Carbonate Baking Soda",
+            "Bicarbonate of Soda"
+        ],
+        "foodon_foodex2_id": "FOODON_03544428"
+    },
+    {
+        "ingredient": "Black Pepper",
+        "foodon_ids": [
+            "FOODON_03306739"
+        ],
+        "alternate_names": [
+            "black pepper (ground)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541389"
+    },
+    {
+        "ingredient": "Cajun seasoning",
+        "foodon_ids": [
+            "FOODON_00002109"
+        ],
+        "alternate_names": [
+            "pepper product flavoring or seasoning"
+        ],
+        "foodon_foodex2_id": "FOODON_03544061"
+    },
+    {
+        "ingredient": "Caraway seeds",
+        "foodon_ids": [
+            "FOODON_00003022"
+        ],
+        "alternate_names": [
+            "caraway food product",
+            "caraway"
+        ],
+        "foodon_foodex2_id": "FOODON_03541293"
+    },
+    {
+        "ingredient": "Cardamon",
+        "foodon_ids": [
+            "FOODON_00001683"
+        ],
+        "alternate_names": [
+            "cardamom food product",
+            "cardamon",
+            "cardamum"
+        ],
+        "foodon_foodex2_id": "FOODON_03541379"
+    },
+    {
+        "ingredient": "Coriander seed",
+        "foodon_ids": [
+            "FOODON_03411381"
+        ],
+        "alternate_names": [
+            "coriander plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03541301"
+    },
+    {
+        "ingredient": "Cream of tartar",
+        "foodon_ids": [
+            "FOODON_03414273"
+        ],
+        "alternate_names": [
+            "potassium hydrogen tartrate"
+        ],
+        "foodon_foodex2_id": "FOODON_03544432"
+    },
+    {
+        "ingredient": "Cumin",
+        "foodon_ids": [
+            "FOODON_00003024"
+        ],
+        "alternate_names": [
+            "cumin seed (whole, dried)",
+            "cumin"
+        ],
+        "foodon_foodex2_id": "FOODON_03541304"
+    },
+    {
+        "ingredient": "Five-spice",
+        "foodon_ids": [
+            "FOODON_03304292"
+        ],
+        "alternate_names": [
+            "spice mixture",
+            "spice blend",
+            "spice mix"
+        ],
+        "foodon_foodex2_id": "FOODON_03544061"
+    },
+    {
+        "ingredient": "Garam masala",
+        "foodon_ids": [
+            "FOODON_03304292"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03544064"
+    },
+    {
+        "ingredient": "Jerk seasoning",
+        "foodon_ids": [
+            "FOODON_03301189"
+        ],
+        "alternate_names": [
+            "seasoning"
+        ],
+        "foodon_foodex2_id": "FOODON_03544061"
+    },
+    {
+        "ingredient": "Mace",
+        "foodon_ids": [
+            "FOODON_00002014"
+        ],
+        "alternate_names": [
+            "mace food product",
+            "mace"
+        ],
+        "foodon_foodex2_id": "FOODON_03541338"
+    },
+    {
+        "ingredient": "Nutmeg",
+        "foodon_ids": [
+            "FOODON_03301528"
+        ],
+        "alternate_names": [
+            "nutmeg seed (ground)",
+            "nutmeg"
+        ],
+        "foodon_foodex2_id": "FOODON_03541314"
+    },
+    {
+        "ingredient": "Saffron",
+        "foodon_ids": [
+            "FOODON_00003043"
+        ],
+        "alternate_names": [
+            "saffron food product",
+            "saffron"
+        ],
+        "foodon_foodex2_id": "FOODON_03541288"
+    },
+    {
+        "ingredient": "Salt",
+        "foodon_ids": [
+            "CHEBI_24866"
+        ],
+        "alternate_names": [
+            "salt"
+        ],
+        "foodon_foodex2_id": "FOODON_03544053"
+    },
+    {
+        "ingredient": "Spice",
+        "foodon_ids": [
+            "FOODON_03303380"
+        ],
+        "alternate_names": [
+            "spice"
+        ],
+        "foodon_foodex2_id": "FOODON_03541259"
+    },
+    {
+        "ingredient": "Star anise",
+        "foodon_ids": [
+            "FOODON_00003502"
+        ],
+        "alternate_names": [
+            "star anise (whole)",
+            "Chinese star anise",
+            "staranise",
+            "star anise"
+        ],
+        "foodon_foodex2_id": "FOODON_03541382"
+    },
+    {
+        "ingredient": "Truffles",
+        "foodon_ids": [
+            "FOODON_03411387"
+        ],
+        "alternate_names": [
+            "truffle"
+        ],
+        "foodon_foodex2_id": "FOODON_03540812"
+    },
+    {
+        "ingredient": "Turmeric",
+        "foodon_ids": [
+            "FOODON_00002323"
+        ],
+        "alternate_names": [
+            "turmeric food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03541360"
+    },
+    {
+        "ingredient": "Vanilla",
+        "foodon_ids": [
+            "FOODON_00002328"
+        ],
+        "alternate_names": [
+            "vanilla bean food product",
+            "vanilla"
+        ],
+        "foodon_foodex2_id": "FOODON_03544401"
+    },
+    {
+        "ingredient": "Sesame oil",
+        "foodon_ids": [
+            "FOODON_03304152"
+        ],
+        "alternate_names": [
+            "sesame oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543105"
+    },
+    {
+        "ingredient": "Sunflower oil",
+        "foodon_ids": [
+            "FOODON_03310357"
+        ],
+        "alternate_names": [
+            "sunflower seed oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03543106"
+    },
+    {
+        "ingredient": "Agar",
+        "foodon_ids": [
+            "CHEBI_2509"
+        ],
+        "alternate_names": [
+            "agar"
+        ],
+        "foodon_foodex2_id": "FOODON_03544431"
+    },
+    {
+        "ingredient": "Agave",
+        "foodon_ids": [
+            "FOODON_00002423"
+        ],
+        "alternate_names": [
+            "agave food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03541002"
+    },
+    {
+        "ingredient": "Glucose",
+        "foodon_ids": [
+            "CHEBI_17234"
+        ],
+        "alternate_names": [
+            "glucose",
+            "gluco-hexose",
+            "Glucose"
+        ],
+        "foodon_foodex2_id": "FOODON_03542998"
+    },
+    {
+        "ingredient": "Honey",
+        "foodon_ids": [
+            "UBERON_0036016"
+        ],
+        "alternate_names": [
+            "honey"
+        ],
+        "foodon_foodex2_id": "FOODON_03543011"
+    },
+    {
+        "ingredient": "Maple syrup",
+        "foodon_ids": [
+            "FOODON_03301848"
+        ],
+        "alternate_names": [
+            "maple syrup"
+        ],
+        "foodon_foodex2_id": "FOODON_03544310"
+    },
+    {
+        "ingredient": "Miso",
+        "foodon_ids": [
+            "FOODON_00003208"
+        ],
+        "alternate_names": [
+            "miso"
+        ],
+        "foodon_foodex2_id": "FOODON_03544060"
+    },
+    {
+        "ingredient": "Plant-based bacon",
+        "foodon_ids": [
+            "FOODON_03305199"
+        ],
+        "alternate_names": [
+            "imitation bacon bit"
+        ],
+        "foodon_foodex2_id": "FOODON_03543826"
+    },
+    {
+        "ingredient": "Plant-based burger",
+        "foodon_ids": [
+            "FOODON_03302716"
+        ],
+        "alternate_names": [
+            "imitation hamburger pattie"
+        ],
+        "foodon_foodex2_id": "FOODON_03543826"
+    },
+    {
+        "ingredient": "Plant-based cheese",
+        "foodon_ids": [
+            "FOODON_03302910"
+        ],
+        "alternate_names": [
+            "imitation cheese"
+        ],
+        "foodon_foodex2_id": "FOODON_03543843"
+    },
+    {
+        "ingredient": "Plant-based chicken",
+        "foodon_ids": [
+            "FOODON_03302996"
+        ],
+        "alternate_names": [
+            "imitation meat from textured vegetable protein"
+        ],
+        "foodon_foodex2_id": "FOODON_03543826"
+    },
+    {
+        "ingredient": "Plant-based ham",
+        "foodon_ids": [
+            "FOODON_03306435"
+        ],
+        "alternate_names": [
+            "ham-style vegetarian entree"
+        ],
+        "foodon_foodex2_id": "FOODON_03543826"
+    },
+    {
+        "ingredient": "Plant-based mayonnaise",
+        "foodon_ids": [
+            "FOODON_03306409"
+        ],
+        "alternate_names": [
+            "mayonnaise analog"
+        ],
+        "foodon_foodex2_id": "FOODON_03543791"
+    },
+    {
+        "ingredient": "Plant-based meatball",
+        "foodon_ids": [
+            "FOODON_03316106"
+        ],
+        "alternate_names": [
+            "vegetable protein-based meat analog"
+        ],
+        "foodon_foodex2_id": "FOODON_03543826"
+    },
+    {
+        "ingredient": "Plant-based mince",
+        "foodon_ids": [
+            "FOODON_03306436"
+        ],
+        "alternate_names": [
+            "meat substitute (from vegetable protein)"
+        ],
+        "foodon_foodex2_id": "FOODON_03543826"
+    },
+    {
+        "ingredient": "Plant-based sausage",
+        "foodon_ids": [
+            "FOODON_03310813"
+        ],
+        "alternate_names": [
+            "imitation sausage"
+        ],
+        "foodon_foodex2_id": "FOODON_03543826"
+    },
+    {
+        "ingredient": "Plant-based yogurt",
+        "foodon_ids": [
+            "FOODON_00003193"
+        ],
+        "alternate_names": [
+            "soy yogurt",
+            "yofu",
+            "soygurt",
+            "soya yogurt"
+        ],
+        "foodon_foodex2_id": "FOODON_03543844"
+    },
+    {
+        "ingredient": "Quorn",
+        "foodon_ids": [
+            "FOODON_03414943"
+        ],
+        "alternate_names": [
+            "fusarium venenatum",
+            "quorn"
+        ],
+        "foodon_foodex2_id": "FOODON_03543828"
+    },
+    {
+        "ingredient": "Quorn sausage",
+        "foodon_ids": [
+            "FOODON_03414943"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03543828"
+    },
+    {
+        "ingredient": "Soya mince",
+        "foodon_ids": [
+            "FOODON_00002266"
+        ],
+        "alternate_names": [
+            "soybean food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03544157"
+    },
+    {
+        "ingredient": "Tempeh",
+        "foodon_ids": [
+            "FOODON_03304999"
+        ],
+        "alternate_names": [
+            "tempeh",
+            "tempe",
+            "témpé"
+        ],
+        "foodon_foodex2_id": "FOODON_03543829"
+    },
+    {
+        "ingredient": "Tofu",
+        "foodon_ids": [
+            "FOODON_03309664"
+        ],
+        "alternate_names": [
+            "tofu food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03543841"
+    },
+    {
+        "ingredient": "Cherry tomato",
+        "foodon_ids": [
+            "FOODON_03311800"
+        ],
+        "alternate_names": [
+            "miniature tomato (whole, raw)",
+            "cherry tomato"
+        ],
+        "foodon_foodex2_id": "FOODON_03540639"
+    },
+    {
+        "ingredient": "Passata",
+        "foodon_ids": [
+            "FOODON_03317029"
+        ],
+        "alternate_names": [
+            "tomato puree (for further processing)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540933"
+    },
+    {
+        "ingredient": "Salsa",
+        "foodon_ids": [
+            "FOODON_03310086"
+        ],
+        "alternate_names": [
+            "salsa"
+        ],
+        "foodon_foodex2_id": "FOODON_03544127"
+    },
+    {
+        "ingredient": "Tomato",
+        "foodon_ids": [
+            "FOODON_03301453"
+        ],
+        "alternate_names": [
+            "tomato (whole)",
+            "tomato"
+        ],
+        "foodon_foodex2_id": "FOODON_03540633"
+    },
+    {
+        "ingredient": "Tomato ketchup",
+        "foodon_ids": [
+            "FOODON_03301460"
+        ],
+        "alternate_names": [
+            "tomato catsup",
+            "Ketchup"
+        ],
+        "foodon_foodex2_id": "FOODON_03544118"
+    },
+    {
+        "ingredient": "Tomato puree",
+        "foodon_ids": [
+            "FOODON_03301457"
+        ],
+        "alternate_names": [
+            "tomato puree"
+        ],
+        "foodon_foodex2_id": "FOODON_03540936"
+    },
+    {
+        "ingredient": "Tomato sauce",
+        "foodon_ids": [
+            "FOODON_03301217"
+        ],
+        "alternate_names": [
+            "tomato sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544098"
+    },
+    {
+        "ingredient": "Ackee",
+        "foodon_ids": [
+            "NCBITaxon_259381"
+        ],
+        "alternate_names": [
+            "Blighia sapida",
+            "akee",
+            "ackee",
+            "aki"
+        ],
+        "foodon_foodex2_id": "FOODON_03541749"
+    },
+    {
+        "ingredient": "Acorn squash",
+        "foodon_ids": [
+            "FOODON_03315223"
+        ],
+        "alternate_names": [
+            "acorn squash (whole, raw)",
+            "acorn squash"
+        ],
+        "foodon_foodex2_id": "FOODON_03540700"
+    },
+    {
+        "ingredient": "Allspice",
+        "foodon_ids": [
+            "FOODON_03301554"
+        ],
+        "alternate_names": [
+            "allspice (ground)",
+            "allspice"
+        ],
+        "foodon_foodex2_id": "FOODON_03541370"
+    },
+    {
+        "ingredient": "Asafoetida",
+        "foodon_ids": [
+            "FOODON_00002936"
+        ],
+        "alternate_names": [
+            "asafoetida",
+            "jowani badian",
+            "inguva",
+            "hengu",
+            "ting",
+            "hing",
+            "kayam"
+        ],
+        "foodon_foodex2_id": "FOODON_03540832"
+    },
+    {
+        "ingredient": "Aubergine",
+        "foodon_ids": [
+            "FOODON_03411458"
+        ],
+        "alternate_names": [
+            "eggplant plant",
+            "solanum melongena",
+            "aubergine"
+        ],
+        "foodon_foodex2_id": "FOODON_03540658"
+    },
+    {
+        "ingredient": "Bamboo shoots",
+        "foodon_ids": [
+            "FOODON_03307912"
+        ],
+        "alternate_names": [
+            "bamboo shoot (raw)",
+            "bamboo shoot"
+        ],
+        "foodon_foodex2_id": "FOODON_03540560"
+    },
+    {
+        "ingredient": "Beansprouts",
+        "foodon_ids": [
+            "FOODON_00002576"
+        ],
+        "alternate_names": [
+            "bean sprout"
+        ],
+        "foodon_foodex2_id": "FOODON_03540515"
+    },
+    {
+        "ingredient": "Betel leaves",
+        "foodon_ids": [
+            "FOODON_03302218"
+        ],
+        "alternate_names": [
+            "betel leaf (whole)",
+            "betel leaf"
+        ],
+        "foodon_foodex2_id": "FOODON_03540905"
+    },
+    {
+        "ingredient": "Brown sauce",
+        "foodon_ids": [
+            "FOODON_03305335"
+        ],
+        "alternate_names": [
+            "brown sauce mix"
+        ],
+        "foodon_foodex2_id": "FOODON_03544115"
+    },
+    {
+        "ingredient": "Butternut squash",
+        "foodon_ids": [
+            "FOODON_00002981"
+        ],
+        "alternate_names": [
+            "butternut squash (whole, raw)",
+            "butternut squash"
+        ],
+        "foodon_foodex2_id": "FOODON_03540698"
+    },
+    {
+        "ingredient": "Cayenne",
+        "foodon_ids": [
+            "FOODON_00003798"
+        ],
+        "alternate_names": [
+            "cayenne pepper (whole)",
+            "cayenne pepper pod"
+        ],
+        "foodon_foodex2_id": "FOODON_03541405"
+    },
+    {
+        "ingredient": "Celery",
+        "foodon_ids": [
+            "FOODON_03301727"
+        ],
+        "alternate_names": [
+            "celery stalk (whole, raw)",
+            "celery",
+            "celery stalk"
+        ],
+        "foodon_foodex2_id": "FOODON_03540833"
+    },
+    {
+        "ingredient": "Celery salt",
+        "foodon_ids": [
+            "FOODON_03304738"
+        ],
+        "alternate_names": [
+            "celery salt"
+        ],
+        "foodon_foodex2_id": "FOODON_03541297"
+    },
+    {
+        "ingredient": "Chia seed",
+        "foodon_ids": [
+            "FOODON_00002961"
+        ],
+        "alternate_names": [
+            "chia seed (whole)",
+            "chia seed"
+        ],
+        "foodon_foodex2_id": "FOODON_03541235"
+    },
+    {
+        "ingredient": "Chili garlic sauce",
+        "foodon_ids": [
+            "FOODON_03311687"
+        ],
+        "alternate_names": [
+            "chili-garlic in oil"
+        ],
+        "foodon_foodex2_id": "FOODON_03544121"
+    },
+    {
+        "ingredient": "Chilli",
+        "foodon_ids": [
+            "FOODON_03301511"
+        ],
+        "alternate_names": [
+            "chili con carne (dish)",
+            "Chilli garlic sauce",
+            "chilli"
+        ],
+        "foodon_foodex2_id": "FOODON_03540651"
+    },
+    {
+        "ingredient": "Chilli paste",
+        "foodon_ids": [
+            "FOODON_03315435"
+        ],
+        "alternate_names": [
+            "chili paste"
+        ],
+        "foodon_foodex2_id": "FOODON_03544234"
+    },
+    {
+        "ingredient": "Chilli powder",
+        "foodon_ids": [
+            "FOODON_03302030"
+        ],
+        "alternate_names": [
+            "chili powder"
+        ],
+        "foodon_foodex2_id": "FOODON_03541406"
+    },
+    {
+        "ingredient": "Chilli sauce",
+        "foodon_ids": [
+            "FOODON_03304583"
+        ],
+        "alternate_names": [
+            "chili sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544234"
+    },
+    {
+        "ingredient": "Cho Cho",
+        "foodon_ids": [
+            "FOODON_00003653"
+        ],
+        "alternate_names": [
+            "chayote (whole)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540680"
+    },
+    {
+        "ingredient": "Cinnamon",
+        "foodon_ids": [
+            "FOODON_03301175"
+        ],
+        "alternate_names": [
+            "cinnamon"
+        ],
+        "foodon_foodex2_id": "FOODON_03541342"
+    },
+    {
+        "ingredient": "Cloves",
+        "foodon_ids": [
+            "FOODON_00001745"
+        ],
+        "alternate_names": [
+            "clove food product",
+            "cloves"
+        ],
+        "foodon_foodex2_id": "FOODON_03541323"
+    },
+    {
+        "ingredient": "Courgette",
+        "foodon_ids": [
+            "FOODON_03411462"
+        ],
+        "alternate_names": [
+            "zucchini plant",
+            "courgette",
+            "cucurbita pepo var. melopepo cv. zucchini"
+        ],
+        "foodon_foodex2_id": "FOODON_03540677"
+    },
+    {
+        "ingredient": "Cucumber",
+        "foodon_ids": [
+            "FOODON_03301545"
+        ],
+        "alternate_names": [
+            "cucumber (whole, raw)",
+            "cucumber"
+        ],
+        "foodon_foodex2_id": "FOODON_03540670"
+    },
+    {
+        "ingredient": "Curry leaves",
+        "foodon_ids": [
+            "FOODON_03413424"
+        ],
+        "alternate_names": [
+            "curryleaf plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03540902"
+    },
+    {
+        "ingredient": "Curry paste",
+        "foodon_ids": [
+            "FOODON_03302920"
+        ],
+        "alternate_names": [
+            "curry paste"
+        ],
+        "foodon_foodex2_id": "FOODON_03544122"
+    },
+    {
+        "ingredient": "Curry powder",
+        "foodon_ids": [
+            "FOODON_03301842"
+        ],
+        "alternate_names": [
+            "curry powder"
+        ],
+        "foodon_foodex2_id": "FOODON_03544062"
+    },
+    {
+        "ingredient": "Curry sauce",
+        "foodon_ids": [
+            "FOODON_03304046"
+        ],
+        "alternate_names": [
+            "curry sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544122"
+    },
+    {
+        "ingredient": "Fenugreek leaves",
+        "foodon_ids": [
+            "FOODON_00003620"
+        ],
+        "alternate_names": [
+            "fenugreek leaf (whole)",
+            "methi leaf",
+            "fenugreek leaf"
+        ],
+        "foodon_foodex2_id": "FOODON_03540841"
+    },
+    {
+        "ingredient": "Fenugreek seeds",
+        "foodon_ids": [
+            "FOODON_03307812"
+        ],
+        "alternate_names": [
+            "fenugreek seed (whole)",
+            "fenugreek seed"
+        ],
+        "foodon_foodex2_id": "FOODON_03541312"
+    },
+    {
+        "ingredient": "Garlic ginger paste",
+        "foodon_ids": [
+            "FOODON_03305217"
+        ],
+        "alternate_names": [
+            "garlic paste"
+        ],
+        "foodon_foodex2_id": "FOODON_03544152"
+    },
+    {
+        "ingredient": "Garlic salt",
+        "foodon_ids": [
+            "FOODON_03307739"
+        ],
+        "alternate_names": [
+            "garlic salt"
+        ],
+        "foodon_foodex2_id": "FOODON_03544270"
+    },
+    {
+        "ingredient": "Gherkin",
+        "foodon_ids": [
+            "FOODON_00003005"
+        ],
+        "alternate_names": [
+            "pickled cucumber",
+            "gherkin",
+            "pickle"
+        ],
+        "foodon_foodex2_id": "FOODON_03540674"
+    },
+    {
+        "ingredient": "Gochujang",
+        "foodon_ids": [
+            "FOODON_03315435"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03544152"
+    },
+    {
+        "ingredient": "Gourd",
+        "foodon_ids": [
+            "FOODON_00001915"
+        ],
+        "alternate_names": [
+            "gourd food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540676"
+    },
+    {
+        "ingredient": "Harissa",
+        "foodon_ids": [
+            "FOODON_00002484"
+        ],
+        "alternate_names": [
+            "harissa chili paste"
+        ],
+        "foodon_foodex2_id": "FOODON_03544152"
+    },
+    {
+        "ingredient": "Kabsa",
+        "foodon_ids": [
+            "FOODON_03304292"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03544060"
+    },
+    {
+        "ingredient": "Lemongrass",
+        "foodon_ids": [
+            "FOODON_03412273"
+        ],
+        "alternate_names": [
+            "lemon grass plant",
+            "lemongrass",
+            "lemon grass"
+        ],
+        "foodon_foodex2_id": "FOODON_03540911"
+    },
+    {
+        "ingredient": "Marrow",
+        "foodon_ids": [
+            "FOODON_00002785"
+        ],
+        "alternate_names": [
+            "marrow bean (whole)",
+            "marrow bean"
+        ],
+        "foodon_foodex2_id": "FOODON_03540700"
+    },
+    {
+        "ingredient": "Mixed herbs",
+        "foodon_ids": [
+            "FOODON_03315168"
+        ],
+        "alternate_names": [
+            "herbs and seasonings"
+        ],
+        "foodon_foodex2_id": "FOODON_03544061"
+    },
+    {
+        "ingredient": "Molokhia",
+        "foodon_ids": [
+            "NCBITaxon_93759"
+        ],
+        "alternate_names": [
+            "Corchorus olitorius",
+            "jute",
+            "Nalta jute"
+        ],
+        "foodon_foodex2_id": "FOODON_03540412"
+    },
+    {
+        "ingredient": "Mushroom",
+        "foodon_ids": [
+            "FOODON_03301303"
+        ],
+        "alternate_names": [
+            "mushroom (whole, raw)",
+            "mushroom"
+        ],
+        "foodon_foodex2_id": "FOODON_03540784"
+    },
+    {
+        "ingredient": "Nut roast",
+        "foodon_ids": [
+            "FOODON_00001172"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03541118"
+    },
+    {
+        "ingredient": "Okra",
+        "foodon_ids": [
+            "FOODON_03301828"
+        ],
+        "alternate_names": [
+            "okra (whole, raw)",
+            "okra"
+        ],
+        "foodon_foodex2_id": "FOODON_03540665"
+    },
+    {
+        "ingredient": "Olive",
+        "foodon_ids": [
+            "FOODON_03315145"
+        ],
+        "alternate_names": [
+            "olive (whole, ripe)",
+            "olive"
+        ],
+        "foodon_foodex2_id": "FOODON_03541649"
+    },
+    {
+        "ingredient": "Paprika",
+        "foodon_ids": [
+            "FOODON_03301105"
+        ],
+        "alternate_names": [
+            "paprika"
+        ],
+        "foodon_foodex2_id": "FOODON_03544338"
+    },
+    {
+        "ingredient": "Pepper",
+        "foodon_ids": [
+            "FOODON_03309928"
+        ],
+        "alternate_names": [
+            "pepper (whole, raw)",
+            "pepper"
+        ],
+        "foodon_foodex2_id": "FOODON_03540649"
+    },
+    {
+        "ingredient": "Rhubarb",
+        "foodon_ids": [
+            "FOODON_00002202"
+        ],
+        "alternate_names": [
+            "rhubarb food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540558"
+    },
+    {
+        "ingredient": "Spaghetti squash",
+        "foodon_ids": [
+            "FOODON_03412508"
+        ],
+        "alternate_names": [
+            "spaghetti squash plant"
+        ],
+        "foodon_foodex2_id": "FOODON_03540697"
+    },
+    {
+        "ingredient": "Squash",
+        "foodon_ids": [
+            "FOODON_03301577"
+        ],
+        "alternate_names": [
+            "squash (whole, raw)",
+            "squash"
+        ],
+        "foodon_foodex2_id": "FOODON_03540698"
+    },
+    {
+        "ingredient": "Summer squash",
+        "foodon_ids": [
+            "FOODON_00003708"
+        ],
+        "alternate_names": [
+            "summer squash (whole)",
+            "summer squash"
+        ],
+        "foodon_foodex2_id": "FOODON_03540685"
+    },
+    {
+        "ingredient": "Vegetable",
+        "foodon_ids": [
+            "FOODON_00003816"
+        ],
+        "alternate_names": [
+            "vegetable (whole)",
+            "vegetable"
+        ],
+        "foodon_foodex2_id": "FOODON_03540358"
+    },
+    {
+        "ingredient": "Vine leaves",
+        "foodon_ids": [
+            "FOODON_03411329"
+        ],
+        "alternate_names": [
+            "grape plant",
+            "vitis spp."
+        ],
+        "foodon_foodex2_id": "FOODON_03540454"
+    },
+    {
+        "ingredient": "Wasabi",
+        "foodon_ids": [
+            "FOODON_03305495"
+        ],
+        "alternate_names": [
+            "wasabi (food product)"
+        ],
+        "foodon_foodex2_id": "FOODON_03541358"
+    },
+    {
+        "ingredient": "Bran",
+        "foodon_ids": [
+            "FOODON_03301118"
+        ],
+        "alternate_names": [
+            "bran food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540108"
+    },
+    {
+        "ingredient": "Sourdough",
+        "foodon_ids": [
+            "FOODON_03302481"
+        ],
+        "alternate_names": [
+            "sourdough bread",
+            "sourdough"
+        ],
+        "foodon_foodex2_id": "FOODON_03544457"
+    },
+    {
+        "ingredient": "Bread",
+        "foodon_ids": [
+            "FOODON_00001183"
+        ],
+        "alternate_names": [
+            "bread food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540116"
+    },
+    {
+        "ingredient": "Buckwheat",
+        "foodon_ids": [
+            "FOODON_03305367"
+        ],
+        "alternate_names": [
+            "buckwheat food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540009"
+    },
+    {
+        "ingredient": "Buckwheat flour",
+        "foodon_ids": [
+            "FOODON_03309980"
+        ],
+        "alternate_names": [
+            "buckwheat flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540071"
+    },
+    {
+        "ingredient": "Buckwheat noodle",
+        "foodon_ids": [
+            "FOODON_03309979"
+        ],
+        "alternate_names": [
+            "buckwheat noodle"
+        ],
+        "foodon_foodex2_id": "FOODON_03540197"
+    },
+    {
+        "ingredient": "Bulgur wheat",
+        "foodon_ids": [
+            "FOODON_00003143"
+        ],
+        "alternate_names": [
+            "bulgur",
+            "bulgur wheat"
+        ],
+        "foodon_foodex2_id": "FOODON_03540103"
+    },
+    {
+        "ingredient": "Chapati flour",
+        "foodon_ids": [
+            "FOODON_03302340"
+        ],
+        "alternate_names": [
+            "whole wheat flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540094"
+    },
+    {
+        "ingredient": "Couscous",
+        "foodon_ids": [
+            "FOODON_03303207"
+        ],
+        "alternate_names": [
+            "couscous"
+        ],
+        "foodon_foodex2_id": "FOODON_03540196"
+    },
+    {
+        "ingredient": "Dough",
+        "foodon_ids": [
+            "FOODON_03311552"
+        ],
+        "alternate_names": [
+            "dough"
+        ],
+        "foodon_foodex2_id": "FOODON_03540198"
+    },
+    {
+        "ingredient": "Flour",
+        "foodon_ids": [
+            "FOODON_00001056"
+        ],
+        "alternate_names": [
+            "flour food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540067"
+    },
+    {
+        "ingredient": "Flour tortilla",
+        "foodon_ids": [
+            "FOODON_03307944"
+        ],
+        "alternate_names": [
+            "tortilla flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540143"
+    },
+    {
+        "ingredient": "Gravy granules",
+        "foodon_ids": [
+            "FOODON_03315265"
+        ],
+        "alternate_names": [
+            "gravy mix (prepared)"
+        ],
+        "foodon_foodex2_id": "FOODON_03544071"
+    },
+    {
+        "ingredient": "Millet flour",
+        "foodon_ids": [
+            "FOODON_03310137"
+        ],
+        "alternate_names": [
+            "millet flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540075"
+    },
+    {
+        "ingredient": "Naan bread",
+        "foodon_ids": [
+            "FOODON_00002532"
+        ],
+        "alternate_names": [
+            "naan"
+        ],
+        "foodon_foodex2_id": "FOODON_03540138"
+    },
+    {
+        "ingredient": "Pasta",
+        "foodon_ids": [
+            "FOODON_03306347"
+        ],
+        "alternate_names": [],
+        "foodon_foodex2_id": "FOODON_03540175"
+    },
+    {
+        "ingredient": "Pearl barley",
+        "foodon_ids": [
+            "FOODON_03306062"
+        ],
+        "alternate_names": [
+            "barley (pearled)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540007"
+    },
+    {
+        "ingredient": "Quinoa",
+        "foodon_ids": [
+            "FOODON_00001192"
+        ],
+        "alternate_names": [
+            "quinoa food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03540015"
+    },
+    {
+        "ingredient": "Rusk",
+        "foodon_ids": [
+            "FOODON_03316236"
+        ],
+        "alternate_names": [
+            "rusks containing fat"
+        ],
+        "foodon_foodex2_id": "FOODON_03540162"
+    },
+    {
+        "ingredient": "Rye flour",
+        "foodon_ids": [
+            "FOODON_03302492"
+        ],
+        "alternate_names": [
+            "rye flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540078"
+    },
+    {
+        "ingredient": "Seitan",
+        "foodon_ids": [
+            "FOODON_03310809"
+        ],
+        "alternate_names": [
+            "wheat gluten"
+        ],
+        "foodon_foodex2_id": "FOODON_03544161"
+    },
+    {
+        "ingredient": "Shredded Wheat",
+        "foodon_ids": [
+            "FOODON_03303943"
+        ],
+        "alternate_names": [
+            "shredded wheat breakfast cereal"
+        ],
+        "foodon_foodex2_id": "FOODON_03540308"
+    },
+    {
+        "ingredient": "Spaghetti",
+        "foodon_ids": [
+            "FOODON_03316839"
+        ],
+        "alternate_names": [
+            "spaghetti (egg, wheat, and soy)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540194"
+    },
+    {
+        "ingredient": "Wheat flour",
+        "foodon_ids": [
+            "FOODON_03301116"
+        ],
+        "alternate_names": [
+            "wheat flour"
+        ],
+        "foodon_foodex2_id": "FOODON_03540088"
+    },
+    {
+        "ingredient": "Wheat noodle",
+        "foodon_ids": [
+            "FOODON_03316962"
+        ],
+        "alternate_names": [
+            "noodle (egg, wheat, and soy)"
+        ],
+        "foodon_foodex2_id": "FOODON_03540197"
+    },
+    {
+        "ingredient": "Wheatgerm",
+        "foodon_ids": [
+            "FOODON_03301595"
+        ],
+        "alternate_names": [
+            "wheat germ"
+        ],
+        "foodon_foodex2_id": "FOODON_03540115"
+    },
+    {
+        "ingredient": "Brandy",
+        "foodon_ids": [
+            "FOODON_03301632"
+        ],
+        "alternate_names": [
+            "brandy"
+        ],
+        "foodon_foodex2_id": "FOODON_03543387"
+    },
+    {
+        "ingredient": "Curacao",
+        "foodon_ids": [
+            "FOODON_03316303"
+        ],
+        "alternate_names": [
+            "liqueur (flavored with fruit aromas)"
+        ],
+        "foodon_foodex2_id": "FOODON_03543392"
+    },
+    {
+        "ingredient": "Gin",
+        "foodon_ids": [
+            "FOODON_03309491"
+        ],
+        "alternate_names": [
+            "gin"
+        ],
+        "foodon_foodex2_id": "FOODON_03543390"
+    },
+    {
+        "ingredient": "Mirin",
+        "foodon_ids": [
+            "FOODON_03310729"
+        ],
+        "alternate_names": [
+            "mirin japanese"
+        ],
+        "foodon_foodex2_id": "FOODON_03543349"
+    },
+    {
+        "ingredient": "Port",
+        "foodon_ids": [
+            "FOODON_03311271"
+        ],
+        "alternate_names": [
+            "port wine"
+        ],
+        "foodon_foodex2_id": "FOODON_03543369"
+    },
+    {
+        "ingredient": "Sake",
+        "foodon_ids": [
+            "FOODON_03301670"
+        ],
+        "alternate_names": [
+            "sake"
+        ],
+        "foodon_foodex2_id": "FOODON_03543349"
+    },
+    {
+        "ingredient": "Sherry",
+        "foodon_ids": [
+            "FOODON_03310760"
+        ],
+        "alternate_names": [
+            "sherry"
+        ],
+        "foodon_foodex2_id": "FOODON_03543367"
+    },
+    {
+        "ingredient": "Vermouth",
+        "foodon_ids": [
+            "FOODON_03307808"
+        ],
+        "alternate_names": [
+            "vermouth"
+        ],
+        "foodon_foodex2_id": "FOODON_03543366"
+    },
+    {
+        "ingredient": "Vinegar",
+        "foodon_ids": [
+            "FOODON_03301705"
+        ],
+        "alternate_names": [
+            "vinegar"
+        ],
+        "foodon_foodex2_id": "FOODON_03544087"
+    },
+    {
+        "ingredient": "Whiskey",
+        "foodon_ids": [
+            "FOODON_03302775"
+        ],
+        "alternate_names": [
+            "whiskey"
+        ],
+        "foodon_foodex2_id": "FOODON_03543384"
+    },
+    {
+        "ingredient": "Wine",
+        "foodon_ids": [
+            "FOODON_00002364"
+        ],
+        "alternate_names": [
+            "wine or wine-like food product"
+        ],
+        "foodon_foodex2_id": "FOODON_03543348"
+    },
+    {
+        "ingredient": "Worcestershire sauce",
+        "foodon_ids": [
+            "FOODON_03305003"
+        ],
+        "alternate_names": [
+            "worcestershire sauce"
+        ],
+        "foodon_foodex2_id": "FOODON_03544110"
+    },
+    {
+        "ingredient": "Water",
+        "foodon_ids": [
+            "CHEBI_15377"
+        ],
+        "alternate_names": [
+            "water",
+            "oxidane"
+        ],
+        "foodon_foodex2_id": "FOODON_03543262"
+    }
+]

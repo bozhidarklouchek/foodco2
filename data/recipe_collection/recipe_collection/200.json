@@ -1,0 +1,266 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe",
+    "title": "The best spaghetti bolognese",
+    "total_CO2": 33.2174997,
+    "servings": 6,
+    "CO2_per_portion": 5.536249949999999,
+    "E.Mission coefficient": 17.134566870849188,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 rashers smoked streaky bacon, finely chopped",
+            "amount": "4.0",
+            "ingredient_name": "smoked streaky bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.064,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.466048
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 medium onions, finely chopped",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 carrots, trimmed and finely chopped",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 celery sticks, finely chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 garlic cloves finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2-3 sprigs rosemary leaves picked and finely chopped",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "rosemary leaves",
+            "matched_ingredient": "Rosemary",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 g beef mince",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 29.785
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 x 400g tins plum tomatoes",
+            "amount": "2.0",
+            "unit": "tins",
+            "ingredient_name": "plum tomatoes",
+            "matched_ingredient": "Plum",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.11249999999999999
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "small pack basil leaves picked, ¾ finely chopped and the rest left whole for garnish",
+            "amount": "1.0",
+            "unit": "pack",
+            "ingredient_name": "basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp dried oregano",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 fresh bay leaves",
+            "amount": "2.0",
+            "unit": "leaves",
+            "ingredient_name": "fresh bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tbsp tomato purée",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.04281
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 beef stock cube",
+            "amount": "1.0",
+            "ingredient_name": "beef stock cube",
+            "matched_ingredient": "Beef stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.085,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 red chilli deseeded and finely chopped (optional)",
+            "amount": "1.0",
+            "ingredient_name": "red chilli",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "125 ml red wine",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.198125
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "6 cherry tomatoes sliced in half",
+            "amount": "6.0",
+            "ingredient_name": "cherry tomatoes",
+            "matched_ingredient": "Cherry tomato",
+            "kg_equivalent": 0.10200000000000001,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.14555400000000002
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "75 g parmesan grated, plus extra to serve",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "parmesan grated",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.5929999999999997
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "400 g spaghetti",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.5764
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "crusty bread to serve (optional)",
+            "amount": "1.0",
+            "ingredient_name": "crusty bread",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.040348
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Put a large saucepan on a medium heat and add 1 tbsp olive oil."
+        },
+        {
+            "number": 2,
+            "instruction": "Add 4 finely chopped bacon rashers and fry for 10 mins until golden and crisp."
+        },
+        {
+            "number": 3,
+            "instruction": "Reduce the heat and add the 2 onions, 2 carrots, 2 celery sticks, 2 garlic cloves and the leaves from 2-3 sprigs rosemary, all finely chopped, then fry for 10 mins. Stir the veg often until it softens."
+        },
+        {
+            "number": 4,
+            "instruction": "Increase the heat to medium-high, add 500g beef mince and cook stirring for 3-4 mins until the meat is browned all over."
+        },
+        {
+            "number": 5,
+            "instruction": "Add 2 tins plum tomatoes, the finely chopped leaves from ¾ small pack basil, 1 tsp dried oregano, 2 bay leaves, 2 tbsp tomato purée, 1 beef stock cube, 1 deseeded and finely chopped red chilli (if using), 125ml red wine and 6 halved cherry tomatoes. Stir with a wooden spoon, breaking up the plum tomatoes."
+        },
+        {
+            "number": 6,
+            "instruction": "Bring to the boil, reduce to a gentle simmer and cover with a lid. Cook for 1 hr 15 mins stirring occasionally, until you have a rich, thick sauce."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the 75g grated parmesan, check the seasoning and stir."
+        },
+        {
+            "number": 8,
+            "instruction": "When the bolognese is nearly finished, cook 400g spaghetti following the pack instructions."
+        },
+        {
+            "number": 9,
+            "instruction": "Drain the spaghetti and either stir into the bolognese sauce, or serve the sauce on top."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with more grated parmesan, the remaining basil leaves and crusty bread, if you like."
+        }
+    ]
+}

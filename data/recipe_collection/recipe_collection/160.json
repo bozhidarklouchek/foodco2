@@ -1,0 +1,109 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/gnocchi-herb-sauce",
+    "title": "Gnocchi with herb sauce",
+    "total_CO2": 0.6463296000000001,
+    "servings": 2,
+    "CO2_per_portion": 0.32316480000000003,
+    "E.Mission coefficient": 0.9084042164441322,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp capers",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "capers",
+            "matched_ingredient": "Capers",
+            "kg_equivalent": 0.0066,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "4 anchovies (optional)",
+            "amount": "4.0",
+            "ingredient_name": "anchovies",
+            "matched_ingredient": "Anchovy",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.045232
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 anchovies (optional)",
+            "amount": "4.0",
+            "ingredient_name": "anchovies",
+            "matched_ingredient": "Anchovy",
+            "kg_equivalent": 0.016,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.045232
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 garlic clove",
+            "amount": "1.0",
+            "unit": "clove",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001185
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 lemon, juiced and zested",
+            "amount": "1.0",
+            "ingredient_name": "lemon",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "50 g herbs (we used parsley, chives and basil)",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.022750000000000003
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "4 tbsp olive oil",
+            "amount": "4.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.054900000000000004,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.32632560000000005
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "500 g gnocchi",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "gnocchi",
+            "matched_ingredient": "Gnocchi",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.185
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Blitz the capers, anchovies, garlic, lemon juice and herbs with 3 tbsp of the olive oil to make a sauce. Season and set aside."
+        },
+        {
+            "number": 2,
+            "instruction": "Cook the gnocchi in salted water according to pack instructions, then drain."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat the remaining oil in a non-stick frying pan over a high heat and add the gnocchi. Fry until crisp on the outside and warm all the way through  about 3 mins  remove from the pan and leave to drain on kitchen paper. Toss the gnocchi with the sauce, then divide between bowls, top with lemon zest and cracked black pepper to serve."
+        }
+    ]
+}

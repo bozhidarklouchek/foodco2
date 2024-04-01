@@ -1,0 +1,100 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/leek-mackerel-penne-bake",
+    "title": "Leek & mackerel penne bake",
+    "total_CO2": 2.71043,
+    "servings": 2,
+    "CO2_per_portion": 1.355215,
+    "E.Mission coefficient": 2.1066609668894762,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 leeks , trimmed, washed and sliced",
+            "amount": "2.0",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0711
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "knob of butter",
+            "amount": "1.0",
+            "unit": "knob",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.05562
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "175 g penne",
+            "amount": "175.0",
+            "unit": "g",
+            "ingredient_name": "penne",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.175,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.06912499999999999
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "200 ml pot reduced-fat crème fraîche",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "reduced-fat crème fraîche",
+            "matched_ingredient": "Crème fraiche",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.5562
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tbsp capers",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "capers",
+            "matched_ingredient": "Capers",
+            "kg_equivalent": 0.0066,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 small smoked mackerel fillets, skinned and flesh flaked into large chunks",
+            "amount": "2.0",
+            "unit": "large",
+            "ingredient_name": "small smoked mackerel fillets",
+            "matched_ingredient": "Mackerel",
+            "kg_equivalent": 0.68,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 1.92236
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "25 g breadcrumb",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "breadcrumb",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.036025
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Fry the leeks in the butter until very soft, about 10-15 mins. Meanwhile, boil the pasta and heat the grill. When the leeks are soft, stir in the crème fraîche, capers and fish."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat through for 1 min."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain the pasta and stir into the sauce, season to taste, then tip everything into a small baking dish. Scatter with the crumbs and grill until golden and crisp."
+        }
+    ]
+}

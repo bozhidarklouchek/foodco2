@@ -1,0 +1,301 @@
+{
+    "url": "https://www.jamieoliver.com/recipes/lamb-recipes/super-shepherd-s-pie/",
+    "title": "Super shepherd's pie",
+    "total_CO2": 16.0196572,
+    "servings": 6,
+    "CO2_per_portion": 2.6699428666666667,
+    "E.Mission coefficient": 4.055404080806035,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 g lean minced lamb",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "lean minced lamb",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 12.2075
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 sprigs of fresh rosemary",
+            "amount": "2.0",
+            "unit": "sprigs",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 x 400 g tin of cannellini beans",
+            "amount": "1.0",
+            "unit": "x 400 g",
+            "ingredient_name": "cannellini beans",
+            "matched_ingredient": "Cannellini bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 onions",
+            "amount": "2.0",
+            "ingredient_name": "onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 carrots",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 sticks of celery",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "250 g chestnut mushrooms",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "chestnut mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.11375
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 heaped tablespoon plain flour",
+            "amount": "1.0",
+            "unit": "heaped tablespoon",
+            "ingredient_name": "plain flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "800 ml organic chicken or veg stock",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "organic chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 2.19312
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "800 ml organic chicken or veg stock",
+            "amount": "400.0",
+            "unit": "ml",
+            "ingredient_name": "veg stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.008
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "800 g swede",
+            "amount": "800.0",
+            "unit": "g",
+            "ingredient_name": "swede",
+            "matched_ingredient": "Swede",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.292
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "800 g potatoes",
+            "amount": "800.0",
+            "unit": "g",
+            "ingredient_name": "potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.296
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "2 tablespoons semi-skimmed milk",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "semi-skimmed milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.031200000000000002,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.08676720000000002
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "15 g mature Cheddar cheese",
+            "amount": "15.0",
+            "unit": "g",
+            "ingredient_name": "mature Cheddar cheese",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.31859999999999994
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tablespoon Worcestershire sauce",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "Worcestershire sauce",
+            "matched_ingredient": "Worcestershire sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 teaspoon mint sauce",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "mint sauce",
+            "matched_ingredient": "Mint",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "350 g frozen peas",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.3136
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Tap For Ingredients"
+        },
+        {
+            "number": 2,
+            "instruction": "Put the mince into a cold casserole pan."
+        },
+        {
+            "number": 3,
+            "instruction": "Place on a high heat, add a really good pinch of black pepper and cook for 15 minutes, or until dark golden, breaking it up with a wooden spoon."
+        },
+        {
+            "number": 4,
+            "instruction": "Pick and finely chop the rosemary leaves, drain the beans, then stir both into the pan. Cook and stir for 8 minutes, or until the beans start to pop and it’s all getting dark and gnarly."
+        },
+        {
+            "number": 5,
+            "instruction": "Peel the onions and carrots, trim the celery, wipe the mushrooms clean, then finely chop it all (or blitz in a food processor). Stir into the pan and sweat for 10 minutes on medium-high, stirring occasionally."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in the flour, followed by the stock. Bring to the boil, then simmer on a low heat with the lid on for 30 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Meanwhile, preheat the oven to 180ºC/350ºF/gas"
+        },
+        {
+            "number": 8,
+            "instruction": "Wash the swede and potatoes (leaving the skins on for extra nutritional benefit) and cut into 3cm chunks."
+        },
+        {
+            "number": 9,
+            "instruction": "Cook just the swede in a large pan of boiling salted water for 10 minutes, add the potatoes for 10 more minutes, or until cooked through, drain well, mash with the milk and grated cheese, and season to perfection."
+        },
+        {
+            "number": 10,
+            "instruction": "Check the consistency of the mince – you want it slightly wetter than you think, as it will thicken further in the oven."
+        },
+        {
+            "number": 11,
+            "instruction": "Add the Worcestershire and mint sauces, taste, and season to perfection."
+        },
+        {
+            "number": 12,
+            "instruction": "Sprinkle the peas over the mince, letting them sit on the surface to help prevent the mash from sinking in too much. Put spoons of mash randomly on top, using a fork to scuff it up and make valleys and mountains, increasing the surface area, and the crispy bits."
+        },
+        {
+            "number": 13,
+            "instruction": "Bake for 50 minutes, or until golden and bubbling. Nice with seasonal greens."
+        },
+        {
+            "number": 14,
+            "instruction": "Put the ground lamb into a cold casserole pan."
+        },
+        {
+            "number": 15,
+            "instruction": "Place on a high heat, add a really good pinch of black pepper, and cook for 15 minutes, or until dark golden, breaking it up with a wooden spoon."
+        },
+        {
+            "number": 16,
+            "instruction": "Pick and finely chop the rosemary leaves, drain the beans, then stir both into the pan. Cook and stir for 8 minutes, or until the beans start to pop and it’s all getting dark and gnarly."
+        },
+        {
+            "number": 17,
+            "instruction": "Peel the onions and carrots, trim the celery, wipe the mushrooms clean, then finely chop it all (or blitz in a food processor). Stir into the pan and sweat for 10 minutes on a medium-high heat, stirring occasionally."
+        },
+        {
+            "number": 18,
+            "instruction": "Stir in the flour, followed by the stock. Bring to a boil, then simmer on a low heat with the lid on for 30 minutes."
+        },
+        {
+            "number": 19,
+            "instruction": "Meanwhile, preheat the oven to 350°F."
+        },
+        {
+            "number": 20,
+            "instruction": "Wash the rutabaga and potatoes (leaving the skins on for extra nutritional benefit) and cut into 1¼-inch chunks."
+        },
+        {
+            "number": 21,
+            "instruction": "Cook just the rutabaga in a large pan of boiling salted water for 10 minutes, add the potatoes for 10 more minutes, or until cooked through, drain well, mash with the milk and grated cheese, and season to perfection."
+        },
+        {
+            "number": 22,
+            "instruction": "Check the consistency of the ground lamb—you want it slightly wetter than you think, as it will thicken further in the oven."
+        },
+        {
+            "number": 23,
+            "instruction": "Add the Worcestershire and mint sauces, taste, and season to perfection."
+        },
+        {
+            "number": 24,
+            "instruction": "Sprinkle the peas over the ground lamb, letting them sit on the surface to help prevent the mash from sinking in too much. Put spoons of mash randomly on top, using a fork to scuff it up and make valleys and mountains, increasing the surface area and the crispy bits."
+        },
+        {
+            "number": 25,
+            "instruction": "Bake for 50 minutes, or until golden and bubbling. Nice with seasonal greens."
+        },
+        {
+            "number": 26,
+            "instruction": "Please enable targetting cookies to show this banner"
+        }
+    ]
+}

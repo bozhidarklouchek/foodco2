@@ -1,0 +1,189 @@
+{
+    "url": "https://cookieandkate.com/broccoli-pesto-pasta-recipe/",
+    "title": "Broccoli Pesto Pasta with Green Olives",
+    "total_CO2": 1.48694042761356,
+    "servings": 4,
+    "CO2_per_portion": 0.37173510690339,
+    "E.Mission coefficient": 0.8447330786419525,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cups broccoli florets",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "broccoli florets",
+            "matched_ingredient": "Broccoli",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 pound uncooked pasta, such as rigatoni or penne",
+            "amount": "0.5",
+            "unit": "pound",
+            "ingredient_name": "uncooked pasta",
+            "matched_ingredient": "Pasta",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.326813302585
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 pound uncooked pasta, such as rigatoni or penne",
+            "amount": "0.5",
+            "unit": "pound",
+            "ingredient_name": "penne",
+            "matched_ingredient": "Fennel",
+            "kg_equivalent": 0.226796185,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.08958449307500001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup green olives, drained and pitted",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "green olives",
+            "matched_ingredient": "Olive",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1076476476075
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "3 tablespoons pine nuts",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "pine nuts",
+            "matched_ingredient": "Pine nut",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.01251
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 cups fresh basil leaves (about 1 1/3 ounce, or 2 small containers)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "fresh basil leaves",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.206778118701
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 cloves garlic, roughly chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 tablespoons freshly grated Parmesan cheese",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "freshly grated Parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.015300000000000001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.324972
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Several twists of freshly ground black pepper, to taste",
+            "amount": "1.0",
+            "ingredient_name": "freshly ground black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/4 cup extra-virgin olive oil",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "extra-virgin olive oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.05441529439500001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.20830174694406003
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "Salt, to taste",
+            "amount": "1.0",
+            "ingredient_name": "Salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "Optional, for serving (my additions): Dollops of ricotta and/or red pepper flakes, drizzle of olive oil",
+            "amount": "1.0",
+            "ingredient_name": "ricotta",
+            "matched_ingredient": "Ricotta",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Bring a large pot of salted water to boil."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the broccoli florets and cook for 1 minute. Using a slotted spoon, transfer the broccoli to a blender."
+        },
+        {
+            "number": 3,
+            "instruction": "Bring the water back to a boil."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the pasta and cook until al dente, 10 to 12 minutes, or according to package directions."
+        },
+        {
+            "number": 5,
+            "instruction": "Drain the pasta, reserving 1 cup of the pasta water."
+        },
+        {
+            "number": 6,
+            "instruction": "Cook the pine nuts in a small saucepan set over medium heat, moving the nuts around, until fragrant and toasted, about 3 minutes."
+        },
+        {
+            "number": 7,
+            "instruction": "Add the pine nuts to the broccoli in the blender, along with the olives, basil, garlic, Parmesan, pepper, and 1/2 cup of the reserved pasta cooking water. Pulse until combined, stopping to stir as necessary."
+        },
+        {
+            "number": 8,
+            "instruction": "With the blender running, stream in the olive oil, stopping the blender and scraping down the sides as needed, until the pesto is pureed. Taste and season with salt and additional pepper."
+        },
+        {
+            "number": 9,
+            "instruction": "In a large bowl, toss together the pasta with your desired amount of pesto (I used all of it), thinning it with additional reserved pasta water 2 tablespoons at a time if needed."
+        },
+        {
+            "number": 10,
+            "instruction": "Sprinkle with some additional grated Parmesan, if you&#8217;d like."
+        },
+        {
+            "number": 11,
+            "instruction": "Serve warm, at room temperature or chilled."
+        },
+        {
+            "number": 12,
+            "instruction": "Serve in individual bowls, as-is or with dollops of ricotta, sprinkle of red pepper flakes or a light drizzle of olive oil. Leftover pesto pasta keeps well in the fridge, covered, for 4 days."
+        }
+    ]
+}

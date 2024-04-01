@@ -1,0 +1,222 @@
+{
+    "url": "https://healthynibblesandbits.com/simple-red-lentil-curry/",
+    "title": "Simple Red Lentil Curry",
+    "total_CO2": 1.7653036849021122,
+    "servings": 4,
+    "CO2_per_portion": 0.44132592122552805,
+    "E.Mission coefficient": 1.3566639316406206,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 cup dry red lentils",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "dry red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 tablespoons virgin coconut oil",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "virgin coconut oil",
+            "matched_ingredient": "Coconut oil",
+            "kg_equivalent": 0.02772,
+            "carbon_per_kg": 5.752,
+            "ingredient_carbon": 0.15944544
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3/4 cup finely diced yellow onion (about 1/2 medium onion)",
+            "amount": "0.75",
+            "unit": "cup",
+            "ingredient_name": "diced yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.039037059022499994,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.015419638313887499
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 cloves garlic, minced",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 tablespoon minced ginger",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "minced ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 1/2 cups crushed tomatoes (or a 14-ounce can)",
+            "amount": "1.5",
+            "unit": "cups",
+            "ingredient_name": "crushed tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.50641712022825
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2-3 teaspoons brown sugar (see note 1)",
+            "amount": "2.5",
+            "unit": "teaspoons",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00875,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.023380000000000005
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2-3 teaspoons brown sugar (see note 1)",
+            "amount": "2.5",
+            "unit": "teaspoons",
+            "ingredient_name": "brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.00875,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.023380000000000005
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tablespoon yellow curry powder",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "yellow curry powder",
+            "matched_ingredient": "Curry powder",
+            "kg_equivalent": 0.0087,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0039585
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 teaspoon ground coriander (optional)",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "ground coriander",
+            "matched_ingredient": "Coriander seed",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.06062000000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4-1/2 teaspoon cayenne pepper, depending on your desired level of spice",
+            "amount": "0.375",
+            "unit": "teaspoon",
+            "ingredient_name": "cayenne pepper",
+            "matched_ingredient": "Cayenne",
+            "kg_equivalent": 0.0010875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0004948125
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 1/2 teaspoons kosher salt",
+            "amount": "1.5",
+            "unit": "teaspoons",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.016200000000000003,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.19640880000000005
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "3 1/2 cups vegetable broth",
+            "amount": "3.5",
+            "unit": "cups",
+            "ingredient_name": "vegetable broth",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.414029413875,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.18838338331312499
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/2 cup canned full-fat coconut milk (see note 2)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "canned full-fat coconut milk",
+            "matched_ingredient": "Coconut milk",
+            "kg_equivalent": 0.1419529419,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.1297449888966
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "sliced scallions",
+            "amount": "1.0",
+            "ingredient_name": "scallions",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "chopped peanuts",
+            "amount": "1.0",
+            "ingredient_name": "chopped peanuts",
+            "matched_ingredient": "Peanut",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 2.497,
+            "ingredient_carbon": 0.12485
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Rinse the red lentils and pick out any dark or discolored pieces."
+        },
+        {
+            "number": 2,
+            "instruction": "Drain and set the lentils aside."
+        },
+        {
+            "number": 3,
+            "instruction": "In a large skillet, or small pot, heat the coconut oil over medium heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the onions and cook them for about 5 minutes, stirring them so they don’t burn. Next, add the garlic and ginger and cook for another 30 seconds, until fragrant. "
+        },
+        {
+            "number": 5,
+            "instruction": "Add the crushed tomatoes, sugar, curry powder, coriander, cayenne pepper, and salt. Stir to incorporate all the spices with the tomatoes. Next, add the lentils. The rinsed lentils likely will have hardened into a solid chunk. Use a spatula to break them up in the tomato sauce. Then, add the vegetable broth. Cover the skillet or pot with its lid and bring everything to boil. "
+        },
+        {
+            "number": 6,
+            "instruction": "Reduce the heat to low and let the beans simmer for another 17 to 20 minutes until the lentils are fully cooked and tender. After 10 minutes of simmering, stir the lentils to make sure that they don’t stick to the bottom of the pot or pan. If the lentil curry looks too solid, add another 1/2 cup of water. Alternatively, if the curry looks too runny, let it simmer uncovered for another 5 to 10 minutes. Note that the curry thickens as it cools."
+        },
+        {
+            "number": 7,
+            "instruction": "Stir in the coconut milk and turn off the heat."
+        },
+        {
+            "number": 8,
+            "instruction": "Divide the red lentil curry into bowls and serve with jasmine rice, basmati rice, or brown rice. The curry is great with my scallion pancakes too!"
+        },
+        {
+            "number": 9,
+            "instruction": "Garnish the curry with sliced scallions and chopped peanuts, if you like."
+        }
+    ]
+}

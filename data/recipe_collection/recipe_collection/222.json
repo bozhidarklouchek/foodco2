@@ -1,0 +1,21 @@
+{
+    "url": "https://www.thecookingguy.com/cookbook/best-chinese-stir-fry-sauce-recipe",
+    "title": "BEST CHINESE STIR FRY SAUCE — SAM THE COOKING GUY",
+    "total_CO2": 0.053592,
+    "servings": 2,
+    "CO2_per_portion": 0.026796,
+    "E.Mission coefficient": 3.828,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "BEST CHINESE STIR FRY SAUCE — SAM THE COOKING GUY",
+            "amount": "1.0",
+            "ingredient_name": "bes stir fry sauce — sam the cooking guy",
+            "matched_ingredient": "Safflower oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.053592
+        }
+    ],
+    "instructions": []
+}

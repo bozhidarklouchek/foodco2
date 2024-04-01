@@ -1,0 +1,262 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/burnt-aubergine-veggie-chilli",
+    "title": "Burnt aubergine veggie chilli",
+    "total_CO2": 2.3004179750000002,
+    "servings": 4,
+    "CO2_per_portion": 0.5751044937500001,
+    "E.Mission coefficient": 0.8827771632505241,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 aubergine",
+            "amount": "1.0",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp olive oil or rapeseed oil",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0068625000000000005,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.040790700000000006
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp olive oil or rapeseed oil",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "rapeseed oil",
+            "matched_ingredient": "Rapeseed oil",
+            "kg_equivalent": 0.006900000000000001,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0264132
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 red onion, diced",
+            "amount": "1.0",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 carrots, finely diced",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "70 g puy lentils or green lentils, rinsed",
+            "amount": "35.0",
+            "unit": "g",
+            "ingredient_name": "puy lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.035,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.05635000000000001
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "70 g puy lentils or green lentils, rinsed",
+            "amount": "35.0",
+            "unit": "g",
+            "ingredient_name": "green lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.035,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.05635000000000001
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "30 g red lentils, rinsed",
+            "amount": "30.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0483
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "400 g can kidney beans",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "kidney beans",
+            "matched_ingredient": "Kidney bean",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.6440000000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "3 tbsp dark soy sauce",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "dark soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.04113
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "20 g dark chocolate, finely chopped",
+            "amount": "20.0",
+            "unit": "g",
+            "ingredient_name": "dark chocolate",
+            "matched_ingredient": "Dark chocolate",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.37362
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 tsp chilli powder",
+            "amount": "0.25",
+            "unit": "tsp",
+            "ingredient_name": "chilli powder",
+            "matched_ingredient": "Chilli powder",
+            "kg_equivalent": 0.000725,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.000329875
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tsp dried oregano",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "2 tsp ground cumin",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "ground cumin",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.07759360000000001
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "2 tsp sweet smoked paprika",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "sweet smoked paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tsp coriander",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.002185
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "1 tsp cinnamon",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0013195
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "800 ml vegetable stock",
+            "amount": "800.0",
+            "unit": "ml",
+            "ingredient_name": "vegetable stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.8,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.016
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "1/2 lime, juiced",
+            "amount": "0.5",
+            "ingredient_name": "lime",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "brown rice",
+            "amount": "1.0",
+            "ingredient_name": "brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "If you have a gas hob, put the aubergine directly onto a lit ring to char completely, turning occasionally with kitchen tongs, until burnt all over. Alternatively, use a barbecue or heat the grill to its highest setting and cook, turning occasionally, until completely blackened (the grill won’t give you the same smoky flavour)."
+        },
+        {
+            "number": 2,
+            "instruction": "Set aside to cool on a plate, then peel off the charred skin and remove the stem. Roughly chop the flesh and set aside."
+        },
+        {
+            "number": 3,
+            "instruction": "In a large pan, heat the oil, add the onion and carrots with a pinch of salt, and fry over a low-medium heat for 15-20 mins until the carrots have softened."
+        },
+        {
+            "number": 4,
+            "instruction": "Add the aubergine, both types of lentils, the kidney beans with the liquid from the can, soy sauce, tomatoes, chocolate, chilli powder, oregano and the spices. Stir to combine, then pour in the stock. Bring to the boil, then turn down the heat to very low. Cover with a lid and cook for 11/2 hrs, checking and stirring every 15-20 mins to prevent it from burning."
+        },
+        {
+            "number": 5,
+            "instruction": "Remove the lid and let the mixture simmer over a low-medium heat, stirring occasionally, for about 15 mins until you get a thick sauce. Stir in the lime juice and taste for seasoning – add more salt if needed."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve hot over rice with whichever accompaniments you want!"
+        }
+    ]
+}

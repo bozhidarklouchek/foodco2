@@ -1,0 +1,188 @@
+{
+    "url": "https://gotovim-doma.ru/recipe/250-kartoshka-tushennaya-s-kuritsey",
+    "title": "Картошка, тушенная с курицей",
+    "total_CO2": 0.0,
+    "servings": 4,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "куриные голени, бедра или крылья 600 г",
+            "amount": "600.0",
+            "ingredient_name": "куриные голени",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "картофель 1 кг",
+            "amount": "1.0",
+            "ingredient_name": "картофель кг",
+            "matched_ingredient": "Sharon fruit",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "лук репчатый 1-2 шт",
+            "amount": "-1.0",
+            "ingredient_name": "лук репчатый шт",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "морковь 1-2 шт",
+            "amount": "-1.0",
+            "ingredient_name": "морковь шт",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "сметана (или майонез) 2-3 ст.л.",
+            "amount": "-1.0",
+            "ingredient_name": "сметана ст.л",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "чеснок 2 зубчика",
+            "amount": "2.0",
+            "ingredient_name": "чеснок зубчика",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "приправа для курицы (или для картошки) 1 ч.л. (или по вкусу)",
+            "amount": "1.0",
+            "ingredient_name": "приправа для курицы ч.л.",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "масло сливочное 30 г",
+            "amount": "30.0",
+            "ingredient_name": "масло сливочное г",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "растительное масло для жарки 2 ст.л.",
+            "amount": "2.0",
+            "ingredient_name": "растительное масло для жарки ст.л",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "петрушка, укроп",
+            "amount": "1.0",
+            "ingredient_name": "петрушка",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Видеорецепт"
+        },
+        {
+            "number": 2,
+            "instruction": "СоветСмотрите ВИДЕО РЕЦЕПТ  Курица с КартошкойПОДПИШИТЕСЬ на наш YOUTUBE Готовим дома с ОЛЕСЕЙ Курицу солим, перчим, посыпаем приправой для курицы и хорошо натираем курицу специями."
+        },
+        {
+            "number": 3,
+            "instruction": "Картофель нарезаем кубиками."
+        },
+        {
+            "number": 4,
+            "instruction": "Луковицу мелко режем.Морковь нарезаем кубиками.В глубокой сковороде или жаровне разогреваем растительное масло.Выкладываем лук и обжариваем около минуты.Добавляем морковь.И жарим еще 1-2 минуты."
+        },
+        {
+            "number": 5,
+            "instruction": "Сверху на овощи, выкладываем курицу."
+        },
+        {
+            "number": 6,
+            "instruction": "На курицу выкладываем картофель."
+        },
+        {
+            "number": 7,
+            "instruction": "Кладем сметану (майонез или йогурт).Добавляем по вкусу соль, перец и посыпаем приправой для курицы или для картофеля.Можно добавить пару зубчиков рубленого чеснока.И кладем кусочек сливочного масла."
+        },
+        {
+            "number": 8,
+            "instruction": "И вливаем воду (чтобы вода едва доходила до верхнего уровня картофеля). Чем больше воды - тем больше получится вкусного соуса в готовом блюде."
+        },
+        {
+            "number": 9,
+            "instruction": "Готовим под крышкой, при слабом кипении, около 30 минут, до полной готовности курицы и картофеля."
+        },
+        {
+            "number": 10,
+            "instruction": "Посыпаем блюдо зеленью и подаем к столу."
+        },
+        {
+            "number": 11,
+            "instruction": "СоветБлагодарю Вас за ЛАЙКИ!СОХРАНИТЕ рецепт, чтобы не потерять!Жду Ваши впечатления и фотоотчеты в комментариях!"
+        },
+        {
+            "number": 12,
+            "instruction": "Приятного Вам аппетита и вкусной Курочки с картошкой!  Ваша ОЛЕСЯ"
+        },
+        {
+            "number": 13,
+            "instruction": "Подпишись на наш канал Яндекс.Дзен"
+        },
+        {
+            "number": 14,
+            "instruction": "Присоединяйся к нам в Telegram"
+        },
+        {
+            "number": 15,
+            "instruction": "Приглашаем в наш канал Viber"
+        },
+        {
+            "number": 16,
+            "instruction": "Поделись рецептом с друзьями!"
+        },
+        {
+            "number": 17,
+            "instruction": "Мне нравится"
+        },
+        {
+            "number": 18,
+            "instruction": "664"
+        },
+        {
+            "number": 19,
+            "instruction": "В избранное"
+        }
+    ]
+}

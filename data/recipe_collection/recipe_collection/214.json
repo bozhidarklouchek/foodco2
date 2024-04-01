@@ -1,0 +1,145 @@
+{
+    "url": "http://www.infolanka.com/recipes/mess3/119.html",
+    "title": "SPINACH WITH KADALA PARIPPU MALLUN : Sri Lanka : Malini's Kitchen",
+    "total_CO2": 0.41009910165025,
+    "servings": 2,
+    "CO2_per_portion": 0.205049550825125,
+    "E.Mission coefficient": 0.999266814390842,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "SPINACH WITH KADALA PARIPPU MALLUN",
+            "amount": "1.0",
+            "ingredient_name": "spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "A BUNCH OF SPINACH WASHED.",
+            "amount": "1.0",
+            "unit": "bunch",
+            "ingredient_name": "of spinach",
+            "matched_ingredient": "Spinach",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 LARGE ONION FINELY CHOPPED",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 GREEN CHILLIES CHOPPED,",
+            "amount": "2.0",
+            "ingredient_name": "chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 RED CHILLIES WHOLE",
+            "amount": "2.0",
+            "ingredient_name": "chillies",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.01365
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "ONE TEASPOON OF MUSTARD",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "of mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0013000000000000002,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0005681000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Print this recipe      ",
+            "amount": "1.0",
+            "ingredient_name": "print this recipe",
+            "matched_ingredient": "Fromage frais",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1:Poor; 2:Fair; 3:Average; 4:Good; 5:Excellent",
+            "amount": "3.0",
+            "ingredient_name": "poor; 2:fair; 3:average; 4:good; 5:excellent",
+            "matched_ingredient": "Sage Derby",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "No photo yet.",
+            "amount": "1.0",
+            "ingredient_name": "no photo yet",
+            "matched_ingredient": "Duhli urad dahl",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Be the first to email us a picture.",
+            "amount": "1.0",
+            "ingredient_name": "be the first to email us a picture",
+            "matched_ingredient": "Mange-tout",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 CUP PARIPPU SOAKED FOR A FEW HOURS",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "parippu soaked",
+            "matched_ingredient": "Chilki urad dahl",
+            "kg_equivalent": 0.20110000102499997,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.32377100165024997
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Please enable JavaScript to view the comments powered by Disqus.",
+            "amount": "1.0",
+            "ingredient_name": "please enable javascri to view the comments powered by disqus",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "© Malini's Kitchen :: Sri Lanka Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

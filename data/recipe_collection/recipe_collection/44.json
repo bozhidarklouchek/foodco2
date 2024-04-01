@@ -1,0 +1,120 @@
+{
+    "url": "https://www.theguardian.com/lifeandstyle/wordofmouth/2012/mar/29/how-to-cook-perfect-goan-fish-curry",
+    "title": "How to cook perfect Goan fish curry",
+    "total_CO2": 1.44177,
+    "servings": 4,
+    "CO2_per_portion": 0.3604425,
+    "E.Mission coefficient": 2.827,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "The fish",
+            "amount": "1.0",
+            "ingredient_name": "fish",
+            "matched_ingredient": "Fish",
+            "kg_equivalent": 0.51,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 1.44177
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Rick Stein recipe Goan fish curry. Photograph: Felicity Cloake",
+            "amount": "1.0",
+            "ingredient_name": "Goan fish curry",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "The spice is right",
+            "amount": "1.0",
+            "ingredient_name": "spice",
+            "matched_ingredient": "Spice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Vivek Singh recipe Goan fish curry. Photograph: Felicity Cloake",
+            "amount": "1.0",
+            "ingredient_name": "Goan fish curry",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Madhur Jaffrey recipe Goan fish curry. Photograph: Felicity Cloake",
+            "amount": "1.0",
+            "ingredient_name": "Goan fish curry",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Not coconut shy",
+            "amount": "1.0",
+            "ingredient_name": "coconut",
+            "matched_ingredient": "Coconut",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "Camellia Panjabi recipe Goan fish curry. Photograph: Felicity Cloake",
+            "amount": "1.0",
+            "ingredient_name": "Goan fish curry",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "The sour draws nigh",
+            "amount": "1.0",
+            "ingredient_name": "sour",
+            "matched_ingredient": "Soured cream",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Most of the curries are made in a fashion familiar from other recipes: frying the spice paste with onions then stirring in the liquid and cooking until the oil separates out. Both Madhur Jaffrey and Maria Teresa Menezes take a different approach, boiling the masala mix with water and onions in the latter case or coconut milk in Madhur's recipe, before adding the fish."
+        },
+        {
+            "number": 2,
+            "instruction": "Although both are delicious, I think that without frying the masala you lose some of its aromatic qualities – after all, to take just one of the ingredients, garlic is far more flavourful fried than poached. I do love the tadka in Menezes' dish though: curry leaves, ginger and mustard seeds, fried in hot oil until sizzling and aromatic, then stirred into the finished dish: it really lifts the flavours. The more spice the better, as far as I'm concerned."
+        },
+        {
+            "number": 3,
+            "instruction": "Other ingredients"
+        },
+        {
+            "number": 4,
+            "instruction": "Tomatoes and onions are a popular addition, and work well with the sour heat of the other flavours. Vivek Singh uses a mixture of fish stock and coconut milk, which I think makes the coconut flavour too subtle – I want my curry to taste of one of those glorious Goan beaches. It certainly takes me back."
+        },
+        {
+            "number": 5,
+            "instruction": "Perfect Goan fish curry"
+        },
+        {
+            "number": 6,
+            "instruction": "Felicity's perfect Goan fish curry. Photograph: Felicity Cloake"
+        },
+        {
+            "number": 7,
+            "instruction": "Serves 4"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "url": "https://www.olivemagazine.com/recipes/family/chicken-and-leek-bake/",
+    "title": "Chicken and leek bake",
+    "total_CO2": 6.0405465,
+    "servings": 4,
+    "CO2_per_portion": 1.510136625,
+    "E.Mission coefficient": 4.6859542695343555,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 tbsp olive oil",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "500 g skinless chicken thigh fillets, cut into chunks",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "skinless chicken thigh fillets",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.046
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 rashers streaky bacon, chopped",
+            "amount": "4.0",
+            "ingredient_name": "streaky bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.064,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.466048
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 leeks, washed and sliced",
+            "amount": "2.0",
+            "ingredient_name": "leeks",
+            "matched_ingredient": "Leek",
+            "kg_equivalent": 0.18,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0711
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "4 sprigs thyme, plus leaves stripped from 6 sprigs",
+            "amount": "4.0",
+            "unit": "sprigs",
+            "ingredient_name": "thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 tbsp English mustard",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "English mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0039000000000000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0017043000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "350 g ready-made cheese sauce",
+            "amount": "350.0",
+            "unit": "g",
+            "ingredient_name": "ready-made cheese sauce",
+            "matched_ingredient": "Plant-based cheese",
+            "kg_equivalent": 0.35,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 1.00485
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "50 g cheddar",
+            "amount": "50.0",
+            "unit": "g",
+            "ingredient_name": "cheddar",
+            "matched_ingredient": "Cheddar",
+            "kg_equivalent": 0.05,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 1.062
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "100 g breadcrumbs",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "breadcrumbs",
+            "matched_ingredient": "Bread",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.1441
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oven to 200C/fan 180C/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Heat 2 tbsp of the oil in a non-stick frying pan, season the chicken fillets well and fry with the bacon for 3-4 minutes, turning, until golden brown. Tip into a 20cm x 30cm baking dish."
+        },
+        {
+            "number": 3,
+            "instruction": "Add the leeks to the pan with a pinch of salt and cook gently for 10 minutes until softening, then add the thyme sprigs, mustard, cheese sauce and 50ml of water, and mix well. Tip into the baking dish and mix well again."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix together the cheese and breadcrumbs, then sprinkle evenly all over the chicken and leeks, drizzle the rest of the oil and sprinkle over the thyme leaves."
+        },
+        {
+            "number": 5,
+            "instruction": "Bake for 25-30 minutes or until golden and bubbling."
+        },
+        {
+            "number": 6,
+            "instruction": "Serve with a big green salad, if you like."
+        }
+    ]
+}

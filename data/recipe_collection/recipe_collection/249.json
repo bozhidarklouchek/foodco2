@@ -1,0 +1,94 @@
+{
+    "url": "http://www.eatingkent.co.uk/2016/10/spring-rolling-into-autumn.html",
+    "title": "Spring Rolling Into Autumn",
+    "total_CO2": 0.105135,
+    "servings": 10,
+    "CO2_per_portion": 0.0105135,
+    "E.Mission coefficient": 0.6371818181818182,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "In a food processor put the tofu, red pepper, carrot, ginger, and all of the spring roll spices and seasonings ad whizz until mixed and a bit like fine mince.",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "Heat a couple of cms of oil in a large pan and fry your spring rolls, turning halfway through and making sure there's some space between them. Drain on a paper towel.",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "oil",
+            "matched_ingredient": "Oil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "Blitz together the garlic, ginger, chilli and pepper for the slaw mix with the oil, vinegar and tamari and drizzle all over your cabbage and carrots.",
+            "amount": "1.0",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.005,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.001975
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "Serve.",
+            "amount": "1.0",
+            "ingredient_name": "serve",
+            "matched_ingredient": "Fromage frais",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "Pretty sure these beastie would fool a meat eater too. You should try. Pick one and feed them vegan food. Mwahahahahahahahaha!",
+            "amount": "1.0",
+            "ingredient_name": "vegan food",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "I ate 5.",
+            "amount": "5.0",
+            "ingredient_name": "i ate",
+            "matched_ingredient": "Date",
+            "kg_equivalent": 0.04,
+            "carbon_per_kg": 1.214,
+            "ingredient_carbon": 0.04856
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "I can still taste them now.",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "i still taste them now",
+            "matched_ingredient": "Bele",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "Is that really the most deceitful thing I can think of? Disappointing.",
+            "amount": "1.0",
+            "unit": "can",
+            "ingredient_name": "is that really the most deceitful thing i think of? disappointing",
+            "matched_ingredient": "Hering roe",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.827,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

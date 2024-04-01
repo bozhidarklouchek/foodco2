@@ -1,0 +1,269 @@
+{
+    "url": "https://realfood.tesco.com/recipes/vegan-spaghetti-bolognese.html",
+    "title": "Vegan spaghetti Bolognese",
+    "total_CO2": 1.5661470000000004,
+    "servings": 4,
+    "CO2_per_portion": 0.3915367500000001,
+    "E.Mission coefficient": 0.9408972529700669,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp olive oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.013725000000000001,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.08158140000000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "2 celery sticks, finely chopped",
+            "amount": "2.0",
+            "unit": "sticks",
+            "ingredient_name": "celery",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.008,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00364
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 large carrot, diced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "carrot",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.08,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0292
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "160 ml vegan-friendly red wine",
+            "amount": "160.0",
+            "unit": "ml",
+            "ingredient_name": "friendly red wine",
+            "matched_ingredient": "Wine",
+            "kg_equivalent": 0.16,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2536
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "2 garlic cloves, finely chopped",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp tomato purée",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "tomato purée",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.021405
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tbsp balsamic vinegar",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.023774999999999998
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tsp dried oregano",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0025345999999999997
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "100 g closed cup mushrooms, diced",
+            "amount": "100.0",
+            "unit": "g",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.1,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.045500000000000006
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 aubergine, diced",
+            "amount": "1.0",
+            "ingredient_name": "aubergine",
+            "matched_ingredient": "Aubergine",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.2275
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 x 400g tins chopped tomatoes",
+            "amount": "2.0",
+            "unit": "x 400g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.35675
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 Kallo Organic vegetable stock cube",
+            "amount": "1.0",
+            "ingredient_name": "Organic vegetable stock cube",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "300 g spaghetti, to serve",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "spaghetti",
+            "matched_ingredient": "Spaghetti",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.4323
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tbsp soy sauce",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.01371
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "3 tbsp almond milk",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "almond milk",
+            "matched_ingredient": "Almond milk",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.01251
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "75 g lentilles vertes",
+            "amount": "75.0",
+            "ingredient_name": "lentilles vertes",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "fresh basil, to serve (optional)",
+            "amount": "1.0",
+            "ingredient_name": "fresh basil",
+            "matched_ingredient": "Basil",
+            "kg_equivalent": 0.003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.001311
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oil in a large saucepan over a medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the onion, celery and carrot and cook gently for 10 mins, stirring regularly, until softened."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour in the wine and let it reduce for 2-3 mins then stir in the garlic, tomato pur&eacute;e, vinegar and oregano. Cook for 1 min, then add the mushrooms, aubergine, lentils, chopped tomatoes, stock cube and 200ml water."
+        },
+        {
+            "number": 4,
+            "instruction": "Bring to a boil then reduce the heat to a gentle simmer. Cover the pan loosely and cook for 40-50 mins until the sauce has thickened to your desired consistency. Stir often and add a splash more water if the sauce starts to catch on the bottom of the pan."
+        },
+        {
+            "number": 5,
+            "instruction": "WATCH: How to reach simmering point"
+        },
+        {
+            "number": 6,
+            "instruction": "Play Video"
+        },
+        {
+            "number": 7,
+            "instruction": "We value your privacy"
+        },
+        {
+            "number": 8,
+            "instruction": "We use cookies to help give you the best experience on our site. By playing this video, you're consenting to receive third party privacy-enhanced cookies."
+        },
+        {
+            "number": 9,
+            "instruction": "Accept all cookies"
+        },
+        {
+            "number": 10,
+            "instruction": "Meanwhile, bring a large pan of salted water to the boil and cook the pasta to pack instructions. To serve, stir the soy sauce and almond milk into the sauce and spoon over the drained pasta."
+        },
+        {
+            "number": 11,
+            "instruction": "Garnish with a few fresh basil leaves, if you like."
+        },
+        {
+            "number": 12,
+            "instruction": "WATCH: How to bring to the boil"
+        },
+        {
+            "number": 13,
+            "instruction": "Play Video"
+        },
+        {
+            "number": 14,
+            "instruction": "We value your privacy"
+        },
+        {
+            "number": 15,
+            "instruction": "We use cookies to help give you the best experience on our site. By playing this video, you're consenting to receive third party privacy-enhanced cookies."
+        },
+        {
+            "number": 16,
+            "instruction": "Accept all cookies"
+        }
+    ]
+}

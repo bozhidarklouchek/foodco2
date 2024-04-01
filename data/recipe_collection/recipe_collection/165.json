@@ -1,0 +1,300 @@
+{
+    "url": "https://cleanfoodcrush.com/nourishing-cfc-minestrone-soup/#more-'",
+    "title": "Nourishing CFC Minestrone Soup",
+    "total_CO2": 4.94827182378873,
+    "servings": 8,
+    "CO2_per_portion": 0.6185339779735912,
+    "E.Mission coefficient": 2.2676503352036157,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 Tbsps olive oil, or avocado oil",
+            "amount": "1.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.083216
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 Tbsps olive oil, or avocado oil",
+            "amount": "1.0",
+            "ingredient_name": "avocado oil",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 large yellow onion",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "yellow onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3-4 cloves fresh garlic",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "fresh garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 carrots",
+            "amount": "2.0",
+            "ingredient_name": "carrots",
+            "matched_ingredient": "Carrot",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0438
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 celery ribs",
+            "amount": "3.0",
+            "ingredient_name": "celery ribs",
+            "matched_ingredient": "Celery",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 bell peppers, various colors",
+            "amount": "3.0",
+            "ingredient_name": "bell peppers",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.1638
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 medium zucchini",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "zucchini",
+            "matched_ingredient": "Courgette",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.09100000000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 medium yellow squash",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "yellow squash",
+            "matched_ingredient": "Squash",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 (14 ounce) jars diced tomatoes",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "diced tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 tsp dried basil",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "dried basil",
+            "matched_ingredient": "Dried basil",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1/2 tsp dried oregano",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/2 tsp dried thyme",
+            "amount": "0.5",
+            "unit": "tsp",
+            "ingredient_name": "dried thyme",
+            "matched_ingredient": "Thyme",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0006336499999999999
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 (14 ounce) cannellini beans, rinsed and drained",
+            "amount": "0.0",
+            "unit": "ounce",
+            "ingredient_name": "cannellini beans",
+            "matched_ingredient": "Cannellini bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 cup fresh or frozen organic green peas",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "frozen organic green peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.17034353028,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.15262780313087998
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "sea salt and freshly ground black pepper, to taste, about 1/2 teaspoon each",
+            "amount": "0.0",
+            "unit": "about 1",
+            "ingredient_name": "sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "6 cups vegetable, or chicken broth",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.35488235475,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.16147147141125
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "6 cups vegetable, or chicken broth",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "chicken broth",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.63878823855,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.8914979492465998
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "A handful of fresh curly parsley, chopped to finish",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "fresh curly parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "shredded parmesan cheese, to sprinkle",
+            "amount": "1.0",
+            "ingredient_name": "shredded parmesan cheese",
+            "matched_ingredient": "Parmesan",
+            "kg_equivalent": 0.0103,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.218772
+        },
+        {
+            "ingredient_number": 21,
+            "original_string": "Optional:",
+            "amount": "1.0",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Chop your onion and mince the garlic."
+        },
+        {
+            "number": 2,
+            "instruction": "Peel the carrots and dice along with the celery, bell pepper, zucchini and squash."
+        },
+        {
+            "number": 3,
+            "instruction": "Heat oil in a stockpot or dutch oven, over medium-high heat."
+        },
+        {
+            "number": 4,
+            "instruction": "Add onion and garlic; sauté for 3 minutes."
+        },
+        {
+            "number": 5,
+            "instruction": "Add carrots, celery, bell pepper, zucchini and squash. Cook until slightly golden."
+        },
+        {
+            "number": 6,
+            "instruction": "Stir in the diced tomatoes."
+        },
+        {
+            "number": 7,
+            "instruction": "Add all herbs and spices."
+        },
+        {
+            "number": 8,
+            "instruction": "Pour in the broth and stir well."
+        },
+        {
+            "number": 9,
+            "instruction": "Cover and cook on low for about 30 minutes."
+        },
+        {
+            "number": 10,
+            "instruction": "Once the vegetables are tender add in the beans and peas."
+        },
+        {
+            "number": 11,
+            "instruction": "Continue to simmer, about 10-15 minutes more."
+        },
+        {
+            "number": 12,
+            "instruction": "Taste and adjust the seasonings to your taste."
+        },
+        {
+            "number": 13,
+            "instruction": "Ladle into serving bowls."
+        },
+        {
+            "number": 14,
+            "instruction": "Garnish with fresh parsley."
+        },
+        {
+            "number": 15,
+            "instruction": "Sprinkle with parmesan cheese, if desired."
+        },
+        {
+            "number": 16,
+            "instruction": "Enjoy!"
+        }
+    ]
+}

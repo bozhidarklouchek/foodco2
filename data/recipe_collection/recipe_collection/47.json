@@ -1,0 +1,206 @@
+{
+    "url": "https://tasty.co/recipe/sweet-potato-and-poblano-tacos",
+    "title": "Sweet Potato And Poblano Tacos by Tasty",
+    "total_CO2": 2.3306449690006326,
+    "servings": 8,
+    "CO2_per_portion": 0.29133062112507907,
+    "E.Mission coefficient": 1.4346099800785106,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 cups sweet potato, cut into 1/2 (1/4 cm)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "sweet potato",
+            "matched_ingredient": "Sweet potato",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.17507529501
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 cups poblano pepper, cut into 1/2 in pieces (1/4 cm)",
+            "amount": "2.0",
+            "unit": "cups",
+            "ingredient_name": "poblano pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.24132000123,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.10980060055965
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/4 cup olive oil",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.054119559099375006,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.32168665928668505
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 oz McCormick® Original Taco Seasoning, 1 packet",
+            "amount": "1.0",
+            "unit": "oz",
+            "ingredient_name": "Original Taco Seasoning",
+            "matched_ingredient": "Jerk seasoning",
+            "kg_equivalent": 0.028349523125,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.3437096183675
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 cup black beans, drained and rinsed",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "black beans",
+            "matched_ingredient": "Black bean",
+            "kg_equivalent": 0.0887205886875,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.142840147786875
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "10 corn tortillas, warmed",
+            "amount": "10.0",
+            "ingredient_name": "corn tortillas",
+            "matched_ingredient": "Corn tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 cup cotija cheese, crumbled",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "cotija cheese",
+            "matched_ingredient": "Cheese",
+            "kg_equivalent": 0.04022000020500001,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.8542728043542002
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 cup shredded lettuce",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "shredded lettuce",
+            "matched_ingredient": "Lettuce",
+            "kg_equivalent": 0.2365882365,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.1033890593505
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 medium red onion, thinly sliced",
+            "amount": "0.5",
+            "unit": "medium",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.074,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.02923
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 cup water",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/2 cup white vinegar",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "white vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.18749617742625
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tablespoons sugar",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0294912
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 medium avocado, pitted and peeled",
+            "amount": "1.0",
+            "unit": "medium",
+            "ingredient_name": "avocado",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.15,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.11249999999999999
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1/4 cup plain yogurt",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "plain yogurt",
+            "matched_ingredient": "Yogurt",
+            "kg_equivalent": -0.0555982355775,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": -0.15461869314102752
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1/2 teaspoon kosher salt",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1/2 lime juice",
+            "amount": "0.5",
+            "ingredient_name": "lime juice",
+            "matched_ingredient": "Lime",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.010302500000000001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Preheat the oven to 450°F (230°C). Line a baking sheet with parchment paper."
+        },
+        {
+            "number": 2,
+            "instruction": "In a large bowl, combine the sweet potatoes and poblanos."
+        },
+        {
+            "number": 3,
+            "instruction": "Drizzle over olive oil and add the McCormick® Original Taco Seasoning packet."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix together."
+        },
+        {
+            "number": 5,
+            "instruction": "Spread the vegetables in a single layer on the prepared baking sheet and roast for 25 minutes, stirring halfway, until soft and browned."
+        }
+    ]
+}

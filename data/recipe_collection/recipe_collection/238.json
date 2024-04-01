@@ -1,0 +1,75 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/baked-salmon",
+    "title": "Baked salmon",
+    "total_CO2": 7.1086718825,
+    "servings": 4,
+    "CO2_per_portion": 1.777167970625,
+    "E.Mission coefficient": 5.174854594724447,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "4 skinless salmon fillets",
+            "amount": "4.0",
+            "ingredient_name": "skinless salmon fillets",
+            "matched_ingredient": "Salmon",
+            "kg_equivalent": 1.36,
+            "carbon_per_kg": 5.183,
+            "ingredient_carbon": 7.0488800000000005
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 tbsp olive oil or melted butter",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.0068625000000000005,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.040790700000000006
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 tbsp olive oil or melted butter",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "melted butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.006832500000000001,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.019001182500000005
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "chopped herbs, lemon slices and steamed long-stem broccoli, to serve (optional)",
+            "amount": "1.0",
+            "unit": "stem",
+            "ingredient_name": "chopped herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the oven to 180C/160C fan/gas"
+        },
+        {
+            "number": 2,
+            "instruction": "Brush each salmon fillet with the oil or butter and season well."
+        },
+        {
+            "number": 3,
+            "instruction": "Put the salmon fillets in an ovenproof dish. Cover if you prefer your salmon to be tender, or leave uncovered if you want the flesh to roast slightly."
+        },
+        {
+            "number": 4,
+            "instruction": "Roast for 10-15 mins (or about 4 mins per 1cm thickness) until just opaque and easily flaked with a fork."
+        },
+        {
+            "number": 5,
+            "instruction": "Serve with a sprinkling of chopped herbs, lemon slices and steamed long-stem broccoli, if you like."
+        }
+    ]
+}

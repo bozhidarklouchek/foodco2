@@ -1,0 +1,124 @@
+{
+    "url": "https://www.marmiton.org/recettes/recette_sushi-cake_344798.aspx",
+    "title": "Sushi cake",
+    "total_CO2": 0.18000000000000002,
+    "servings": 4,
+    "CO2_per_portion": 0.045000000000000005,
+    "E.Mission coefficient": 0.75,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 cuillères à soupe de guacamole",
+            "amount": "3.0",
+            "ingredient_name": "soupe de guacamole",
+            "matched_ingredient": "Guacamole",
+            "kg_equivalent": 0.21000000000000002,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.15750000000000003
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 filets de saumon frais",
+            "amount": "1.0",
+            "ingredient_name": "saumon frais",
+            "matched_ingredient": "Fromage frais",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "4 feuilles de nori",
+            "amount": "4.0",
+            "ingredient_name": "feuilles",
+            "matched_ingredient": "Bele",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 cuillères à soupe de sauce soja",
+            "amount": "2.0",
+            "ingredient_name": "cuillères",
+            "matched_ingredient": "Porridge oat",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 cuillères à soupe de sésame",
+            "amount": "1.0",
+            "ingredient_name": "cuillères",
+            "matched_ingredient": "Porridge oat",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.575,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "400 g de riz",
+            "amount": "400.0",
+            "ingredient_name": "de riz",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 concombres",
+            "amount": "1.0",
+            "ingredient_name": "concombres",
+            "matched_ingredient": "Red Windsor",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 avocats",
+            "amount": "1.0",
+            "ingredient_name": "avocats",
+            "matched_ingredient": "Avocado",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.75,
+            "ingredient_carbon": 0.0225
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Cuire le riz dans une casserole d'eau bouillante salée."
+        },
+        {
+            "number": 2,
+            "instruction": "Égoutter et laisser refroidir."
+        },
+        {
+            "number": 3,
+            "instruction": "Laver le concombre et le couper en rondelles."
+        },
+        {
+            "number": 4,
+            "instruction": "Détailler le saumon en cubes et laisser mariner dans un saladier avec la sauce soja et les graines de sésame."
+        },
+        {
+            "number": 5,
+            "instruction": "Éplucher l'avocat et couper en fines lamelles."
+        },
+        {
+            "number": 6,
+            "instruction": "A l'aide d'un emporte-pièce rectangle grand format ou d'un découpoir, dresser le sushi cake."
+        },
+        {
+            "number": 7,
+            "instruction": "Étaler une feuille d'algue de nori. Recouvrir d'une couche de riz puis disposer des rondelles de concombre. Étaler une nouvelle feuille d'algue de nori et recouvrir de riz. Disposer le saumon mariné et les edamame et recouvrir d'une nouvelle feuille d'algue. Couvrir de riz, badigeonner de guacamole, disposer les lamelles d'avocat et couvrir à nouveau d'une couche de riz avant de terminer par une feuille d'algue."
+        },
+        {
+            "number": 8,
+            "instruction": "Réserver au frais en attendant de servir."
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "url": "http:/veganinthefreezer.com/crispy-tenders-chickenless-tacos/",
+    "title": "Vegan Chicken Meatless Tacos",
+    "total_CO2": 2.6850891139791955,
+    "servings": 8,
+    "CO2_per_portion": 0.33563613924739943,
+    "E.Mission coefficient": 2.8903923397310614,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "10 corn tortillas",
+            "amount": "10.0",
+            "ingredient_name": "corn tortillas",
+            "matched_ingredient": "Corn tortilla",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "10 ounce package crispy tenders, there is a fishless variety too",
+            "amount": "10.0",
+            "unit": "ounce",
+            "ingredient_name": "crispy tenders",
+            "matched_ingredient": "Crisp rice",
+            "kg_equivalent": 0.28349523125000003,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 1.08833819276875
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "10 ounce package pre-shredded coleslaw mix",
+            "amount": "10.0",
+            "unit": "ounce",
+            "ingredient_name": "pre-shredded coleslaw mix",
+            "matched_ingredient": "Arugula",
+            "kg_equivalent": 0.28349523125000003,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.12388741605625002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1 cup dairy-free ranch dressing",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "dairy-free ranch dressing",
+            "matched_ingredient": "Dressing",
+            "kg_equivalent": 0.21766117758000003,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 1.2937780395355203
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/2 cup tomatoes (- diced small)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.16880570674275
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 cup red onion (- diced small)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "red onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.026024706015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.010279758875925001
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "This is so delicious and simple - it is more of a how-to than a recipe."
+        },
+        {
+            "number": 2,
+            "instruction": "Bake the crispy tenders according to the directions on the package."
+        },
+        {
+            "number": 3,
+            "instruction": "Cut the tenders into small bite size pieces so that you can sprinkle the bites in the taco shells."
+        },
+        {
+            "number": 4,
+            "instruction": "Prepare the rest of the ingredients while the meatless chicken is baking."
+        },
+        {
+            "number": 5,
+            "instruction": "If you have the crispy hard shelled corn taco shells then just set them aside."
+        },
+        {
+            "number": 6,
+            "instruction": "If you have the soft corn tortillas then heat 1 teaspoon coconut oil in a small frying pan over medium high heat. Fry each tortilla shell on each side. After you remove one taco shell out of the pan, Lightly fold it over so that as it cools it will keep a taco shape. I set them up on a baking sheet between two glass and move the glasses further apart as I fill in more taco shells."
+        },
+        {
+            "number": 7,
+            "instruction": "Fill each shell with the cole slaw mix, pour on a little , add some onion and tomatoes and then the crispy tenders. Top with a little more ranch dressing."
+        },
+        {
+            "number": 8,
+            "instruction": "Take a big bite."
+        }
+    ]
+}

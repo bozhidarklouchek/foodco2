@@ -1,0 +1,142 @@
+{
+    "url": "http:/foodwithfeeling.com/chocolate-chip-cookie-bars/",
+    "title": "Chocolate Chip Cookie Bars",
+    "total_CO2": 4.961908164022011,
+    "servings": 18,
+    "CO2_per_portion": 0.2756615646678895,
+    "E.Mission coefficient": 4.352964695922477,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3/4 cup of vegan butter, 8 tablespoons, softened*",
+            "amount": "0.75",
+            "unit": "cup",
+            "ingredient_name": "vegan butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.161648912588625,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.44954562590896613
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3/4 cup of light brown sugar, packed",
+            "amount": "0.75",
+            "unit": "cup",
+            "ingredient_name": "light brown sugar",
+            "matched_ingredient": "Brown sugar",
+            "kg_equivalent": 0.1242088241625,
+            "carbon_per_kg": 2.672,
+            "ingredient_carbon": 0.3318859781622
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "3/4 cup of white sugar",
+            "amount": "0.75",
+            "unit": "cup",
+            "ingredient_name": "white sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.11356235352,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.17443177500672002
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/3 cup of plant based milk, at room temperature",
+            "amount": "0.3333333333333333",
+            "unit": "cup",
+            "ingredient_name": "plant based milk",
+            "matched_ingredient": "Plant milk",
+            "kg_equivalent": 0.07886274549999998,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.07208054938699998
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 1/2 teaspoon of vanilla extract",
+            "amount": "1.5",
+            "unit": "teaspoon",
+            "ingredient_name": "vanilla extract",
+            "matched_ingredient": "Vanilla",
+            "kg_equivalent": 0.00435,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0527394
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "3 cups of all purpose flour*",
+            "amount": "3.0",
+            "unit": "cups",
+            "ingredient_name": "all purpose flour",
+            "matched_ingredient": "Wheat flour",
+            "kg_equivalent": 0.475542355365,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.685256534080965
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "2 1/2 teaspoons of baking powder",
+            "amount": "2.5",
+            "unit": "teaspoons",
+            "ingredient_name": "baking powder",
+            "matched_ingredient": "Baking powder",
+            "kg_equivalent": 0.01125,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.136395
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3/4 teaspoon of baking soda",
+            "amount": "0.75",
+            "unit": "teaspoon",
+            "ingredient_name": "baking soda",
+            "matched_ingredient": "Bicarbonate of soda",
+            "kg_equivalent": 0.00825,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.10002300000000001
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 teaspoon of salt",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0108,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.1309392
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 cup of vegan chocolate chips, additional for topping (For this skillet, I like to use a combo of chips and chunks of chocolate!)",
+            "amount": "1.0",
+            "unit": "cup",
+            "ingredient_name": "vegan chocolate chips",
+            "matched_ingredient": "Drinking chocolate",
+            "kg_equivalent": 0.15141647136,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 2.82861110147616
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Pre-heat the oven to 350 degrees F and grease a 9&#215;13 inch baking pan with butter or cooking spray (see not above for the specific one I&#8217;m using from Chicago Metallic)."
+        },
+        {
+            "number": 2,
+            "instruction": "In a stand mixer using the paddle attachment (you can also do this in a large bowl with a hand mixer), cream together the butter, sugar, and brown sugar. Once fully combined, add in the milk and vanilla and mix until just combined. The mixture will look a little curdled but it’s okay!"
+        },
+        {
+            "number": 3,
+            "instruction": "Add in the four, baking powder, baking soda, and salt and stir until just combined. Fold in the chocolate until mixed in. The dough will be a little sticky but should not stick to your hands excessively. If it’s too sticky, mix in a little extra flour."
+        },
+        {
+            "number": 4,
+            "instruction": "Pour the dough into your prepared pan and spread it out so that it’s evenly in the skillet. Pat the edges down a little so everything is as even as possible. Optional to top with sprinkles of choice (sprinkles are mandatory in our house)."
+        },
+        {
+            "number": 5,
+            "instruction": "Bake for 20-25 minutes or until the cookie bars set, puffed up around the edges, and just starting to get a golden brown color."
+        }
+    ]
+}

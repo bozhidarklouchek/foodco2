@@ -1,0 +1,303 @@
+{
+    "url": "https://www.bbc.co.uk/food/recipes/roast_chicken_with_60937",
+    "title": "Perfect roast chicken dinner",
+    "total_CO2": 15.485498399999999,
+    "servings": 4,
+    "CO2_per_portion": 3.8713745999999998,
+    "E.Mission coefficient": 4.636307360668253,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "500 ml/18 fl oz milk",
+            "amount": "500.0",
+            "unit": "ml",
+            "ingredient_name": "milk",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.52,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 1.44612
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "75 g/21/2 oz butter",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.208575
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "8 cloves",
+            "amount": "8.0",
+            "unit": "cloves",
+            "ingredient_name": "",
+            "matched_ingredient": "Please provide a food item.",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 large bay leaves, crumbled",
+            "amount": "3.0",
+            "unit": "leaves",
+            "ingredient_name": "large bay",
+            "matched_ingredient": "Bay leaf",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "pinch salt",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "freshly ground white pepper",
+            "amount": "1.0",
+            "ingredient_name": "white pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 small onion, peeled, finely chopped",
+            "amount": "1.0",
+            "unit": "small",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "pinch freshly grated nutmeg",
+            "amount": "0.0",
+            "unit": "pinch",
+            "ingredient_name": "freshly grated nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 tbsp double cream",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "double cream",
+            "matched_ingredient": "Double cream",
+            "kg_equivalent": 0.0141,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.0392121
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "125 g/31/2 fresh white breadcrumbs",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "fresh white breadcrumbs",
+            "matched_ingredient": "White rice",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.479875
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1 chicken with giblets (if giblets available, chopped)",
+            "amount": "1.0",
+            "ingredient_name": "chicken",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.155,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.94426
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tbsp olive oil",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.027450000000000002,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.16316280000000002
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "salt and freshly ground pepper",
+            "amount": "1.0",
+            "ingredient_name": "salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "300 g/101/2 oz chicken wings, roughly chopped",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "chicken wings",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 1.8276
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "125 ml/4 fl oz dry vermouth",
+            "amount": "125.0",
+            "unit": "ml",
+            "ingredient_name": "dry vermouth",
+            "matched_ingredient": "Vermouth",
+            "kg_equivalent": 0.1275,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.2020875
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "8 chipolata sausages",
+            "amount": "8.0",
+            "ingredient_name": "chipolata sausages",
+            "matched_ingredient": "Sausage",
+            "kg_equivalent": 0.6,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 4.3692
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "8 thin slices streaky bacon (or pancetta)",
+            "amount": "8.0",
+            "ingredient_name": "streaky bacon",
+            "matched_ingredient": "Bacon",
+            "kg_equivalent": 0.128,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.932096
+        },
+        {
+            "ingredient_number": 18,
+            "original_string": "250 ml/9 fl oz good-quality chicken stock",
+            "amount": "250.0",
+            "unit": "ml",
+            "ingredient_name": "quality chicken stock",
+            "matched_ingredient": "Chicken stock",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 0.3,
+            "ingredient_carbon": 0.075
+        },
+        {
+            "ingredient_number": 19,
+            "original_string": "750 g/1 lb 10 oz small to medium waxy potatoes, steamed or boiled in their skins, then peeled",
+            "amount": "375.0",
+            "unit": "g",
+            "ingredient_name": "waxy potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.13874999999999998
+        },
+        {
+            "ingredient_number": 20,
+            "original_string": "750 g/1 lb 10 oz small to medium waxy potatoes, steamed or boiled in their skins, then peeled",
+            "amount": "375.0",
+            "unit": "g",
+            "ingredient_name": "skins",
+            "matched_ingredient": "Za'atar",
+            "kg_equivalent": 0.375,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 4.5465
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "For the bread sauce, heat together the first eight ingredients until just bubbling for two minutes. Put on the lid, turn off the heat and set aside to infuse for half an hour. Strain the milk through a fine sieve into a clean pan, pressing down with a spoon to extract all the liquid."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the cream to the milk mixture and gently heat."
+        },
+        {
+            "number": 3,
+            "instruction": "Whisk in the breadcrumbs. Leave for a few moments to allow the crumbs to swell. Season to taste with more salt and then pour the sauce into a bowl. Cover with a plate and keep warm over a pan of hot, but not boiling water, until needed."
+        },
+        {
+            "number": 4,
+            "instruction": "Preheat the oven to 200C/180C Fan/Gas"
+        },
+        {
+            "number": 5,
+            "instruction": "Rub half of the oil over the chicken and sprinkle with plenty of salt, set aside."
+        },
+        {
+            "number": 6,
+            "instruction": "Heat the remaining tablespoon of oil in a roomy casserole dish and lightly brown the chopped chicken wings and giblets over a medium heat."
+        },
+        {
+            "number": 7,
+            "instruction": "Place the prepared chicken on top, sitting it between the wings and giblets."
+        },
+        {
+            "number": 8,
+            "instruction": "Add pepper and the vermouth. Roast for ten minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Decrease the oven temperature to 180/160C Fan/Gas 4 and cook the chicken for a further 45 minutes to an hour and 20 minutes, depending on the weight of the chicken. Check the chicken is cooked by inserting a skewer into the thickest part of the meat – if the juices run clear, the bird is cooked."
+        },
+        {
+            "number": 10,
+            "instruction": "Meanwhile remove the skins from the sausages and wrap in the bacon."
+        },
+        {
+            "number": 11,
+            "instruction": "Place into a small roasting dish and cook alongside the chicken for about 20-25 minutes, or until they are sizzling and nicely browned. Set aside and keep warm."
+        },
+        {
+            "number": 12,
+            "instruction": "Remove the chicken from the oven."
+        },
+        {
+            "number": 13,
+            "instruction": "Transfer it to a warm plate first letting the juices drip back into the roasting pan it was cooked in. Cover the chicken with foil and leave it somewhere warm to rest."
+        },
+        {
+            "number": 14,
+            "instruction": "Add the chicken stock to the roasting pan and simmer over a medium heat for about 10 minutes, stirring in all the caramelised browned bits on the roasting tin. Strain and return the gravy to the roasting tin."
+        },
+        {
+            "number": 15,
+            "instruction": "Place on a medium heat on the stove."
+        },
+        {
+            "number": 16,
+            "instruction": "Add the cooked, peeled potatoes to the gravy and turn them to coat in the juices."
+        },
+        {
+            "number": 17,
+            "instruction": "Transfer to the oven for at least 20 minutes or until golden-brown."
+        },
+        {
+            "number": 18,
+            "instruction": "Carve the chicken onto a warmed serving dish, surround with the potatoes and sausage and bacon rolls."
+        },
+        {
+            "number": 19,
+            "instruction": "Serve the gravy and bread sauce at the table, in sauceboats or small jugs."
+        }
+    ]
+}

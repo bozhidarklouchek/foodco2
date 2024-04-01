@@ -1,0 +1,177 @@
+{
+    "url": "https://chejorge.com/2020/08/14/vegan-tomato-egg-stir-fry/",
+    "title": "Vegan Tomato Egg Stir-Fry (番茄炒蛋)",
+    "total_CO2": 1.39807295,
+    "servings": 2,
+    "CO2_per_portion": 0.699036475,
+    "E.Mission coefficient": 1.9247670557047136,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "3 pieces (50 grams) abura-age, or Japanese fried tofu pouch",
+            "amount": "3.0",
+            "unit": "pieces",
+            "ingredient_name": "tofu",
+            "matched_ingredient": "Tofu",
+            "kg_equivalent": 0.36,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 1.03356
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tablespoons water",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/8 teaspoon turmeric",
+            "amount": "0.125",
+            "unit": "teaspoon",
+            "ingredient_name": "turmeric",
+            "matched_ingredient": "Turmeric",
+            "kg_equivalent": 0.0003625,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.00439495
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/8 teaspoon black salt (kala namak) or regular sea salt",
+            "amount": "0.0625",
+            "unit": "teaspoon",
+            "ingredient_name": "black salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.000675,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0081837
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1/8 teaspoon black salt (kala namak) or regular sea salt",
+            "amount": "0.0625",
+            "unit": "teaspoon",
+            "ingredient_name": "regular sea salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.000675,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0081837
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 large tomato",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "tomato",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.178375
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "3 tablespoons ketchup",
+            "amount": "3.0",
+            "unit": "tablespoons",
+            "ingredient_name": "ketchup",
+            "matched_ingredient": "Tomato ketchup",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.064215
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/4 cup room temperature water",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "room temperature water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.059147059125,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "2 tablespoons sugar",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0192,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.0294912
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1 scallion, thinly chopped",
+            "amount": "1.0",
+            "ingredient_name": "scallion",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.005925
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "vegetable oil, for frying",
+            "amount": "1.0",
+            "ingredient_name": "vegetable oil",
+            "matched_ingredient": "Vegetable oil",
+            "kg_equivalent": 0.014,
+            "carbon_per_kg": 3.828,
+            "ingredient_carbon": 0.053592
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tablespoon room temperature water",
+            "amount": "2.0",
+            "unit": "tablespoon",
+            "ingredient_name": "room temperature water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tablespoon cornstach",
+            "amount": "1.0",
+            "unit": "tablespoon",
+            "ingredient_name": "cornstach",
+            "matched_ingredient": "Corn flour",
+            "kg_equivalent": 0.012299999999999998,
+            "carbon_per_kg": 0.988,
+            "ingredient_carbon": 0.012152399999999999
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Prepare the Tomato Sauce: First, remove the stem. Slice the tomato in into quarters, then slice each quarter into 2-3 chunks. In a non-stick pan, heat up a little vegetable oil on medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the tomatoes, followed by 1/4 cup of water. Bring water to boil and cook to slightly soften the tomatoes, around 2 minutes."
+        },
+        {
+            "number": 3,
+            "instruction": "Add in the ketchup, then add the cornstarch slurry (thickening agent) to thicken. Turn down the heat and keep warm aside."
+        },
+        {
+            "number": 4,
+            "instruction": "Prepare the Tofu Pouches: Use your hands to tear tofu pouches into large chunks.  In a separate bowl, combine 3 tablespoons of water, turmeric, and black salt (or regular salt)."
+        },
+        {
+            "number": 5,
+            "instruction": "Heat up a lightly greased non-stick pan on medium heat and add the torn tofu pouches."
+        },
+        {
+            "number": 6,
+            "instruction": "Add turmeric water and cook tofu pouches until all liquid evaporates."
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "url": "https://www.deliciousmagazine.co.uk/recipes/spicy-vegan-dan-dan-noodles/",
+    "title": "Spicy vegan dan dan noodles",
+    "total_CO2": 1.6283049300000003,
+    "servings": 2,
+    "CO2_per_portion": 0.8141524650000002,
+    "E.Mission coefficient": 2.2969782758961195,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 tbsp sesame oil, plus extra if needed",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.013845000000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.04993891500000001
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "125 g mushrooms (we used shiitake), finely chopped",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "mushrooms",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.056875
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "200 g plant-based mince (see tip)",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "plant-based mince",
+            "matched_ingredient": "Plant-based mince",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 2.871,
+            "ingredient_carbon": 0.5742
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "200 g ramen noodles (or whichever noodles you prefer)",
+            "amount": "200.0",
+            "unit": "g",
+            "ingredient_name": "ramen noodles",
+            "matched_ingredient": "Rice noodle",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.7678
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "2 garlic cloves",
+            "amount": "2.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.006,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00237
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "Thumb-size piece fresh ginger",
+            "amount": "1.0",
+            "ingredient_name": "fresh ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tsp chinese five-spice powder",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chinese five-spice powder",
+            "matched_ingredient": "Five-spice",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0351596
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 spring onions, sliced",
+            "amount": "3.0",
+            "ingredient_name": "spring onions",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.017775
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "Chilli oil for drizzling",
+            "amount": "1.0",
+            "ingredient_name": "Chilli oil",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.006825
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tbsp sesame seeds",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame seeds",
+            "matched_ingredient": "Sesame seed",
+            "kg_equivalent": 0.0096,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0026688
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 tbsp tahini",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "tahini",
+            "matched_ingredient": "Tahini",
+            "kg_equivalent": 0.027,
+            "carbon_per_kg": 0.278,
+            "ingredient_carbon": 0.0075060000000000005
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "2 tbsp soy sauce",
+            "amount": "2.0",
+            "unit": "tbsp",
+            "ingredient_name": "soy sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.03,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.02742
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1 tbsp rice vinegar or balsamic vinegar",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "rice vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "1 tbsp rice vinegar or balsamic vinegar",
+            "amount": "0.5",
+            "unit": "tbsp",
+            "ingredient_name": "balsamic vinegar",
+            "matched_ingredient": "Vinegar",
+            "kg_equivalent": 0.0075,
+            "carbon_per_kg": 1.585,
+            "ingredient_carbon": 0.011887499999999999
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "1 tbsp sesame oil",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "sesame oil",
+            "matched_ingredient": "Sesame oil",
+            "kg_equivalent": 0.013845000000000001,
+            "carbon_per_kg": 3.607,
+            "ingredient_carbon": 0.04993891500000001
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "1 tsp sugar",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "sugar",
+            "matched_ingredient": "Sugar",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 1.536,
+            "ingredient_carbon": 0.004915200000000001
+        },
+        {
+            "ingredient_number": 17,
+            "original_string": "1 tsp chilli flakes",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "chilli flakes",
+            "matched_ingredient": "Chilli",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0011375
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the sesame oil in a hot frying pan, then add the mushrooms and mince with a pinch of salt. Fry for about 10 minutes, stirring regularly, until you’re left with a crispy mixture (turn down the heat if you find it sticks to the pan too much)."
+        },
+        {
+            "number": 2,
+            "instruction": "Meanwhile, cook the noodles according to the packet instructions."
+        },
+        {
+            "number": 3,
+            "instruction": "Drain and rinse with cold water."
+        },
+        {
+            "number": 4,
+            "instruction": "Mix all the sauce ingredients in a bowl with 50ml cold water."
+        },
+        {
+            "number": 5,
+            "instruction": "Grate the garlic into the mince pan with the ginger."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the chinese five-spice and cook for 1 minute, adding a splash more sesame oil if the mixture looks too dry."
+        },
+        {
+            "number": 7,
+            "instruction": "Pour in a third of the sauce and cook for 2 minutes until the mince is slightly browned."
+        },
+        {
+            "number": 8,
+            "instruction": "Remove half the mince mixture and set it aside. Reduce the heat to low."
+        },
+        {
+            "number": 9,
+            "instruction": "Transfer the cooked noodles to the pan and add most of the spring onions. Increase the heat, pour in the remaining sauce and stir well, adding a splash of water to loosen if necessary."
+        },
+        {
+            "number": 10,
+            "instruction": "Divide the noodle mixture among 2-3 bowls. Top with the reserved crispy mince, then finish each portion with a drizzle of chilli oil, sesame seeds and the remaining spring onions."
+        }
+    ]
+}

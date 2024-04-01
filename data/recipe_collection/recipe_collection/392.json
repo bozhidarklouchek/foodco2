@@ -1,0 +1,43 @@
+{
+    "url": "https://www.bosh.tv/recipes/sunny-sri-lankan-curry",
+    "title": "Sunny Sri Lankan Curry",
+    "total_CO2": 0.0,
+    "servings": 4,
+    "CO2_per_portion": 0.0,
+    "E.Mission coefficient": 0,
+    "ingredients": [
+        {
+            "ingredient_number": 2,
+            "original_string": "<item-todo-done>10g coriander leaves<item-todo-done>",
+            "amount": "10.0",
+            "unit": "leaves",
+            "ingredient_name": "coriander",
+            "matched_ingredient": "Coriander",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Peel and finely dice the shallots"
+        },
+        {
+            "number": 2,
+            "instruction": "Peel and grate the garlic"
+        },
+        {
+            "number": 3,
+            "instruction": "Peel the ginger by scraping off the skin with a spoon, then grate"
+        },
+        {
+            "number": 4,
+            "instruction": "Rip the stem from the chilli, cut it in half lengthways and remove the seeds if you prefer, then finely slice"
+        },
+        {
+            "number": 5,
+            "instruction": "Trim, halve, core and dice the peppers"
+        }
+    ]
+}

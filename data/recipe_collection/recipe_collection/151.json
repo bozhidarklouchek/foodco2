@@ -1,0 +1,169 @@
+{
+    "url": "https://www.simplyrecipes.com/recipes/homemade_pepperoni_pizza/",
+    "title": "Homemade Pepperoni Pizza",
+    "total_CO2": 42.38229693265015,
+    "servings": 1,
+    "CO2_per_portion": 42.38229693265015,
+    "E.Mission coefficient": 7.933440952019141,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1/2 cup pizza sauce (see below)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "pizza sauce",
+            "matched_ingredient": "Soy Sauce",
+            "kg_equivalent": 0.11829411825,
+            "carbon_per_kg": 0.914,
+            "ingredient_carbon": 0.1081208240805
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "18-20 slices pepperoni",
+            "amount": "19.0",
+            "ingredient_name": "pepperoni",
+            "matched_ingredient": "Pepperoni",
+            "kg_equivalent": 4.769,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 34.727858
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "12 ounces mozzarella cheese, grated",
+            "amount": "12.0",
+            "unit": "ounces",
+            "ingredient_name": "mozzarella cheese",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.3401942775,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 7.225726454099999
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 teaspoon ground black pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 teaspoon fresh oregano, optional",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "fresh oregano",
+            "matched_ingredient": "Oregano",
+            "kg_equivalent": 0.0029,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.0012672999999999999
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1/2 cup tomato sauce (no salt)",
+            "amount": "0.5",
+            "unit": "cup",
+            "ingredient_name": "tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1/2 teaspoon kosher salt",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "kosher salt",
+            "matched_ingredient": "Salt",
+            "kg_equivalent": 0.0054,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0654696
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1/2 teaspoon ground black pepper",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "black pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0175798
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1/2 teaspoon granulated garlic",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "granulated garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.0025,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0009875
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "1/2 teaspoon granulated onion",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "granulated onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.00055,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.00021725000000000002
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "1/4 teaspoon red pepper flakes",
+            "amount": "0.25",
+            "unit": "teaspoon",
+            "ingredient_name": "red pepper flakes",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.0006374999999999999,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00029006249999999996
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "1 teaspoon olive oil",
+            "amount": "1.0",
+            "unit": "teaspoon",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.004575,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.0271938
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "1/4 cup softened butter",
+            "amount": "0.25",
+            "unit": "cup",
+            "ingredient_name": "softened butter",
+            "matched_ingredient": "Butter",
+            "kg_equivalent": 0.053882970862875,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.14984854196965539
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "2 tablespoons honey",
+            "amount": "2.0",
+            "unit": "tablespoons",
+            "ingredient_name": "honey",
+            "matched_ingredient": "Honey",
+            "kg_equivalent": 0.0414,
+            "carbon_per_kg": 0.97,
+            "ingredient_carbon": 0.040158
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "If you are using a pizza stone, preheat it in the oven for at least 20 minutes so it is nice and hot as well."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/classic-lasagne-0",
+    "title": "Classic lasagne",
+    "total_CO2": 213.00637600000002,
+    "servings": 6,
+    "CO2_per_portion": 35.50106266666667,
+    "E.Mission coefficient": 8.788479432272974,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "2 olive oil, plus extra for the dish",
+            "amount": "2.0",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.028,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.166432
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "750 g lean beef mince",
+            "amount": "750.0",
+            "unit": "g",
+            "ingredient_name": "lean beef mince",
+            "matched_ingredient": "Beef",
+            "kg_equivalent": 0.75,
+            "carbon_per_kg": 59.57,
+            "ingredient_carbon": 44.6775
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "90 g pack prosciutto",
+            "amount": "90.0",
+            "unit": "pack",
+            "ingredient_name": "prosciutto",
+            "matched_ingredient": "Pepperoni",
+            "kg_equivalent": 22.59,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 164.50038
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "800 g passata or half our basic tomato sauce",
+            "amount": "400.0",
+            "ingredient_name": "passata",
+            "matched_ingredient": "Passata",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "800 g passata or half our basic tomato sauce",
+            "amount": "400.0",
+            "ingredient_name": "tomato sauce",
+            "matched_ingredient": "Tomato sauce",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "200 ml hot beef stock",
+            "amount": "200.0",
+            "unit": "ml",
+            "ingredient_name": "hot beef stock",
+            "matched_ingredient": "Beef stock",
+            "kg_equivalent": 0.2,
+            "carbon_per_kg": 1.05,
+            "ingredient_carbon": 0.21000000000000002
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "nutmeg",
+            "amount": "1.0",
+            "ingredient_name": "nutmeg",
+            "matched_ingredient": "Nutmeg",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "300 g fresh lasagne sheets",
+            "amount": "300.0",
+            "unit": "g",
+            "ingredient_name": "lasagne",
+            "matched_ingredient": "Spring onion",
+            "kg_equivalent": 0.3,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.1185
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "white sauce (find a recipe in the method, or use shop-bought)",
+            "amount": "1.0",
+            "ingredient_name": "white sauce",
+            "matched_ingredient": "Milk",
+            "kg_equivalent": 0.244,
+            "carbon_per_kg": 2.781,
+            "ingredient_carbon": 0.6785640000000001
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "125 g ball mozzarella, torn into thin strips",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "mozzarella",
+            "matched_ingredient": "Mozzarella",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 2.655
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "To make the meat sauce, heat 2 tbsp olive oil in a frying pan and cook 750g lean beef mince in two batches for about 10 mins until browned all over."
+        },
+        {
+            "number": 2,
+            "instruction": "Finely chop 4 slices of prosciutto from a 90g pack, then stir through the meat mixture."
+        },
+        {
+            "number": 3,
+            "instruction": "Pour over 800g passata or half our basic tomato sauce recipe and 200ml hot beef stock."
+        },
+        {
+            "number": 4,
+            "instruction": "Add a little grated nutmeg, then season."
+        },
+        {
+            "number": 5,
+            "instruction": "Bring up to the boil, then simmer for 30 mins until the sauce looks rich."
+        },
+        {
+            "number": 6,
+            "instruction": "Heat the oven to 180C/160C fan/gas 4 and lightly oil an ovenproof dish (about 30 x 20cm)."
+        },
+        {
+            "number": 7,
+            "instruction": "Spoon one third of the meat sauce into the dish, then cover with some fresh lasagne sheets from a 300g pack."
+        },
+        {
+            "number": 8,
+            "instruction": "Drizzle over roughly 130g ready-made or homemade white sauce."
+        },
+        {
+            "number": 9,
+            "instruction": "Repeat until you have three layers of pasta. Cover with the remaining 390g white sauce, making sure you can’t see any pasta poking through."
+        },
+        {
+            "number": 10,
+            "instruction": "Scatter 125g torn mozzarella over the top."
+        },
+        {
+            "number": 11,
+            "instruction": "Arrange the rest of the prosciutto on top."
+        },
+        {
+            "number": 12,
+            "instruction": "Bake for 45 mins until the top is bubbling and lightly browned."
+        }
+    ]
+}

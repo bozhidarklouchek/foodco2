@@ -1,0 +1,111 @@
+{
+    "url": "https://www.theguardian.com/food/2020/sep/14/rachel-roddy-mushroom-risotto-recipe",
+    "title": "Rachel Roddy's for mushroom risotto",
+    "total_CO2": 0.02366,
+    "servings": 100,
+    "CO2_per_portion": 0.0002366,
+    "E.Mission coefficient": 0.45500000000000007,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "Rachel Roddy's recipe for mushroom risotto | Food | The Guardian",
+            "amount": "1.0",
+            "ingredient_name": "mushroom risotto",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "View all Lifestyle",
+            "amount": "1.0",
+            "ingredient_name": "Lifestyle",
+            "matched_ingredient": "Monterey Jack",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 21.24,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "Autumnal fare: Rachel Roddy’s mushroom risotto. Photograph: Rachel Roddy/The Guardian",
+            "amount": "1.0",
+            "ingredient_name": "mushroom risotto",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "Autumnal fare: Rachel Roddy’s mushroom risotto. Photograph: Rachel Roddy/The Guardian",
+            "amount": "1.0",
+            "ingredient_name": "mushroom risotto",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "Rachel Roddy's recipe for mushroom risotto",
+            "amount": "1.0",
+            "ingredient_name": "mushroom risotto",
+            "matched_ingredient": "Mushroom",
+            "kg_equivalent": 0.013,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.005915
+        },
+        {
+            "ingredient_number": 71,
+            "original_string": "Recipes",
+            "amount": "1.0",
+            "ingredient_name": "Recipes",
+            "matched_ingredient": "Cho Cho",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 72,
+            "original_string": "Love & sex",
+            "amount": "1.0",
+            "ingredient_name": "sex",
+            "matched_ingredient": "Cluster bean",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 93,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 109,
+            "original_string": "About Us",
+            "amount": "1.0",
+            "ingredient_name": "us",
+            "matched_ingredient": "Pearl barley",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 110,
+            "original_string": "Like clockwork, the rains come to wash summer into autumn, and a seasonal risotto noses its way on to the menu",
+            "amount": "1.0",
+            "ingredient_name": "seasonal risotto",
+            "matched_ingredient": "Risotto rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": []
+}

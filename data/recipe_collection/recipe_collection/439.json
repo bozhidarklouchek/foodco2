@@ -1,0 +1,150 @@
+{
+    "url": "https://www.bbcgoodfood.com/recipes/slow-cooker-lamb-curry",
+    "title": "Slow cooker lamb curry",
+    "total_CO2": 1.9450528,
+    "servings": 2,
+    "CO2_per_portion": 0.9725264,
+    "E.Mission coefficient": 1.9859636512150298,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "1 large onion,halved and sliced",
+            "amount": "1.0",
+            "unit": "large",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "3 tbsp Madras curry paste",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "Madras curry paste",
+            "matched_ingredient": "Curry paste",
+            "kg_equivalent": 0.045,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.020475
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "400 g can chopped tomatoes",
+            "amount": "400.0",
+            "unit": "g",
+            "ingredient_name": "chopped tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.4,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.5708000000000001
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "2 tsp vegetable bouillon powder",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "vegetable bouillon powder",
+            "matched_ingredient": "Vegetable stock cube",
+            "kg_equivalent": 0.02,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0079
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "25 g red lentils",
+            "amount": "25.0",
+            "unit": "g",
+            "ingredient_name": "red lentils",
+            "matched_ingredient": "Lentil",
+            "kg_equivalent": 0.025,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.04025000000000001
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "210 g can chickpeas(don’t drain)",
+            "amount": "210.0",
+            "unit": "g",
+            "ingredient_name": "chickpeas",
+            "matched_ingredient": "Chickpea",
+            "kg_equivalent": 0.21,
+            "carbon_per_kg": 1.61,
+            "ingredient_carbon": 0.3381
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 tbsp grated ginger",
+            "amount": "1.0",
+            "unit": "tbsp",
+            "ingredient_name": "grated ginger",
+            "matched_ingredient": "Ginger",
+            "kg_equivalent": 0.015,
+            "carbon_per_kg": 0.365,
+            "ingredient_carbon": 0.005475
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "1 tsp cumin seeds",
+            "amount": "1.0",
+            "unit": "tsp",
+            "ingredient_name": "cumin seeds",
+            "matched_ingredient": "Cumin",
+            "kg_equivalent": 0.0032,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.038796800000000006
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 cinnamon stick",
+            "amount": "1.0",
+            "unit": "stick",
+            "ingredient_name": "cinnamon",
+            "matched_ingredient": "Cinnamon",
+            "kg_equivalent": 0.004200000000000001,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0019110000000000004
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "75 g curly kale",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "curly kale",
+            "matched_ingredient": "Kale",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.032775
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "2 lean lamb steaks,fat removed, diced (about 240g)",
+            "amount": "2.0",
+            "ingredient_name": "lean lamb steaks",
+            "matched_ingredient": "Lamb",
+            "kg_equivalent": 0.034,
+            "carbon_per_kg": 24.415,
+            "ingredient_carbon": 0.83011
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "cooked brown rice,to serve",
+            "amount": "1.0",
+            "ingredient_name": "brown rice",
+            "matched_ingredient": "Brown rice",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.0
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "STEP 1Put all of the ingredients into the slow cooker pot with a third of a can of water and stir well. Cover with the lid and chill in the fridge overnight.STEP 2The next day, stir again, then cook on Low for 6 hrs until the lamb and vegetables are tender."
+        },
+        {
+            "number": 2,
+            "instruction": "Serve with brown rice."
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "url": "https://www.parentclub.scot/recipe/sausage-and-mash-onion-gravy-and-peas",
+    "title": "Sausage and Mash with Onion Gravy and Peas",
+    "total_CO2": 1.5857867,
+    "servings": 4,
+    "CO2_per_portion": 0.396446675,
+    "E.Mission coefficient": 0.536068998747662,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "8 (400g) Pork Sausages (choose reduced fat whenever possible)",
+            "amount": "8.0",
+            "ingredient_name": "Pork Sausages",
+            "matched_ingredient": "Quorn sausage",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 2.555,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "2 Medium (300g) Onions",
+            "amount": "2.0",
+            "unit": "medium",
+            "ingredient_name": "Onions",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.296,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.11692
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1/2 Teaspoon (1g) Dried Mixed Herbs",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "Dried Mixed Herbs",
+            "matched_ingredient": "Mixed herbs",
+            "kg_equivalent": 0.00145,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.00065975
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "1/2 Teaspoon (4g) Mustard",
+            "amount": "0.5",
+            "unit": "teaspoon",
+            "ingredient_name": "Mustard",
+            "matched_ingredient": "Mustard",
+            "kg_equivalent": 0.0006500000000000001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.00028405000000000005
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "1 (7g) Vegetable Stock Cube (use reduced salt whenever possible)",
+            "amount": "1.0",
+            "ingredient_name": "Vegetable Stock",
+            "matched_ingredient": "Vegetable stock",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 0.02,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "1 Pint (600ml) Boiling Water",
+            "amount": "1.0",
+            "unit": "Pint",
+            "ingredient_name": "Boiling Water",
+            "matched_ingredient": "Water",
+            "kg_equivalent": 0.473176473,
+            "carbon_per_kg": 0.0,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 Pinch Black Pepper to taste",
+            "amount": "1.0",
+            "unit": "Pinch",
+            "ingredient_name": "Black Pepper",
+            "matched_ingredient": "Black Pepper",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "2 Level Teaspoons (14g) Plain Flour",
+            "amount": "2.0",
+            "unit": "teaspoons",
+            "ingredient_name": "Plain Flour",
+            "matched_ingredient": "Flour",
+            "kg_equivalent": 0.0064,
+            "carbon_per_kg": 1.441,
+            "ingredient_carbon": 0.0092224
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "12 Medium (1kg) Potatoes",
+            "amount": "12.0",
+            "unit": "medium",
+            "ingredient_name": "Potatoes",
+            "matched_ingredient": "Potato",
+            "kg_equivalent": 2.04,
+            "carbon_per_kg": 0.37,
+            "ingredient_carbon": 0.7548
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "5 Teaspoons (25g) Low Fat Spread",
+            "amount": "5.0",
+            "unit": "Teaspoons",
+            "ingredient_name": "spread",
+            "matched_ingredient": "Chocolate Spread",
+            "kg_equivalent": 0.0325,
+            "carbon_per_kg": 18.681,
+            "ingredient_carbon": 0.6071325000000001
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "10 Tablespoons (300g) Frozen Green Peas",
+            "amount": "10.0",
+            "unit": "Tablespoons",
+            "ingredient_name": "Frozen Green Peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.108,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.096768
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Heat the frying pan on a medium heat."
+        },
+        {
+            "number": 2,
+            "instruction": "Add the sausages to the pan and fry for 10 minutes, turning occasionally so they don't stick."
+        },
+        {
+            "number": 3,
+            "instruction": "Peel and slice the onions and add to the pan once the sausages are golden brown on all sides."
+        },
+        {
+            "number": 4,
+            "instruction": "Crumble the stock cube into the boiling water and add the dried herbs and mustard."
+        },
+        {
+            "number": 5,
+            "instruction": "Mix well."
+        },
+        {
+            "number": 6,
+            "instruction": "Add the stock to the pan, leaving a small amount of stock to mix with the flour."
+        },
+        {
+            "number": 7,
+            "instruction": "Mix the flour and stock into a paste."
+        },
+        {
+            "number": 8,
+            "instruction": "Bring the stock to the boil and simmer gently for 2-3 minutes."
+        },
+        {
+            "number": 9,
+            "instruction": "Add the paste and stir with a fork or whisk until the gravy has thickened."
+        },
+        {
+            "number": 10,
+            "instruction": "Add black pepper to taste."
+        }
+    ]
+}

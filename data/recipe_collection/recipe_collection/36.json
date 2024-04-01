@@ -1,0 +1,223 @@
+{
+    "url": "https://realfood.tesco.com/recipes/paella.html",
+    "title": "Easy Spanish paella",
+    "total_CO2": 9.083915199999998,
+    "servings": 6,
+    "CO2_per_portion": 1.5139858666666663,
+    "E.Mission coefficient": 4.176560742077495,
+    "ingredients": [
+        {
+            "ingredient_number": 1,
+            "original_string": "large pinch saffron strands",
+            "amount": "1.0",
+            "unit": "pinch",
+            "ingredient_name": "saffron strands",
+            "matched_ingredient": "Saffron",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 12.124,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 2,
+            "original_string": "1 vegetable or chicken stock cube, made up to 600ml",
+            "amount": "0.5",
+            "ingredient_name": "vegetable",
+            "matched_ingredient": "Vegetable",
+            "kg_equivalent": 0.085,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.038675
+        },
+        {
+            "ingredient_number": 3,
+            "original_string": "1 vegetable or chicken stock cube, made up to 600ml",
+            "amount": "0.5",
+            "ingredient_name": "chicken stock cube",
+            "matched_ingredient": "Chicken stock cube",
+            "kg_equivalent": 0.0,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 0.0
+        },
+        {
+            "ingredient_number": 4,
+            "original_string": "3 tbsp olive oil, plus extra for drizzling",
+            "amount": "3.0",
+            "unit": "tbsp",
+            "ingredient_name": "olive oil",
+            "matched_ingredient": "Olive oil",
+            "kg_equivalent": 0.041175,
+            "carbon_per_kg": 5.944,
+            "ingredient_carbon": 0.24474420000000002
+        },
+        {
+            "ingredient_number": 5,
+            "original_string": "125 g chorizo, roughly chopped",
+            "amount": "125.0",
+            "unit": "g",
+            "ingredient_name": "chorizo",
+            "matched_ingredient": "Chorizo",
+            "kg_equivalent": 0.125,
+            "carbon_per_kg": 7.282,
+            "ingredient_carbon": 0.91025
+        },
+        {
+            "ingredient_number": 6,
+            "original_string": "500 g boneless, skinless chicken breasts or thighs (or a mix), chopped",
+            "amount": "500.0",
+            "unit": "g",
+            "ingredient_name": "chicken breasts",
+            "matched_ingredient": "Chicken",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 6.092,
+            "ingredient_carbon": 3.046
+        },
+        {
+            "ingredient_number": 7,
+            "original_string": "1 onion, finely chopped",
+            "amount": "1.0",
+            "ingredient_name": "onion",
+            "matched_ingredient": "Onion",
+            "kg_equivalent": 0.148,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.05846
+        },
+        {
+            "ingredient_number": 8,
+            "original_string": "3 garlic cloves, finely chopped",
+            "amount": "3.0",
+            "unit": "cloves",
+            "ingredient_name": "garlic",
+            "matched_ingredient": "Garlic",
+            "kg_equivalent": 0.009000000000000001,
+            "carbon_per_kg": 0.395,
+            "ingredient_carbon": 0.0035550000000000004
+        },
+        {
+            "ingredient_number": 9,
+            "original_string": "1 red pepper, deseeded and chopped",
+            "amount": "1.0",
+            "ingredient_name": "red pepper",
+            "matched_ingredient": "Pepper",
+            "kg_equivalent": 0.12,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.0546
+        },
+        {
+            "ingredient_number": 10,
+            "original_string": "2 tsp paprika",
+            "amount": "2.0",
+            "unit": "tsp",
+            "ingredient_name": "paprika",
+            "matched_ingredient": "Paprika",
+            "kg_equivalent": 0.0058,
+            "carbon_per_kg": 0.455,
+            "ingredient_carbon": 0.002639
+        },
+        {
+            "ingredient_number": 11,
+            "original_string": "250 g Spanish paella rice",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "Spanish paella rice",
+            "matched_ingredient": "Paella rice",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 3.839,
+            "ingredient_carbon": 0.95975
+        },
+        {
+            "ingredient_number": 12,
+            "original_string": "4 medium tomatoes, roughly chopped",
+            "amount": "4.0",
+            "unit": "medium",
+            "ingredient_name": "tomatoes",
+            "matched_ingredient": "Tomato",
+            "kg_equivalent": 0.5,
+            "carbon_per_kg": 1.427,
+            "ingredient_carbon": 0.7135
+        },
+        {
+            "ingredient_number": 13,
+            "original_string": "75 g frozen peas",
+            "amount": "75.0",
+            "unit": "g",
+            "ingredient_name": "frozen peas",
+            "matched_ingredient": "Pea",
+            "kg_equivalent": 0.075,
+            "carbon_per_kg": 0.896,
+            "ingredient_carbon": 0.0672
+        },
+        {
+            "ingredient_number": 14,
+            "original_string": "250 g cooked prawns with shells on (thawed if frozen) and rinsed",
+            "amount": "250.0",
+            "unit": "g",
+            "ingredient_name": "cooked prawns",
+            "matched_ingredient": "Prawn",
+            "kg_equivalent": 0.25,
+            "carbon_per_kg": 11.854,
+            "ingredient_carbon": 2.9635
+        },
+        {
+            "ingredient_number": 15,
+            "original_string": "small handful flat-leaf parsley, chopped, to serve",
+            "amount": "1.0",
+            "unit": "handful",
+            "ingredient_name": "flat-leaf parsley",
+            "matched_ingredient": "Parsley",
+            "kg_equivalent": 0.001,
+            "carbon_per_kg": 0.437,
+            "ingredient_carbon": 0.000437
+        },
+        {
+            "ingredient_number": 16,
+            "original_string": "chopped lemon wedges, to serve",
+            "amount": "1.0",
+            "ingredient_name": "chopped lemon wedges",
+            "matched_ingredient": "Lemon",
+            "kg_equivalent": 0.065,
+            "carbon_per_kg": 0.317,
+            "ingredient_carbon": 0.020605000000000002
+        }
+    ],
+    "instructions": [
+        {
+            "number": 1,
+            "instruction": "Stir the saffron strands into the stock and set aside to infuse while you prepare the rest of the paella."
+        },
+        {
+            "number": 2,
+            "instruction": "Heat 1 tbsp oil in a paella pan or a large deep frying pan with a lid. Tip in the chorizo and fry for about 3 mins until crisp and the oil has been released."
+        },
+        {
+            "number": 3,
+            "instruction": "Remove the chorizo and drain on kitchen paper, leaving the oil in the pan."
+        },
+        {
+            "number": 4,
+            "instruction": "Stir the chicken into the pan and fry over a high heat for 7-8 mins, or until the meat is golden and cooked through."
+        },
+        {
+            "number": 5,
+            "instruction": "Transfer the chicken to a bowl and set aside."
+        },
+        {
+            "number": 6,
+            "instruction": "Pour another 1 tbsp of oil into the pan, tip in the chopped onion and garlic and stir-fry for 4-5 mins, until softened and just starting to colour. Stir in the pepper and paprika with the remaining tablespoon of oil and stir-fry for a further 1-2 mins. The pan should have lots of crispy, brown bits on the bottom, which will all add flavour."
+        },
+        {
+            "number": 7,
+            "instruction": "With the heat still quite high, quickly stir in the rice so it is well-coated in the oil, then pour in the saffron-infused stock plus 450ml boiling water, scraping up the sticky brown bits from the bottom of the pan with a wooden spoon."
+        },
+        {
+            "number": 8,
+            "instruction": "Return the browned chicken pieces to the pan, then add the chopped tomatoes. Cover the pan and cook on a medium heat for 10 mins, stirring once or twice. Scatter the peas, prawns and fried chorizo over the top, cover again and leave to cook a further 5-10 mins, or until the rice is just cooked and most of the liquid in the pan has been absorbed."
+        },
+        {
+            "number": 9,
+            "instruction": "Remove the pan from the heat, put the lid on and leave to rest for 5 mins. Stir a few times to mix the ingredients, season to taste and scatter over the chopped parsley."
+        },
+        {
+            "number": 10,
+            "instruction": "Serve with lemon wedges and an extra drizzle of oil, if you like."
+        }
+    ]
+}
